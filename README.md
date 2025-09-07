@@ -57,7 +57,7 @@
 
 A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
 
-**URL del Repositorio del Informe:** https://github.com/1ASI0729-7401-2520-EcatLeasing-PcPedia
+**URL del Repositorio del Informe:** https://github.com/Aplicaciones-Web-CodeForge/Report
 
 **Entrega N°1: TB1**
 <br>
@@ -224,22 +224,25 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ### 1.1.1 Descripción de la Startup
 
-**Misión**:
+Nuestra startup es una aplicación web de gestión de inventarios diseñada para pequeñas y medianas empresas del sector gastronómico, con un enfoque inicial en restobares y restaurantes. La solución permite controlar en tiempo real el stock de productos e insumos, generar alertas automáticas cuando los niveles bajan, gestionar proveedores y recetas, y crear reportes detallados que facilitan la toma de decisiones.
 
-**Visión**:
+El sistema es accesible desde cualquier dispositivo con conexión a internet, lo que ofrece flexibilidad y disponibilidad en todo momento. Además, integra roles de usuario y medidas de seguridad que garantizan un uso confiable y seguro.
+
+La propuesta de valor de la startup radica en ofrecer una herramienta simple, intuitiva y personalizada que ayuda a reducir pérdidas económicas, optimizar procesos y mejorar la rentabilidad de los negocios.
+
+**Misión**: Brindar a pequeñas y medianas empresas un sistema de gestión de inventario eficiente, accesible y seguro que optimice el control de productos, insumos y proveedores, facilitando la toma de decisiones en tiempo real.
+
+**Visión**: Convertirse en la aplicación de referencia para la gestión de inventarios en el sector gastronómico y de servicios, reconocida por su confiabilidad, usabilidad y capacidad de adaptación a las necesidades del cliente.
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-<table>
-    <tr>
-        <th colspan="3"> "codigo"</th>
-        <th colspan="10"> "nombre"</th>
-    <tr>
-        <td colspan="3"> "foto"</td>
-        <td colspan="10">"Descripcion"</td>
-    </tr>
-
-</table>
+|                                                                                                                                                                                                | Apellido y Nombre                               | Carrera                | Acerca de                                                                                                                                                                                                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                | Retuerto Rodríguez, Jorge Manuel - u202318612   |                        |                                                                                                                                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                | Hernández Poma, Sebastián Eduardo - u20231c996  |                        |
+| <img src="https://raw.githubusercontent.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Report/refs/heads/main/assets/images/Chapter-01/AlessandroCondori.jpg" alt="Mi foto" width="120" height="120"> | Condori Lozano, Alessandro Ramiro - u20211a118  | Ingeniería de Software | Tengo 21 años, actualmente me encuentro matriculado en la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo un nivel intermedio de habilidades en programación, con conocimientos adicionales en desarrollo web. Me considero una persona competitiva, responsable y que sabe trabajar en equipo. |
+| ![Perfil_Armestar_Heredia.jpeg](assets/chapter1/Perfil_Armestar_Heredia.jpeg)                                                                                                                  | Armestar Heredia, Matias Gabriel - u20221A553   | Ingeniería de Software | Estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero un estudiante capaz de aportar significativamente a un equipo.                                                                                                                                                                                            |
+|                                                                                                                                                                                                | Bendezu Navarro, Rubens Fitzgerald - u20231d390 |                        |                                                                                                                                                                                                                                                                                                                                          |
 
 ## 1.2 Solution Profile
 
@@ -247,97 +250,164 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 Para realizar los antecedentes y problemáticas, se realizó con anticipación la técnica 5 ‘W’s & 2 ‘H’s:
 
-**What**:
+**What**: Empresas como restaurantes o restobares suelen enfrentar pérdidas económicas por falta de control en sus inventarios y consumo de insumos.
 
-**When**:
+**When**: Actualmente, en un mercado competitivo que exige eficiencia operativa y reducción de costos.
 
-**Where**:
+**Where**: Principalmente en el sector gastronómico, con énfasis en negocios como el restobar Bolivarcito (Lima, Perú).
 
-**Who**:
+**Who**: Propietarios, administradores y trabajadores que requieren información precisa para gestionar compras, ventas y stock.
 
-**Why**:
+**Why**: El control manual del inventario genera errores, desperdicio de recursos y retrasos en la toma de decisiones.
 
-**How**:
+**How**: Mediante un sistema web que centraliza la información de stock, proveedores, recetas y alertas de inventario en tiempo real.
 
-**How much**:
+**How much**: El costo de un sistema ineficiente puede traducirse en pérdidas de ingresos, sobrecostos por compras innecesarias y reducción de la rentabilidad del negocio.
 
 _Estadística de la problemática_
+
+Según reportes del sector gastronómico, la falta de control en inventarios puede generar pérdidas de hasta un 20% en insumos y ventas por errores humanos y falta de trazabilidad.
 
 ### 1.2.2 Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-**Problem Statement 1:**
+**Problem Statement 1:** Los propietarios y administradores no tienen visibilidad en tiempo real del stock, lo que ocasiona quiebres de inventario o exceso de compras.
 
-**Problem Statement 2:**
+**Problem Statement 2:** La gestión manual de insumos y recetas consume tiempo y genera errores, afectando la rentabilidad y la calidad del servicio.
 
 #### 1.2.2.2. Lean UX Assumptions
 
 **Business Outcomes:**
 
-- **Creemos que mis usuarios necesitan**
+- **Creemos que mis usuarios necesitan** un sistema ágil que les permita controlar inventarios y proveedores.
 
-- **Estas necesidades se pueden resolver**
+- **Estas necesidades se pueden resolver** mediante un software web accesible desde cualquier dispositivo.
 
-- **Nuestros clientes iniciales son**
+- **Nuestros clientes iniciales son** negocios gastronómicos como restobares, cafés y restaurantes pequeños.
 
-- **El valor #1 que un cliente requiere de nuestro servicio es**
+- **El valor #1 que un cliente requiere de nuestro servicio es** la precisión en la gestión del inventario.
 
-- **El cliente también puede obtener estos beneficios adicionales**
+- **El cliente también puede obtener estos beneficios adicionales** reportes detallados, reducción de pérdidas y mayor eficiencia operativa.
 
-- **Adquiriremos a nuestros clientes a través del**
+- **Adquiriremos a nuestros clientes a través del** marketing digital y referencias en el sector gastronómico.
 
-- **Haremos dinero a través de**
+- **Haremos dinero a través de** la venta del sistema y el cobro por soporte/mantenimiento.
 
-- **Nuestra competencia de mercado serán**
+- **Nuestra competencia de mercado serán** otros sistemas de inventario genéricos.
 
-- **Los venceremos debido a que**
+- **Los venceremos debido a que** ofrecemos una solución personalizada para el sector gastronómico.
 
-- **Nuestros mayores riesgos son**
+- **Nuestros mayores riesgos son** la falta de adopción tecnológica y la resistencia al cambio.
 
-- **Resolveremos esto mediante**
+- **Resolveremos esto mediante** capacitación y soporte cercano al cliente.
 
-- **Sabremos que hemos tenido éxito cuando uno de estos cambios en el comportamiento de nuestro cliente:**
+- **Sabremos que hemos tenido éxito cuando uno de estos cambios en el comportamiento de nuestro cliente:** Use el sistema diariamente y reduzca pérdidas en insumos.
 
-- **Qué otras suposiciones tenemos que, de probarse falsas pueden causar que nuestro proyecto fracase:**
+- **Qué otras suposiciones tenemos que, de probarse falsas pueden causar que nuestro proyecto fracase:** Que los negocios no consideren prioritario invertir en tecnología de gestión.
 
 **User Outcomes**
 
 **¿Quiénes serán nuestros usuarios?**
 
+Propietarios, administradores y personal de cocina/bar.
+
 **¿Dónde encaja nuestro producto en su vida o trabajo?**
+
+En la gestión diaria de compras, ventas y control de stock.
 
 **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
 
 **Problemas:**
 
+- Problema de sobrecosto y desorganizacion.
+- Falta de control en stock.
+- Retrasos en pedidos.
+- Pérdidas económicas.
+
 **Soluciones:**
+
+- Se resuelve con reportes, alertas y automatización de inventario.
+- Sistema web accesible.
+- Notificaciones automáticas.
+- Gestión de recetas y proveedores.
 
 **¿Cómo y cuándo es usado nuestro producto?**
 
+En el ciclo operativo diario de las empresas: al adquirir nuevos equipos, al renovar tecnología obsoleta, y en la gestión continua de TI (mantenimiento, soporte, garantías).
+
 **¿Qué características son importantes?**
+
+- Flexibilidad en planes de arrendamiento.
+- Gestión centralizada de soporte y garantías.
+- Reportes de costos y eficiencia tecnológica.
+- Equipos actualizados según necesidad real.
 
 **¿Cómo debe verse y comportarse nuestro producto?**
 
+Todos los días durante la apertura, operación y cierre del negocio.
+
 **Features**
+
+- Gestión de stock.
+- Alertas automáticas de inventario bajo.
+- Creación de recetas.
+- Gestión de proveedores.
+- Roles y permisos de usuarios.
+- Generación de reportes (PDF/Excel).
+
+**_Desde la cuenta de la empresa cliente:_**
+
+- Las empresas deben tener acceso a un panel donde visualicen todos los equipos arrendados, organizados por área o departamento. Esto les permitirá un control ordenado y evitar pérdidas o duplicidades.
+
+- Un historial de mantenimiento y soporte estará disponible para cada equipo, lo que garantiza transparencia en las intervenciones técnicas y ayuda a tomar decisiones futuras.
+
+- Contarán con un sistema de alertas automáticas para notificar cuándo un equipo está próximo a su renovación o si requiere atención especial, evitando interrupciones en su productividad.
+
+- El cliente podrá solicitar upgrades de hardware de forma ágil desde su cuenta, ajustando los recursos a sus necesidades reales en tiempo casi inmediato.
+
+- Un dashboard de costos consolidado permitirá analizar el gasto mensual en TI y medir el ahorro frente a un modelo tradicional de compra.
+
+**_Desde la cuenta de administración de PcPedia:_**
+
+- Los administradores tendrán un sistema centralizado para monitorear en tiempo real todos los equipos en uso por los clientes, junto con su estado de garantía y mantenimientos programados.
+
+- Contarán con herramientas de análisis predictivo para recomendar a cada cliente los equipos más rentables según su patrón de uso.
+
+- Se dispondrá de un módulo para gestionar contratos y facturación de manera automatizada, evitando errores manuales.
+
+- La plataforma permitirá registrar casos de soporte y asignar técnicos rápidamente, reduciendo los tiempos de respuesta.
+
+- Un repositorio de métricas de clientes servirá para identificar patrones, generar reportes y mejorar continuamente el servicio de Smart Leasing.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- **Creemos que**
+- **Creemos que** los administradores podrán optimizar el inventario con el sistema.
 
-  **Sabremos que**
+  **Sabremos que** cuando reduzcan en al menos un 15% los quiebres de stock.
 
-- **Creemos que**
+- **Creemos que** los reportes ayudarán a tomar mejores decisiones de compra.
 
-  **Sabremos que**
+  **Sabremos que** cuando se observe una reducción en los costos operativos mensuales.
 
-- **Creemos que**
+- **Creemos que** el sistema será adoptado por el personal de forma natural.
 
-  **Sabremos que**
+  **Sabremos que** cuando registren transacciones diarias sin intervención del administrador.
 
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo
+
+Nuestros segmentos objetivos son principalmente:
+
+1. **Restobares y Restaurantes (pequeños y medianos)**
+   Negocios gastronómicos que necesitan un control preciso de insumos y productos para garantizar la calidad de su servicio y evitar pérdidas económicas. Estos establecimientos requieren digitalizar sus procesos de inventario para optimizar compras, reducir desperdicios y mejorar su rentabilidad.
+
+2. **Cafeterías y Bares**
+   Establecimientos que trabajan con insumos perecibles y productos de alta rotación, donde la falta de control puede impactar directamente en las ventas diarias. La aplicación permite automatizar pedidos, gestionar recetas y mantener un control constante del stock.
+
+3. **Emprendimientos Gastronómicos**
+   Nuevos negocios del sector alimenticio que buscan una herramienta accesible y escalable para iniciar sus operaciones con orden y eficiencia. La solución ayuda a los emprendedores a evitar errores comunes en la gestión manual de inventarios y a enfocarse en el crecimiento de su negocio.
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
