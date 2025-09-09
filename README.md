@@ -266,15 +266,25 @@ Restaurantes y restobares experimentan pérdidas económicas recurrentes debido 
 
 Esta problemática se observa actualmente con mayor frecuencia, dado que el mercado gastronómico exige altos niveles de eficiencia para responder a un entorno competitivo en el cual los consumidores demandan calidad, precios justos y continuidad en el servicio.
 
-**Where**: Principalmente en el sector gastronómico, con énfasis en negocios como el restobar Bolivarcito (Lima, Perú).
+**Where**:
 
-**Who**: Propietarios, administradores y trabajadores que requieren información precisa para gestionar compras, ventas y stock.
+El problema es común en múltiples geografías, pero cobra especial relevancia en el Perú, país reconocido por su diversidad gastronómica y la proliferación de negocios dedicados a la restauración. Dentro de este marco, se enfatiza el caso del restobar Bolivarcito, ubicado en Lima, como ejemplo representativo.
 
-**Why**: El control manual del inventario genera errores, desperdicio de recursos y retrasos en la toma de decisiones.
+**Who**:
 
-**How**: Mediante un sistema web que centraliza la información de stock, proveedores, recetas y alertas de inventario en tiempo real.
+Los principales afectados son los propietarios, administradores y trabajadores de restaurantes, quienes dependen de información precisa para tomar decisiones relacionadas con compras, ventas, producción y control de stock.
 
-**How much**: El costo de un sistema ineficiente puede traducirse en pérdidas de ingresos, sobrecostos por compras innecesarias y reducción de la rentabilidad del negocio.
+**Why**:
+
+El uso de métodos manuales o herramientas no especializadas genera errores frecuentes, tales como duplicación de registros, pérdida de datos o retrasos en la disponibilidad de información, lo que repercute negativamente en la productividad.
+
+**How**:
+
+La solución radica en implementar un sistema web centralizado que permita gestionar inventarios en tiempo real, integrar a proveedores y recetas, y emitir alertas automáticas para anticiparse a faltantes o excesos.
+
+**How much**:
+
+Los costos de un sistema ineficiente son altos. Estudios en el sector señalan que las pérdidas por mala gestión de inventario pueden alcanzar entre el 10 % y 15 % de los ingresos, lo que impacta directamente en la rentabilidad (Universidad Le Cordon Bleu, 2022).
 
 _Estadística de la problemática_
 
