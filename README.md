@@ -224,11 +224,13 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ### 1.1.1 Descripción de la Startup
 
-Nuestra startup es una aplicación web de gestión de inventarios diseñada para pequeñas y medianas empresas del sector gastronómico, con un enfoque inicial en restobares y restaurantes. La solución permite controlar en tiempo real el stock de productos e insumos, generar alertas automáticas cuando los niveles bajan, gestionar proveedores y recetas, y crear reportes detallados que facilitan la toma de decisiones.
+En un entorno económico cada vez más competitivo, donde la eficiencia operativa se ha convertido en un factor determinante para la supervivencia y el crecimiento de las empresas, surge la necesidad de soluciones tecnológicas que optimicen procesos y reduzcan costos. Nuestra startup se presenta como respuesta a esta demanda, ofreciendo una aplicación web de gestión de inventarios específicamente diseñada para pequeñas y medianas empresas del sector gastronómico, con un enfoque inicial en restobares y restaurantes, sectores caracterizados por un alto dinamismo y un consumo intensivo de insumos perecibles.
 
-El sistema es accesible desde cualquier dispositivo con conexión a internet, lo que ofrece flexibilidad y disponibilidad en todo momento. Además, integra roles de usuario y medidas de seguridad que garantizan un uso confiable y seguro.
+La solución tecnológica propuesta tiene como objetivo principal facilitar el control en tiempo real del stock de productos e insumos. El sistema permitirá a los administradores y propietarios gestionar con mayor precisión las compras, identificar tendencias de consumo, minimizar pérdidas por caducidad o deterioro, y recibir alertas automáticas cuando los niveles de inventario estén próximos a agotarse. Esta capacidad de supervisión inmediata resulta crucial en un negocio donde las decisiones deben tomarse con rapidez para evitar sobrecostos o interrupciones en el servicio.
 
-La propuesta de valor de la startup radica en ofrecer una herramienta simple, intuitiva y personalizada que ayuda a reducir pérdidas económicas, optimizar procesos y mejorar la rentabilidad de los negocios.
+A diferencia de sistemas tradicionales o de registros manuales, nuestra plataforma ofrece accesibilidad desde cualquier dispositivo con conexión a internet, lo cual garantiza disponibilidad en todo momento y lugar. Asimismo, se integra con mecanismos de seguridad y gestión de roles que aseguran el uso confiable de la herramienta y la protección de los datos. Estas características no solo fortalecen la transparencia y la trazabilidad de la información, sino que también promueven la confianza en la toma de decisiones.
+
+La propuesta de valor radica en la simplicidad y personalización del sistema. Mientras que soluciones corporativas suelen ser costosas y complejas de implementar, nuestra startup busca ofrecer una herramienta intuitiva, adaptable a las particularidades de cada negocio y asequible para el mercado objetivo. Con ello, no solo se pretende optimizar los procesos internos, sino también contribuir a la sostenibilidad y crecimiento de los negocios gastronómicos, donde los márgenes de rentabilidad suelen ser reducidos.
 
 **Misión**: Brindar a pequeñas y medianas empresas un sistema de gestión de inventario eficiente, accesible y seguro que optimice el control de productos, insumos y proveedores, facilitando la toma de decisiones en tiempo real.
 
@@ -246,168 +248,254 @@ La propuesta de valor de la startup radica en ofrecer una herramienta simple, in
 
 ## 1.2 Solution Profile
 
+La presente sección, Solution Profile, tiene como finalidad exponer un marco integral que permita comprender la naturaleza del problema identificado, sus impactos en el sector gastronómico y la propuesta de solución que nuestra startup ofrece. A través de un análisis estructurado, basado en la técnica de los 5W’s & 2H’s, se abordarán los antecedentes y la problemática central que enfrentan restaurantes y restobares en la gestión de inventarios.
+
+El análisis se fundamenta en evidencias empíricas y académicas que confirman que la carencia de herramientas de control adecuadas puede representar pérdidas significativas, no solo en términos financieros, sino también en la experiencia del cliente, en la sostenibilidad del negocio y en la capacidad de crecimiento.
+
+Al situar el problema en un contexto más amplio, se busca justificar la pertinencia de la solución propuesta y establecer las bases para la implementación de un sistema que no solo atienda a necesidades inmediatas, sino que también se proyecte como una herramienta estratégica de largo plazo.
+
 ### 1.2.1 Antecedentes y problemática
 
-Para realizar los antecedentes y problemáticas, se realizó con anticipación la técnica 5 ‘W’s & 2 ‘H’s:
+Para comprender en profundidad los desafíos que enfrenta el sector gastronómico en relación con el control de inventarios, se aplicó la técnica 5W’s & 2H’s, la cual permite organizar el análisis de manera sistemática:
 
-**What**: Empresas como restaurantes o restobares suelen enfrentar pérdidas económicas por falta de control en sus inventarios y consumo de insumos.
+**What**:
 
-**When**: Actualmente, en un mercado competitivo que exige eficiencia operativa y reducción de costos.
+Restaurantes y restobares experimentan pérdidas económicas recurrentes debido a la ausencia de un control eficiente en el uso de insumos y gestión de inventarios. Estas pérdidas suelen manifestarse en forma de desperdicios, caducidad de productos, compras excesivas o faltantes que interrumpen la operación.
 
-**Where**: Principalmente en el sector gastronómico, con énfasis en negocios como el restobar Bolivarcito (Lima, Perú).
+**When**:
 
-**Who**: Propietarios, administradores y trabajadores que requieren información precisa para gestionar compras, ventas y stock.
+Esta problemática se observa actualmente con mayor frecuencia, dado que el mercado gastronómico exige altos niveles de eficiencia para responder a un entorno competitivo en el cual los consumidores demandan calidad, precios justos y continuidad en el servicio.
 
-**Why**: El control manual del inventario genera errores, desperdicio de recursos y retrasos en la toma de decisiones.
+**Where**:
 
-**How**: Mediante un sistema web que centraliza la información de stock, proveedores, recetas y alertas de inventario en tiempo real.
+El problema es común en múltiples geografías, pero cobra especial relevancia en el Perú, país reconocido por su diversidad gastronómica y la proliferación de negocios dedicados a la restauración. Dentro de este marco, se enfatiza el caso del restobar Bolivarcito, ubicado en Lima, como ejemplo representativo.
 
-**How much**: El costo de un sistema ineficiente puede traducirse en pérdidas de ingresos, sobrecostos por compras innecesarias y reducción de la rentabilidad del negocio.
+**Who**:
+
+Los principales afectados son los propietarios, administradores y trabajadores de restaurantes, quienes dependen de información precisa para tomar decisiones relacionadas con compras, ventas, producción y control de stock.
+
+**Why**:
+
+El uso de métodos manuales o herramientas no especializadas genera errores frecuentes, tales como duplicación de registros, pérdida de datos o retrasos en la disponibilidad de información, lo que repercute negativamente en la productividad.
+
+**How**:
+
+La solución radica en implementar un sistema web centralizado que permita gestionar inventarios en tiempo real, integrar a proveedores y recetas, y emitir alertas automáticas para anticiparse a faltantes o excesos.
+
+**How much**:
+
+Los costos de un sistema ineficiente son altos. Estudios en el sector señalan que las pérdidas por mala gestión de inventario pueden alcanzar entre el 10 % y 15 % de los ingresos, lo que impacta directamente en la rentabilidad (Universidad Le Cordon Bleu, 2022).
 
 _Estadística de la problemática_
 
-Según reportes del sector gastronómico, la falta de control en inventarios puede generar pérdidas de hasta un 20% en insumos y ventas por errores humanos y falta de trazabilidad.
+. En Perú, según la Universidad Le Cordon Bleu, los llamados “costos ocultos” como mermas no contabilizadas, obsolescencia, errores en almacenamiento o traslado pueden equivaler al 10 % o 15 % de pérdida en restaurantes, afectando significativamente la productividad y rentabilidad (Diario la Republica, 2022).
+
+. Un estudio en empresas restauranteras públicas en EE.UU. entre 1999 y 2015 concluye que una alta rotación de inventario se asocia positivamente con la rentabilidad. Esto muestra la relevancia de un control eficiente, sobre todo cuando los costos de insumos representan más de un tercio de los ingresos totales (Sage Journals, 2020).
 
 ### 1.2.2 Lean UX Process
 
+El proceso Lean UX constituye un enfoque esencial para startups tecnológicas, ya que busca validar hipótesis de negocio de manera ágil, reduciendo riesgos y maximizando el aprendizaje temprano con clientes reales. A diferencia de los modelos tradicionales de desarrollo, que suelen invertir grandes cantidades de tiempo y recursos antes de probar la utilidad del producto, Lean UX prioriza la experimentación, la retroalimentación continua y la iteración rápida. En el contexto de nuestra propuesta de valor, este proceso permitirá comprender mejor las necesidades de los negocios gastronómicos y diseñar una solución ajustada a sus expectativas reales, garantizando un producto con mayor aceptación en el mercado.
+
 #### 1.2.2.1. Lean UX Problem Statements
 
-**Problem Statement 1:** Los propietarios y administradores no tienen visibilidad en tiempo real del stock, lo que ocasiona quiebres de inventario o exceso de compras.
+Los Problem Statements se formulan para definir con claridad los principales retos que enfrentan nuestros usuarios. Estos no son simples enunciados, sino representaciones estratégicas de las brechas actuales en la gestión de inventarios. La ausencia de visibilidad en tiempo real del stock genera escenarios críticos: desde pérdidas económicas por insumos caducados hasta sobrecompras que inmovilizan capital. Esto limita la capacidad de reacción de los negocios frente a la demanda y debilita su competitividad.
 
-**Problem Statement 2:** La gestión manual de insumos y recetas consume tiempo y genera errores, afectando la rentabilidad y la calidad del servicio.
+Del mismo modo, la gestión manual de insumos y recetas se traduce en procesos lentos, repetitivos y propensos a errores humanos. Estos fallos repercuten directamente en la experiencia del cliente final, ya que los restobares o cafés pueden ofrecer un servicio inconsistente o incluso enfrentar quiebres de stock en momentos de alta demanda. En este contexto, resulta evidente que el problema no solo afecta a la rentabilidad, sino también a la reputación del negocio.
+
+**Problem Statement 1:**
+
+Los propietarios y administradores de restaurantes, cafés y restobares enfrentan serias dificultades para tener visibilidad en tiempo real del inventario. En la mayoría de los casos, dependen de registros manuales, hojas de cálculo desactualizadas o simples estimaciones, lo que impide contar con información precisa y confiable. Esta carencia conlleva consecuencias críticas: por un lado, se producen quiebres de inventario en momentos de alta demanda, generando pérdida de ventas, insatisfacción en los clientes y daño en la reputación del negocio. Por otro lado, también se generan excesos de compras y acumulación innecesaria de productos, que muchas veces terminan en desperdicio o caducidad, incrementando los costos operativos. En un sector altamente competitivo como el gastronómico, la falta de control oportuno del stock no solo afecta la eficiencia de las operaciones, sino que compromete la sostenibilidad financiera del negocio a mediano y largo plazo.
+
+**Problem Statement 2:**
+
+La gestión manual de insumos, recetas y procesos relacionados al control de inventario consume grandes cantidades de tiempo y se convierte en una fuente recurrente de errores humanos. El uso de métodos tradicionales, como anotaciones en cuadernos o la dependencia exclusiva de la memoria del personal, genera inconsistencias en las cantidades registradas, omisiones en los cálculos de costos y dificultades para rastrear el uso de cada insumo en las preparaciones. Estas fallas impactan directamente en la rentabilidad del negocio, ya que dificultan la correcta proyección de compras y provocan mermas innecesarias. Además, la ausencia de un sistema estandarizado limita la capacidad de replicar procesos de manera consistente, afectando la calidad del servicio ofrecido al cliente final. En consecuencia, la gestión manual no solo compromete la eficiencia interna, sino también la experiencia del consumidor, reduciendo la competitividad del negocio frente a aquellos que han adoptado soluciones digitales.
 
 #### 1.2.2.2. Lean UX Assumptions
 
+En esta sección se establecen las suposiciones de negocio y de usuario que guiarán el desarrollo de la solución propuesta. Dichas suposiciones constituyen hipótesis que deberán ser validadas en el proceso de diseño y puesta en marcha del sistema, a fin de reducir riesgos y garantizar que la aplicación responda efectivamente a las necesidades del mercado. Siguiendo el marco de Lean UX, estas hipótesis se convierten en una guía para orientar decisiones de diseño, priorización de funcionalidades y estrategias de adquisición de clientes. Las siguientes suposiciones se formulan considerando las particularidades del sector gastronómico, las tendencias de digitalización y los principales desafíos en la gestión de inventarios.
+
 **Business Outcomes:**
 
-- **Creemos que mis usuarios necesitan** un sistema ágil que les permita controlar inventarios y proveedores.
+- **Creemos que mis usuarios necesitan**
 
-- **Estas necesidades se pueden resolver** mediante un software web accesible desde cualquier dispositivo.
+Un sistema ágil, intuitivo y confiable que les permita controlar de manera integral los inventarios, gestionar proveedores de forma más eficiente y anticipar posibles quiebres de stock.
 
-- **Nuestros clientes iniciales son** negocios gastronómicos como restobares, cafés y restaurantes pequeños.
+- **Estas necesidades se pueden resolver**
 
-- **El valor #1 que un cliente requiere de nuestro servicio es** la precisión en la gestión del inventario.
+Mediante un software web multiplataforma, accesible desde cualquier dispositivo con conexión a internet, que brinde visibilidad en tiempo real, alarmas preventivas y herramientas de análisis para la toma de decisiones estratégicas.
 
-- **El cliente también puede obtener estos beneficios adicionales** reportes detallados, reducción de pérdidas y mayor eficiencia operativa.
+- **Nuestros clientes iniciales son**
 
-- **Adquiriremos a nuestros clientes a través del** marketing digital y referencias en el sector gastronómico.
+Negocios gastronómicos de pequeña y mediana escala, como restobares, cafeterías y restaurantes, que requieren optimizar la administración de sus insumos sin necesidad de contar con un gran equipo administrativo o con elevados presupuestos tecnológicos.
 
-- **Haremos dinero a través de** la venta del sistema y el cobro por soporte/mantenimiento.
+- **El valor #1 que un cliente requiere de nuestro servicio es**
 
-- **Nuestra competencia de mercado serán** otros sistemas de inventario genéricos.
+La precisión y confiabilidad en la gestión del inventario, garantizando el abastecimiento oportuno de insumos y reduciendo las pérdidas ocasionadas por desperdicios, caducidad o compras excesivas.
 
-- **Los venceremos debido a que** ofrecemos una solución personalizada para el sector gastronómico.
+- **El cliente también puede obtener estos beneficios adicionales**
 
-- **Nuestros mayores riesgos son** la falta de adopción tecnológica y la resistencia al cambio.
+Generación de reportes detallados y personalizables, reducción de pérdidas económicas, incremento en la eficiencia operativa, mejor control de costos, mayor trazabilidad de los insumos y, en consecuencia, un aumento en la rentabilidad del negocio.
 
-- **Resolveremos esto mediante** capacitación y soporte cercano al cliente.
+- **Adquiriremos a nuestros clientes a través del**
 
-- **Sabremos que hemos tenido éxito cuando uno de estos cambios en el comportamiento de nuestro cliente:** Use el sistema diariamente y reduzca pérdidas en insumos.
+Estrategias de marketing digital, colaboraciones con asociaciones gastronómicas, recomendaciones entre colegas del sector, y la implementación de planes de prueba gratuita que permitan experimentar los beneficios antes de la adquisición.
 
-- **Qué otras suposiciones tenemos que, de probarse falsas pueden causar que nuestro proyecto fracase:** Que los negocios no consideren prioritario invertir en tecnología de gestión.
+- **Haremos dinero a través de**
+
+Un modelo de suscripción mensual o anual, complementado con la venta de licencias y el cobro por servicios de soporte técnico, mantenimiento y actualizaciones continuas del sistema.
+
+- **Nuestra competencia de mercado serán**
+
+Sistemas de inventario genéricos o de uso general, que no se encuentran especializados en el sector gastronómico y, por lo tanto, no logran resolver de manera completa las necesidades particulares de este mercado.
+
+- **Los venceremos debido a que**
+
+Ofrecemos una solución diseñada específicamente para la industria gastronómica, con funcionalidades adaptadas a sus procesos únicos, interfaces fáciles de usar y un enfoque en la reducción de pérdidas y mejora de la rentabilidad.
+
+- **Nuestros mayores riesgos son**
+
+La resistencia de algunos negocios a adoptar nuevas tecnologías, la percepción de que los sistemas digitales son costosos, así como la falta de conocimiento técnico para utilizarlos de manera efectiva.
+
+- **Resolveremos esto mediante**
+
+Programas de capacitación prácticos, soporte técnico cercano y proactivo, y el diseño de un sistema intuitivo que reduzca la curva de aprendizaje y genere confianza en su implementación.
+
+- **Sabremos que hemos tenido éxito cuando uno de estos cambios en el comportamiento de nuestro cliente**
+
+El uso constante y disciplinado del sistema en las operaciones diarias, la reducción medible de pérdidas en insumos, la mejora en el control financiero y un mayor grado de satisfacción en la gestión del negocio.
+
+- **Qué otras suposiciones tenemos que, de probarse falsas pueden causar que nuestro proyecto fracase**
+
+Que los negocios gastronómicos no consideren prioritario invertir en tecnología de gestión, que prefieran continuar con métodos tradicionales manuales, o que la percepción del costo-beneficio no sea suficiente para justificar la adopción del sistema.
 
 **User Outcomes**
 
 **¿Quiénes serán nuestros usuarios?**
 
-Propietarios, administradores y personal de cocina/bar.
+Nuestros usuarios principales serán propietarios, administradores y personal operativo de restaurantes, cafeterías, restobares y bares. Estos perfiles desempeñan un papel clave en la gestión de compras, control de insumos y organización del servicio diario.
 
 **¿Dónde encaja nuestro producto en su vida o trabajo?**
 
-En la gestión diaria de compras, ventas y control de stock.
+El producto se integra de manera directa en la gestión diaria del negocio gastronómico, apoyando actividades como:
+
+- Control de inventarios.
+- Registro de compras y ventas.
+- Organización de recetas e insumos.
+- Coordinación con proveedores y gestión de pedidos.
 
 **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
 
 **Problemas:**
 
-- Problema de sobrecosto y desorganizacion.
-- Falta de control en stock.
-- Retrasos en pedidos.
-- Pérdidas económicas.
+- Sobrecostos ocasionados por desorganización y compras innecesarias.
+- Falta de control en el stock de insumos.
+- Retrasos en pedidos y reposiciones críticas.
+- Pérdidas económicas por caducidad, desperdicio o errores de registro.
 
 **Soluciones:**
 
-- Se resuelve con reportes, alertas y automatización de inventario.
-- Sistema web accesible.
-- Notificaciones automáticas.
-- Gestión de recetas y proveedores.
+- Automatización de inventarios con reportes y alertas inteligentes.
+- Acceso a un sistema web centralizado y disponible desde cualquier dispositivo.
+- Notificaciones automáticas sobre niveles bajos de stock.
+- Módulo de gestión de recetas y proveedores que optimiza la planificación de compras.
 
 **¿Cómo y cuándo es usado nuestro producto?**
 
-En el ciclo operativo diario de las empresas: al adquirir nuevos equipos, al renovar tecnología obsoleta, y en la gestión continua de TI (mantenimiento, soporte, garantías).
+El sistema será utilizado todos los días, en las diferentes fases de operación de un negocio gastronómico:
+
+- Apertura: revisión de stock, planificación de compras y pedidos.
+- Operación diaria: registro de insumos utilizados, actualización de recetas y control de ventas.
+- Cierre: consolidación de reportes, cálculo de costos y análisis de pérdidas o desperdicios.
 
 **¿Qué características son importantes?**
 
-- Flexibilidad en planes de arrendamiento.
-- Gestión centralizada de soporte y garantías.
-- Reportes de costos y eficiencia tecnológica.
-- Equipos actualizados según necesidad real.
+- Gestión integral de stock e insumos.
+- Automatización de alertas para evitar quiebres de inventario.
+- Reportes detallados de costos, consumo y eficiencia.
+- Gestión de proveedores y recetas vinculadas a inventario.
+- Roles y permisos de usuarios que garanticen control y trazabilidad.
+- Exportación de reportes en formatos PDF/Excel para facilitar la toma de decisiones.
 
 **¿Cómo debe verse y comportarse nuestro producto?**
 
-Todos los días durante la apertura, operación y cierre del negocio.
+Debe ser un sistema intuitivo, moderno y fácil de usar, con una interfaz limpia que priorice la claridad visual. Además, debe ser rápido, seguro y confiable, con un diseño adaptable a cualquier dispositivo (desktop, tablet, smartphone) para acompañar a los usuarios en todo momento de su operación diaria.
 
 **Features**
 
-- Gestión de stock.
+- Gestión de stock en tiempo real.
 - Alertas automáticas de inventario bajo.
-- Creación de recetas.
-- Gestión de proveedores.
+- Creación y administración de recetas.
+- Gestión de proveedores y pedidos.
 - Roles y permisos de usuarios.
-- Generación de reportes (PDF/Excel).
+- Generación de reportes personalizables (PDF/Excel).
 
 **_Desde la cuenta de la empresa cliente:_**
 
 - Las empresas deben tener acceso a un panel donde visualicen todos los equipos arrendados, organizados por área o departamento. Esto les permitirá un control ordenado y evitar pérdidas o duplicidades.
 
-- Un historial de mantenimiento y soporte estará disponible para cada equipo, lo que garantiza transparencia en las intervenciones técnicas y ayuda a tomar decisiones futuras.
+- Además, se debería incluir un sistema de búsqueda avanzada y filtros dinámicos (por tipo de dispositivo, fecha de adquisición, estado de garantía, proveedor asignado), lo que mejorará la eficiencia en la gestión.
 
-- Contarán con un sistema de alertas automáticas para notificar cuándo un equipo está próximo a su renovación o si requiere atención especial, evitando interrupciones en su productividad.
+- Un historial de mantenimiento y soporte estará disponible para cada equipo, lo que garantiza transparencia en las intervenciones técnicas y ayuda a tomar decisiones futuras. Dicho historial podría exportarse en formatos PDF/Excel y compartirse con auditores o gerentes para cumplir con normativas internas o legales.
 
-- El cliente podrá solicitar upgrades de hardware de forma ágil desde su cuenta, ajustando los recursos a sus necesidades reales en tiempo casi inmediato.
+- Contarán con un sistema de alertas automáticas para notificar cuándo un equipo está próximo a su renovación o si requiere atención especial, evitando interrupciones en su productividad. Estas alertas podrían configurarse con niveles de criticidad (baja, media, alta), y enviarse no solo dentro de la plataforma, sino también mediante correo electrónico o aplicaciones de mensajería (ej. WhatsApp Business o Microsoft Teams).
 
-- Un dashboard de costos consolidado permitirá analizar el gasto mensual en TI y medir el ahorro frente a un modelo tradicional de compra.
+- El cliente podrá solicitar upgrades de hardware de forma ágil desde su cuenta, ajustando los recursos a sus necesidades reales en tiempo casi inmediato. Esto debería estar integrado con un catálogo dinámico de opciones disponibles, donde el cliente pueda comparar costos, beneficios y tiempos de entrega.
+
+- Un dashboard de costos consolidado permitirá analizar el gasto mensual en TI y medir el ahorro frente a un modelo tradicional de compra. Este dashboard debería incluir gráficas comparativas, simuladores de costos futuros y métricas de ROI (Retorno de Inversión) para respaldar la toma de decisiones estratégicas.
+
+- Adicionalmente, la cuenta cliente podría integrar un módulo de tickets de soporte, donde se pueda dar seguimiento en tiempo real al estado de cada solicitud, con tiempos de respuesta garantizados (SLA).
+
+- Finalmente, un módulo de capacitación digital permitiría que los usuarios accedan a tutoriales, manuales y webinars dentro del mismo sistema, facilitando la adopción tecnológica.
 
 **_Desde la cuenta de administración de PcPedia:_**
 
-- Los administradores tendrán un sistema centralizado para monitorear en tiempo real todos los equipos en uso por los clientes, junto con su estado de garantía y mantenimientos programados.
+- Los administradores tendrán un sistema centralizado para monitorear en tiempo real todos los equipos en uso por los clientes, junto con su estado de garantía y mantenimientos programados. Esto debe incluir un mapa interactivo de clientes (geolocalización) para optimizar la distribución de técnicos y recursos.
 
-- Contarán con herramientas de análisis predictivo para recomendar a cada cliente los equipos más rentables según su patrón de uso.
+- Contarán con herramientas de análisis predictivo para recomendar a cada cliente los equipos más rentables según su patrón de uso. Este análisis podría alimentarse con modelos de machine learning, que identifiquen patrones de fallas, ciclos de vida óptimos y predicciones de sustitución.
 
-- Se dispondrá de un módulo para gestionar contratos y facturación de manera automatizada, evitando errores manuales.
+- Se dispondrá de un módulo para gestionar contratos y facturación de manera automatizada, evitando errores manuales. Además, debería soportar múltiples métodos de pago (tarjeta, transferencia, pasarelas digitales como Stripe o PayPal) y la posibilidad de facturación electrónica integrada según normativas locales.
 
-- La plataforma permitirá registrar casos de soporte y asignar técnicos rápidamente, reduciendo los tiempos de respuesta.
+- La plataforma permitirá registrar casos de soporte y asignar técnicos rápidamente, reduciendo los tiempos de respuesta. Se puede integrar un sistema de priorización automática que clasifique los tickets por urgencia y complejidad, asignando el recurso más calificado de forma inmediata.
 
-- Un repositorio de métricas de clientes servirá para identificar patrones, generar reportes y mejorar continuamente el servicio de Smart Leasing.
+- Un repositorio de métricas de clientes servirá para identificar patrones, generar reportes y mejorar continuamente el servicio de Smart Leasing. Dicho repositorio debería estar acompañado de un sistema de benchmarking, que compare el desempeño de diferentes clientes y ofrezca insights personalizados para la optimización.
+
+- PcPedia también podría contar con un módulo de administración de inventario interno, que permita verificar la disponibilidad de equipos, repuestos y accesorios antes de aprobar solicitudes de clientes.
+
+- Finalmente, un sistema de auditoría y trazabilidad registrará todas las acciones realizadas por administradores y clientes, garantizando seguridad, transparencia y cumplimiento normativo (por ejemplo, GDPR o regulaciones locales de protección de datos).
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- **Creemos que** los administradores podrán optimizar el inventario con el sistema.
+- **Creemos que** los administradores podrán optimizar el inventario con el sistema, ya que este proporcionará información precisa, centralizada y actualizada en tiempo real sobre los niveles de stock y el consumo de insumos. Esto permitirá reducir drásticamente la dependencia de registros manuales y hojas de cálculo, lo cual suele generar errores y pérdidas económicas.
 
-  **Sabremos que** cuando reduzcan en al menos un 15% los quiebres de stock.
+- **Sabremos que** esta hipótesis es cierta cuando se reduzcan en al menos un 15 % los quiebres de stock y se observe una mejora sustancial en la capacidad de anticipar compras necesarias, evitando tanto la escasez de productos críticos como la sobrecompra de insumos perecibles.
 
-- **Creemos que** los reportes ayudarán a tomar mejores decisiones de compra.
+- **Creemos que** los reportes ayudarán a tomar mejores decisiones de compra, porque ofrecerán un análisis histórico de consumos, tendencias de demanda y rotación de productos. De esta manera, los responsables podrán comparar periodos, identificar patrones y negociar con proveedores en condiciones más favorables. Además, los reportes servirán como base para implementar estrategias de reducción de costos sin comprometer la calidad del servicio.
 
-  **Sabremos que** cuando se observe una reducción en los costos operativos mensuales.
+- **Sabremos que** la hipótesis es válida cuando se logre una disminución comprobable en los costos operativos mensuales y se identifique una mayor eficiencia en la planificación de compras, optimizando tanto el presupuesto como la rentabilidad general del negocio.
 
-- **Creemos que** el sistema será adoptado por el personal de forma natural.
+- **Creemos que** el sistema será adoptado por el personal de forma natural, siempre que la interfaz sea intuitiva, rápida y se adapte a los procesos cotidianos de trabajo. La adopción orgánica será clave para garantizar que no solo los administradores, sino también el personal de cocina y bar, puedan registrar fácilmente cada movimiento en el inventario.
 
-  **Sabremos que** cuando registren transacciones diarias sin intervención del administrador.
+- **Sabremos que** esta hipótesis se confirma cuando los trabajadores registren transacciones diarias de manera constante, sin depender de supervisión directa, reflejando un nivel de confianza y facilidad de uso que garantice la sostenibilidad de la herramienta en el largo plazo.
 
 #### 1.2.2.4. Lean UX Canvas
 
+![Logo UPC](https://i.imgur.com/SZVlLz9.png)
+
 ## 1.3. Segmentos objetivo
 
-Nuestros segmentos objetivos son principalmente:
+En nuestro proyecto, los segmentos han sido definidos a partir de criterios como el tipo de establecimiento, el nivel de digitalización alcanzado y los principales desafíos operativos que enfrentan. A continuación, se presentan los tres grupos prioritarios de usuarios que servirán como base para la implementación y validación de la propuesta:
 
 1. **Restobares y Restaurantes (pequeños y medianos)**
-   Negocios gastronómicos que necesitan un control preciso de insumos y productos para garantizar la calidad de su servicio y evitar pérdidas económicas. Estos establecimientos requieren digitalizar sus procesos de inventario para optimizar compras, reducir desperdicios y mejorar su rentabilidad.
+
+   Estos negocios se caracterizan por manejar una gran variedad de insumos y proveedores, lo que incrementa la complejidad de su control operativo. La falta de digitalización suele llevar a pérdidas por duplicidad de pedidos, sobrecompra de productos perecibles y dificultad para medir la rentabilidad real de cada plato ofrecido. La implementación de un sistema de control digital permite a estos negocios integrar compras, recetas y stock en un solo entorno, reduciendo costos y mejorando la consistencia del servicio. Un estudio académico peruano, centrado en mejoras concretas para la gestión de inventario en el sector gastronómico, destaca cómo una estrategia planificada y digitalizada contribuye a un abastecimiento más oportuno y eficiente en tiempos adecuados (Elvira, A. Mari, F. (2018)).
 
 2. **Cafeterías y Bares**
-   Establecimientos que trabajan con insumos perecibles y productos de alta rotación, donde la falta de control puede impactar directamente en las ventas diarias. La aplicación permite automatizar pedidos, gestionar recetas y mantener un control constante del stock.
+
+   Son establecimientos que trabajan con productos de alta rotación (como café, cerveza, snacks) y con insumos perecibles (como lácteos, frutas y licores). La gestión manual del inventario puede ocasionar desajustes críticos, impactando directamente en las ventas del día. Con un sistema automatizado, se garantiza un flujo constante de información en tiempo real, permitiendo evitar quiebres de stock en horarios de alta demanda. Además, la digitalización de recetas estandariza procesos y mejora la calidad del servicio. Una investigación sobre la influencia de la digitalización en la calidad del servicio en PYMEs del rubro restaurante en Perú demuestra que la adopción tecnológica incide positivamente en la eficiencia operativa y en la percepción de calidad por parte del cliente (Jenny, J. Sara, L. (2024)).
 
 3. **Emprendimientos Gastronómicos**
-   Nuevos negocios del sector alimenticio que buscan una herramienta accesible y escalable para iniciar sus operaciones con orden y eficiencia. La solución ayuda a los emprendedores a evitar errores comunes en la gestión manual de inventarios y a enfocarse en el crecimiento de su negocio.
+
+   Los nuevos negocios enfrentan grandes desafíos en sus primeros años, y uno de los más frecuentes es la mala gestión de inventarios y finanzas, que puede llevar al cierre prematuro del emprendimiento. Un sistema accesible y escalable les brinda a los emprendedores la posibilidad de iniciar con procesos claros, medibles y organizados desde el primer día. Esto no solo ayuda a evitar errores comunes, como sobrecompras o falta de insumos críticos, sino que también genera información clave para proyectar el crecimiento del negocio. Además, un estudio reciente en el contexto peruano muestra cómo una gestión eficaz de costos, basada en sistemas organizados, contribuye a mantener márgenes de rentabilidad saludables incluso en situaciones adversas (Martin, C. Selena, V. Miguel A. (2024)). Asimismo, el notable auge del sector gastronómico en Perú, con un crecimiento del 63.59 % en emprendimientos, subraya el potencial y la necesidad de contar con bases tecnológicas sólidas desde el inicio (Infobae 2024).
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
@@ -552,5 +640,18 @@ Nuestros segmentos objetivos son principalmente:
 ## Video About-the-Team
 
 # Bibliografía
+
+Gestión-Lima. (2022, agosto 16). Costos ocultos pueden generar pérdidas de hasta 15% en restaurantes en Perú. Diario La República. https://www.larepublica.co/globoeconomia/costos-ocultos-pueden-generar-perdidas-de-hasta-15-en-restaurantes-en-peru-3425480
+
+Park, E. (olivia), & Kim, W.-H. (2021). The effect of inventory turnover on financial performance in the US restaurant industry: The moderating role of exposure to commodity price risk. Tourism Economics, 27(7), 1417–1429. https://doi.org/10.1177/1354816620923860
+
+Elvira, A. Mari, F. (2018) La gestión de inventarios en la cadena de abastecimiento y su impacto en la toma de decisiones financieras de las empresas que realizan actividades de restaurante – pollería, en el distrito de Barranco, en el año 2017 [Tesis doctoral, Universidad Peruana de Ciencias Aplicadas]. Repositorio institucional de la Universidad Peruana de Ciencias Aplicadas https://repositorioacademico.upc.edu.pe/bitstream/handle/10757/625826/Atahuam%C3%A1n_le.pdf?isAllowed=y&sequence=1
+
+Jenny, J. Sara, L. (2024) Impacto de la digitalización en la calidad de servicio de pymes rubro restaurante, San Martin de Porres 2024. Repositorio institucional de la Universidad Tecnologica del Peru https://repositorio.utp.edu.pe/bitstream/handle/20.500.12867/10095/J.Avelino_S.Lui_Tesis_Titulo_Profesional_2024.pdf?sequence=1&isAllowed=y
+
+Martin, C. Selena, V. Miguel A. (2024). Sobreviviendo al desafío: el papel crucial de las estrategias disruptivas
+en la gastronomía pandémica. Turismo y Patrimonio.
+
+Gómez, A. V. (2024, mayo 4). Gastronomía en auge: El 63.59% de crecimiento de emprendedores en el Perú marca el camino al éxito. infobae. https://www.infobae.com/peru/2024/05/04/gastronomia-en-auge-el-6359-de-crecimiento-de-emprendedores-en-el-peru-marca-el-camino-al-exito/
 
 # Anexos
