@@ -294,11 +294,21 @@ _Estadística de la problemática_
 
 ### 1.2.2 Lean UX Process
 
+El proceso Lean UX constituye un enfoque esencial para startups tecnológicas, ya que busca validar hipótesis de negocio de manera ágil, reduciendo riesgos y maximizando el aprendizaje temprano con clientes reales. A diferencia de los modelos tradicionales de desarrollo, que suelen invertir grandes cantidades de tiempo y recursos antes de probar la utilidad del producto, Lean UX prioriza la experimentación, la retroalimentación continua y la iteración rápida. En el contexto de nuestra propuesta de valor, este proceso permitirá comprender mejor las necesidades de los negocios gastronómicos y diseñar una solución ajustada a sus expectativas reales, garantizando un producto con mayor aceptación en el mercado.
+
 #### 1.2.2.1. Lean UX Problem Statements
 
-**Problem Statement 1:** Los propietarios y administradores no tienen visibilidad en tiempo real del stock, lo que ocasiona quiebres de inventario o exceso de compras.
+Los Problem Statements se formulan para definir con claridad los principales retos que enfrentan nuestros usuarios. Estos no son simples enunciados, sino representaciones estratégicas de las brechas actuales en la gestión de inventarios. La ausencia de visibilidad en tiempo real del stock genera escenarios críticos: desde pérdidas económicas por insumos caducados hasta sobrecompras que inmovilizan capital. Esto limita la capacidad de reacción de los negocios frente a la demanda y debilita su competitividad.
 
-**Problem Statement 2:** La gestión manual de insumos y recetas consume tiempo y genera errores, afectando la rentabilidad y la calidad del servicio.
+Del mismo modo, la gestión manual de insumos y recetas se traduce en procesos lentos, repetitivos y propensos a errores humanos. Estos fallos repercuten directamente en la experiencia del cliente final, ya que los restobares o cafés pueden ofrecer un servicio inconsistente o incluso enfrentar quiebres de stock en momentos de alta demanda. En este contexto, resulta evidente que el problema no solo afecta a la rentabilidad, sino también a la reputación del negocio.
+
+**Problem Statement 1:**
+
+Los propietarios y administradores de restaurantes, cafés y restobares enfrentan serias dificultades para tener visibilidad en tiempo real del inventario. En la mayoría de los casos, dependen de registros manuales, hojas de cálculo desactualizadas o simples estimaciones, lo que impide contar con información precisa y confiable. Esta carencia conlleva consecuencias críticas: por un lado, se producen quiebres de inventario en momentos de alta demanda, generando pérdida de ventas, insatisfacción en los clientes y daño en la reputación del negocio. Por otro lado, también se generan excesos de compras y acumulación innecesaria de productos, que muchas veces terminan en desperdicio o caducidad, incrementando los costos operativos. En un sector altamente competitivo como el gastronómico, la falta de control oportuno del stock no solo afecta la eficiencia de las operaciones, sino que compromete la sostenibilidad financiera del negocio a mediano y largo plazo.
+
+**Problem Statement 2:**
+
+La gestión manual de insumos, recetas y procesos relacionados al control de inventario consume grandes cantidades de tiempo y se convierte en una fuente recurrente de errores humanos. El uso de métodos tradicionales, como anotaciones en cuadernos o la dependencia exclusiva de la memoria del personal, genera inconsistencias en las cantidades registradas, omisiones en los cálculos de costos y dificultades para rastrear el uso de cada insumo en las preparaciones. Estas fallas impactan directamente en la rentabilidad del negocio, ya que dificultan la correcta proyección de compras y provocan mermas innecesarias. Además, la ausencia de un sistema estandarizado limita la capacidad de replicar procesos de manera consistente, afectando la calidad del servicio ofrecido al cliente final. En consecuencia, la gestión manual no solo compromete la eficiencia interna, sino también la experiencia del consumidor, reduciendo la competitividad del negocio frente a aquellos que han adoptado soluciones digitales.
 
 #### 1.2.2.2. Lean UX Assumptions
 
