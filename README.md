@@ -224,11 +224,13 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ### 1.1.1 Descripción de la Startup
 
-Nuestra startup es una aplicación web de gestión de inventarios diseñada para pequeñas y medianas empresas del sector gastronómico, con un enfoque inicial en restobares y restaurantes. La solución permite controlar en tiempo real el stock de productos e insumos, generar alertas automáticas cuando los niveles bajan, gestionar proveedores y recetas, y crear reportes detallados que facilitan la toma de decisiones.
+En un entorno económico cada vez más competitivo, donde la eficiencia operativa se ha convertido en un factor determinante para la supervivencia y el crecimiento de las empresas, surge la necesidad de soluciones tecnológicas que optimicen procesos y reduzcan costos. Nuestra startup se presenta como respuesta a esta demanda, ofreciendo una aplicación web de gestión de inventarios específicamente diseñada para pequeñas y medianas empresas del sector gastronómico, con un enfoque inicial en restobares y restaurantes, sectores caracterizados por un alto dinamismo y un consumo intensivo de insumos perecibles.
 
-El sistema es accesible desde cualquier dispositivo con conexión a internet, lo que ofrece flexibilidad y disponibilidad en todo momento. Además, integra roles de usuario y medidas de seguridad que garantizan un uso confiable y seguro.
+La solución tecnológica propuesta tiene como objetivo principal facilitar el control en tiempo real del stock de productos e insumos. El sistema permitirá a los administradores y propietarios gestionar con mayor precisión las compras, identificar tendencias de consumo, minimizar pérdidas por caducidad o deterioro, y recibir alertas automáticas cuando los niveles de inventario estén próximos a agotarse. Esta capacidad de supervisión inmediata resulta crucial en un negocio donde las decisiones deben tomarse con rapidez para evitar sobrecostos o interrupciones en el servicio.
 
-La propuesta de valor de la startup radica en ofrecer una herramienta simple, intuitiva y personalizada que ayuda a reducir pérdidas económicas, optimizar procesos y mejorar la rentabilidad de los negocios.
+A diferencia de sistemas tradicionales o de registros manuales, nuestra plataforma ofrece accesibilidad desde cualquier dispositivo con conexión a internet, lo cual garantiza disponibilidad en todo momento y lugar. Asimismo, se integra con mecanismos de seguridad y gestión de roles que aseguran el uso confiable de la herramienta y la protección de los datos. Estas características no solo fortalecen la transparencia y la trazabilidad de la información, sino que también promueven la confianza en la toma de decisiones.
+
+La propuesta de valor radica en la simplicidad y personalización del sistema. Mientras que soluciones corporativas suelen ser costosas y complejas de implementar, nuestra startup busca ofrecer una herramienta intuitiva, adaptable a las particularidades de cada negocio y asequible para el mercado objetivo. Con ello, no solo se pretende optimizar los procesos internos, sino también contribuir a la sostenibilidad y crecimiento de los negocios gastronómicos, donde los márgenes de rentabilidad suelen ser reducidos.
 
 **Misión**: Brindar a pequeñas y medianas empresas un sistema de gestión de inventario eficiente, accesible y seguro que optimice el control de productos, insumos y proveedores, facilitando la toma de decisiones en tiempo real.
 
@@ -246,13 +248,23 @@ La propuesta de valor de la startup radica en ofrecer una herramienta simple, in
 
 ## 1.2 Solution Profile
 
+La presente sección, Solution Profile, tiene como finalidad exponer un marco integral que permita comprender la naturaleza del problema identificado, sus impactos en el sector gastronómico y la propuesta de solución que nuestra startup ofrece. A través de un análisis estructurado, basado en la técnica de los 5W’s & 2H’s, se abordarán los antecedentes y la problemática central que enfrentan restaurantes y restobares en la gestión de inventarios.
+
+El análisis se fundamenta en evidencias empíricas y académicas que confirman que la carencia de herramientas de control adecuadas puede representar pérdidas significativas, no solo en términos financieros, sino también en la experiencia del cliente, en la sostenibilidad del negocio y en la capacidad de crecimiento.
+
+Al situar el problema en un contexto más amplio, se busca justificar la pertinencia de la solución propuesta y establecer las bases para la implementación de un sistema que no solo atienda a necesidades inmediatas, sino que también se proyecte como una herramienta estratégica de largo plazo.
+
 ### 1.2.1 Antecedentes y problemática
 
-Para realizar los antecedentes y problemáticas, se realizó con anticipación la técnica 5 ‘W’s & 2 ‘H’s:
+Para comprender en profundidad los desafíos que enfrenta el sector gastronómico en relación con el control de inventarios, se aplicó la técnica 5W’s & 2H’s, la cual permite organizar el análisis de manera sistemática:
 
-**What**: Empresas como restaurantes o restobares suelen enfrentar pérdidas económicas por falta de control en sus inventarios y consumo de insumos.
+**What**:
 
-**When**: Actualmente, en un mercado competitivo que exige eficiencia operativa y reducción de costos.
+Restaurantes y restobares experimentan pérdidas económicas recurrentes debido a la ausencia de un control eficiente en el uso de insumos y gestión de inventarios. Estas pérdidas suelen manifestarse en forma de desperdicios, caducidad de productos, compras excesivas o faltantes que interrumpen la operación.
+
+**When**:
+
+Esta problemática se observa actualmente con mayor frecuencia, dado que el mercado gastronómico exige altos niveles de eficiencia para responder a un entorno competitivo en el cual los consumidores demandan calidad, precios justos y continuidad en el servicio.
 
 **Where**: Principalmente en el sector gastronómico, con énfasis en negocios como el restobar Bolivarcito (Lima, Perú).
 
@@ -266,7 +278,9 @@ Para realizar los antecedentes y problemáticas, se realizó con anticipación l
 
 _Estadística de la problemática_
 
-Según reportes del sector gastronómico, la falta de control en inventarios puede generar pérdidas de hasta un 20% en insumos y ventas por errores humanos y falta de trazabilidad.
+. En Perú, según la Universidad Le Cordon Bleu, los llamados “costos ocultos” como mermas no contabilizadas, obsolescencia, errores en almacenamiento o traslado pueden equivaler al 10 % o 15 % de pérdida en restaurantes, afectando significativamente la productividad y rentabilidad (Diario la Republica, 2022).
+
+. Un estudio en empresas restauranteras públicas en EE.UU. entre 1999 y 2015 concluye que una alta rotación de inventario se asocia positivamente con la rentabilidad. Esto muestra la relevancia de un control eficiente, sobre todo cuando los costos de insumos representan más de un tercio de los ingresos totales (Sage Journals, 2020).
 
 ### 1.2.2 Lean UX Process
 
@@ -552,5 +566,9 @@ Nuestros segmentos objetivos son principalmente:
 ## Video About-the-Team
 
 # Bibliografía
+
+Gestión-Lima. (2022, agosto 16). Costos ocultos pueden generar pérdidas de hasta 15% en restaurantes en Perú. Diario La República. https://www.larepublica.co/globoeconomia/costos-ocultos-pueden-generar-perdidas-de-hasta-15-en-restaurantes-en-peru-3425480
+
+Park, E. (olivia), & Kim, W.-H. (2021). The effect of inventory turnover on financial performance in the US restaurant industry: The moderating role of exposure to commodity price risk. Tourism Economics, 27(7), 1417–1429. https://doi.org/10.1177/1354816620923860
 
 # Anexos
