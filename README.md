@@ -381,7 +381,30 @@ _Estadística de la problemática_
 
 ## 4.1. Style Guidelines
 
+Las guías de estilo son fundamentales para asegurar una comunicación clara, coherente y profesional en todos los aspectos del proyecto. En esta sección, definiremos las pautas que el equipo utilizará para diseñar la aplicación FinTeka. Estas directrices abarcarán aspectos como la selección de colores, tipografía y la estructura general del diseño.
+
+Para el desarrollo de LogisPE, utilizaremos plataformas como Figma para crear la interfaz web y la página de inicio.  La paleta de colores estará compuesta por tonos blancos y rojos, que transmiten modernidad, confianza y accesibilidad, reflejando el objetivo de la aplicación de conectar a los usuarios con asesores profesionales de manera eficiente y amigable. 
+
+A continuación, se detallan los aspectos clave de este enfoque de diseño.
+
 ### 4.1.1. General Style Guidelines
+
+#### Brading
+
+#### Branding Overview:
+
+LogisPE es una plataforma innovadora dedicada a la gestión de inventarios en empresas pequeñas y medianas del sector gastronómico, con un enfoque inicial en restobares y restaurantes. La solución permite controlar en tiempo real el stock de productos e insumos, generar alertas automáticas cuando los niveles bajan, gestionar proveedores y recetas y crear reportes detallados que facilitan la toma decisiones.
+
+#### Misión:
+
+La misión de LogisPE
+
+
+#### Visión:
+
+Nuestra visión
+
+
 
 ### 4.1.2. Web Style Guidelines
 
