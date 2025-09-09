@@ -479,7 +479,7 @@ Debe ser un sistema intuitivo, moderno y fácil de usar, con una interfaz limpia
 
 #### 1.2.2.4. Lean UX Canvas
 
-El Lean UX Canvas constituye una herramienta metodológica que permite alinear las hipótesis del negocio con las necesidades de los usuarios y los resultados esperados. Su objetivo principal es ofrecer una visión clara y estructurada de los problemas que se desean resolver, las suposiciones que guían el diseño de la solución y las métricas que permitirán validar su impacto. Al aplicar este enfoque, se busca minimizar riesgos en el desarrollo del producto y garantizar que cada funcionalidad responda a una necesidad real y prioritaria de los clientes.
+![Logo UPC](https://i.imgur.com/SZVlLz9.png)
 
 ## 1.3. Segmentos objetivo
 
