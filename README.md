@@ -397,16 +397,47 @@ LogisPE es una plataforma innovadora dedicada a la gestión de inventarios en em
 
 #### Misión:
 
-La misión de LogisPE
-
+La misión de LogisPE es brindar a pequeñas y medianas empresas un sistema de gestión de inventario eficiente, accesible y seguro que optimice el control de productos, insumos y proveedores, facilitando la toma de decisiones en tiempo real.
 
 #### Visión:
 
-Nuestra visión
+Nuestra visión es la de convertirse en la aplicación de referencia para la gestión de inventarios en el sector gastronómico y de servicios, reconocida por su confiabilidad, usabilidad y capacidad de adaptación a las necesidades del cliente.
 
+#### Brand name:
 
+El nombre de nuestro producto es LogisPe, que da a entender el apoyo en la logistica a nivel nacional que brindamos en forma de un aplicativo web.
+
+#### Logo:
+
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/8019c2c2143e92d4dc2cf3df187b961bc4f659e6/img/Logo.png" style="width: 50%"/>
+
+#### Colores:
+
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/d2ce0581baefc71e19b27c35feb30d953e33fe81/img/Colores.png"/>
+
+#### Tipografía:
+
+La tipografía organiza el lenguaje visual de las plataformas, garantizando legibilidad y mejorando la experiencia del usuario. Por eso, se eligieron estos tipos de letra:
+
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/085181a7ae5a87ce9ac8350bb00f2a32fa7df4d5/img/Tipografia.png"/>
+
+#### Espaciado:
+
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/b8a51503dcb87c07f8857bd821b06027d8758718/img/Espaciado.png"/>
 
 ### 4.1.2. Web Style Guidelines
+
+#### Elementos Visuales (Imágenes)
+
+La aplicación web incorporará una variedad de imágenes con diferentes propósitos. Estas pueden ir desde íconos funcionales dentro de un menú hasta fotografías como la imagen de perfil del usuario. Cada imagen se seleccionará o diseñará en función de su contexto y objetivo específico dentro de la interfaz.
+
+#### Botones
+
+Los botones serán un elemento clave para facilitar la interacción del usuario con la aplicación. Su diseño seguirá las pautas definidas en el apartado de General Style Guidelines y deberán ser claramente distinguibles del resto de los elementos gráficos. Estarán presentes a lo largo de toda la aplicación, ya sea al final de formularios o como parte de opciones dentro de menús.
+
+#### Formularios
+
+Se integrarán formularios en diversas secciones de la aplicación, como las páginas de inicio de sesión, registro de usuarios, carga de documentos, entre otras. La implementación de estos formularios se adaptará al perfil del usuario, considerando tanto a desarrolladores principiantes como a desarrolladores con mayor experiencia.
 
 ## 4.2. Information Architecture
 
