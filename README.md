@@ -462,7 +462,7 @@ Se integrarán formularios en diversas secciones de la aplicación, como las pá
 <img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/About%20Us.png"/>
 
 #### Learn More Wireframe
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Learn%20More.png"/>
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3318f6cc03d43b461e49812ba0d4a35e36f54dd0/img/Learn%20More%20(1).png"/>
 
 #### Suscribe Wireframe
 <img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Suscribe.png"/>
@@ -476,13 +476,13 @@ Se integrarán formularios en diversas secciones de la aplicación, como las pá
 <img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/81b84572f012bedd2317112c906194b44749f84d/img/About%20Us-Mock.png"/>
 
 #### Learn More Mockup
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Learn%20More-Mock.png"/>
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1af882d5cda949db5c95359f0f13c7526159dfcf/img/Learn%20More-Mock%20(1).png"/>
 
 #### Suscribe Mockup
 <img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Suscribe-Mock.png"/>
 
 #### Login Mockup
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Suscribe-Mock.png"/>
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1af882d5cda949db5c95359f0f13c7526159dfcf/img/Login.png"/>
 
 #### Register Mockup
 <img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Register.png"/>
@@ -491,6 +491,23 @@ Se integrarán formularios en diversas secciones de la aplicación, como las pá
 
 ### 4.4.1. Web Applications Wireframes
 
+#### Desktop Browser
+#### Login & Register
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/83517cef8527291ea7835754ae2cbfac76b5c835/img/Login%26Register-Wireframe.png"/>
+
+#### Home
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/eb97c396e85fb5bc03f3d514a19c6784de33502f/img/Home-Wireframe.png"/>
+
+#### Stock Avaible and Additional
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Stock%20Avaible%20-%20Wireframe.png"/>
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Add%20Product%20-%20Wireframe.png"/>
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Product%20Info%20-%20Wireframe.png"/>
+
+#### Orders
+
+#### Recipes and Supplies
+
+#### Suppliers
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 ### 4.4.3. Web Applications Mock-ups
