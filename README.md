@@ -469,6 +469,24 @@ Se integrarán formularios en diversas secciones de la aplicación, como las pá
 
 ### 4.3.2. Landing Page Mock-up.
 
+#### Home Mockup
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/81b84572f012bedd2317112c906194b44749f84d/img/Home-Mock.png"/>
+
+#### About Us Mockup
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/81b84572f012bedd2317112c906194b44749f84d/img/About%20Us-Mock.png"/>
+
+#### Learn More Mockup
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Learn%20More-Mock.png"/>
+
+#### Suscribe Mockup
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Suscribe-Mock.png"/>
+
+#### Login Mockup
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Suscribe-Mock.png"/>
+
+#### Register Mockup
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Register.png"/>
+
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
