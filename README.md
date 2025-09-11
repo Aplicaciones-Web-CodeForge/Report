@@ -455,6 +455,18 @@ Se integrarán formularios en diversas secciones de la aplicación, como las pá
 
 ### 4.3.1. Landing Page Wireframe
 
+#### Home Wireframe
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Home.png"/>
+
+#### About Us Wireframe
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/About%20Us.png"/>
+
+#### Learn More Wireframe
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Learn%20More.png"/>
+
+#### Suscribe Wireframe
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Suscribe.png"/>
+
 ### 4.3.2. Landing Page Mock-up.
 
 ## 4.4. Web Applications UX/UI Design
