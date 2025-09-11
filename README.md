@@ -568,3 +568,6 @@ Se integrarán formularios en diversas secciones de la aplicación, como las pá
 # Bibliografía
 
 # Anexos
+
+#### Link del fIgma con los Wireframes y Mockups:
+https://www.figma.com/design/aLnPkV98dimVgAcqMvuEwF/LogisPE---Open-Source?node-id=18-2&t=g9jsx52P4fw9lbcX-1
