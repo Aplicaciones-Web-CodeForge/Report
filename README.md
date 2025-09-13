@@ -530,12 +530,12 @@ Se integrarán formularios en diversas secciones de la aplicación, como las pá
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Stock%20Avaible%20-%20Wireframe.png"/>
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/6ef347df67480f72d3638405cbda9034cdcc5039/img/Diagrama%20de%20Clases.png"/>
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Stock%20Avaible%20-%20Wireframe.png"/>
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/6ef347df67480f72d3638405cbda9034cdcc5039/img/Diagrama%20de%20Base%20de%20Datos.png"/>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
