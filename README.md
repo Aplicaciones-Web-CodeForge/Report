@@ -520,12 +520,16 @@ Se integrarán formularios en diversas secciones de la aplicación, como las pá
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Design-Level Event Storming
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/ee224d79ad2f1f124403868efac908f8073fad6b/img/Design-Level%20Event%20Storming.png"/>
 
 ### 4.6.2. Software Architecture Context Diagram
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/ee224d79ad2f1f124403868efac908f8073fad6b/img/Software%20Architecture%20Context%20Diagram.png"/>
 
 ### 4.6.3. Software Architecture Container Diagrams
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/ee224d79ad2f1f124403868efac908f8073fad6b/img/Software%20Architecture%20Container%20Diagrams.png"/>
 
 ### 4.6.4. Software Architecture Components Diagrams
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/ee224d79ad2f1f124403868efac908f8073fad6b/img/Software%20Architecture%20Components%20Diagrams.png"/>
 
 ## 4.7. Software Object-Oriented Design
 
