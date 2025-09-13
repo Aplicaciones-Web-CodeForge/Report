@@ -26,6 +26,7 @@
 
 - Javier Murillo, Mathias - U202022211
 - Condori Lozano, Alessandro Ramiro - U20211A118
+- Aguilar Untiveros, Rodrigo Fabrizio - U202318309
 
 <div align="center">
 
@@ -529,10 +530,12 @@ Se integrarán formularios en diversas secciones de la aplicación, como las pá
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Stock%20Avaible%20-%20Wireframe.png"/>
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Stock%20Avaible%20-%20Wireframe.png"/>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
