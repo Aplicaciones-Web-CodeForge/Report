@@ -410,7 +410,7 @@ El objetivo de las entrevistas es recolectar información cualitativa de propiet
 
 ### 2.2.1. Diseño de entrevistas
 
-Para restobares y restaurantes:
+**Para restobares y restaurantes:**
 
 Preguntas principales:
 
@@ -446,7 +446,7 @@ Preguntas principales:
 7.  ¿Cómo empezó en el rubro gastronómico?
     
 
-Para cafeterías y bares:
+**Para cafeterías y bares:**
 
 1.  ¿Cuál es el nombre de su negocio, en qué distrito está y cuántos años lleva operando?
     
@@ -478,7 +478,7 @@ Preguntas complementarias: 
 6.  ¿Qué experiencias previas han tenido con software de inventarios u otros sistemas? ¿Qué les gustó o no?
     
 
-Para emprendimientos gastronómicos:
+**Para emprendimientos gastronómicos:**
 
 Preguntas principales:
 
