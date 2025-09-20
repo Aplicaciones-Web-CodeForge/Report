@@ -517,6 +517,17 @@ Preguntas complementarias: 
 
 ### 2.3.1. User Personas
 
+Estas representaciones semi-ficticias de clientes ideales ayudan a comprender las necesidades, deseos, comportamientos de nuestros segmentos de usuario. A través de las fichas de User Persona, podremos comprender mejor a estos usuarios y orientar el diseño de nuestra plataforma para satisfacer sus necesidades.
+
+Segmento objetivo: Restaurantes y Restobares
+![User Diego](assets/user3.png)
+
+Segmento objetivo: Cafeterías y Bares
+![User Maria Alejandra](assets/user2.png)
+
+Segmento objetivo: Emprendimientos gastronómicos
+![User Javier](assets/user1.png)
+
 ### 2.3.2. User Task Matrix
 
 ### 2.3.3. User Journey Mapping
