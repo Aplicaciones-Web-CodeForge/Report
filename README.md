@@ -343,6 +343,16 @@ _Estadística de la problemática_
 
 ## 2.1. Competidores
 
+Dentro del mercado peruano existen múltiples opciones digitales para solucionar el problema de la gestión de inventarios, que compiten directa o indirectamente con nuestra propuesta. Entre los principales competidores identificados se encuentran:
+
+**Nubefact:** Plataforma peruana conocida por su servicio de facturación electrónica, que incluye herramientas para la administración de inventarios y ventas. Aunque cumple con las normativas de SUNAT y ofrece integración con sistemas POS, su principal beneficio no es la gestión de inventarios, lo que limita el nivel de personalización para las empresas que lo adquieren.
+
+**Siigo Perú:** Antes conocido como Contasis, es un sistema contable y administrativo que incorpora funciones como control de inventarios, compras y ventas. Tiene una amplia trayectoria en el mercado peruano y brinda soporte técnico local. Sin embargo, está más orientado a la contabilidad que a la gestión gastronómica, con interfaces menos intuitivas para usuarios sin experiencia tecnológica.
+
+**Factura Perú:** Solución peruana orientada a la facturación electrónica e inventarios para negocios pequeños. Sus principales beneficios son los costos accesibles, el cumplimiento legal con SUNAT y la facilidad de uso para empresas en crecimiento. No obstante, presenta limitaciones en funciones avanzadas enfocadas en gastronomía, como gestión de recetas, control de insumos perecibles o reportes especializados.
+
+Finalmente, es importante mencionar que algunos negocios en Perú aún recurren a herramientas indirectas como Excel o Google Sheets para llevar el control de sus inventarios de manera manual.
+
 ## 2.1.1. Análisis competitivo
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
