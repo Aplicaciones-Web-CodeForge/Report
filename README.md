@@ -531,47 +531,40 @@ Segmento objetivo: Emprendimientos gastronómicos
 ### 2.3.2. User Task Matrix
 ## User Task Matrix  
 
-En esta sección se presentan las tareas que realizan los **User Personas** de los tres segmentos objetivo definidos: **Restobares y Restaurantes**, **Cafeterías y Bares**, y **Emprendimientos Gastronómicos**. Las tareas corresponden a actividades necesarias para el funcionamiento y la sostenibilidad de sus negocios, independientemente del uso de herramientas digitales o soluciones de software.  
+En esta sección se presentan las tareas que realizan los **User Personas** de los tres segmentos objetivo:  
+- **Diego Fernández Valdivia** (Restobares y Restaurantes).  
+- **María Alejandra Pérez Alvarado** (Cafeterías y Bares).  
+- **Javier Ramírez Soto** (Emprendimientos Gastronómicos).  
+
+Las tareas corresponden a actividades necesarias para el funcionamiento de sus negocios, independientemente de la existencia de soluciones digitales.  
 
 ### Cuadro de User Task Matrix  
 
-> En el User Task Matrix se presentan las tareas que realizan nuestros
-> User Personas identificados.
-
-| **Tareas** | **Restobares y Restaurantes**<br>Frecuencia | **Restobares y Restaurantes**<br>Importancia | **Cafeterías y Bares**<br>Frecuencia | **Cafeterías y Bares**<br>Importancia | **Emprendimientos Gastronómicos**<br>Frecuencia | **Emprendimientos Gastronómicos**<br>Importancia |
-|------------|--------------------------------------------|----------------------------------------------|--------------------------------------|----------------------------------------|-------------------------------------------------|--------------------------------------------------|
+| **Tareas** | **Diego Fernández**<br>(Restobares y Restaurantes)<br>Frecuencia | **Diego Fernández**<br>Importancia | **María Alejandra**<br>(Cafeterías y Bares)<br>Frecuencia | **María Alejandra**<br>Importancia | **Javier Ramírez**<br>(Emprendimientos Gastronómicos)<br>Frecuencia | **Javier Ramírez**<br>Importancia |
+|------------|-------------------------------------------------|-------------------------------|-------------------------------------------------|-------------------------------|---------------------------------------------------|-----------------------------------|
 | Gestionar inventario de insumos | Alta | Alta | Alta | Alta | Alta | Alta |
 | Coordinar pedidos con proveedores | Alta | Alta | Media | Alta | Alta | Alta |
-| Controlar costos y rentabilidad de productos | Media | Alta | Media | Alta | Alta | Alta |
+| Controlar costos y rentabilidad de productos | Alta | Alta | Media | Alta | Alta | Alta |
 | Estandarizar recetas y procesos | Media | Alta | Alta | Alta | Media | Alta |
 | Evitar quiebres de stock | Alta | Alta | Alta | Alta | Alta | Alta |
 | Gestionar la rotación de productos perecibles | Alta | Alta | Alta | Alta | Media | Alta |
 | Proyectar compras según demanda | Media | Alta | Media | Alta | Media | Alta |
-| Monitorear ventas diarias y márgenes | Media | Alta | Media | Media | Alta | Alta |
+| Monitorear ventas diarias y márgenes | Alta | Alta | Media | Media | Alta | Alta |
 | Organizar la apertura y operación diaria | Alta | Alta | Alta | Alta | Alta | Alta |
 | Planificar crecimiento del negocio | Media | Alta | Baja | Media | Alta | Alta |
 
 ### Explicación de las tareas principales  
 
-- **Gestionar inventario de insumos:** Fundamental para asegurar continuidad en el servicio, evitar sobrecompras y minimizar pérdidas.  
-
-- **Coordinar pedidos con proveedores:** Permite mantener relaciones sólidas con los abastecedores y garantizar disponibilidad de insumos.  
-
-- **Controlar costos y rentabilidad de productos:** Es clave para identificar platos o bebidas más rentables y ajustar la estrategia comercial.  
-
-- **Estandarizar recetas y procesos:** Contribuye a la consistencia en la calidad del producto ofrecido y mejora la experiencia del cliente.  
-
-- **Evitar quiebres de stock:** La falta de insumos en momentos críticos impacta directamente en las ventas y en la satisfacción del cliente.  
-
-- **Gestionar la rotación de productos perecibles:** Ayuda a minimizar pérdidas económicas y asegurar frescura en los productos servidos.  
-
-- **Proyectar compras según demanda:** Permite optimizar el abastecimiento en función de temporadas, días de mayor concurrencia o eventos especiales.  
-
-- **Monitorear ventas diarias y márgenes:** Proporciona información clave para la toma de decisiones y ajustes financieros.  
-
-- **Organizar la apertura y operación diaria:** Asegura orden y eficiencia en la atención al cliente, especialmente en picos de demanda.  
-
-- **Planificar crecimiento del negocio:** Tarea especialmente crítica para emprendedores, que necesitan visión a largo plazo y escalabilidad.  
+- **Gestionar inventario de insumos:** Evitar sobrecompras, pérdidas y garantizar disponibilidad de productos críticos.  
+- **Coordinar pedidos con proveedores:** Mantener abastecimiento constante y evitar retrasos.  
+- **Controlar costos y rentabilidad:** Detectar platos o productos más rentables y ajustar la oferta.  
+- **Estandarizar recetas y procesos:** Asegurar consistencia y calidad en el servicio.  
+- **Evitar quiebres de stock:** Prevenir quiebres en horarios pico que afectan ventas y experiencia del cliente.  
+- **Gestionar rotación de perecibles:** Reducir pérdidas por caducidad y asegurar frescura.  
+- **Proyectar compras según demanda:** Anticiparse a temporadas y eventos especiales.  
+- **Monitorear ventas diarias y márgenes:** Dar visibilidad sobre ingresos y costos en tiempo real.  
+- **Organizar operación diaria:** Garantizar orden, eficiencia y consistencia en cada jornada.  
+- **Planificar crecimiento del negocio:** Especialmente crítico en emprendimientos que buscan sostenibilidad y escalabilidad.  
 
 
 ### 2.3.3. User Journey Mapping
