@@ -569,6 +569,15 @@ Las tareas corresponden a actividades necesarias para el funcionamiento de sus n
 
 ### 2.3.3. User Journey Mapping
 
+En esta parte se muestran los User Journey Maps As-Is de cada User Persona. El objetivo es representar cómo viven actualmente sus procesos, desde la planificación hasta la evaluación, señalando sus acciones, emociones, puntos de contacto y principales problemas. Estos mapas reflejan la situación real sin una solución implementada y ayudan a entender mejor las necesidades de los usuarios, sirviendo como base para proponer mejoras en el futuro.
+
+**Segmento objetivo: Restobares y Restaurantes**
+![User Diego](assets/journey1.png)
+**Segmento objetivo: Cafeterías y Bares**
+![User Maria Alejandra](assets/journey2.png)
+**Segmento objetivo: Emprendimientos Gastronómicos**
+![User Javier](assets/journey3.png)
+
 ### 2.3.4. Empathy Mapping
 
 ### 2.4. Big Picture Event Storming
