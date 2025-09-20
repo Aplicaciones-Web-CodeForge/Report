@@ -372,6 +372,38 @@ Finalmente, es importante mencionar que algunos negocios en Perú aún recurren 
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
 
+Estrategias: 
+
+*   Resaltar la especialización gastronómica frente a competidores generales de facturación e inventarios.
+    
+*   Ofrecer precios accesibles y escalables, que se adapten al tamaño y crecimiento del negocio gastronómico.
+    
+*   Garantizar seguridad y confiabilidad, con roles de usuario, respaldos automáticos y protección de datos.
+    
+*   Aprovechar la digitalización acelerada del sector gastronómico en Perú, impulsada por la necesidad de eficiencia y control.
+    
+*   Mantener la innovación constante, incorporando funcionalidades específicas como gestión de recetas, alertas de insumos perecibles y reportes de rentabilidad.
+    
+*   Promover una experiencia de usuario intuitiva y accesible, diseñada específicamente para negocios gastronómicos, lo que facilita la adopción rápida del sistema sin necesidad de conocimientos técnicos avanzados.
+    
+
+Tácticas:
+
+*   Campañas de marketing digital enfocadas en redes sociales y asociaciones con gremios gastronómicos, destacando la facilidad de uso y el ahorro en pérdidas de insumos.
+    
+*   Demostración gratuitas (free trials) para mostrar beneficios inmediatos del sistema frente a la competencia.
+    
+*   Capacitación y soporte cercano, ayudando a superar la resistencia al cambio tecnológico que afecta a muchos negocios pequeños.
+    
+*   Desarrollo de tutoriales y guías interactivas, para que cualquier usuario (sin conocimientos contables) pueda manejar el sistema sin dificultad.
+    
+*   Reportes personalizables en PDF/Excel, resaltando cómo ayudan a la toma de decisiones y la reducción de costos.
+    
+*   Monitoreo constante de competidores para adaptar mejoras rápidamente y aprovechar sus debilidades.
+    
+
+Estrategia freemium o plan básico económico, que atraiga a microempresas que de otro modo optaron por soluciones limitadas como Excel.
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
