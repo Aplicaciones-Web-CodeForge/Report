@@ -355,6 +355,21 @@ Finalmente, es importante mencionar que algunos negocios en Perú aún recurren 
 
 ## 2.1.1. Análisis competitivo
 
+| Categoría | Su Startup | Nubefact | Siigo Perú | Factura Perú |
+|-----------|------------|-----------|------------|--------------|
+| **Perfil - Overview** | Aplicación web especializada en gestión de inventarios para el sector gastronómico. | Plataforma peruana centrada en facturación electrónica, con módulo básico de inventarios. | Sistema contable y administrativo con funciones de inventario, compras y ventas. | Solución peruana de facturación electrónica con módulo de inventarios para negocios pequeños. |
+| **Ventaja Competitiva** | Especialización gastronómica: recetas, control de insumos perecibles, alertas automáticas. | Cumplimiento con SUNAT y alta adaptación en los negocios peruanos. | Amplia trayectoria, soporte contable y administrativo. | Costos accesibles y facilidad de uso para microempresas. |
+| **Perfil de Marketing - Mercado objetivo** | Restaurantes, cevicherías, cafeterías y emprendimientos gastronómicos. | Empresas de todos los rubros que requieren facturación electrónica. | PYMEs que buscan un sistema administrativo y contable. | Negocios pequeños: bodegas, tiendas, etc. |
+| **Perfil de Marketing - Estrategias** | Marketing digital, alianzas con gremios gastronómicos, referidos. | Posicionamiento como líder en facturación electrónica en Perú. | Presencia corporativa y convenios contables. | Promoción de precios bajos y cumplimiento legal. |
+| **Perfil de Producto - Productos & Servicios** | Inventario en tiempo real, recetas, proveedores, reportes, alertas automáticas. | Facturación electrónica + inventarios básicos. | Contabilidad, inventarios, compras y ventas. | Facturación e inventarios simples. |
+| **Perfil de Producto - Precios & Costos** | Planes escalables y accesibles a pymes gastronómicas. | Suscripciones orientadas a facturación. | Costos más altos, orientados a contabilidad integral. | Costos bajos para pequeños negocios. |
+| **Perfil de Producto - Canales** | 100% web responsive. Disponible en dispositivos móviles. | Web | Web y aplicaciones conectadas. | Web (principalmente escritorio). |
+| **SWOT - Fortalezas** | Especialización en gastronomía, interfaz intuitiva, reportes claros. | Cumplimiento legal con SUNAT, gran base de clientes. | Trayectoria, soporte técnico local. | Precio accesible, fácil de implementar. |
+| **SWOT - Debilidades** | Nueva en el mercado, menos reconocimiento. | Módulo de inventarios poco desarrollado. | Complejidad de uso, enfoque contable más que operativo. | Funciones limitadas en gastronomía. |
+| **SWOT - Oportunidades** | Crecimiento del sector gastronómico, digitalización de pymes. | Ampliar funciones hacia sectores especializados. | Integrar más módulos sectoriales. | Expandirse en microempresas. |
+| **SWOT - Amenazas** | Resistencia al cambio tecnológico, competencia consolidada. | Aparición de softwares especializados en gastronomía. | Competidores más simples y accesibles. | Migración de usuarios a plataformas más completas. |
+
+
 ## 2.1.2. Estrategias y tácticas frente a competidores
 
 ## 2.2. Entrevistas
