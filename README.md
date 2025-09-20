@@ -444,13 +444,71 @@ Se integrarán formularios en diversas secciones de la aplicación, como las pá
 
 ### 4.2.1. Organization Systems
 
+Dominios y entidades: Usuarios (Login, Register, Perfil), Inventario (Productos, Stock disponible, Recetas, Insumos), Proveedores, Órdenes, Analítica (Dashboard/Home).
+
+Estructura jerárquica (top-level → subniveles):
+
+Público: Home (landing), Login, Register.
+
+Privado (app): Home/Dashboard, Stock (/app/stock), Orders (/app/orders), Recipes & Supplies (/app/recipes, /app/supplies), Suppliers (/app/suppliers), Products (/app/products, …/new, …/:id), Profile (/app/profile).
+
+Flujos por tarea: Alta de producto → asignar receta/insumos → actualizar stock; Reabastecimiento (low stock) → orden a proveedor → recepción → stock ↑; Gestión de pedidos → filtrar → detalle → actualizar estado.
+
+Acceso y permisos: rutas públicas vs. privadas; roles (Administrador / Operador / Lectura) para crear/editar/eliminar y ver reportes.
+
 ### 4.2.2. Labeling Systems
+
+Principios: lenguaje claro y consistente; singular para detalle y plural para listados; verbos en botones; evitar jerga.
+
+Menú/navegación: Home, Stock, Orders, Recipes, Supplies, Suppliers, Products, Add Product, Profile, Logout.
+
+Columnas comunes: SKU, Name, Category, Qty/Unit, Cost, Status, Updated, Supplier, Actions.
+
+CTAs: Add Product, New Order, Save, Cancel, Edit, Delete, Export CSV, Restock.
+
+Mensajes del sistema: vacíos (“No results”), validaciones (“SKU is required”), confirmaciones (“Order created”), errores (“Network error, try again”).
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+<.title>LogisPe — Inventory & Orders</title> <br>
+<.meta name="description" content="Controla stock, órdenes, recetas e insumos en un solo lugar."> <br>
+<.link rel="canonical" href="https://example.com/"> <br>
+<.meta property="og:title" content="LogisPe — Inventory & Orders"> <br>
+<.meta property="og:description" content="Dashboard para inventario, órdenes y proveedores."> <br>
+<.meta property="og:image" content="https://example.com/og-cover.jpg"> <br>
+<.meta name="twitter:card" content="summary_large_image">
+
 ### 4.2.4. Searching Systems
 
+Búsqueda en tablas: input con debounce por Nombre/SKU/Proveedor; coincidencia parcial; normalización de mayúsculas/acentos.
+
+Filtros avanzados: chips por Estado (Active/Low stock/Pending/Shipped), Categoría, Rango de fechas (Orders), Proveedor (Stock/Suppliers).
+
+Orden y paginación: orden por columna con indicador; paginación server-side para grandes volúmenes.
+
+Vistas guardadas: Low stock, Pending orders, Recently updated.
+
+Acciones del resultado: exportación (CSV/Excel) y selección múltiple (acciones en lote).
+
+Búsqueda global (opcional): atajo Ctrl/⌘+K para abrir Productos/Órdenes/Proveedores y saltar al detalle.
+
 ### 4.2.5. Navigation Systems
+
+Navegación global: sidebar persistente con módulos; topbar con búsqueda, notificaciones y menú de usuario (Perfil/Logout).
+
+Navegación local: subpestañas o filtros contextuales (Orders: All, Pending, Shipped; Stock: All, Low stock).
+
+Breadcrumbs: p. ej., Suppliers / Acme Co. / Edit para contexto y retorno.
+
+Navegación contextual: enlaces cruzados (desde Low stock → Create purchase order; desde Supplier → View related products).
+
+Detalle/formularios: “Back to list”, confirmación al salir si hay cambios no guardados; autosave opcional.
+
+Paginación y densidad: controles al pie; selector de filas por página y densidad (compacta/normal).
+
+Responsive y accesibilidad: sidebar colapsable en móvil; foco visible; navegación con teclado; roles/ARIA; contraste adecuado.
+
+Estados vacíos/errores: empty states con CTA (“Add Product”) y páginas 404/403 coherentes con el layout.
 
 ## 4.3. Landing Page UI Design
 
@@ -492,7 +550,6 @@ Se integrarán formularios en diversas secciones de la aplicación, como las pá
 
 ### 4.4.1. Web Applications Wireframes
 
-#### Desktop Browser
 #### Login & Register
 <img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/83517cef8527291ea7835754ae2cbfac76b5c835/img/Login%26Register-Wireframe.png"/>
 
@@ -505,17 +562,54 @@ Se integrarán formularios en diversas secciones de la aplicación, como las pá
 <img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Product%20Info%20-%20Wireframe.png"/>
 
 #### Orders
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/10e40a8cf6508dad9eaf616e4e90e8d653fe5eb7/img/Orders1.png">
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/10e40a8cf6508dad9eaf616e4e90e8d653fe5eb7/img/Orders2.png">
 
 #### Recipes and Supplies
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/7108cc69e8ccd3f12486043224314ae266343e77/img/Recipes-wireframes.png">
 
 #### Suppliers
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1a0ff24fd74cc29b94c591844a1b3312b1dc5eee/img/Suppliers1-wireframes.png">
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1a0ff24fd74cc29b94c591844a1b3312b1dc5eee/img/Suppliers2-wireframes.png">
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/dcf6a4c117bbe51a62871c5b6c1d06d8414791ca/img/Wireframe-Wireflow.png">
 
 ### 4.4.3. Web Applications Mock-ups
 
+#### Login & Register
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/49bccf341ee220f79120b36ffbda5ce15cb5b3d0/img/Login-Mockup.png"/>
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/49bccf341ee220f79120b36ffbda5ce15cb5b3d0/img/Register-Mockup.png">
+
+#### Home
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/b7a531a6aaedea58c4a8871e3679a80e23fcad5d/img/Home-Mockup.png"/>
+
+#### Stock Avaible and Additional
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f81bbbf90d270efb4f09661050d01fb835f1ad16/img/Stock1-Mockup.png"/>
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f81bbbf90d270efb4f09661050d01fb835f1ad16/img/Stock2-Mockup.png"/>
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f81bbbf90d270efb4f09661050d01fb835f1ad16/img/Stock3-Mockup.png"/>
+
+#### Orders
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/ca5909c57ab5c2457b49bae1ee27b43aa136ebb3/img/Orders1-Mockup.png">
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/ca5909c57ab5c2457b49bae1ee27b43aa136ebb3/img/Orders2-Mockup.png">
+
+#### Recipes and Supplies
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/70dda5bbf48e565740a972c5d1ff249680e0d4ba/img/Recipes-mockup.png">
+
+#### Suppliers
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/70dda5bbf48e565740a972c5d1ff249680e0d4ba/img/Suppliers1-mockup.png">
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/70dda5bbf48e565740a972c5d1ff249680e0d4ba/img/Suppliers2-mockup.png">
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/dcf6a4c117bbe51a62871c5b6c1d06d8414791ca/img/Mockup-Wireflow.png">
+
 ## 4.5. Web Applications Prototyping
+
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/b7a531a6aaedea58c4a8871e3679a80e23fcad5d/img/Home-Mockup.png"/>
+
+Link del Figma: https://www.figma.com/design/IOMF0hdIHOy89ULFA7dwIh/Untitled?node-id=0-1&t=zsc02RRSwG2QXSx6-1
 
 ## 4.6. Domain-Driven Software Architecture
 
