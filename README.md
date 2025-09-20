@@ -406,7 +406,108 @@ Estrategia freemium o plan básico económico, que atraiga a microempresas que d
 
 ## 2.2. Entrevistas
 
+El objetivo de las entrevistas es recolectar información cualitativa de propietarios, administradores y personal de negocios gastronómicos para conocer sus características demográficas y de contexto, identificar hábitos de gestión de inventarios y tecnología, explorar necesidades, frustraciones y expectativas con respecto a un sistema digital de gestión y construir arquetipos de usuario que guíen el diseño del producto.
+
 ### 2.2.1. Diseño de entrevistas
+
+Para restobares y restaurantes:
+
+Preguntas principales:
+
+1.  ¿Cuál es el nombre de su negocio, en qué distrito se ubica y cuántos años lleva operando?
+    
+2.  ¿Qué métodos utilizan actualmente para controlar el inventario (manual, Excel, sistema)?
+    
+3.  ¿Qué problemas han enfrentado en el control de insumos y productos (quiebres, exceso, desperdicio)?
+    
+4.  ¿Cómo realizan actualmente la reposición de insumos perecibles?
+    
+5.  ¿Cómo gestionan la relación con proveedores y recetas?
+    
+6.  ¿Qué tipo de reportes o información necesitan para tomar decisiones de compra?
+    
+7.  ¿Qué factores los motivarían a implementar un sistema digital de inventarios?
+    
+
+      Preguntas complementarias:
+
+1.  ¿Podría contarme un poco sobre usted?
+    
+2.  ¿Qué dispositivos usan más en la gestión del negocio (computadora, tablet, celular)?.
+    
+3.  ¿Qué canales digitales utilizan con más frecuencia (WhatsApp, correo, redes sociales)?
+    
+4.  Cuando toma decisiones importantes, ¿las consulta con alguien más (familia, socios, colegas)?
+    
+5.  ¿Qué objetivos tienen a corto plazo (por ejemplo: reducir pérdidas, abrir nuevas sedes)?
+    
+6.  En su día a día, ¿qué es lo que más le frustra en la gestión del negocio?
+    
+7.  ¿Cómo empezó en el rubro gastronómico?
+    
+
+Para cafeterías y bares:
+
+1.  ¿Cuál es el nombre de su negocio, en qué distrito está y cuántos años lleva operando?
+    
+2.  ¿Cuáles son los productos de mayor rotación en su cafetería o bar?
+    
+3.  ¿Cómo controlan actualmente la reposición de insumos perecibles?
+    
+4.  ¿Han tenido pérdidas económicas por caducidad o falta de control de inventario?
+    
+5.  ¿Qué tan relevantes serían para ustedes las alertas automáticas de stock bajo?
+    
+6.  ¿Qué beneficios esperan de un sistema especializado en gastronomía?
+    
+7.  ¿Qué limitaciones han encontrado con los métodos que usan actualmente (Excel, manual)?
+    
+
+Preguntas complementarias: 
+
+1.  ¿Podría contarme un poco sobre usted? (edad, ocupación, lugar de residencia).
+    
+2.  ¿Qué dispositivos suelen usar durante la operación (celular en turno, PC en oficina)?
+    
+3.  ¿Qué tan familiarizado está con herramientas digitales (Excel, apps, POS)?
+    
+4.  ¿Qué personas, marcas o colegas suelen influir cuando deciden implementar nuevas herramientas en el negocio?
+    
+5.  ¿Qué objetivos buscan alcanzar (optimizar compras, reducir desperdicios, mejorar márgenes)?
+    
+6.  ¿Qué experiencias previas han tenido con software de inventarios u otros sistemas? ¿Qué les gustó o no?
+    
+
+Para emprendimientos gastronómicos:
+
+Preguntas principales:
+
+1.  ¿Cuál es el nombre de su negocio, en qué distrito se ubica y cuánto tiempo lleva operando?
+    
+2.  ¿Qué los motivó a iniciar este emprendimiento gastronómico?
+    
+3.  ¿Cómo gestionan actualmente sus inventarios y proveedores?
+    
+4.  ¿Qué funciones consideran esenciales en un sistema que los acompañe desde el inicio?
+    
+5.  ¿Qué factores los harían confiar en un software (precio, facilidad de uso, soporte, recomendación)?
+    
+6.  ¿Qué tan importante es para ustedes recibir reportes sobre costos y rentabilidad?
+    
+7.  ¿Qué objetivos tienen a corto y mediano plazo con el negocio (ej. crecer, formalizarse, digitalizar procesos)?
+    
+
+Preguntas complementarias: 
+
+1.  Para conocerte un poco más, ¿cuál es tu edad, ocupación y dónde resides?
+    
+2.  ¿Qué experiencia previa has tenido en gastronomía o en otros rubros?
+    
+3.  ¿Qué dispositivos prefieres para trabajar (celular, tablet, PC)?
+    
+4.  ¿Qué personas, marcas o referentes suelen considerar antes de decidir sobre nuevas herramientas digitales?
+    
+5.  Si pudieras diseñar la herramienta ideal para tu negocio, ¿cómo sería?
 
 ### 2.2.2. Registro de entrevistas
 
