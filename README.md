@@ -617,6 +617,46 @@ En esta sección se presenta el Big Picture Event Storming realizado por el equi
 
 ### 2.5. Ubiquitous Language
 
+**Inventory (Inventario):** Son todos los insumos y productos que el negocio tiene guardados y listos para usarse en la operación diaria.
+
+**Stock Out (Quiebre de Stock):** Cuando un insumo se acaba y ya no se puede preparar una receta o atender un pedido.
+
+**Overstock (Sobrestock):** Tener más insumos de los necesarios, lo que termina generando caducidad, desperdicios o dinero inmovilizado.
+
+**Waste (Desperdicio):** Pérdida de productos por mala gestión, porque se vencieron o se usaron de manera ineficiente.
+
+**Supplier (Proveedor):** Persona o empresa que entrega los insumos o materias primas al negocio.
+
+**Order (Pedido):** Solicitud que hace el negocio a un proveedor para asegurarse de que no falten productos.
+
+**Recipe (Receta):** Lista detallada de ingredientes y cantidades necesarias para preparar un plato o bebida de manera estándar.
+
+**Menu Item (Plato del Menú):** El producto final que aparece en la carta y que llega al cliente.
+
+**Consumption (Consumo):** El uso real de los insumos durante la preparación de platos en la jornada.
+
+**Expiration (Caducidad):** Fecha límite en la que un insumo puede usarse con seguridad antes de que se eche a perder.
+
+**Cost of Goods Sold – COGS (Costo de Ventas):** Es el valor de todos los insumos utilizados para preparar los productos vendidos.
+
+**Profit Margin (Margen de Ganancia):** Lo que queda de diferencia entre el precio de venta de un plato y lo que costó prepararlo.
+
+**Sales Report (Reporte de Ventas):** Resumen de todas las ventas realizadas en un periodo de tiempo.
+
+**User Role (Rol de Usuario):** El tipo de acceso o funciones que tiene cada persona dentro del sistema (administrador, cajero, mozo, cocinero, etc.).
+
+**Purchase Forecast (Proyección de Compras):** Una estimación de los insumos que se van a necesitar en el futuro, calculada a partir del historial de consumo.
+
+**Reorder Point (Punto de Reorden):** El nivel mínimo de inventario a partir del cual se genera automáticamente un nuevo pedido.
+
+**Service Continuity (Continuidad del Servicio):** La capacidad del negocio de operar sin interrupciones y sin quedarse sin insumos.
+
+**Customer Satisfaction (Satisfacción del Cliente):** La percepción positiva de los clientes sobre la calidad del servicio, la atención y la disponibilidad de productos.
+
+**Digital Report (Reporte Digital):** Documento que genera automáticamente el sistema con datos de consumo, costos y ventas.
+
+**Alert Notification (Notificación de Alerta):** Aviso automático que manda el sistema cuando un insumo está a punto de agotarse.
+
 # Capítulo III: Requirements Specification
 
 ## 3.1. User Stories
