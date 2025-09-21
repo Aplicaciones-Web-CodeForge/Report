@@ -220,11 +220,11 @@ La propuesta de valor radica en la simplicidad y personalización del sistema. M
 
 | Integrantes | Descripción | Conocimientos |
 | :---------- | :---------- | :------------ |
-| <div style="display: flex; align-items: center;"><img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/3e152bc721b8f4af5ed4a09ce9a896e9f78f8340/images/MathiasJM.jpg" alt="Integrante1" width="100" height="120">&nbsp;&nbsp;<br>**Mathias Javier Murillo**</div> | Estudiante de Ingeniería de Software. Apasionado por las nuevas tecnologías y realizar nuevos proyectos | Conocimientos en SQL, HTML, JS, CSS y Python |
-| <div style="display: flex; align-items: center;"><img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/AlessandroCondori.jpg" alt="Integrante2" width="100" height="120">&nbsp;&nbsp;<br>**Alessandro Condori**</div> | Soy estudiante de la carrera de Ingeniería de Software, puedo aportar mucho al equipo, aplicando mis conocimientos en diversos lenguajes de programación | Java, C++, Python, html, css, javascrip, C# y SQL |
-| <div style="display: flex; align-items: center;"><img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/AugustoMontes.png" alt="Integrante3" width="100" height="120">&nbsp;&nbsp;<br>**Augusto Montes**</div> | Estudiante de la carrera de Ingeniería de Software. Programador amateur, interesado en la creación de aplicaciones, ciberseguridad y videojuegos| C++, C#, SQL, Html, css, javascript, python y java |
-| <div style="display: flex; align-items: center;"><img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/KatherineAguilar.jpg" alt="Integrante4" width="100" height="120">&nbsp;&nbsp;<br>**Katherine Mejia**</div> | Estudiante de 5to ciclo de la carrera de ingeniería de software. Tengo experiencia creando aplicaciones front end que consuman una API y hagan peticiones. | C++, C#, SQL, Html, css, javascript, python y java |
-| <div style="display: flex; align-items: center;"><img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/RodrigoAguilar.jpg" alt="Integrante5" width="100" height="120">&nbsp;&nbsp;<br>**Rodrigo Aguilar**</div> | Estudiante de Ingeniería de Software cursando el 6 ciclo de la carrera de ingeniería de software.  | Tengo experiencia con Javascript, Java, C++. |
+| <div style="display: flex; align-items: center;">![Integrante1](https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/3e152bc721b8f4af5ed4a09ce9a896e9f78f8340/images/MathiasJM.jpg)&nbsp;&nbsp;<br>**Mathias Javier Murillo**</div> | Estudiante de Ingeniería de Software. Apasionado por las nuevas tecnologías y realizar nuevos proyectos | Conocimientos en SQL, HTML, JS, CSS y Python |
+| <div style="display: flex; align-items: center;">![Integrante2](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/AlessandroCondori.jpg)&nbsp;&nbsp;<br>**Alessandro Condori**</div> | Soy estudiante de la carrera de Ingeniería de Software, puedo aportar mucho al equipo, aplicando mis conocimientos en diversos lenguajes de programación | Java, C++, Python, html, css, javascrip, C# y SQL |
+| <div style="display: flex; align-items: center;">![Integrante3](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/AugustoMontes.png)&nbsp;&nbsp;<br>**Augusto Montes**</div> | Estudiante de la carrera de Ingeniería de Software. Programador amateur, interesado en la creación de aplicaciones, ciberseguridad y videojuegos| C++, C#, SQL, Html, css, javascript, python y java |
+| <div style="display: flex; align-items: center;">![Integrante4](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/KatherineAguilar.jpg)&nbsp;&nbsp;<br>**Katherine Mejia**</div> | Estudiante de 5to ciclo de la carrera de ingeniería de software. Tengo experiencia creando aplicaciones front end que consuman una API y hagan peticiones. | C++, C#, SQL, Html, css, javascript, python y java |
+| <div style="display: flex; align-items: center;">![Integrante5](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/RodrigoAguilar.jpg)&nbsp;&nbsp;<br>**Rodrigo Aguilar**</div> | Estudiante de Ingeniería de Software cursando el 6 ciclo de la carrera de ingeniería de software.  | Tengo experiencia con Javascript, Java, C++. |
 
 
 ## 1.2 Solution Profile
@@ -1097,7 +1097,7 @@ En esta sección se presenta el Big Picture Event Storming realizado por el equi
 
 ## 3.2. Impact Mapping
 
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3546d09e0ce3821addfa7613d37cd1e07d57eaa3/img/Impact%20map%201.png">
+![ImpactMapping](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3546d09e0ce3821addfa7613d37cd1e07d57eaa3/img/Impact%20map%201.png)
 
 ## 3.3. Product Backlog
 
@@ -1160,21 +1160,21 @@ El nombre de nuestro producto es LogisPe, que da a entender el apoyo en la logis
 
 #### Logo:
 
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/8019c2c2143e92d4dc2cf3df187b961bc4f659e6/img/Logo.png" style="width: 50%"/>
+![Logo](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/8019c2c2143e92d4dc2cf3df187b961bc4f659e6/img/Logo.png) 
 
 #### Colores:
 
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/d2ce0581baefc71e19b27c35feb30d953e33fe81/img/Colores.png"/>
+![Colores](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/d2ce0581baefc71e19b27c35feb30d953e33fe81/img/Colores.png)
 
 #### Tipografía:
 
 La tipografía organiza el lenguaje visual de las plataformas, garantizando legibilidad y mejorando la experiencia del usuario. Por eso, se eligieron estos tipos de letra:
 
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/085181a7ae5a87ce9ac8350bb00f2a32fa7df4d5/img/Tipografia.png"/>
+![Tipografia](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/085181a7ae5a87ce9ac8350bb00f2a32fa7df4d5/img/Tipografia.png)
 
 #### Espaciado:
 
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/b8a51503dcb87c07f8857bd821b06027d8758718/img/Espaciado.png"/>
+![Espaciado](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/b8a51503dcb87c07f8857bd821b06027d8758718/img/Espaciado.png)
 
 ### 4.1.2. Web Style Guidelines
 
@@ -1265,125 +1265,126 @@ Estados vacíos/errores: empty states con CTA (“Add Product”) y páginas 404
 ### 4.3.1. Landing Page Wireframe
 
 #### Home Wireframe
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Home.png"/>
+![HomeWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Home.png)
 
 #### About Us Wireframe
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/About%20Us.png"/>
+![AboutWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/About%20Us.png)
 
 #### Learn More Wireframe
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3318f6cc03d43b461e49812ba0d4a35e36f54dd0/img/Learn%20More%20(1).png"/>
+![LearnWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3318f6cc03d43b461e49812ba0d4a35e36f54dd0/img/Learn%20More%20(1).png)
 
 #### Suscribe Wireframe
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Suscribe.png"/>
+![SuscribeWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Suscribe.png)
 
 ### 4.3.2. Landing Page Mock-up.
 
 #### Home Mockup
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/81b84572f012bedd2317112c906194b44749f84d/img/Home-Mock.png"/>
+![HomeMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/81b84572f012bedd2317112c906194b44749f84d/img/Home-Mock.png)
 
 #### About Us Mockup
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/81b84572f012bedd2317112c906194b44749f84d/img/About%20Us-Mock.png"/>
+![AboutMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/81b84572f012bedd2317112c906194b44749f84d/img/About%20Us-Mock.png)
 
 #### Learn More Mockup
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1af882d5cda949db5c95359f0f13c7526159dfcf/img/Learn%20More-Mock%20(1).png"/>
+![LearnMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1af882d5cda949db5c95359f0f13c7526159dfcf/img/Learn%20More-Mock%20(1).png)
 
 #### Suscribe Mockup
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Suscribe-Mock.png"/>
+![SuscribeMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Suscribe-Mock.png)
 
 #### Login Mockup
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1af882d5cda949db5c95359f0f13c7526159dfcf/img/Login.png"/>
+![LoginMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1af882d5cda949db5c95359f0f13c7526159dfcf/img/Login.png)
 
 #### Register Mockup
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Register.png"/>
+![RegisterMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Register.png)
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
 
 #### Login & Register
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/83517cef8527291ea7835754ae2cbfac76b5c835/img/Login%26Register-Wireframe.png"/>
+![Login & Register](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/83517cef8527291ea7835754ae2cbfac76b5c835/img/Login%26Register-Wireframe.png)
 
 #### Home
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/eb97c396e85fb5bc03f3d514a19c6784de33502f/img/Home-Wireframe.png"/>
+![Home](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/eb97c396e85fb5bc03f3d514a19c6784de33502f/img/Home-Wireframe.png)
 
-#### Stock Avaible and Additional
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Stock%20Avaible%20-%20Wireframe.png"/>
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Add%20Product%20-%20Wireframe.png"/>
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Product%20Info%20-%20Wireframe.png"/>
+#### Stock Available and Additional
+![Stock Available](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Stock%20Avaible%20-%20Wireframe.png)  
+![Add Product](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Add%20Product%20-%20Wireframe.png)  
+![Product Info](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Product%20Info%20-%20Wireframe.png)
 
 #### Orders
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/10e40a8cf6508dad9eaf616e4e90e8d653fe5eb7/img/Orders1.png">
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/10e40a8cf6508dad9eaf616e4e90e8d653fe5eb7/img/Orders2.png">
+![Orders 1](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/10e40a8cf6508dad9eaf616e4e90e8d653fe5eb7/img/Orders1.png)  
+![Orders 2](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/10e40a8cf6508dad9eaf616e4e90e8d653fe5eb7/img/Orders2.png)
 
 #### Recipes and Supplies
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/7108cc69e8ccd3f12486043224314ae266343e77/img/Recipes-wireframes.png">
+![Recipes and Supplies](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/7108cc69e8ccd3f12486043224314ae266343e77/img/Recipes-wireframes.png)
 
 #### Suppliers
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1a0ff24fd74cc29b94c591844a1b3312b1dc5eee/img/Suppliers1-wireframes.png">
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1a0ff24fd74cc29b94c591844a1b3312b1dc5eee/img/Suppliers2-wireframes.png">
+![Suppliers 1](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/1a0ff24fd74cc29b94c591844a1b3312b1dc5eee/img/Suppliers1-wireframes.png)  
+![Suppliers 2](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/1a0ff24fd74cc29b94c591844a1b3312b1dc5eee/img/Suppliers2-wireframes.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/dcf6a4c117bbe51a62871c5b6c1d06d8414791ca/img/Wireframe-Wireflow.png">
+![Wireflow](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/dcf6a4c117bbe51a62871c5b6c1d06d8414791ca/img/Wireframe-Wireflow.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
 #### Login & Register
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/49bccf341ee220f79120b36ffbda5ce15cb5b3d0/img/Login-Mockup.png"/>
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/49bccf341ee220f79120b36ffbda5ce15cb5b3d0/img/Register-Mockup.png">
+![Login Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/49bccf341ee220f79120b36ffbda5ce15cb5b3d0/img/Login-Mockup.png)  
+![Register Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/49bccf341ee220f79120b36ffbda5ce15cb5b3d0/img/Register-Mockup.png)
 
 #### Home
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/b7a531a6aaedea58c4a8871e3679a80e23fcad5d/img/Home-Mockup.png"/>
+![Home Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b7a531a6aaedea58c4a8871e3679a80e23fcad5d/img/Home-Mockup.png)
 
-#### Stock Avaible and Additional
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f81bbbf90d270efb4f09661050d01fb835f1ad16/img/Stock1-Mockup.png"/>
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f81bbbf90d270efb4f09661050d01fb835f1ad16/img/Stock2-Mockup.png"/>
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f81bbbf90d270efb4f09661050d01fb835f1ad16/img/Stock3-Mockup.png"/>
+#### Stock Available and Additional
+![Stock 1 Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/f81bbbf90d270efb4f09661050d01fb835f1ad16/img/Stock1-Mockup.png)  
+![Stock 2 Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/f81bbbf90d270efb4f09661050d01fb835f1ad16/img/Stock2-Mockup.png)  
+![Stock 3 Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/f81bbbf90d270efb4f09661050d01fb835f1ad16/img/Stock3-Mockup.png)
 
 #### Orders
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/ca5909c57ab5c2457b49bae1ee27b43aa136ebb3/img/Orders1-Mockup.png">
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/ca5909c57ab5c2457b49bae1ee27b43aa136ebb3/img/Orders2-Mockup.png">
+![Orders 1 Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/ca5909c57ab5c2457b49bae1ee27b43aa136ebb3/img/Orders1-Mockup.png)  
+![Orders 2 Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/ca5909c57ab5c2457b49bae1ee27b43aa136ebb3/img/Orders2-Mockup.png)
 
 #### Recipes and Supplies
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/70dda5bbf48e565740a972c5d1ff249680e0d4ba/img/Recipes-mockup.png">
+![Recipes Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/70dda5bbf48e565740a972c5d1ff249680e0d4ba/img/Recipes-mockup.png)
 
 #### Suppliers
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/70dda5bbf48e565740a972c5d1ff249680e0d4ba/img/Suppliers1-mockup.png">
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/70dda5bbf48e565740a972c5d1ff249680e0d4ba/img/Suppliers2-mockup.png">
+![Suppliers 1 Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/70dda5bbf48e565740a972c5d1ff249680e0d4ba/img/Suppliers1-mockup.png)  
+![Suppliers 2 Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/70dda5bbf48e565740a972c5d1ff249680e0d4ba/img/Suppliers2-mockup.png)
+
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/dcf6a4c117bbe51a62871c5b6c1d06d8414791ca/img/Mockup-Wireflow.png">
+![UserFlow](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/dcf6a4c117bbe51a62871c5b6c1d06d8414791ca/img/Mockup-Wireflow.png)
 
 ## 4.5. Web Applications Prototyping
 
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/b7a531a6aaedea58c4a8871e3679a80e23fcad5d/img/Home-Mockup.png"/>
+![WebAppProto](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/b7a531a6aaedea58c4a8871e3679a80e23fcad5d/img/Home-Mockup.png)
 
 Link del Figma: https://www.figma.com/design/IOMF0hdIHOy89ULFA7dwIh/Untitled?node-id=0-1&t=zsc02RRSwG2QXSx6-1
 
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Design-Level Event Storming
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/ee224d79ad2f1f124403868efac908f8073fad6b/img/Design-Level%20Event%20Storming.png"/>
+![Design-Level Event Storming](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/ee224d79ad2f1f124403868efac908f8073fad6b/img/Design-Level%20Event%20Storming.png)
 
 ### 4.6.2. Software Architecture Context Diagram
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/b089bb5d189b011a15d1cf1fd5d447d9c308a36e/img/Software%20Architecture%20Context%20Diagram.png"/>
+![Software Architecture Context Diagram](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b089bb5d189b011a15d1cf1fd5d447d9c308a36e/img/Software%20Architecture%20Context%20Diagram.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/b089bb5d189b011a15d1cf1fd5d447d9c308a36e/img/Software%20Architecture%20Container%20Diagrams.png"/>
+![Software Architecture Container Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b089bb5d189b011a15d1cf1fd5d447d9c308a36e/img/Software%20Architecture%20Container%20Diagrams.png)
 
 ### 4.6.4. Software Architecture Components Diagrams
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/b089bb5d189b011a15d1cf1fd5d447d9c308a36e/img/Software%20Architecture%20Components%20Diagrams.png"/>
+![Software Architecture Components Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b089bb5d189b011a15d1cf1fd5d447d9c308a36e/img/Software%20Architecture%20Components%20Diagrams.png)
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/6ef347df67480f72d3638405cbda9034cdcc5039/img/Diagrama%20de%20Clases.png"/>
+![Class Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/6ef347df67480f72d3638405cbda9034cdcc5039/img/Diagrama%20de%20Clases.png)
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/6ef347df67480f72d3638405cbda9034cdcc5039/img/Diagrama%20de%20Base%20de%20Datos.png"/>
+![Database Diagram](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/6ef347df67480f72d3638405cbda9034cdcc5039/img/Diagrama%20de%20Base%20de%20Datos.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1615,7 +1616,7 @@ A continuación se presenta un screenshot del Board de Sprint 1 en Trello, junto
 
 https://trello.com/invite/b/68cf9b5efdc693c0847bd189/ATTI824e909b5beee840ebf67f032d02795825FBB2F7/sprint-1-logispe
 
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/d253bd1316053141e81cd714db15425f7dded346/img/SprintBacklog1-LogisPe.png" alt="Sprint-Backlog-1">
+![Sprint Backlog](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/d253bd1316053141e81cd714db15425f7dded346/img/SprintBacklog1-LogisPe.png)
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
@@ -1636,17 +1637,17 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
 
 * Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia1-LogisPe.png" >
+![Evidence1](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia1-LogisPe.png)
 
 * Implementación del Landing Page: Se diseñó y desarrolló la página de inicio de LogisPe, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
   
-  <img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png" >    
+  ![Evidence2](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png)    
   
 * Imágenes del Landing Page:
    
   * Inicio:
   
-    <img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png" >
+    ![Evidence3](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png)
     
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para LogisPe.
 
@@ -1677,13 +1678,13 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
    * Se subió el código de la Landing Page al repositorio en GitHub.  
    * Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.
 
-2. <img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia1-LogisPe.png" >
+2. ![Evidence4](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia1-LogisPe.png)
 
 3. Verificación del Despliegue:  
    * Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.  
    * Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
 
-4. <img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png" >
+4. ![Evidence5](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png)
 
 Link del Landing Page: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page/
 
@@ -1703,7 +1704,7 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos
 
 Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
 
-<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fa894917805872b29efd6ce1c30ff914ea3c9679/img/Commits.png">
+![Commits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fa894917805872b29efd6ce1c30ff914ea3c9679/img/Commits.png)
 
 ## Conclusiones y recomendaciones
 
