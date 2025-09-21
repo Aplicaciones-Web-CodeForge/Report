@@ -577,6 +577,9 @@ Usa computadora y celular, se comunica principalmente por WhatsApp. Su objetivo 
 
 
 Entrevista 1
+
+![Entrevista](assets/cafeteria1.png)
+
 **Entrevistada:** Alejandra Martínez  
 **Edad:** 25 años  
 **Distrito:** Surco  
@@ -590,6 +593,10 @@ La dueña de *Dulce Aroma*, en Surco, lleva 2 años de operación. Sus productos
 Un sistema con alertas de stock bajo le sería útil para anticiparse. Espera que un software especializado organice inventarios, calcule costos por receta y genere reportes. Usa celular y computadora, maneja Excel, apps y POS. Se guía por colegas y redes sociales. Sus objetivos son reducir desperdicios, mejorar márgenes y abrir una segunda sede.  
 
 Entrevista 2
+
+![Entrevista](assets/cafeteria2.png)
+
+
 **Entrevistado:** Leonardo Solís  
 **Edad:** 34 años  
 **Distrito:** Miraflores  
@@ -604,6 +611,10 @@ El dueño de *Café Aroma*, en Miraflores, lleva 5 años de operación. Los prod
 Considera esencial un sistema con alertas automáticas, control en tiempo real y reportes de costos. Critica Excel por tedioso y poco confiable. Se dedica de lleno al negocio tras dejar marketing. Usa celular y PC, y suele guiarse por colegas y asociaciones. Sus objetivos son optimizar compras, reducir desperdicios y abrir un segundo local.  
 
 Entrevista 3
+
+![Entrevista](assets/cafeteria3.png)
+
+
 **Entrevistado:** Gonzalo Flores Rojas  
 **Distrito:** Barrios Altos  
 **Negocio:** Tinco  
@@ -620,6 +631,10 @@ Considera muy valiosas las alertas de inventario, sobre todo que avisen vencimie
 **Segmento objetivo: Emprendimientos Gastronómicos**
 
 Entrevista 1
+
+![Entrevista](assets/emprendedor1.png)
+
+
 **Entrevistada:** Luciana Aguilar  
 **Edad:** 17 años  
 **Distrito:** Ate (distribución en La Molina y Surco)  
@@ -634,6 +649,10 @@ Considera clave contar con reportes de costos y pérdidas para decidir qué prod
 Aunque valora el negocio, no busca expandirse, ya que lo considera complementario a su interés en las finanzas. Su herramienta ideal sería una página web para organizar mejor pedidos y comunicación.  
 
 Entrevista 2
+
+![Entrevista](assets/emprendedor2.png)
+
+
 **Entrevistado:** Juan Alberto Rosales  
 **Edad:** 28 años  
 **Distrito:** San Isidro 
@@ -650,6 +669,10 @@ Busca un sistema que ofrezca control en tiempo real, alertas, cálculo de costos
 Tiene 28 años, vive en SJL y antes trabajaba en ventas. Usa celular en el día a día y PC para cuentas. Suele guiarse por colegas y reseñas online. Su app ideal sería sencilla, intuitiva y móvil, con alertas y reportes claros.  
 
 Entrevista 3
+
+![Entrevista](assets/emprendedor3.png)
+
+
 **Entrevistado:** Andrés Cieza de León  
 **Edad:** 31 años  
 **Distrito:** San Juan de Lurigancho  
