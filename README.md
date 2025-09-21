@@ -24,8 +24,12 @@
 
 **Integrantes**:
 
-- Javier Murillo, Mathias - U202022211
-- Condori Lozano, Alessandro Ramiro - U20211A118
+- Rodrigo Fabrizio Aguilar Untiveros
+- Alessandro Ramiro Condori Lozano
+- Mathias Javier Murillo
+- Katherine Maryory Mejia
+- Aliaga Augusto
+- Sebastian Montes Maza
 
 <div align="center">
 
@@ -44,10 +48,10 @@
         <th colspan="10">Autores</th>
         <th colspan="5">Descripción de Modificaciones</th>
     <tr>
-        <td colspan="3">1era</td>
-        <td colspan="3">30/08/2025</td>
-        <td colspan="10"></td>
-        <td colspan="5"></td>
+        <td colspan="3">TB1</td>
+        <td colspan="3">12/09/2025</td>
+        <td colspan="10">Desarrollado por el equipo de LogisPe</td>
+        <td colspan="5">Desarrollo de los capitulos 1 al 5</td>
     </tr>
 </table>
 
@@ -62,7 +66,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 **Entrega N°1: TB1**
 <br>
 
-Se han completado las tareas asignadas para la entrega TB1 en el repositorio de Github de la organización del equipo, accesible mediante el enlace: Informe-TB1-Web.
+Se han completado las tareas asignadas para la entrega TB1 en el repositorio de Github de la organización del equipo, accesible mediante el enlace: https://github.com/Aplicaciones-Web-CodeForge/Report
 
 Para la creación del informe, se realizaron las siguientes actividades:
 
@@ -72,43 +76,19 @@ Se crearon los artefactos necesarios usando las herramientas recomendadas, y se 
 
 Se llevaron a cabo reuniones periódicas para coordinar el avance de los puntos del informe. Estas reuniones también se utilizaron para comunicar el progreso alcanzado durante el Sprint 1, enfocado en el desarrollo de la Landing Page del proyecto.
 
-**Contributors Insights report:**
-![Commits-report-tb1]()
-
-**Contributors Insights landing page:**
-![Commits-report-landing-page]()
-
-**Network Insights report:**
-![Network-report-tb1]()
-
-**Network Insights report:** <br>
-![Network-landing-tb1]()
 
 ---
 
 # Student Outcome
 
-El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 5** <br> Criterio: _La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos._
+Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
-En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
+# Outcomes TB1 – Pilares del Producto y Landing Page  
 
-<table>
-    <tr>
-        <th colspan="3">Criterio especifico</th>
-        <th colspan="10">Acciones realizadas</th>
-        <th colspan="10">Conclusiones</th>
-    <tr>
-        <td colspan="3">CTrabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-        <td colspan="10">"Nombre" tb1: </td>
-        <td colspan="10">"conclusiones"</td>
-    </tr>
-    <tr>
-        <td colspan="3">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-        <td colspan="10">"Nombre" tb1: </td>
-        <td colspan="10">"conclusiones"</td>
-    </tr>
-
-</table>
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
+|-------------------------|--------------------------|------------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | **Rodrigo Fabrizio Aguilar Untiveros**<br>**TB1**: Participé activamente en reuniones grupales mediante llamadas y coordinación por mensajería, lo que permitió exponer los pilares del producto de manera clara y coordinar los avances de la landing page.<br><br>**Alessandro Ramiro Condori Lozano**<br>**TB1**: Aporté en la organización de ideas y la explicación de los mensajes principales, lo que ayudó al equipo a mantener un discurso claro sobre los objetivos del producto y su representación en la landing page.<br><br>**Mathias Javier Murillo**<br>**TB1**: Colaboré en la comunicación de los contenidos de la landing page, explicando la forma en que los pilares del producto se mostrarían para distintos públicos, lo que ayudó a alinear el enfoque del equipo.<br><br>**Katherine Maryory Mejia Aliaga**<br>**TB1**: Expuse ideas relacionadas a la organización visual y conceptual, facilitando que la comunicación oral del equipo se tradujera en una landing page coherente y entendible.<br><br>**Augusto Sebastian Montes Maza**<br>**TB1**: Participé en la comunicación y discusión grupal para asegurar que los pilares del producto estuvieran alineados con la propuesta, contribuyendo a un discurso claro y consensuado. | **Rodrigo Fabrizio Aguilar Untiveros**<br>**TB1**: La comunicación oral constante permitió coordinar tareas de forma eficiente y transmitir con claridad los pilares del producto.<br><br>**Alessandro Ramiro Condori Lozano**<br>**TB1**: La exposición clara de ideas contribuyó a que el equipo lograra alinear mensajes y objetivos en la landing page.<br><br>**Mathias Javier Murillo**<br>**TB1**: La comunicación clara facilitó la comprensión de los contenidos y mejoró la coherencia de la propuesta en la landing page.<br><br>**Katherine Maryory Mejia Aliaga**<br>**TB1**: La intervención oral favoreció el orden en la estructura del proyecto y reforzó la efectividad del mensaje hacia la audiencia.<br><br>**Augusto Sebastian Montes Maza**<br>**TB1**: La comunicación oral ayudó a mantener la coherencia entre los pilares del producto y el mensaje general del proyecto. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Rodrigo Fabrizio Aguilar Untiveros**<br>**TB1**: Contribuí en la redacción de la propuesta de valor y en la descripción de los pilares del producto, asegurando un lenguaje claro y entendible en la landing page.<br><br>**Alessandro Ramiro Condori Lozano**<br>**TB1**: Aporté en la redacción de los mensajes principales del proyecto, mejorando la claridad escrita de la propuesta en el documento y la landing page.<br><br>**Mathias Javier Murillo**<br>**TB1**: Participé en la redacción y ajuste de los contenidos escritos para que fueran comprensibles para diferentes públicos, adaptando el mensaje de los pilares del producto.<br><br>**Katherine Maryory Mejia Aliaga**<br>**TB1**: Apoyé en la organización escrita de las ideas del equipo, contribuyendo a que la landing page reflejara los pilares de forma clara y ordenada.<br><br>**Augusto Sebastian Montes Maza**<br>**TB1**: Colaboré en la redacción de los contenidos de la propuesta, asegurando coherencia y alineación en los textos del proyecto. | **Rodrigo Fabrizio Aguilar Untiveros**<br>**TB1**: La comunicación escrita permitió expresar los pilares del producto de forma clara y accesible para la audiencia.<br><br>**Alessandro Ramiro Condori Lozano**<br>**TB1**: La claridad en los textos fortaleció la efectividad del mensaje del proyecto y su comprensión en la landing page.<br><br>**Mathias Javier Murillo**<br>**TB1**: La participación en la redacción aseguró que los pilares del producto fueran transmitidos de manera simple y atractiva.<br><br>**Katherine Maryory Mejia Aliaga**<br>**TB1**: La organización de las ideas escritas facilitó que la landing page comunicara con claridad los objetivos del proyecto.<br><br>**Augusto Sebastian Montes Maza**<br>**TB1**: La coherencia en los contenidos escritos permitió mantener un mensaje uniforme y alineado con la propuesta del producto. |
 
 ---
 
@@ -238,13 +218,14 @@ La propuesta de valor radica en la simplicidad y personalización del sistema. M
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-|                                                                                                                                                                                                | Apellido y Nombre                               | Carrera                | Acerca de                                                                                                                                                                                                                                                                                                                                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                                                                                                                                                | Retuerto Rodríguez, Jorge Manuel - u202318612   |                        |                                                                                                                                                                                                                                                                                                                                          |
-|                                                                                                                                                                                                | Hernández Poma, Sebastián Eduardo - u20231c996  |                        |
-| <img src="https://raw.githubusercontent.com/UPC-PRE-SI729-2402-SW54-Lorem-Ipsum/Report/refs/heads/main/assets/images/Chapter-01/AlessandroCondori.jpg" alt="Mi foto" width="120" height="120"> | Condori Lozano, Alessandro Ramiro - u20211a118  | Ingeniería de Software | Tengo 21 años, actualmente me encuentro matriculado en la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo un nivel intermedio de habilidades en programación, con conocimientos adicionales en desarrollo web. Me considero una persona competitiva, responsable y que sabe trabajar en equipo. |
-| ![Perfil_Armestar_Heredia.jpeg](assets/chapter1/Perfil_Armestar_Heredia.jpeg)                                                                                                                  | Armestar Heredia, Matias Gabriel - u20221A553   | Ingeniería de Software | Estudiante de la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero un estudiante capaz de aportar significativamente a un equipo.                                                                                                                                                                                            |
-|                                                                                                                                                                                                | Bendezu Navarro, Rubens Fitzgerald - u20231d390 |                        |                                                                                                                                                                                                                                                                                                                                          |
+| Integrantes | Descripción | Conocimientos |
+| :---------- | :---------- | :------------ |
+| <div style="display: flex; align-items: center;"><img src="https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/3e152bc721b8f4af5ed4a09ce9a896e9f78f8340/images/MathiasJM.jpg" alt="Integrante1" width="100" height="120">&nbsp;&nbsp;<br>**Mathias Javier Murillo**</div> | Estudiante de Ingeniería de Software. Apasionado por las nuevas tecnologías y realizar nuevos proyectos | Conocimientos en SQL, HTML, JS, CSS y Python |
+| <div style="display: flex; align-items: center;"><img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/AlessandroCondori.jpg" alt="Integrante2" width="100" height="120">&nbsp;&nbsp;<br>**Alessandro Condori**</div> | Soy estudiante de la carrera de Ingeniería de Software, puedo aportar mucho al equipo, aplicando mis conocimientos en diversos lenguajes de programación | Java, C++, Python, html, css, javascrip, C# y SQL |
+| <div style="display: flex; align-items: center;"><img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/AugustoMontes.png" alt="Integrante3" width="100" height="120">&nbsp;&nbsp;<br>**Augusto Montes**</div> | Estudiante de la carrera de Ingeniería de Software. Programador amateur, interesado en la creación de aplicaciones, ciberseguridad y videojuegos| C++, C#, SQL, Html, css, javascript, python y java |
+| <div style="display: flex; align-items: center;"><img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/KatherineAguilar.jpg" alt="Integrante4" width="100" height="120">&nbsp;&nbsp;<br>**Katherine Mejia**</div> | Estudiante de 5to ciclo de la carrera de ingeniería de software. Tengo experiencia creando aplicaciones front end que consuman una API y hagan peticiones. | C++, C#, SQL, Html, css, javascript, python y java |
+| <div style="display: flex; align-items: center;"><img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/RodrigoAguilar.jpg" alt="Integrante5" width="100" height="120">&nbsp;&nbsp;<br>**Rodrigo Aguilar**</div> | Estudiante de Ingeniería de Software cursando el 6 ciclo de la carrera de ingeniería de software.  | Tengo experiencia con Javascript, Java, C++. |
+
 
 ## 1.2 Solution Profile
 
