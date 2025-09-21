@@ -662,6 +662,91 @@ Señaló que la información clara y visual es fundamental para tomar decisiones
 
 ### 2.2.3. Análisis de entrevistas
 
+# 📊 Análisis de entrevistas
+
+En esta sección se presenta el análisis por cada segmento objetivo. Se identifican las características comunes de las entrevistas registradas, con porcentajes que reflejan la frecuencia de cada aspecto. Estos datos servirán como insumo para la construcción de los arquetipos.
+
+---
+
+## Segmento: Restaurantes y Restobares (3 entrevistas)
+
+- **Método de gestión de inventario:**  
+  El 100% maneja inventarios manualmente o en Excel. Solo 1 de 3 (33%) ha probado un sistema digital, pero lo considera limitado y sin soporte.
+
+- **Problemas frecuentes:**  
+  100% mencionó quiebres de stock y sobrecompras.  
+  67% indicó pérdidas por desperdicio de insumos y falta de información en tiempo real.
+
+- **Reposición de insumos:**  
+  100% se abastece vía WhatsApp o llamadas.  
+  67% realiza compras frecuentes (diarias o dos veces por semana).
+
+- **Necesidades en un sistema digital:**  
+  100% pidió alertas automáticas y reportes de costos/consumo.  
+  67% quiere organización de proveedores.  
+  33% valoró contar con soporte técnico confiable.
+
+- **Objetivos:**  
+  100% busca reducir pérdidas y organizar mejor la gestión.  
+  67% tiene como meta abrir un segundo local a mediano plazo.
+
+---
+
+## Segmento: Cafeterías y Bares (3 entrevistas)
+
+- **Método de gestión de inventario:**  
+  El 100% controla insumos manualmente (cuaderno o Excel). Ninguno usa un sistema especializado.
+
+- **Problemas frecuentes:**  
+  100% reportó pérdidas por caducidad de perecibles (lácteos y frutas).  
+  67% considera Excel tedioso y poco confiable.  
+  33% no trabaja con proveedores fijos.
+
+- **Necesidades en un sistema digital:**  
+  100% priorizó alertas automáticas de stock bajo.  
+  100% quiere reportes en tiempo real.  
+  67% pidió cálculo de costos por receta.
+
+- **Perfil tecnológico:**  
+  100% usa celular y computadora.  
+  Todos manejan Excel, apps y POS, aunque reconocen limitaciones.  
+  67% se guía por colegas o redes sociales antes de probar nuevas herramientas.
+
+- **Objetivos:**  
+  100% busca reducir desperdicios y mejorar márgenes.  
+  67% expresó interés en abrir una segunda sede.
+
+---
+
+## Segmento: Emprendimientos Gastronómicos (3 entrevistas)
+
+- **Método de gestión de inventario:**  
+  El 100% usa Excel o control manual. Ninguno cuenta con sistemas especializados.
+
+- **Motivación para emprender:**  
+  67% inició por pasión por la gastronomía.  
+  33% lo hizo al identificar una oportunidad de mercado en su zona.
+
+- **Problemas frecuentes:**  
+  100% reconoció que Excel es limitado (sin reportes ni alertas).  
+  67% mencionó pérdidas o ineficiencia en insumos.  
+  33% pidió mayor visualización gráfica de datos.
+
+- **Necesidades en un sistema digital:**  
+  100% resaltó que sea sencillo y fácil de usar.  
+  67% pidió reportes claros de costos y rentabilidad.  
+  33% enfatizó la importancia de gráficos accesibles.
+
+- **Perfil personal y tecnológico:**  
+  100% usa el celular como dispositivo principal.  
+  67% combina con PC para cuentas y reportes.  
+  67% se apoya en recomendaciones de colegas o referentes.
+
+- **Objetivos:**  
+  100% busca digitalizar procesos.  
+  67% quiere crecer o expandirse (nuevo local o canales digitales).  
+  33% prefiere mantenerlo como hobby.
+
 ### 2.3. Needfinding
 
 ### 2.3.1. User Personas
