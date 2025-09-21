@@ -1703,7 +1703,7 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos
 
 Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
 
-<img src="">
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fa894917805872b29efd6ce1c30ff914ea3c9679/img/Commits.png">
 
 ## Conclusiones y recomendaciones
 
