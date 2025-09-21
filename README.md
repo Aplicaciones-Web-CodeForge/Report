@@ -611,6 +611,8 @@ En esta parte se muestran los User Journey Maps As-Is de cada User Persona. El o
 
 ### 2.4. Big Picture Event Storming
 
+![Event Storming](assets/storming.png)
+
 ### 2.5. Ubiquitous Language
 
 # Capítulo III: Requirements Specification
