@@ -783,6 +783,6 @@ El despliegue exitoso de la landing page representa un primer paso fundamental p
 
 # Anexos
 
-Link del repositorio del Informe: https://github.com/Aplicaciones-Web-CodeForge/Report
-Link del repositorio de la Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page
+Link del repositorio del Informe: https://github.com/Aplicaciones-Web-CodeForge/Report <br>
+Link del repositorio de la Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page <br>
 Link de la Landing Page desplegada por GitHub Pages: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page/
