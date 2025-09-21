@@ -662,13 +662,7 @@ Señaló que la información clara y visual es fundamental para tomar decisiones
 
 ### 2.2.3. Análisis de entrevistas
 
-# 📊 Análisis de entrevistas
-
-En esta sección se presenta el análisis por cada segmento objetivo. Se identifican las características comunes de las entrevistas registradas, con porcentajes que reflejan la frecuencia de cada aspecto. Estos datos servirán como insumo para la construcción de los arquetipos.
-
----
-
-## Segmento: Restaurantes y Restobares (3 entrevistas)
+Segmento: Restaurantes y Restobares (3 entrevistas)
 
 - **Método de gestión de inventario:**  
   El 100% maneja inventarios manualmente o en Excel. Solo 1 de 3 (33%) ha probado un sistema digital, pero lo considera limitado y sin soporte.
@@ -690,9 +684,7 @@ En esta sección se presenta el análisis por cada segmento objetivo. Se identif
   100% busca reducir pérdidas y organizar mejor la gestión.  
   67% tiene como meta abrir un segundo local a mediano plazo.
 
----
-
-## Segmento: Cafeterías y Bares (3 entrevistas)
+ Segmento: Cafeterías y Bares (3 entrevistas)
 
 - **Método de gestión de inventario:**  
   El 100% controla insumos manualmente (cuaderno o Excel). Ninguno usa un sistema especializado.
@@ -716,9 +708,7 @@ En esta sección se presenta el análisis por cada segmento objetivo. Se identif
   100% busca reducir desperdicios y mejorar márgenes.  
   67% expresó interés en abrir una segunda sede.
 
----
-
-## Segmento: Emprendimientos Gastronómicos (3 entrevistas)
+Segmento: Emprendimientos Gastronómicos (3 entrevistas)
 
 - **Método de gestión de inventario:**  
   El 100% usa Excel o control manual. Ninguno cuenta con sistemas especializados.
