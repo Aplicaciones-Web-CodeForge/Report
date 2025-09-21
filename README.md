@@ -100,15 +100,46 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <th colspan="10">Conclusiones</th>
     <tr>
         <td colspan="3">CTrabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-        <td colspan="10">"Nombre" tb1: </td>
+        <td colspan="10">
+            <b>Rodrigo Fabrizio Aguilar Untiveros</b><br>
+            Tb1
+            <ul>
+                <li>Domain-Driven</li>
+                <li>Software</li>
+                <li>Architecture</li>
+                <li>Database</li>
+                <li>Diagram</li>
+                <li>Class Diagram</li>
+                <li>Aspect Leaders and Collaborators</li>
+                <li>Development</li>
+                <li>Evidence for</li>
+                <li>Sprint</li>
+                <li>Landing Page</li>
+            </ul>
+        </td>
         <td colspan="10">"conclusiones"</td>
     </tr>
     <tr>
         <td colspan="3">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-        <td colspan="10">"Nombre" tb1: </td>
+        <td colspan="10">
+            <b>Rodrigo Fabrizio Aguilar Untiveros</b><br>
+            Tb1
+            <ul>
+                <li>Domain-Driven</li>
+                <li>Software</li>
+                <li>Architecture</li>
+                <li>Database</li>
+                <li>Diagram</li>
+                <li>Class Diagram</li>
+                <li>Aspect Leaders and Collaborators</li>
+                <li>Development</li>
+                <li>Evidence for</li>
+                <li>Sprint</li>
+                <li>Landing Page</li>
+            </ul>
+        </td>
         <td colspan="10">"conclusiones"</td>
     </tr>
-
 </table>
 
 ---
