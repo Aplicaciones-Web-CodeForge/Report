@@ -343,31 +343,572 @@ _Estadística de la problemática_
 
 ## 2.1. Competidores
 
+Dentro del mercado peruano existen múltiples opciones digitales para solucionar el problema de la gestión de inventarios, que compiten directa o indirectamente con nuestra propuesta. Entre los principales competidores identificados se encuentran:
+
+**Nubefact:** Plataforma peruana conocida por su servicio de facturación electrónica, que incluye herramientas para la administración de inventarios y ventas. Aunque cumple con las normativas de SUNAT y ofrece integración con sistemas POS, su principal beneficio no es la gestión de inventarios, lo que limita el nivel de personalización para las empresas que lo adquieren.
+
+**Siigo Perú:** Antes conocido como Contasis, es un sistema contable y administrativo que incorpora funciones como control de inventarios, compras y ventas. Tiene una amplia trayectoria en el mercado peruano y brinda soporte técnico local. Sin embargo, está más orientado a la contabilidad que a la gestión gastronómica, con interfaces menos intuitivas para usuarios sin experiencia tecnológica.
+
+**Factura Perú:** Solución peruana orientada a la facturación electrónica e inventarios para negocios pequeños. Sus principales beneficios son los costos accesibles, el cumplimiento legal con SUNAT y la facilidad de uso para empresas en crecimiento. No obstante, presenta limitaciones en funciones avanzadas enfocadas en gastronomía, como gestión de recetas, control de insumos perecibles o reportes especializados.
+
+Finalmente, es importante mencionar que algunos negocios en Perú aún recurren a herramientas indirectas como Excel o Google Sheets para llevar el control de sus inventarios de manera manual.
+
 ## 2.1.1. Análisis competitivo
+
+| Categoría | Su Startup | Nubefact | Siigo Perú | Factura Perú |
+|-----------|------------|-----------|------------|--------------|
+| **Perfil - Overview** | Aplicación web especializada en gestión de inventarios para el sector gastronómico. | Plataforma peruana centrada en facturación electrónica, con módulo básico de inventarios. | Sistema contable y administrativo con funciones de inventario, compras y ventas. | Solución peruana de facturación electrónica con módulo de inventarios para negocios pequeños. |
+| **Ventaja Competitiva** | Especialización gastronómica: recetas, control de insumos perecibles, alertas automáticas. | Cumplimiento con SUNAT y alta adaptación en los negocios peruanos. | Amplia trayectoria, soporte contable y administrativo. | Costos accesibles y facilidad de uso para microempresas. |
+| **Perfil de Marketing - Mercado objetivo** | Restaurantes, cevicherías, cafeterías y emprendimientos gastronómicos. | Empresas de todos los rubros que requieren facturación electrónica. | PYMEs que buscan un sistema administrativo y contable. | Negocios pequeños: bodegas, tiendas, etc. |
+| **Perfil de Marketing - Estrategias** | Marketing digital, alianzas con gremios gastronómicos, referidos. | Posicionamiento como líder en facturación electrónica en Perú. | Presencia corporativa y convenios contables. | Promoción de precios bajos y cumplimiento legal. |
+| **Perfil de Producto - Productos & Servicios** | Inventario en tiempo real, recetas, proveedores, reportes, alertas automáticas. | Facturación electrónica + inventarios básicos. | Contabilidad, inventarios, compras y ventas. | Facturación e inventarios simples. |
+| **Perfil de Producto - Precios & Costos** | Planes escalables y accesibles a pymes gastronómicas. | Suscripciones orientadas a facturación. | Costos más altos, orientados a contabilidad integral. | Costos bajos para pequeños negocios. |
+| **Perfil de Producto - Canales** | 100% web responsive. Disponible en dispositivos móviles. | Web | Web y aplicaciones conectadas. | Web (principalmente escritorio). |
+| **SWOT - Fortalezas** | Especialización en gastronomía, interfaz intuitiva, reportes claros. | Cumplimiento legal con SUNAT, gran base de clientes. | Trayectoria, soporte técnico local. | Precio accesible, fácil de implementar. |
+| **SWOT - Debilidades** | Nueva en el mercado, menos reconocimiento. | Módulo de inventarios poco desarrollado. | Complejidad de uso, enfoque contable más que operativo. | Funciones limitadas en gastronomía. |
+| **SWOT - Oportunidades** | Crecimiento del sector gastronómico, digitalización de pymes. | Ampliar funciones hacia sectores especializados. | Integrar más módulos sectoriales. | Expandirse en microempresas. |
+| **SWOT - Amenazas** | Resistencia al cambio tecnológico, competencia consolidada. | Aparición de softwares especializados en gastronomía. | Competidores más simples y accesibles. | Migración de usuarios a plataformas más completas. |
+
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
 
+Estrategias: 
+
+*   Resaltar la especialización gastronómica frente a competidores generales de facturación e inventarios.
+    
+*   Ofrecer precios accesibles y escalables, que se adapten al tamaño y crecimiento del negocio gastronómico.
+    
+*   Garantizar seguridad y confiabilidad, con roles de usuario, respaldos automáticos y protección de datos.
+    
+*   Aprovechar la digitalización acelerada del sector gastronómico en Perú, impulsada por la necesidad de eficiencia y control.
+    
+*   Mantener la innovación constante, incorporando funcionalidades específicas como gestión de recetas, alertas de insumos perecibles y reportes de rentabilidad.
+    
+*   Promover una experiencia de usuario intuitiva y accesible, diseñada específicamente para negocios gastronómicos, lo que facilita la adopción rápida del sistema sin necesidad de conocimientos técnicos avanzados.
+    
+
+Tácticas:
+
+*   Campañas de marketing digital enfocadas en redes sociales y asociaciones con gremios gastronómicos, destacando la facilidad de uso y el ahorro en pérdidas de insumos.
+    
+*   Demostración gratuitas (free trials) para mostrar beneficios inmediatos del sistema frente a la competencia.
+    
+*   Capacitación y soporte cercano, ayudando a superar la resistencia al cambio tecnológico que afecta a muchos negocios pequeños.
+    
+*   Desarrollo de tutoriales y guías interactivas, para que cualquier usuario (sin conocimientos contables) pueda manejar el sistema sin dificultad.
+    
+*   Reportes personalizables en PDF/Excel, resaltando cómo ayudan a la toma de decisiones y la reducción de costos.
+    
+*   Monitoreo constante de competidores para adaptar mejoras rápidamente y aprovechar sus debilidades.
+    
+
+Estrategia freemium o plan básico económico, que atraiga a microempresas que de otro modo optaron por soluciones limitadas como Excel.
+
 ## 2.2. Entrevistas
+
+El objetivo de las entrevistas es recolectar información cualitativa de propietarios, administradores y personal de negocios gastronómicos para conocer sus características demográficas y de contexto, identificar hábitos de gestión de inventarios y tecnología, explorar necesidades, frustraciones y expectativas con respecto a un sistema digital de gestión y construir arquetipos de usuario que guíen el diseño del producto.
 
 ### 2.2.1. Diseño de entrevistas
 
+**Para restobares y restaurantes:**
+
+Preguntas principales:
+
+1.  ¿Cuál es el nombre de su negocio, en qué distrito se ubica y cuántos años lleva operando?
+    
+2.  ¿Qué métodos utilizan actualmente para controlar el inventario (manual, Excel, sistema)?
+    
+3.  ¿Qué problemas han enfrentado en el control de insumos y productos (quiebres, exceso, desperdicio)?
+    
+4.  ¿Cómo realizan actualmente la reposición de insumos perecibles?
+    
+5.  ¿Cómo gestionan la relación con proveedores y recetas?
+    
+6.  ¿Qué tipo de reportes o información necesitan para tomar decisiones de compra?
+    
+7.  ¿Qué factores los motivarían a implementar un sistema digital de inventarios?
+    
+
+      Preguntas complementarias:
+
+1.  ¿Podría contarme un poco sobre usted?
+    
+2.  ¿Qué dispositivos usan más en la gestión del negocio (computadora, tablet, celular)?.
+    
+3.  ¿Qué canales digitales utilizan con más frecuencia (WhatsApp, correo, redes sociales)?
+    
+4.  Cuando toma decisiones importantes, ¿las consulta con alguien más (familia, socios, colegas)?
+    
+5.  ¿Qué objetivos tienen a corto plazo (por ejemplo: reducir pérdidas, abrir nuevas sedes)?
+    
+6.  En su día a día, ¿qué es lo que más le frustra en la gestión del negocio?
+    
+7.  ¿Cómo empezó en el rubro gastronómico?
+    
+
+**Para cafeterías y bares:**
+
+1.  ¿Cuál es el nombre de su negocio, en qué distrito está y cuántos años lleva operando?
+    
+2.  ¿Cuáles son los productos de mayor rotación en su cafetería o bar?
+    
+3.  ¿Cómo controlan actualmente la reposición de insumos perecibles?
+    
+4.  ¿Han tenido pérdidas económicas por caducidad o falta de control de inventario?
+    
+5.  ¿Qué tan relevantes serían para ustedes las alertas automáticas de stock bajo?
+    
+6.  ¿Qué beneficios esperan de un sistema especializado en gastronomía?
+    
+7.  ¿Qué limitaciones han encontrado con los métodos que usan actualmente (Excel, manual)?
+    
+
+Preguntas complementarias: 
+
+1.  ¿Podría contarme un poco sobre usted? (edad, ocupación, lugar de residencia).
+    
+2.  ¿Qué dispositivos suelen usar durante la operación (celular en turno, PC en oficina)?
+    
+3.  ¿Qué tan familiarizado está con herramientas digitales (Excel, apps, POS)?
+    
+4.  ¿Qué personas, marcas o colegas suelen influir cuando deciden implementar nuevas herramientas en el negocio?
+    
+5.  ¿Qué objetivos buscan alcanzar (optimizar compras, reducir desperdicios, mejorar márgenes)?
+    
+6.  ¿Qué experiencias previas han tenido con software de inventarios u otros sistemas? ¿Qué les gustó o no?
+    
+
+**Para emprendimientos gastronómicos:**
+
+Preguntas principales:
+
+1.  ¿Cuál es el nombre de su negocio, en qué distrito se ubica y cuánto tiempo lleva operando?
+    
+2.  ¿Qué los motivó a iniciar este emprendimiento gastronómico?
+    
+3.  ¿Cómo gestionan actualmente sus inventarios y proveedores?
+    
+4.  ¿Qué funciones consideran esenciales en un sistema que los acompañe desde el inicio?
+    
+5.  ¿Qué factores los harían confiar en un software (precio, facilidad de uso, soporte, recomendación)?
+    
+6.  ¿Qué tan importante es para ustedes recibir reportes sobre costos y rentabilidad?
+    
+7.  ¿Qué objetivos tienen a corto y mediano plazo con el negocio (ej. crecer, formalizarse, digitalizar procesos)?
+    
+
+Preguntas complementarias: 
+
+1.  Para conocerte un poco más, ¿cuál es tu edad, ocupación y dónde resides?
+    
+2.  ¿Qué experiencia previa has tenido en gastronomía o en otros rubros?
+    
+3.  ¿Qué dispositivos prefieres para trabajar (celular, tablet, PC)?
+    
+4.  ¿Qué personas, marcas o referentes suelen considerar antes de decidir sobre nuevas herramientas digitales?
+    
+5.  Si pudieras diseñar la herramienta ideal para tu negocio, ¿cómo sería?
+
 ### 2.2.2. Registro de entrevistas
 
+
+Segmento objetivo: Restaurantes y Restobares
+
+Entrevista 1
+
+![Entrevista](assets/restaurante1.png)
+
+**Entrevistado:** Luciano De La Torre  
+**Edad:** 25 años  
+**Distrito:** Pueblo Libre  
+**Negocio:** Sazón Familiar  
+**Minuto de inicio:**  00:00
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)   
+
+**Resumen**  
+El entrevistado es un joven de 25 años que administra *Sazón Familiar* en Pueblo Libre, un restaurante familiar con 12 años en el rubro. Actualmente gestiona inventarios manualmente y en Excel, lo que ocasiona quiebres de stock, sobrecompras y desperdicio. La reposición de perecibles se hace diariamente y los proveedores se contactan por WhatsApp o teléfono.  
+
+Menciona que las recetas no están completamente estandarizadas, lo que genera variaciones en costos. Su mayor frustración es la falta de control real del inventario. Considera que un sistema digital debería ser sencillo, dar alertas automáticas, organizar proveedores y calcular costos por plato. Su objetivo es modernizar el negocio familiar, optimizar la cocina y abrir un segundo local a mediano plazo.  
+
+---
+
+Entrevista 2
+
+![Entrevista](assets/restaurante2.png)
+
+**Entrevistado:** Juan José López  
+**Edad:** 28 años   
+**Negocio:** La Esquina Limeña  
+**Distrito:** Barranco – Lima  
+**Minuto de inicio:**  03:18
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
+**Resumen**  
+El entrevistado administra un restobar en Barranco con 3 años de operación. Controla inventarios en Excel, pero depende de encargados y se generan errores. Los problemas principales son el desperdicio por sobrecompra y quiebres de insumos en alta demanda.  
+
+La reposición se hace dos veces por semana vía WhatsApp o llamadas, y en emergencias en el mercado. Las recetas están dispersas en cuadernos y correos, sin conexión al inventario. Señala que necesita reportes con consumo promedio, stock mínimo y costos.  
+
+Un sistema lo motivaría si es accesible desde celular, fácil de usar, con alertas y costo razonable. Su frustración es la falta de información en tiempo real y su objetivo es reducir pérdidas antes de expandirse.  
+
+---
+
+Entrevista 3
+
+![Entrevista](assets/restaurante3.png)
+
+**Entrevistado:** Patricio Rodríguez Amador  
+**Edad:** 27 años  
+**Distrito:** Comas  
+**Negocio:** Apolo Restobar  
+**Tiempo de operación:** 3 años  
+**Minuto de inicio:**  05:46
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
+**Resumen**  
+Patricio Rodríguez, dueño de *Apolo Restobar* en Comas, lleva 3 años operando. Usa un sistema recomendado por un amigo, pero limitado y sin soporte. Su principal problema es el desperdicio de insumos por falta de reportes claros.  
+
+La reposición de perecibles se maneja con proveedores sin agenda fija. No tiene gestión formal de recetas. Le interesa contar con reportes comparativos de insumos usados vs. desperdiciados y valora el soporte técnico.  
+
+Usa computadora y celular, se comunica principalmente por WhatsApp. Su objetivo es reducir pérdidas y mejorar la organización interna.  
+
+---
+
+**Segmento objetivo: Cafeterías y Bares**
+
+
+Entrevista 1
+
+![Entrevista](assets/cafeteria1.png)
+
+**Entrevistada:** Alejandra Martínez  
+**Edad:** 25 años  
+**Distrito:** Surco  
+**Negocio:** Dulce Aroma  
+**Tiempo de operación:** 2 años  
+**Minuto de inicio:** 07:50
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
+**Resumen**  
+La dueña de *Dulce Aroma*, en Surco, lleva 2 años de operación. Sus productos más vendidos son cafés (capuccino, latte), sándwiches y postres caseros. Maneja el inventario manualmente, con compras casi diarias de perecibles, lo que causa pérdidas por caducidad.  
+Un sistema con alertas de stock bajo le sería útil para anticiparse. Espera que un software especializado organice inventarios, calcule costos por receta y genere reportes. Usa celular y computadora, maneja Excel, apps y POS. Se guía por colegas y redes sociales. Sus objetivos son reducir desperdicios, mejorar márgenes y abrir una segunda sede.  
+
+Entrevista 2
+
+![Entrevista](assets/cafeteria2.png)
+
+
+**Entrevistado:** Leonardo Solís  
+**Edad:** 34 años  
+**Distrito:** Miraflores  
+**Negocio:** Café Aroma  
+**Tiempo de operación:** 5 años  
+**Minuto de inicio:**  13:07
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
+**Resumen**  
+El dueño de *Café Aroma*, en Miraflores, lleva 5 años de operación. Los productos de mayor rotación son cafés, postres artesanales y cervezas artesanales. Maneja inventarios manualmente, lo que genera pérdidas por caducidad.  
+
+Considera esencial un sistema con alertas automáticas, control en tiempo real y reportes de costos. Critica Excel por tedioso y poco confiable. Se dedica de lleno al negocio tras dejar marketing. Usa celular y PC, y suele guiarse por colegas y asociaciones. Sus objetivos son optimizar compras, reducir desperdicios y abrir un segundo local.  
+
+Entrevista 3
+
+![Entrevista](assets/cafeteria3.png)
+
+
+**Entrevistado:** Gonzalo Flores Rojas  
+**Distrito:** Barrios Altos  
+**Negocio:** Tinco  
+**Tiempo de operación:** 10 meses  
+**Minuto de inicio:**  17:56
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
+**Resumen**  
+Gonzalo Flores es dueño de *Tinco*, con 10 meses en Barrios Altos. Sus productos más rotados son insumos para kekes y tortas. No tiene proveedores fijos y compra según necesidad, lo que le genera pérdidas por caducidad.  
+Considera muy valiosas las alertas de inventario, sobre todo que avisen vencimientos próximos. Usa Excel, pero lo ve limitado porque no anticipa problemas ni genera reportes. Ve en un sistema digital la oportunidad de mejorar el orden y control para crecer de manera sostenible.  
+
+---
+
+**Segmento objetivo: Emprendimientos Gastronómicos**
+
+Entrevista 1
+
+![Entrevista](assets/emprendedor1.png)
+
+
+**Entrevistada:** Luciana Aguilar  
+**Edad:** 17 años  
+**Distrito:** Ate (distribución en La Molina y Surco)  
+**Negocio:** Laguntis Verigen (repostería)  
+**Tiempo de operación:** 3 años  
+**Minuto de inicio:**  19:57
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
+**Resumen**  
+Luciana Aguilar, de 17 años, creó *Laguntis Verigen*, un emprendimiento de repostería con 3 años de operación. Empezó como un hobby, con apoyo de su madre, quien maneja inventarios. Ella se encarga de la preparación y promoción en Instagram.  
+Considera clave contar con reportes de costos y pérdidas para decidir qué productos priorizar. Busca un software sencillo, accesible y que automatice procesos. Usa el celular para promocionar y gestionar pedidos. Se inspira en referentes como Alessandra Penny.  
+Aunque valora el negocio, no busca expandirse, ya que lo considera complementario a su interés en las finanzas. Su herramienta ideal sería una página web para organizar mejor pedidos y comunicación.  
+
+Entrevista 2
+
+![Entrevista](assets/emprendedor2.png)
+
+
+**Entrevistado:** Juan Alberto Rosales  
+**Edad:** 28 años  
+**Distrito:** San Isidro 
+**Negocio:** Sabor Criollo  
+**Tiempo de operación:** 8 meses  
+**Minuto de inicio:**  31:15
+**URL del video en Microsoft Stream:**   [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)   
+
+**Resumen**  
+Juan Rosales abrió *Sabor Criollo* hace 8 meses en San Isidro tras iniciar ventas durante la pandemia. Hoy controla inventarios con cuadernos y Excel, contactando proveedores por WhatsApp o llamadas.  
+
+Busca un sistema que ofrezca control en tiempo real, alertas, cálculo de costos y organización de proveedores. Destaca que debe ser accesible, fácil y con soporte. Reportes de costos serían claves para crecer. Sus metas son reducir pérdidas, digitalizar procesos y abrir un segundo local.  
+
+Tiene 28 años, vive en SJL y antes trabajaba en ventas. Usa celular en el día a día y PC para cuentas. Suele guiarse por colegas y reseñas online. Su app ideal sería sencilla, intuitiva y móvil, con alertas y reportes claros.  
+
+Entrevista 3
+
+![Entrevista](assets/emprendedor3.png)
+
+
+**Entrevistado:** Andrés Cieza de León  
+**Edad:** 31 años  
+**Distrito:** San Juan de Lurigancho  
+**Negocio:** Hamburguesería (nombre no especificado)  
+**Tiempo de operación:** 2 años  
+**Minuto de inicio:**  34:57
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
+**Resumen**  
+Andrés Cieza de León es dueño de una hamburguesería en SJL con 2 años de operación. Emprendió porque en su zona había pocas opciones y de baja calidad.  
+
+Actualmente maneja inventarios en Excel, pero considera vital tener reportes y gráficos accesibles. Para él, la facilidad de uso es lo más importante en un software, ya que no quiere perder tiempo en procesos complicados.  
+
+Señaló que la información clara y visual es fundamental para tomar decisiones y que busca expandirse en el mundo digital para hacer crecer su negocio.  
+
+
 ### 2.2.3. Análisis de entrevistas
+
+Segmento: Restaurantes y Restobares (3 entrevistas)
+
+- **Método de gestión de inventario:**  
+  El 100% maneja inventarios manualmente o en Excel. Solo 1 de 3 (33%) ha probado un sistema digital, pero lo considera limitado y sin soporte.
+
+- **Problemas frecuentes:**  
+  100% mencionó quiebres de stock y sobrecompras.  
+  67% indicó pérdidas por desperdicio de insumos y falta de información en tiempo real.
+
+- **Reposición de insumos:**  
+  100% se abastece vía WhatsApp o llamadas.  
+  67% realiza compras frecuentes (diarias o dos veces por semana).
+
+- **Necesidades en un sistema digital:**  
+  100% pidió alertas automáticas y reportes de costos/consumo.  
+  67% quiere organización de proveedores.  
+  33% valoró contar con soporte técnico confiable.
+
+- **Objetivos:**  
+  100% busca reducir pérdidas y organizar mejor la gestión.  
+  67% tiene como meta abrir un segundo local a mediano plazo.
+
+ Segmento: Cafeterías y Bares (3 entrevistas)
+
+- **Método de gestión de inventario:**  
+  El 100% controla insumos manualmente (cuaderno o Excel). Ninguno usa un sistema especializado.
+
+- **Problemas frecuentes:**  
+  100% reportó pérdidas por caducidad de perecibles (lácteos y frutas).  
+  67% considera Excel tedioso y poco confiable.  
+  33% no trabaja con proveedores fijos.
+
+- **Necesidades en un sistema digital:**  
+  100% priorizó alertas automáticas de stock bajo.  
+  100% quiere reportes en tiempo real.  
+  67% pidió cálculo de costos por receta.
+
+- **Perfil tecnológico:**  
+  100% usa celular y computadora.  
+  Todos manejan Excel, apps y POS, aunque reconocen limitaciones.  
+  67% se guía por colegas o redes sociales antes de probar nuevas herramientas.
+
+- **Objetivos:**  
+  100% busca reducir desperdicios y mejorar márgenes.  
+  67% expresó interés en abrir una segunda sede.
+
+Segmento: Emprendimientos Gastronómicos (3 entrevistas)
+
+- **Método de gestión de inventario:**  
+  El 100% usa Excel o control manual. Ninguno cuenta con sistemas especializados.
+
+- **Motivación para emprender:**  
+  67% inició por pasión por la gastronomía.  
+  33% lo hizo al identificar una oportunidad de mercado en su zona.
+
+- **Problemas frecuentes:**  
+  100% reconoció que Excel es limitado (sin reportes ni alertas).  
+  67% mencionó pérdidas o ineficiencia en insumos.  
+  33% pidió mayor visualización gráfica de datos.
+
+- **Necesidades en un sistema digital:**  
+  100% resaltó que sea sencillo y fácil de usar.  
+  67% pidió reportes claros de costos y rentabilidad.  
+  33% enfatizó la importancia de gráficos accesibles.
+
+- **Perfil personal y tecnológico:**  
+  100% usa el celular como dispositivo principal.  
+  67% combina con PC para cuentas y reportes.  
+  67% se apoya en recomendaciones de colegas o referentes.
+
+- **Objetivos:**  
+  100% busca digitalizar procesos.  
+  67% quiere crecer o expandirse (nuevo local o canales digitales).  
+  33% prefiere mantenerlo como hobby.
 
 ### 2.3. Needfinding
 
 ### 2.3.1. User Personas
 
+Estas representaciones semi-ficticias de clientes ideales ayudan a comprender las necesidades, deseos, comportamientos de nuestros segmentos de usuario. A través de las fichas de User Persona, podremos comprender mejor a estos usuarios y orientar el diseño de nuestra plataforma para satisfacer sus necesidades.
+
+Segmento objetivo: Restaurantes y Restobares
+
+
+![User Diego](assets/user3.png)
+
+Segmento objetivo: Cafeterías y Bares
+
+
+![User Maria Alejandra](assets/user2.png)
+
+Segmento objetivo: Emprendimientos gastronómicos
+
+
+![User Javier](assets/user1.png)
+
 ### 2.3.2. User Task Matrix
+## User Task Matrix  
+
+En esta sección se presentan las tareas que realizan los **User Personas** de los tres segmentos objetivo:  
+- **Diego Fernández Valdivia** (Restobares y Restaurantes).  
+- **María Alejandra Pérez Alvarado** (Cafeterías y Bares).  
+- **Javier Ramírez Soto** (Emprendimientos Gastronómicos).  
+
+Las tareas corresponden a actividades necesarias para el funcionamiento de sus negocios, independientemente de la existencia de soluciones digitales.  
+
+### Cuadro de User Task Matrix  
+
+| **Tareas** | **Diego Fernández**<br>(Restobares y Restaurantes)<br>Frecuencia | **Diego Fernández**<br>Importancia | **María Alejandra**<br>(Cafeterías y Bares)<br>Frecuencia | **María Alejandra**<br>Importancia | **Javier Ramírez**<br>(Emprendimientos Gastronómicos)<br>Frecuencia | **Javier Ramírez**<br>Importancia |
+|------------|-------------------------------------------------|-------------------------------|-------------------------------------------------|-------------------------------|---------------------------------------------------|-----------------------------------|
+| Gestionar inventario de insumos | Alta | Alta | Alta | Alta | Alta | Alta |
+| Coordinar pedidos con proveedores | Alta | Alta | Media | Alta | Alta | Alta |
+| Controlar costos y rentabilidad de productos | Alta | Alta | Media | Alta | Alta | Alta |
+| Estandarizar recetas y procesos | Media | Alta | Alta | Alta | Media | Alta |
+| Evitar quiebres de stock | Alta | Alta | Alta | Alta | Alta | Alta |
+| Gestionar la rotación de productos perecibles | Alta | Alta | Alta | Alta | Media | Alta |
+| Proyectar compras según demanda | Media | Alta | Media | Alta | Media | Alta |
+| Monitorear ventas diarias y márgenes | Alta | Alta | Media | Media | Alta | Alta |
+| Organizar la apertura y operación diaria | Alta | Alta | Alta | Alta | Alta | Alta |
+| Planificar crecimiento del negocio | Media | Alta | Baja | Media | Alta | Alta |
+
+### Explicación de las tareas principales  
+
+- **Gestionar inventario de insumos:** Evitar sobrecompras, pérdidas y garantizar disponibilidad de productos críticos.  
+- **Coordinar pedidos con proveedores:** Mantener abastecimiento constante y evitar retrasos.  
+- **Controlar costos y rentabilidad:** Detectar platos o productos más rentables y ajustar la oferta.  
+- **Estandarizar recetas y procesos:** Asegurar consistencia y calidad en el servicio.  
+- **Evitar quiebres de stock:** Prevenir quiebres en horarios pico que afectan ventas y experiencia del cliente.  
+- **Gestionar rotación de perecibles:** Reducir pérdidas por caducidad y asegurar frescura.  
+- **Proyectar compras según demanda:** Anticiparse a temporadas y eventos especiales.  
+- **Monitorear ventas diarias y márgenes:** Dar visibilidad sobre ingresos y costos en tiempo real.  
+- **Organizar operación diaria:** Garantizar orden, eficiencia y consistencia en cada jornada.  
+- **Planificar crecimiento del negocio:** Especialmente crítico en emprendimientos que buscan sostenibilidad y escalabilidad.  
+
 
 ### 2.3.3. User Journey Mapping
 
+En esta parte se muestran los User Journey Maps As-Is de cada User Persona. El objetivo es representar cómo viven actualmente sus procesos, desde la planificación hasta la evaluación, señalando sus acciones, emociones, puntos de contacto y principales problemas. Estos mapas reflejan la situación real sin una solución implementada y ayudan a entender mejor las necesidades de los usuarios, sirviendo como base para proponer mejoras en el futuro.
+
+**Segmento objetivo: Restobares y Restaurantes**
+
+
+![User Diego](assets/journey1.png)
+
+**Segmento objetivo: Cafeterías y Bares**
+
+
+![User Maria Alejandra](assets/journey2.png)
+
+**Segmento objetivo: Emprendimientos Gastronómicos**
+
+
+![User Javier](assets/journey3.png)
+
 ### 2.3.4. Empathy Mapping
+
+**Segmento objetivo: Restaurantes y Restobares**
+
+
+![User Diego](assets/empathy1.png)
+
+**Segmento objetivo: Cafeterías y Bares**
+
+
+![User Maria Alejandra](assets/empathy2.png)
+
+**Segmento objetivo: Emprendimientos gastronómicos**
+
+
+![User Javier](assets/empathy3.png)
 
 ### 2.4. Big Picture Event Storming
 
+En esta sección se presenta el Big Picture Event Storming realizado por el equipo. Esta dinámica colaborativa permitió mapear de manera visual el dominio del negocio gastronómico, identificando los eventos clave, los comandos que los disparan, los actores involucrados, las políticas vigentes, así como los hostpots y las oportunidades de mejora.
+
+![Event Storming](assets/storming.png)
+
 ### 2.5. Ubiquitous Language
+
+**Inventory (Inventario):** Son todos los insumos y productos que el negocio tiene guardados y listos para usarse en la operación diaria.
+
+**Stock Out (Quiebre de Stock):** Cuando un insumo se acaba y ya no se puede preparar una receta o atender un pedido.
+
+**Overstock (Sobrestock):** Tener más insumos de los necesarios, lo que termina generando caducidad, desperdicios o dinero inmovilizado.
+
+**Waste (Desperdicio):** Pérdida de productos por mala gestión, porque se vencieron o se usaron de manera ineficiente.
+
+**Supplier (Proveedor):** Persona o empresa que entrega los insumos o materias primas al negocio.
+
+**Order (Pedido):** Solicitud que hace el negocio a un proveedor para asegurarse de que no falten productos.
+
+**Recipe (Receta):** Lista detallada de ingredientes y cantidades necesarias para preparar un plato o bebida de manera estándar.
+
+**Menu Item (Plato del Menú):** El producto final que aparece en la carta y que llega al cliente.
+
+**Consumption (Consumo):** El uso real de los insumos durante la preparación de platos en la jornada.
+
+**Expiration (Caducidad):** Fecha límite en la que un insumo puede usarse con seguridad antes de que se eche a perder.
+
+**Cost of Goods Sold – COGS (Costo de Ventas):** Es el valor de todos los insumos utilizados para preparar los productos vendidos.
+
+**Profit Margin (Margen de Ganancia):** Lo que queda de diferencia entre el precio de venta de un plato y lo que costó prepararlo.
+
+**Sales Report (Reporte de Ventas):** Resumen de todas las ventas realizadas en un periodo de tiempo.
+
+**User Role (Rol de Usuario):** El tipo de acceso o funciones que tiene cada persona dentro del sistema (administrador, cajero, mozo, cocinero, etc.).
+
+**Purchase Forecast (Proyección de Compras):** Una estimación de los insumos que se van a necesitar en el futuro, calculada a partir del historial de consumo.
+
+**Reorder Point (Punto de Reorden):** El nivel mínimo de inventario a partir del cual se genera automáticamente un nuevo pedido.
+
+**Service Continuity (Continuidad del Servicio):** La capacidad del negocio de operar sin interrupciones y sin quedarse sin insumos.
+
+**Customer Satisfaction (Satisfacción del Cliente):** La percepción positiva de los clientes sobre la calidad del servicio, la atención y la disponibilidad de productos.
+
+**Digital Report (Reporte Digital):** Documento que genera automáticamente el sistema con datos de consumo, costos y ventas.
+
+**Alert Notification (Notificación de Alerta):** Aviso automático que manda el sistema cuando un insumo está a punto de agotarse.
 
 # Capítulo III: Requirements Specification
 
