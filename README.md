@@ -511,6 +511,155 @@ Preguntas complementarias: 
 
 ### 2.2.2. Registro de entrevistas
 
+
+## Segmento objetivo: Restaurantes y Restobares
+
+### Entrevista 1
+**Entrevistado:** Luciano De La Torre  
+**Edad:** 25 años  
+**Distrito:** Pueblo Libre  
+**Negocio:** Sazón Familiar  
+**Duración:**  
+**URL del video en Microsoft Stream:**  
+
+**Resumen**  
+El entrevistado es un joven de 25 años que administra *Sazón Familiar* en Pueblo Libre, un restaurante familiar con 12 años en el rubro. Actualmente gestiona inventarios manualmente y en Excel, lo que ocasiona quiebres de stock, sobrecompras y desperdicio. La reposición de perecibles se hace diariamente y los proveedores se contactan por WhatsApp o teléfono.  
+
+Menciona que las recetas no están completamente estandarizadas, lo que genera variaciones en costos. Su mayor frustración es la falta de control real del inventario. Considera que un sistema digital debería ser sencillo, dar alertas automáticas, organizar proveedores y calcular costos por plato. Su objetivo es modernizar el negocio familiar, optimizar la cocina y abrir un segundo local a mediano plazo.  
+
+---
+
+### Entrevista 2
+**Entrevistado:** Juan José López  
+**Edad:** 28 años   
+**Negocio:** La Esquina Limeña  
+**Distrito:** Barranco – Lima  
+**Duración:**  
+**URL del video en Microsoft Stream:**  
+
+**Resumen**  
+El entrevistado administra un restobar en Barranco con 3 años de operación. Controla inventarios en Excel, pero depende de encargados y se generan errores. Los problemas principales son el desperdicio por sobrecompra y quiebres de insumos en alta demanda.  
+
+La reposición se hace dos veces por semana vía WhatsApp o llamadas, y en emergencias en el mercado. Las recetas están dispersas en cuadernos y correos, sin conexión al inventario. Señala que necesita reportes con consumo promedio, stock mínimo y costos.  
+
+Un sistema lo motivaría si es accesible desde celular, fácil de usar, con alertas y costo razonable. Su frustración es la falta de información en tiempo real y su objetivo es reducir pérdidas antes de expandirse.  
+
+---
+
+### Entrevista 3
+**Entrevistado:** Patricio Rodríguez Amador  
+**Edad:** 27 años  
+**Distrito:** Comas  
+**Negocio:** Apolo Restobar  
+**Tiempo de operación:** 3 años  
+**Duración:**  
+**URL del video en Microsoft Stream:**  
+
+**Resumen**  
+Patricio Rodríguez, dueño de *Apolo Restobar* en Comas, lleva 3 años operando. Usa un sistema recomendado por un amigo, pero limitado y sin soporte. Su principal problema es el desperdicio de insumos por falta de reportes claros.  
+
+La reposición de perecibles se maneja con proveedores sin agenda fija. No tiene gestión formal de recetas. Le interesa contar con reportes comparativos de insumos usados vs. desperdiciados y valora el soporte técnico.  
+
+Usa computadora y celular, se comunica principalmente por WhatsApp. Su objetivo es reducir pérdidas y mejorar la organización interna.  
+
+---
+
+## **Segmento objetivo: Cafeterías y Bares**
+
+### Entrevista 1
+**Entrevistado:** Leonardo Solís  
+**Edad:** 34 años  
+**Distrito:** Miraflores  
+**Negocio:** Café Aroma  
+**Tiempo de operación:** 5 años  
+**Duración:**  
+**URL del video en Microsoft Stream:**  
+
+**Resumen**  
+El dueño de *Café Aroma*, en Miraflores, lleva 5 años de operación. Los productos de mayor rotación son cafés, postres artesanales y cervezas artesanales. Maneja inventarios manualmente, lo que genera pérdidas por caducidad.  
+
+Considera esencial un sistema con alertas automáticas, control en tiempo real y reportes de costos. Critica Excel por tedioso y poco confiable. Se dedica de lleno al negocio tras dejar marketing. Usa celular y PC, y suele guiarse por colegas y asociaciones. Sus objetivos son optimizar compras, reducir desperdicios y abrir un segundo local.  
+
+---
+
+### Entrevista 2
+**Entrevistada:** Alejandra Martínez  
+**Edad:** 25 años  
+**Distrito:** Surco  
+**Negocio:** Dulce Aroma  
+**Tiempo de operación:** 2 años  
+**Duración:**  
+**URL del video en Microsoft Stream:**  
+
+**Resumen**  
+La dueña de *Dulce Aroma*, en Surco, lleva 2 años de operación. Sus productos más vendidos son cafés (capuccino, latte), sándwiches y postres caseros. Maneja el inventario manualmente, con compras casi diarias de perecibles, lo que causa pérdidas por caducidad.  
+Un sistema con alertas de stock bajo le sería útil para anticiparse. Espera que un software especializado organice inventarios, calcule costos por receta y genere reportes. Usa celular y computadora, maneja Excel, apps y POS. Se guía por colegas y redes sociales. Sus objetivos son reducir desperdicios, mejorar márgenes y abrir una segunda sede.  
+
+---
+
+### Entrevista 3
+**Entrevistado:** Gonzalo Flores Rojas  
+**Distrito:** Barrios Altos  
+**Negocio:** Tinco  
+**Tiempo de operación:** 10 meses  
+**Duración:**  
+**URL del video en Microsoft Stream:**  
+
+**Resumen**  
+Gonzalo Flores es dueño de *Tinco*, con 10 meses en Barrios Altos. Sus productos más rotados son insumos para kekes y tortas. No tiene proveedores fijos y compra según necesidad, lo que le genera pérdidas por caducidad.  
+Considera muy valiosas las alertas de inventario, sobre todo que avisen vencimientos próximos. Usa Excel, pero lo ve limitado porque no anticipa problemas ni genera reportes. Ve en un sistema digital la oportunidad de mejorar el orden y control para crecer de manera sostenible.  
+
+---
+
+## **Segmento objetivo: Emprendimientos Gastronómicos**
+
+### Entrevista 1
+**Entrevistada:** Luciana Aguilar  
+**Edad:** 17 años  
+**Distrito:** Ate (distribución en La Molina y Surco)  
+**Negocio:** Laguntis Verigen (repostería)  
+**Tiempo de operación:** 3 años  
+**Duración:**  
+**URL del video en Microsoft Stream:**  
+
+**Resumen**  
+Luciana Aguilar, de 17 años, creó *Laguntis Verigen*, un emprendimiento de repostería con 3 años de operación. Empezó como un hobby, con apoyo de su madre, quien maneja inventarios. Ella se encarga de la preparación y promoción en Instagram.  
+Considera clave contar con reportes de costos y pérdidas para decidir qué productos priorizar. Busca un software sencillo, accesible y que automatice procesos. Usa el celular para promocionar y gestionar pedidos. Se inspira en referentes como Alessandra Penny.  
+Aunque valora el negocio, no busca expandirse, ya que lo considera complementario a su interés en las finanzas. Su herramienta ideal sería una página web para organizar mejor pedidos y comunicación.  
+
+### Entrevista 2
+**Entrevistado:** Juan Alberto Rosales  
+**Edad:** 28 años  
+**Distrito:** San Isidro 
+**Negocio:** Sabor Criollo  
+**Tiempo de operación:** 8 meses  
+**Duración:**  
+**URL del video en Microsoft Stream:**    
+
+**Resumen**  
+Juan Rosales abrió *Sabor Criollo* hace 8 meses en San Isidro tras iniciar ventas durante la pandemia. Hoy controla inventarios con cuadernos y Excel, contactando proveedores por WhatsApp o llamadas.  
+
+Busca un sistema que ofrezca control en tiempo real, alertas, cálculo de costos y organización de proveedores. Destaca que debe ser accesible, fácil y con soporte. Reportes de costos serían claves para crecer. Sus metas son reducir pérdidas, digitalizar procesos y abrir un segundo local.  
+
+Tiene 28 años, vive en SJL y antes trabajaba en ventas. Usa celular en el día a día y PC para cuentas. Suele guiarse por colegas y reseñas online. Su app ideal sería sencilla, intuitiva y móvil, con alertas y reportes claros.  
+
+### Entrevista 3
+**Entrevistado:** Andrés Cieza de León  
+**Edad:** 31 años  
+**Distrito:** San Juan de Lurigancho  
+**Negocio:** Hamburguesería (nombre no especificado)  
+**Tiempo de operación:** 2 años  
+**Duración:**  
+**URL del video en Microsoft Stream:**  
+
+**Resumen**  
+Andrés Cieza de León es dueño de una hamburguesería en SJL con 2 años de operación. Emprendió porque en su zona había pocas opciones y de baja calidad.  
+
+Actualmente maneja inventarios en Excel, pero considera vital tener reportes y gráficos accesibles. Para él, la facilidad de uso es lo más importante en un software, ya que no quiere perder tiempo en procesos complicados.  
+
+Señaló que la información clara y visual es fundamental para tomar decisiones y que busca expandirse en el mundo digital para hacer crecer su negocio.  
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ### 2.3. Needfinding
