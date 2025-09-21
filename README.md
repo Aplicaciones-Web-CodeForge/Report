@@ -1053,9 +1053,80 @@ En esta sección se presenta el Big Picture Event Storming realizado por el equi
 
 ## 3.1. User Stories
 
+### Epic Stories
+
+| Epic/User Story ID | Título                     | Descripción                                                                                    | Criterios de Aceptación                                                                                                                      | Relacionado con (Epic ID) |
+| ------------------ | -------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| EP-01              | Onboarding y cuentas       | Permitir registro de empresas por RUC/DNI, creación de sedes y gestión de usuarios/roles.      | - Se puede registrar una empresa con RUC válido.<br>- Crear y asignar roles (admin/operador/repartidor).<br>- Soporta multi-sede por cuenta. | —                         |
+| EP-02              | Gestión de pedidos         | Crear, importar y administrar pedidos (pickup, entrega, etiquetas y SLAs).                     | - Crear pedidos con datos mínimos obligatorios.<br>- Generar etiqueta/QR por pedido.<br>- Definir SLA por tipo de servicio.                  | —                         |
+| EP-03              | Cotizaciones y tarifas     | Calcular tarifas por zona/peso/volumen (DIM) y gestionar listas de precios por cliente.        | - Cotización en < 2s con reglas configurables.<br>- Soporta recargos por zonas y sobrepeso.<br>- Tarifas diferenciadas por cliente.          | —                         |
+| EP-04              | Ruteo y asignación         | Optimizar rutas considerando capacidad, ventanas horarias y reintentos; asignación automática. | - Plan de ruta generado con KPIs (distancia/tiempo).<br>- Asignación automática por zona/capacidad.<br>- Reintentos configurables.           | —                         |
+| EP-05              | Tracking y notificaciones  | Seguimiento en tiempo real con estados, ETA y notificaciones a cliente (email/SMS/WhatsApp).   | - Actualización de estado en tiempo real.<br>- ETA visible para cliente.<br>- Notificaciones configurables por evento.                       | —                         |
+| EP-06              | POD y devoluciones         | Captura de prueba de entrega (firma/foto/GPS) y flujos de devolución/incidencias.              | - Registrar firma/foto con geolocalización.<br>- Motivos de incidencia estándar.<br>- Flujo de devolución con trazabilidad.                  | —                         |
+| EP-07              | Facturación y conciliación | Emisión de comprobantes electrónicos, COD y conciliación de liquidaciones a comercios.         | - Generar factura/boleta electrónica.<br>- Registrar y conciliar COD.<br>- Reportes de liquidación por periodo.                              | —                         |
+| EP-08              | Integraciones y analítica  | Integración con e-commerce/POS y dashboards de KPIs (OTIF, SLA, 1er intento, mermas).          | - Conectores Shopify/Woo/Woo vía API/Webhooks.<br>- Export/Import CSV/Excel.<br>- Dashboard con KPIs y filtros.                              | —                         |
+
+### User Stories
+
+| Epic/User Story ID | Título                 | Descripción                                                                   | Criterios de Aceptación                                                                                                                                 | Relacionado con (Epic ID) |
+| ------------------ | ---------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| US-01.01           | Registro por RUC       | Como admin, quiero registrar mi empresa con RUC para activar LogisPe.         | - Validación de RUC conforme a SUNAT (formato).<br>- Campos requeridos completos impiden continuar si faltan.<br>- Confirmación por email al completar. | EP-01                     |
+| US-01.02           | Gestión de roles       | Como admin, quiero crear roles y permisos para controlar accesos.             | - Roles: admin/operador/repartidor por defecto.<br>- Permisos por módulo (ver/crear/editar/exportar).<br>- Auditoría de cambios de permisos.            | EP-01                     |
+| US-01.03           | Multi-sede             | Como admin, quiero configurar varias sedes/almacenes.                         | - Crear/editar/eliminar sedes con dirección y zona.<br>- Asignar usuarios a sedes.<br>- Filtrar pedidos por sede.                                       | EP-01                     |
+| US-02.01           | Crear pedido           | Como operador, quiero crear pedidos con pickup/entrega y contacto receptor.   | - Campos obligatorios (origen/destino/nombre/teléfono).<br>- Validación de teléfono y dirección.<br>- Estado inicial: “Creado”.                         | EP-02                     |
+| US-02.02           | Etiqueta/QR            | Como operador, quiero generar etiqueta con código de barras/QR por pedido.    | - Etiqueta PDF/PNG descargable.<br>- QR contiene ID único rastreable.<br>- Escaneo abre detalle del pedido.                                             | EP-02                     |
+| US-02.03           | Importación masiva     | Como operador, quiero importar pedidos por CSV/Excel.                         | - Plantilla descargable con validaciones.<br>- Reporte de errores por fila.<br>- Importación ≥ 1,000 filas en < 30s.                                    | EP-02                     |
+| US-03.01           | Cotizador instantáneo  | Como vendedor, quiero cotizar por zona/peso/volumen.                          | - Cálculo en < 2s.<br>- DIM = (L×A×H)/factor configurable.<br>- Tarifa muestra base + recargos.                                                         | EP-03                     |
+| US-03.02           | Tarifas por cliente    | Como admin, quiero listas de precios por cliente/segmento.                    | - Crear escalas por volumen/distancia.<br>- Prioridad: tarifa cliente > general.<br>- Historial de cambios.                                             | EP-03                     |
+| US-03.03           | Recargos por zonas     | Como operador, quiero configurar recargos por zonas alejadas.                 | - Tabla de zonas con recargo fijo/%.<br>- VISUAL: etiqueta de recargo en cotización.<br>- Exportable a CSV.                                             | EP-03                     |
+| US-04.01           | Optimizar ruta         | Como planificador, quiero optimizar rutas por capacidad/ventanas horarias.    | - Ingreso de capacidad (kg/volumen/paradas).<br>- Ventanas horarias respetadas en la solución.<br>- KPI: distancia/tiempo total y ocupación.            | EP-04                     |
+| US-04.02           | Auto-asignación        | Como planificador, quiero asignación automática por zona/capacidad.           | - Reglas por distrito/zona postal.<br>- Validación de capacidad antes de asignar.<br>- Log de asignaciones.                                             | EP-04                     |
+| US-04.03           | Reintentos             | Como operador, quiero programar reintentos y reprogramaciones.                | - Motivos de no entrega estandarizados.<br>- Configurar N reintentos por servicio.<br>- Nueva ETA comunicada al cliente.                                | EP-04                     |
+| US-05.01           | Tracking público       | Como cliente final, quiero un link de tracking con ETA.                       | - URL sin login con estado/ETA.<br>- Mapa con última posición si está en ruta.<br>- Actualiza cada ≤ 60 s.                                              | EP-05                     |
+| US-05.02           | Notificaciones         | Como comercio, quiero notificaciones por email/SMS/WhatsApp.                  | - Eventos: creación, en ruta, intento, entregado, devuelto.<br>- Plantillas editables por idioma/tono.<br>- Registro de envío/entrega de notificación.  | EP-05                     |
+| US-05.03           | ETA dinámico           | Como cliente, quiero ETA recalculado por tráfico/incidencias.                 | - ETA se ajusta ante cambios de ruta.<br>- Se notifica si el cambio supera umbral (p.ej. +10 min).<br>- Se registra histórico de ETAs.                  | EP-05                     |
+| US-06.01           | POD firma/foto         | Como repartidor, quiero capturar firma/foto y GPS al entregar.                | - Subida offline con sincronización posterior.<br>- Geo requerido dentro de radio de destino.<br>- Visible en detalle del pedido y exportable.          | EP-06                     |
+| US-06.02           | Devolución             | Como operador, quiero procesar devoluciones con motivo y reingreso a almacén. | - Motivo de devolución obligatorio.<br>- Estado cambia a “Devuelto” y reasigna inventario si aplica.<br>- Notificación al comercio.                     | EP-06                     |
+| US-06.03           | Incidencias            | Como operador, quiero registrar incidencias con evidencias.                   | - Tipificación estándar (dirección incorrecta, ausente, etc.).<br>- Adjuntar fotos/comentarios.<br>- Afecta KPI de primer intento.                      | EP-06                     |
+| US-07.01           | Factura electrónica    | Como admin, quiero emitir factura/boleta electrónica.                         | - Datos fiscales completos requeridos.<br>- Numeración y serie configurables.<br>- Archivo XML/PDF descargable.                                         | EP-07                     |
+| US-07.02           | Conciliación COD       | Como finanzas, quiero conciliar cobro contra entrega y liquidar al comercio.  | - Registro de monto cobrado por pedido.<br>- Reporte de liquidación por periodo/cliente.<br>- Diferencias marcadas para revisión.                       | EP-07                     |
+| US-07.03           | Notas de crédito       | Como finanzas, quiero emitir notas de crédito por ajustes.                    | - Selección de comprobante origen.<br>- Motivo tipificado.<br>- Actualiza saldos en reportes.                                                           | EP-07                     |
+| US-08.01           | Dashboard KPIs         | Como gerente, quiero ver OTIF, % 1er intento, SLA y mermas.                   | - KPIs con filtros por fecha/cliente/zona.<br>- Exportar PNG/CSV.<br>- Actualización diaria o en tiempo real.                                           | EP-08                     |
+| US-08.02           | Webhooks/API           | Como desarrollador, quiero webhooks para estados y API para pedidos.          | - Endpoints autenticados (token).<br>- Webhooks configurables por evento.<br>- Logs de entrega con reintentos.                                          | EP-08                     |
+| US-08.03           | Integración e-commerce | Como merchant, quiero importar pedidos de Shopify/Woo.                        | - Conexión OAuth o API key.<br>- Mapeo de campos configurable.<br>- Importación automática cada N minutos.                                              | EP-08                     |
+
 ## 3.2. Impact Mapping
 
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3546d09e0ce3821addfa7613d37cd1e07d57eaa3/img/Impact%20map%201.png">
+
 ## 3.3. Product Backlog
+
+| #Orden | User Story ID | Título                 | Descripción (resumen)                                             | Story Points |
+| -----: | ------------- | ---------------------- | ----------------------------------------------------------------- | -----------: |
+|      1 | US-01.01      | Registro por RUC       | Alta de empresa con RUC y activación de cuenta por email.         |            2 |
+|      2 | US-01.02      | Gestión de roles       | Crear/asignar roles y permisos por módulo con auditoría.          |            3 |
+|      3 | US-01.03      | Multi-sede             | Configurar sedes/almacenes y asignar usuarios por sede.           |            3 |
+|      4 | US-02.01      | Crear pedido           | Alta manual de pedidos con validaciones de datos obligatorios.    |            3 |
+|      5 | US-02.02      | Etiqueta/QR            | Generar etiqueta PDF/PNG con código de barras/QR rastreable.      |            2 |
+|      6 | US-02.03      | Importación masiva     | Carga CSV/Excel con plantilla, validaciones y reporte de errores. |            4 |
+|      7 | US-03.01      | Cotizador instantáneo  | Cálculo de tarifa por zona/peso/volumen (DIM) en < 2s.            |            4 |
+|      8 | US-03.02      | Tarifas por cliente    | Listas de precios por cliente/segmento con prioridades.           |            3 |
+|      9 | US-03.03      | Recargos por zonas     | Configurar recargos por zonas alejadas y exportar tabla.          |            2 |
+|     10 | US-04.01      | Optimizar ruta         | Motor de ruteo por capacidad y ventanas horarias con KPIs.        |            5 |
+|     11 | US-04.02      | Auto-asignación        | Asignación automática por zona/capacidad con registro de log.     |            4 |
+|     12 | US-04.03      | Reintentos             | Programar reintentos y reprogramaciones con notificación.         |            3 |
+|     13 | US-05.01      | Tracking público       | Link público con estado, mapa y ETA actualizado.                  |            3 |
+|     14 | US-05.02      | Notificaciones         | Envío de email/SMS/WhatsApp por eventos clave con plantillas.     |            4 |
+|     15 | US-05.03      | ETA dinámico           | Recalcular ETA por tráfico/incidencias y avisar si varía.         |            4 |
+|     16 | US-06.01      | POD firma/foto         | Capturar firma/foto + geolocalización con sincronización offline. |            4 |
+|     17 | US-06.02      | Devolución             | Procesar devoluciones con motivo y reingreso a inventario.        |            3 |
+|     18 | US-06.03      | Incidencias            | Registrar incidencias con tipificación y evidencias.              |            3 |
+|     19 | US-07.01      | Factura electrónica    | Emitir factura/boleta electrónica (XML/PDF) con series.           |            4 |
+|     20 | US-07.02      | Conciliación COD       | Conciliar cobro contra entrega y liquidar a comercios.            |            4 |
+|     21 | US-07.03      | Notas de crédito       | Emitir notas de crédito vinculadas al comprobante origen.         |            3 |
+|     22 | US-08.01      | Dashboard KPIs         | Ver OTIF, SLA, 1er intento y mermas con filtros/export.           |            4 |
+|     23 | US-08.02      | Webhooks/API           | API para pedidos y webhooks por eventos con autenticación.        |            4 |
+|     24 | US-08.03      | Integración e-commerce | Conectar Shopify/Woo; mapeo de campos y autoimportación.          |            4 |
 
 # Capítulo IV: Product Design
 
