@@ -515,12 +515,15 @@ Preguntas complementarias: 
 Segmento objetivo: Restaurantes y Restobares
 
 Entrevista 1
+
+![Entrevista](assets/restaurante1.png)
+
 **Entrevistado:** Luciano De La Torre  
 **Edad:** 25 años  
 **Distrito:** Pueblo Libre  
 **Negocio:** Sazón Familiar  
-**Duración:**  
-**URL del video en Microsoft Stream:**  
+**Minuto de inicio:**  00:00
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)   
 
 **Resumen**  
 El entrevistado es un joven de 25 años que administra *Sazón Familiar* en Pueblo Libre, un restaurante familiar con 12 años en el rubro. Actualmente gestiona inventarios manualmente y en Excel, lo que ocasiona quiebres de stock, sobrecompras y desperdicio. La reposición de perecibles se hace diariamente y los proveedores se contactan por WhatsApp o teléfono.  
@@ -530,12 +533,15 @@ Menciona que las recetas no están completamente estandarizadas, lo que genera v
 ---
 
 Entrevista 2
+
+![Entrevista](assets/restaurante2.png)
+
 **Entrevistado:** Juan José López  
 **Edad:** 28 años   
 **Negocio:** La Esquina Limeña  
 **Distrito:** Barranco – Lima  
-**Duración:**  
-**URL del video en Microsoft Stream:**  
+**Minuto de inicio:**  03:18
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
 **Resumen**  
 El entrevistado administra un restobar en Barranco con 3 años de operación. Controla inventarios en Excel, pero depende de encargados y se generan errores. Los problemas principales son el desperdicio por sobrecompra y quiebres de insumos en alta demanda.  
@@ -547,13 +553,16 @@ Un sistema lo motivaría si es accesible desde celular, fácil de usar, con aler
 ---
 
 Entrevista 3
+
+![Entrevista](assets/restaurante3.png)
+
 **Entrevistado:** Patricio Rodríguez Amador  
 **Edad:** 27 años  
 **Distrito:** Comas  
 **Negocio:** Apolo Restobar  
 **Tiempo de operación:** 3 años  
-**Duración:**  
-**URL del video en Microsoft Stream:**  
+**Minuto de inicio:**  05:46
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
 **Resumen**  
 Patricio Rodríguez, dueño de *Apolo Restobar* en Comas, lleva 3 años operando. Usa un sistema recomendado por un amigo, pero limitado y sin soporte. Su principal problema es el desperdicio de insumos por falta de reportes claros.  
@@ -566,44 +575,41 @@ Usa computadora y celular, se comunica principalmente por WhatsApp. Su objetivo 
 
 **Segmento objetivo: Cafeterías y Bares**
 
+
 Entrevista 1
+**Entrevistada:** Alejandra Martínez  
+**Edad:** 25 años  
+**Distrito:** Surco  
+**Negocio:** Dulce Aroma  
+**Tiempo de operación:** 2 años  
+**Minuto de inicio:** 07:50
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
+**Resumen**  
+La dueña de *Dulce Aroma*, en Surco, lleva 2 años de operación. Sus productos más vendidos son cafés (capuccino, latte), sándwiches y postres caseros. Maneja el inventario manualmente, con compras casi diarias de perecibles, lo que causa pérdidas por caducidad.  
+Un sistema con alertas de stock bajo le sería útil para anticiparse. Espera que un software especializado organice inventarios, calcule costos por receta y genere reportes. Usa celular y computadora, maneja Excel, apps y POS. Se guía por colegas y redes sociales. Sus objetivos son reducir desperdicios, mejorar márgenes y abrir una segunda sede.  
+
+Entrevista 2
 **Entrevistado:** Leonardo Solís  
 **Edad:** 34 años  
 **Distrito:** Miraflores  
 **Negocio:** Café Aroma  
 **Tiempo de operación:** 5 años  
-**Duración:**  
-**URL del video en Microsoft Stream:**  
+**Minuto de inicio:**  13:07
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
 **Resumen**  
 El dueño de *Café Aroma*, en Miraflores, lleva 5 años de operación. Los productos de mayor rotación son cafés, postres artesanales y cervezas artesanales. Maneja inventarios manualmente, lo que genera pérdidas por caducidad.  
 
 Considera esencial un sistema con alertas automáticas, control en tiempo real y reportes de costos. Critica Excel por tedioso y poco confiable. Se dedica de lleno al negocio tras dejar marketing. Usa celular y PC, y suele guiarse por colegas y asociaciones. Sus objetivos son optimizar compras, reducir desperdicios y abrir un segundo local.  
 
----
-
-Entrevista 2
-**Entrevistada:** Alejandra Martínez  
-**Edad:** 25 años  
-**Distrito:** Surco  
-**Negocio:** Dulce Aroma  
-**Tiempo de operación:** 2 años  
-**Duración:**  
-**URL del video en Microsoft Stream:**  
-
-**Resumen**  
-La dueña de *Dulce Aroma*, en Surco, lleva 2 años de operación. Sus productos más vendidos son cafés (capuccino, latte), sándwiches y postres caseros. Maneja el inventario manualmente, con compras casi diarias de perecibles, lo que causa pérdidas por caducidad.  
-Un sistema con alertas de stock bajo le sería útil para anticiparse. Espera que un software especializado organice inventarios, calcule costos por receta y genere reportes. Usa celular y computadora, maneja Excel, apps y POS. Se guía por colegas y redes sociales. Sus objetivos son reducir desperdicios, mejorar márgenes y abrir una segunda sede.  
-
----
-
 Entrevista 3
 **Entrevistado:** Gonzalo Flores Rojas  
 **Distrito:** Barrios Altos  
 **Negocio:** Tinco  
 **Tiempo de operación:** 10 meses  
-**Duración:**  
-**URL del video en Microsoft Stream:**  
+**Minuto de inicio:**  17:56
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
 **Resumen**  
 Gonzalo Flores es dueño de *Tinco*, con 10 meses en Barrios Altos. Sus productos más rotados son insumos para kekes y tortas. No tiene proveedores fijos y compra según necesidad, lo que le genera pérdidas por caducidad.  
@@ -619,8 +625,8 @@ Entrevista 1
 **Distrito:** Ate (distribución en La Molina y Surco)  
 **Negocio:** Laguntis Verigen (repostería)  
 **Tiempo de operación:** 3 años  
-**Duración:**  
-**URL del video en Microsoft Stream:**  
+**Minuto de inicio:**  19:57
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
 **Resumen**  
 Luciana Aguilar, de 17 años, creó *Laguntis Verigen*, un emprendimiento de repostería con 3 años de operación. Empezó como un hobby, con apoyo de su madre, quien maneja inventarios. Ella se encarga de la preparación y promoción en Instagram.  
@@ -633,8 +639,8 @@ Entrevista 2
 **Distrito:** San Isidro 
 **Negocio:** Sabor Criollo  
 **Tiempo de operación:** 8 meses  
-**Duración:**  
-**URL del video en Microsoft Stream:**    
+**Minuto de inicio:**  31:15
+**URL del video en Microsoft Stream:**   [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)   
 
 **Resumen**  
 Juan Rosales abrió *Sabor Criollo* hace 8 meses en San Isidro tras iniciar ventas durante la pandemia. Hoy controla inventarios con cuadernos y Excel, contactando proveedores por WhatsApp o llamadas.  
@@ -649,8 +655,8 @@ Entrevista 3
 **Distrito:** San Juan de Lurigancho  
 **Negocio:** Hamburguesería (nombre no especificado)  
 **Tiempo de operación:** 2 años  
-**Duración:**  
-**URL del video en Microsoft Stream:**  
+**Minuto de inicio:**  34:57
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
 **Resumen**  
 Andrés Cieza de León es dueño de una hamburguesería en SJL con 2 años de operación. Emprendió porque en su zona había pocas opciones y de baja calidad.  
