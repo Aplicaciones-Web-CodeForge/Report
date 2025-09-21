@@ -417,6 +417,8 @@ _Estadística de la problemática_
 
 ## 3.2. Impact Mapping
 
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3546d09e0ce3821addfa7613d37cd1e07d57eaa3/img/Impact%20map%201.png">
+
 ## 3.3. Product Backlog
 
 | #Orden | User Story ID | Título                 | Descripción (resumen)                                             | Story Points |
