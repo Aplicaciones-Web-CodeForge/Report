@@ -611,6 +611,8 @@ En esta parte se muestran los User Journey Maps As-Is de cada User Persona. El o
 
 ### 2.4. Big Picture Event Storming
 
+En esta sección se presenta el Big Picture Event Storming realizado por el equipo. Esta dinámica colaborativa permitió mapear de manera visual el dominio del negocio gastronómico, identificando los eventos clave, los comandos que los disparan, los actores involucrados, las políticas vigentes, así como los hostpots y las oportunidades de mejora.
+
 ![Event Storming](assets/storming.png)
 
 ### 2.5. Ubiquitous Language
