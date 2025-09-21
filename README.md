@@ -512,9 +512,9 @@ Preguntas complementarias: 
 ### 2.2.2. Registro de entrevistas
 
 
-## Segmento objetivo: Restaurantes y Restobares
+Segmento objetivo: Restaurantes y Restobares
 
-### Entrevista 1
+Entrevista 1
 **Entrevistado:** Luciano De La Torre  
 **Edad:** 25 años  
 **Distrito:** Pueblo Libre  
@@ -529,7 +529,7 @@ Menciona que las recetas no están completamente estandarizadas, lo que genera v
 
 ---
 
-### Entrevista 2
+Entrevista 2
 **Entrevistado:** Juan José López  
 **Edad:** 28 años   
 **Negocio:** La Esquina Limeña  
@@ -546,7 +546,7 @@ Un sistema lo motivaría si es accesible desde celular, fácil de usar, con aler
 
 ---
 
-### Entrevista 3
+Entrevista 3
 **Entrevistado:** Patricio Rodríguez Amador  
 **Edad:** 27 años  
 **Distrito:** Comas  
@@ -564,9 +564,9 @@ Usa computadora y celular, se comunica principalmente por WhatsApp. Su objetivo 
 
 ---
 
-## **Segmento objetivo: Cafeterías y Bares**
+**Segmento objetivo: Cafeterías y Bares**
 
-### Entrevista 1
+Entrevista 1
 **Entrevistado:** Leonardo Solís  
 **Edad:** 34 años  
 **Distrito:** Miraflores  
@@ -582,7 +582,7 @@ Considera esencial un sistema con alertas automáticas, control en tiempo real y
 
 ---
 
-### Entrevista 2
+Entrevista 2
 **Entrevistada:** Alejandra Martínez  
 **Edad:** 25 años  
 **Distrito:** Surco  
@@ -597,7 +597,7 @@ Un sistema con alertas de stock bajo le sería útil para anticiparse. Espera qu
 
 ---
 
-### Entrevista 3
+Entrevista 3
 **Entrevistado:** Gonzalo Flores Rojas  
 **Distrito:** Barrios Altos  
 **Negocio:** Tinco  
@@ -611,9 +611,9 @@ Considera muy valiosas las alertas de inventario, sobre todo que avisen vencimie
 
 ---
 
-## **Segmento objetivo: Emprendimientos Gastronómicos**
+**Segmento objetivo: Emprendimientos Gastronómicos**
 
-### Entrevista 1
+Entrevista 1
 **Entrevistada:** Luciana Aguilar  
 **Edad:** 17 años  
 **Distrito:** Ate (distribución en La Molina y Surco)  
@@ -627,7 +627,7 @@ Luciana Aguilar, de 17 años, creó *Laguntis Verigen*, un emprendimiento de rep
 Considera clave contar con reportes de costos y pérdidas para decidir qué productos priorizar. Busca un software sencillo, accesible y que automatice procesos. Usa el celular para promocionar y gestionar pedidos. Se inspira en referentes como Alessandra Penny.  
 Aunque valora el negocio, no busca expandirse, ya que lo considera complementario a su interés en las finanzas. Su herramienta ideal sería una página web para organizar mejor pedidos y comunicación.  
 
-### Entrevista 2
+Entrevista 2
 **Entrevistado:** Juan Alberto Rosales  
 **Edad:** 28 años  
 **Distrito:** San Isidro 
@@ -643,7 +643,7 @@ Busca un sistema que ofrezca control en tiempo real, alertas, cálculo de costos
 
 Tiene 28 años, vive en SJL y antes trabajaba en ventas. Usa celular en el día a día y PC para cuentas. Suele guiarse por colegas y reseñas online. Su app ideal sería sencilla, intuitiva y móvil, con alertas y reportes claros.  
 
-### Entrevista 3
+Entrevista 3
 **Entrevistado:** Andrés Cieza de León  
 **Edad:** 31 años  
 **Distrito:** San Juan de Lurigancho  
