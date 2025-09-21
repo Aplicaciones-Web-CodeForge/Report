@@ -594,6 +594,21 @@ En esta parte se muestran los User Journey Maps As-Is de cada User Persona. El o
 
 ### 2.3.4. Empathy Mapping
 
+**Segmento objetivo: Restaurantes y Restobares**
+
+
+![User Diego](assets/empathy1.png)
+
+**Segmento objetivo: Cafeterías y Bares**
+
+
+![User Maria Alejandra](assets/empathy2.png)
+
+**Segmento objetivo: Emprendimientos gastronómicos**
+
+
+![User Javier](assets/empathy3.png)
+
 ### 2.4. Big Picture Event Storming
 
 ### 2.5. Ubiquitous Language
