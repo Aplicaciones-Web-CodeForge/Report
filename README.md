@@ -1855,6 +1855,179 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos
 | Katherine Mejia   | deploy landing page with Github Pages             |
 | Augusto Montes    | support to deploy and fix errors with landing page|
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 2</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            29/09/2025
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            20:30
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad Online - Vía Discord
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Equipo de LogisPe
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Attendees (to planning meeting)</b>
+        </td>
+        <td>
+            - Javier Murillo, Mathias<br>
+            - Aguilar Untiveros, Rodrigo Fabrizio<br>
+            - Condori Lozano, Alessandro Ramiro<br>
+            - Mejia Aliaga, Katherine Maryory<br>
+            - Montes Maza Augusto Sebastian<br>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b> <br>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            En el Sprint 1 se completó exitosamente la implementación y el despliegue de la primera versión de la Landing Page. Se validó la propuesta de valor y el diseño visual inicial. El equipo demostró una buena colaboración y dominio de las herramientas de control de versiones.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b> <br>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+            La retrospectiva del Sprint 1 destacó la fluida comunicación del equipo. Como punto de mejora, se identificó la necesidad de definir con mayor detalle los "contratos" de datos (la estructura de la información) antes de iniciar el desarrollo del frontend para agilizar la integración y evitar retrabajo. Esto llevó a la decisión de usar una Fake API en el Sprint 2.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 2 Goal</b>
+        </td>
+        <td>
+            Nuestro objetivo es construir las vistas principales y funcionales de la aplicación web (Dashboard, Gestión de Inventario y Creación de Recetas), conectándolas a una Fake API. Creemos que esto nos permitirá validar la usabilidad y el flujo de trabajo del usuario principal. Esto se confirmará cuando los usuarios puedan navegar entre las vistas, visualizar datos de prueba y simular la creación de un nuevo insumo y una receta sin errores en el prototipo funcional.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint 2 Velocity</b>
+        </td>
+        <td>
+            16
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            16
+        </td>
+    </tr>
+</table>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | Github Username | Maquetación de Vistas (Vue.js) Leader (L), Collaborator (C) | Configuración de Fake API (JSON Server) Leader (L), Collaborator (C) | Gestión de Estado y Lógica de UI Leader (L), Collaborator (C) |
+|---|---|---|---|---|
+| Mathias Javier Murillo | K1ngHulk | (L) | (C) | (L) |
+| Rodrigo Fabrizio Aguilar Untiveros | Rodri2712 | (C) | (C) | (C) |
+| Alessandro Ramiro Condori Lozano | AlessandroRCL | (C) | (L) | (C) |
+| Katherine Maryory Mejia Aliaga | KathMJ | (C) | (C) | (C) |
+| Augusto Sebastian Montes Maza | asmmaza | (C) | (C) | (C) |
+
+#### 5.2.2.3. Sprint Backlog 2
+
+El objetivo del Sprint 2 es materializar los diseños de la aplicación web en componentes funcionales. El equipo se enfocará en desarrollar las pantallas principales, asegurando una correcta gestión del estado y la interacción con una API simulada (Fake API) que proveerá los datos de prueba.
+
+A continuación se presenta el Board de Trello para el Sprint 2:
+
+*(URL público del Board de Trello para el Sprint 2)*
+
+*(Aquí puedes insertar la captura de pantalla del Board de Trello para Sprint 2)*
+`![Sprint Backlog 2](url_de_la_imagen_del_sprint_backlog_2)`
+
+A continuación, la tabla de control de estado para el Sprint 2:
+
+| Sprint # | Sprint 2 | | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **User Story** | | | **Work-Item/Task** | | | | |
+| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+| US-02.02 | Visualizar Stock en Tiempo Real | TSK-01 | Maquetar la tabla de inventario con Vue.js | Crear el componente de la tabla que muestre los insumos, aplicando los Style Guidelines. | 8 | Murillo M. | Done |
+| | | TSK-02 | Crear el endpoint de insumos en la Fake API | Configurar JSON Server para que sirva una lista de insumos de prueba. | 4 | Condori A. | Done |
+| | | TSK-03 | Conectar la tabla de inventario a la Fake API | Implementar la lógica para consumir los datos de la Fake API y mostrarlos en la tabla. | 6 | Murillo M. | Done |
+| US-02.01 | Añadir Nuevo Insumo | TSK-04 | Diseñar y maquetar el modal/formulario de "Añadir Insumo" | Crear el componente del formulario con todos los campos necesarios. | 6 | Aguilar R. | Done |
+| | | TSK-05 | Implementar la lógica de envío de datos a la Fake API | Simular la creación de un nuevo insumo mediante una petición POST a la Fake API. | 5 | Aguilar R. | Done |
+| US-03.01 | Crear una Receta | TSK-06 | Maquetar la vista de "Creación de Receta" | Desarrollar la interfaz para nombrar una receta y añadir insumos. | 8 | Mejia K. | Done |
+| | | TSK-07 | Implementar buscador de insumos para la receta | Crear un componente de búsqueda que consuma la lista de insumos de la Fake API. | 6 | Mejia K. | Done |
+| US-02.03 | Búsqueda y Filtro de Insumos | TSK-08 | Añadir campo de búsqueda y filtros a la tabla de inventario | Implementar la lógica en el frontend para filtrar los insumos mostrados en la tabla. | 6 | Montes A. | Done |
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+*(Esta sección se completará con las evidencias de commits correspondientes al finalizar el sprint.)*
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+*(Esta sección se completará con las capturas de pantalla de las vistas implementadas y el video de demostración al finalizar el sprint.)*
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, no se implementaron servicios web reales, ya que el desarrollo del frontend se basó en una **Fake API** utilizando **JSON Server**. La estructura de los datos y los endpoints simulados se documentaron internamente en el repositorio del frontend para guiar el desarrollo. La documentación formal con OpenAPI/Swagger se realizará en sprints posteriores, cuando se construya la API real.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+*(Esta sección se completará con las evidencias del despliegue de la aplicación web en su entorno de pruebas al finalizar el sprint.)*
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 2, la colaboración se centró en la construcción de la aplicación web. El equipo trabajó de manera coordinada para transformar los diseños en componentes de software funcionales.
+
+| Author | Task completed |
+|---|---|
+| Mathias Javier Murillo | Lideró el desarrollo del frontend, implementó la vista principal de inventario y la gestión de estado. |
+| Rodrigo Aguilar | Desarrolló el componente y la lógica para el formulario de "Añadir Nuevo Insumo". |
+| Alessandro Condori | Configuró y mantuvo la Fake API con JSON Server, definiendo los datos de prueba para todo el equipo. |
+| Katherine Mejia | Implementó la vista de "Creación de Recetas", incluyendo el buscador interactivo de insumos. |
+| Augusto Sebastian Montes Maza | Apoyó en la maquetación con CSS, aseguró el diseño responsivo de las vistas y desarrolló la funcionalidad de búsqueda en el frontend. |
+
+*(Aquí puedes insertar la captura de pantalla de los analíticos de GitHub para Sprint 2)*
+`![Analíticos de Colaboración Sprint 2](url_de_la_imagen_sprint_2)`
+
 Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
 
 ![Commits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fa894917805872b29efd6ce1c30ff914ea3c9679/img/Commits.png)
