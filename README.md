@@ -1923,7 +1923,7 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos
             <b>Review Summary</b>
         </td>
         <td>
-            En el Sprint 1 se completó exitosamente la implementación y el despliegue de la primera versión de la Landing Page. Se validó la propuesta de valor y el diseño visual inicial. El equipo demostró una buena colaboración y dominio de las herramientas de control de versiones.
+            [cite_start]En el Sprint 1 se completó exitosamente la implementación y el despliegue de la primera versión de la Landing Page[cite: 698]. Se validó la propuesta de valor y el diseño visual inicial. El equipo demostró una buena colaboración y dominio de las herramientas de control de versiones.
         </td>
     </tr>
     <tr align="left">
@@ -1932,7 +1932,7 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos
             <b>Retrospective Summary</b>
         </td>
         <td>
-            La retrospectiva del Sprint 1 destacó la fluida comunicación del equipo. Como punto de mejora, se identificó la necesidad de definir con mayor detalle los "contratos" de datos (la estructura de la información) antes de iniciar el desarrollo del frontend para agilizar la integración y evitar retrabajo. Esto llevó a la decisión de usar una Fake API en el Sprint 2.
+            La retrospectiva del Sprint 1 destacó la fluida comunicación del equipo. Como punto de mejora, se identificó la necesidad de definir los "contratos" de datos (la estructura de la información) antes de iniciar el desarrollo del frontend. Esta decisión fue clave para adoptar el uso de una Fake API en el Sprint 2 y así desacoplar el desarrollo del frontend y backend.
         </td>
     </tr>
     <tr align="left">
@@ -1940,7 +1940,7 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos
             <b>Sprint 2 Goal</b>
         </td>
         <td>
-            Nuestro objetivo es construir las vistas principales y funcionales de la aplicación web (Dashboard, Gestión de Inventario y Creación de Recetas), conectándolas a una Fake API. Creemos que esto nos permitirá validar la usabilidad y el flujo de trabajo del usuario principal. Esto se confirmará cuando los usuarios puedan navegar entre las vistas, visualizar datos de prueba y simular la creación de un nuevo insumo y una receta sin errores en el prototipo funcional.
+            Nuestro objetivo es construir un prototipo funcional de la aplicación web, desarrollando las vistas de autenticación (Login, Register), el Home y las pantallas principales de gestión (Stock, Orders, Recipes, Suppliers), conectándolas a una Fake API. Creemos que esto nos permitirá validar el flujo de navegación principal y la usabilidad de las funcionalidades core. Esto se confirmará cuando un usuario pueda registrarse, iniciar sesión, navegar por todas las vistas implementadas y ver datos de prueba cargados desde la Fake API.
         </td>
     </tr>
     <tr align="left">
@@ -1948,7 +1948,7 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos
             <b>Sprint 2 Velocity</b>
         </td>
         <td>
-            16
+            23
         </td>
     </tr>
     <tr align="left">
@@ -1956,28 +1956,28 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos
             <b>Sum of Story Points</b>
         </td>
         <td>
-            16
+            23
         </td>
     </tr>
 </table>
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
-| Team Member (Last Name, First Name) | Github Username | Maquetación de Vistas (Vue.js) Leader (L), Collaborator (C) | Configuración de Fake API (JSON Server) Leader (L), Collaborator (C) | Gestión de Estado y Lógica de UI Leader (L), Collaborator (C) |
+| Team Member (Last Name, First Name) | Github Username | Desarrollo Frontend de Vistas (Vue.js) Leader (L), Collaborator (C) | Configuración de Fake API (JSON Server) Leader (L), Collaborator (C) | Documentación y Corrección de Feedback Leader (L), Collaborator (C) |
 |---|---|---|---|---|
-| Mathias Javier Murillo | K1ngHulk | (L) | (C) | (L) |
+| Mathias Javier Murillo | K1ngHulk | (L) | (L) | (C) |
 | Rodrigo Fabrizio Aguilar Untiveros | Rodri2712 | (C) | (C) | (C) |
 | Alessandro Ramiro Condori Lozano | AlessandroRCL | (C) | (L) | (C) |
 | Katherine Maryory Mejia Aliaga | KathMJ | (C) | (C) | (C) |
-| Augusto Sebastian Montes Maza | asmmaza | (C) | (C) | (C) |
+| Augusto Sebastian Montes Maza | asmmaza | (C) | (C) | (L) |
 
 #### 5.2.2.3. Sprint Backlog 2
 
-El objetivo del Sprint 2 es materializar los diseños de la aplicación web en componentes funcionales. El equipo se enfocará en desarrollar las pantallas principales, asegurando una correcta gestión del estado y la interacción con una API simulada (Fake API) que proveerá los datos de prueba.
+El objetivo del Sprint 2 fue materializar los diseños de la aplicación web en componentes funcionales. El equipo se enfocó en desarrollar las pantallas principales (Login, Register, Home, Stock, Orders, Recipes, Suppliers), asegurando una correcta gestión del estado y la interacción con una API simulada (Fake API) que proveyó los datos de prueba.
 
 A continuación se presenta el Board de Trello para el Sprint 2:
 
-*(URL público del Board de Trello para el Sprint 2)*
+https://trello.com/b/Kc6EuuE3/sprint-2-logispe
 
 *(Aquí puedes insertar la captura de pantalla del Board de Trello para Sprint 2)*
 `![Sprint Backlog 2](url_de_la_imagen_del_sprint_backlog_2)`
@@ -1988,14 +1988,17 @@ A continuación, la tabla de control de estado para el Sprint 2:
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **User Story** | | | **Work-Item/Task** | | | | |
 | **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
-| US-02.02 | Visualizar Stock en Tiempo Real | TSK-01 | Maquetar la tabla de inventario con Vue.js | Crear el componente de la tabla que muestre los insumos, aplicando los Style Guidelines. | 8 | Murillo M. | Done |
-| | | TSK-02 | Crear el endpoint de insumos en la Fake API | Configurar JSON Server para que sirva una lista de insumos de prueba. | 4 | Condori A. | Done |
-| | | TSK-03 | Conectar la tabla de inventario a la Fake API | Implementar la lógica para consumir los datos de la Fake API y mostrarlos en la tabla. | 6 | Murillo M. | Done |
-| US-02.01 | Añadir Nuevo Insumo | TSK-04 | Diseñar y maquetar el modal/formulario de "Añadir Insumo" | Crear el componente del formulario con todos los campos necesarios. | 6 | Aguilar R. | Done |
-| | | TSK-05 | Implementar la lógica de envío de datos a la Fake API | Simular la creación de un nuevo insumo mediante una petición POST a la Fake API. | 5 | Aguilar R. | Done |
-| US-03.01 | Crear una Receta | TSK-06 | Maquetar la vista de "Creación de Receta" | Desarrollar la interfaz para nombrar una receta y añadir insumos. | 8 | Mejia K. | Done |
-| | | TSK-07 | Implementar buscador de insumos para la receta | Crear un componente de búsqueda que consuma la lista de insumos de la Fake API. | 6 | Mejia K. | Done |
-| US-02.03 | Búsqueda y Filtro de Insumos | TSK-08 | Añadir campo de búsqueda y filtros a la tabla de inventario | Implementar la lógica en el frontend para filtrar los insumos mostrados en la tabla. | 6 | Montes A. | Done |
+| US-01.01 | Registro de Nueva Empresa | TSK-01 | Maquetar la vista de Registro (Register) | Crear el componente con los campos de formulario requeridos (RUC, email, etc.). | 6 | Aguilar R. | Done |
+| US-01.02 | Inicio de Sesión Seguro | TSK-02 | Maquetar la vista de Inicio de Sesión (Login) | Crear el componente con los campos de email y contraseña. | 5 | Aguilar R. | Done |
+| N/A | Configuración de Fake API | TSK-03 | Definir y configurar los endpoints en JSON Server | Crear los archivos JSON con datos de prueba para usuarios, insumos, órdenes, etc. | 8 | Condori A. | Done |
+| | | TSK-04 | Implementar la lógica de autenticación simulada | Crear la lógica en el frontend para simular el login/register contra la Fake API. | 6 | Murillo M. | Done |
+| US-02.02 | Visualizar Stock en Tiempo Real | TSK-05 | Maquetar la vista "Stock Available" | Desarrollar la tabla principal que listará los insumos del inventario. | 8 | Murillo M. | Done |
+| | | TSK-06 | Conectar la vista "Stock Available" a la Fake API | Consumir el endpoint de insumos y renderizar los datos en la tabla. | 5 | Mejia K. | Done |
+| N/A | Maquetación Vistas Adicionales | TSK-07 | Desarrollar la vista "Orders" | Crear la interfaz para visualizar el listado de órdenes de compra. | 7 | Aguilar R. | Done |
+| | | TSK-08 | Desarrollar la vista "Recipes and Supplies" | Implementar la UI para listar y crear nuevas recetas. | 8 | Mejia K. | Done |
+| | | TSK-09 | Desarrollar la vista "Suppliers" | Crear la interfaz para visualizar el directorio de proveedores. | 6 | Condori A. | Done |
+| N/A | Documentación y Bugs | TSK-10 | Documentar el uso de los nuevos componentes | Actualizar el informe y el `README` con la descripción de las vistas creadas. | 5 | Montes A. | Done |
+| | | TSK-11 | Corregir errores de feedback de TB1 | Aplicar las correcciones observadas en el diseño y la estructura del informe. | 6 | Montes A. | Done |
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -2007,7 +2010,7 @@ A continuación, la tabla de control de estado para el Sprint 2:
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-Durante este sprint, no se implementaron servicios web reales, ya que el desarrollo del frontend se basó en una **Fake API** utilizando **JSON Server**. La estructura de los datos y los endpoints simulados se documentaron internamente en el repositorio del frontend para guiar el desarrollo. La documentación formal con OpenAPI/Swagger se realizará en sprints posteriores, cuando se construya la API real.
+Durante este sprint, el desarrollo del frontend se basó en una **Fake API** utilizando **JSON Server**. La estructura de los datos y los endpoints simulados (para usuarios, insumos, órdenes, etc.) se documentaron internamente en el repositorio del frontend para guiar el desarrollo. La documentación formal con OpenAPI/Swagger se realizará en sprints posteriores, cuando se construya la API real.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
@@ -2015,15 +2018,15 @@ Durante este sprint, no se implementaron servicios web reales, ya que el desarro
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
-Durante el Sprint 2, la colaboración se centró en la construcción de la aplicación web. El equipo trabajó de manera coordinada para transformar los diseños en componentes de software funcionales.
+Durante el Sprint 2, la colaboración se centró en la construcción de las pantallas principales de la aplicación web. El equipo trabajó de manera coordinada para transformar los diseños en componentes de software funcionales, utilizando una API simulada para desacoplar el trabajo.
 
 | Author | Task completed |
 |---|---|
-| Mathias Javier Murillo | Lideró el desarrollo del frontend, implementó la vista principal de inventario y la gestión de estado. |
-| Rodrigo Aguilar | Desarrolló el componente y la lógica para el formulario de "Añadir Nuevo Insumo". |
-| Alessandro Condori | Configuró y mantuvo la Fake API con JSON Server, definiendo los datos de prueba para todo el equipo. |
-| Katherine Mejia | Implementó la vista de "Creación de Recetas", incluyendo el buscador interactivo de insumos. |
-| Augusto Sebastian Montes Maza | Apoyó en la maquetación con CSS, aseguró el diseño responsivo de las vistas y desarrolló la funcionalidad de búsqueda en el frontend. |
+| Mathias Javier Murillo | Lideró el desarrollo frontend, implementó la vista "Stock Available" y la lógica de autenticación simulada. |
+| Rodrigo Aguilar | Desarrolló las vistas de "Login", "Register" y "Orders", asegurando su correcta funcionalidad. |
+| Alessandro Condori | Lideró la configuración de la Fake API con JSON Server, definiendo los datos de prueba. También desarrolló la vista "Suppliers". |
+| Katherine Mejia | Implementó la vista de "Recipes and Supplies" y conectó la vista de "Stock" a la Fake API. |
+| Augusto Sebastian Montes Maza | Se encargó de la documentación técnica de los nuevos componentes y de la corrección de errores y mejoras basadas en el feedback recibido del TB1. |
 
 *(Aquí puedes insertar la captura de pantalla de los analíticos de GitHub para Sprint 2)*
 `![Analíticos de Colaboración Sprint 2](url_de_la_imagen_sprint_2)`
