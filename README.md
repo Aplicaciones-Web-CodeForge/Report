@@ -1212,32 +1212,41 @@ Cada historia de usuario incluye Criterios de Aceptación redactados en formato 
 
 ## 3.3. Product Backlog
 
-| #Orden | User Story ID | Título                 | Descripción (resumen)                                             | Story Points |
-| -----: | ------------- | ---------------------- | ----------------------------------------------------------------- | -----------: |
-|      1 | US-01.01      | Registro por RUC       | Alta de empresa con RUC y activación de cuenta por email.         |            2 |
-|      2 | US-01.02      | Gestión de roles       | Crear/asignar roles y permisos por módulo con auditoría.          |            3 |
-|      3 | US-01.03      | Multi-sede             | Configurar sedes/almacenes y asignar usuarios por sede.           |            3 |
-|      4 | US-02.01      | Crear pedido           | Alta manual de pedidos con validaciones de datos obligatorios.    |            3 |
-|      5 | US-02.02      | Etiqueta/QR            | Generar etiqueta PDF/PNG con código de barras/QR rastreable.      |            2 |
-|      6 | US-02.03      | Importación masiva     | Carga CSV/Excel con plantilla, validaciones y reporte de errores. |            4 |
-|      7 | US-03.01      | Cotizador instantáneo  | Cálculo de tarifa por zona/peso/volumen (DIM) en < 2s.            |            4 |
-|      8 | US-03.02      | Tarifas por cliente    | Listas de precios por cliente/segmento con prioridades.           |            3 |
-|      9 | US-03.03      | Recargos por zonas     | Configurar recargos por zonas alejadas y exportar tabla.          |            2 |
-|     10 | US-04.01      | Optimizar ruta         | Motor de ruteo por capacidad y ventanas horarias con KPIs.        |            5 |
-|     11 | US-04.02      | Auto-asignación        | Asignación automática por zona/capacidad con registro de log.     |            4 |
-|     12 | US-04.03      | Reintentos             | Programar reintentos y reprogramaciones con notificación.         |            3 |
-|     13 | US-05.01      | Tracking público       | Link público con estado, mapa y ETA actualizado.                  |            3 |
-|     14 | US-05.02      | Notificaciones         | Envío de email/SMS/WhatsApp por eventos clave con plantillas.     |            4 |
-|     15 | US-05.03      | ETA dinámico           | Recalcular ETA por tráfico/incidencias y avisar si varía.         |            4 |
-|     16 | US-06.01      | POD firma/foto         | Capturar firma/foto + geolocalización con sincronización offline. |            4 |
-|     17 | US-06.02      | Devolución             | Procesar devoluciones con motivo y reingreso a inventario.        |            3 |
-|     18 | US-06.03      | Incidencias            | Registrar incidencias con tipificación y evidencias.              |            3 |
-|     19 | US-07.01      | Factura electrónica    | Emitir factura/boleta electrónica (XML/PDF) con series.           |            4 |
-|     20 | US-07.02      | Conciliación COD       | Conciliar cobro contra entrega y liquidar a comercios.            |            4 |
-|     21 | US-07.03      | Notas de crédito       | Emitir notas de crédito vinculadas al comprobante origen.         |            3 |
-|     22 | US-08.01      | Dashboard KPIs         | Ver OTIF, SLA, 1er intento y mermas con filtros/export.           |            4 |
-|     23 | US-08.02      | Webhooks/API           | API para pedidos y webhooks por eventos con autenticación.        |            4 |
-|     24 | US-08.03      | Integración e-commerce | Conectar Shopify/Woo; mapeo de campos y autoimportación.          |            4 |
+El **Product Backlog** es una lista ordenada y priorizada de todo el trabajo pendiente para el proyecto "LogisPe". Las Historias de Usuario se han estimado utilizando **Story Points** (siguiendo la secuencia 1, 2, 3, 5, 8) y se han organizado en función del **valor que aportan al negocio** y al usuario final. La priorización busca entregar las funcionalidades más críticas y de mayor impacto en las primeras iteraciones. Se han incluido las historias de la **Landing Page** al inicio, ya que son cruciales para la captación de clientes, seguidas por las funcionalidades centrales de la aplicación que resuelven los problemas más urgentes identificados en la fase de investigación.
+
+***
+
+| #Orden | User Story ID | Título | Descripción (resumen) | Story Points |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | LS-06.01 | Ver Propuesta de Valor | Como visitante, quiero entender los beneficios de LogisPe en la página de inicio. | 2 |
+| 2 | US-02.02 | Visualizar Stock en Tiempo Real | Como cocinero, quiero ver la lista de insumos con su cantidad disponible. | 5 |
+| 3 | US-02.01 | Añadir Nuevo Insumo | Como administrador, quiero añadir un nuevo insumo a mi inventario con su stock inicial. | 3 |
+| 4 | US-03.01 | Crear una Receta | Como administrador, quiero crear una receta especificando insumos y cantidades. | 5 |
+| 5 | US-05.01 | Alerta de Stock Bajo | Como administrador, quiero recibir una notificación cuando el stock de un insumo esté bajo. | 3 |
+| 6 | US-05.02 | Generar Reporte de Consumo | Como dueño, quiero generar un reporte de consumo de insumos por rango de fechas. | 5 |
+| 7 | US-02.03 | Búsqueda y Filtro de Insumos | Como cocinero, quiero buscar y filtrar insumos por nombre o categoría. | 3 |
+| 8 | LS-06.02 | Explorar Características | Como visitante, quiero navegar a una sección de "Características" en la Landing Page. | 1 |
+| 9 | US-01.01 | Registro de Nueva Empresa | Como administrador, quiero registrar mi negocio en la plataforma. | 3 |
+| 10 | LS-06.03 | Iniciar Proceso de Registro | Como visitante, quiero encontrar fácilmente un botón para registrarme. | 1 |
+| 11 | US-04.01 | Registrar un Proveedor | Como administrador, quiero registrar los datos de mis proveedores. | 2 |
+| 12 | US-01.02 | Inicio de Sesión Seguro | Como usuario registrado, quiero iniciar sesión con mi correo y contraseña. | 2 |
+| 13 | US-04.02 | Generar Orden de Compra | Como administrador, quiero generar una orden de compra para un proveedor. | 3 |
+| 14 | US-02.04 | Registrar Merma o Desperdicio | Como almacenero, quiero registrar la pérdida de un insumo para mantener el stock exacto. | 3 |
+| 15 | US-03.02 | Calcular Costo de Receta | Como administrador, quiero que el sistema calcule el costo de una receta automáticamente. | 3 |
+| 16 | US-02.05 | Ver Historial de Movimientos | Como administrador, quiero ver el historial de movimientos de un insumo (compras, ventas, mermas). | 5 |
+| 17 | US-05.03 | Reporte de Rentabilidad por Plato | Como dueño, quiero un reporte que muestre la rentabilidad de cada plato del menú. | 8 |
+| 18 | US-04.03 | Registrar Recepción de Compra | Como almacenero, quiero marcar una orden de compra como "Recibida" para que el stock se actualice. | 3 |
+| 19 | US-02.06 | Asignar Categorías a Insumos | Como administrador, quiero poder crear y asignar categorías a mis insumos (ej. Lácteos, Carnes). | 2 |
+| 20 | US-01.03 | Gestión de Roles de Usuario | Como administrador, quiero asignar roles (Cocinero, Almacenero) a los miembros de mi equipo. | 3 |
+| 21 | US-05.04 | Exportar Reportes a PDF/CSV | Como administrador, quiero exportar cualquier reporte en formato PDF o CSV. | 3 |
+| 22 | US-03.03 | Editar una Receta Existente | Como administrador, quiero poder editar los ingredientes o cantidades de una receta ya creada. | 2 |
+| 23 | US-04.04 | Directorio de Proveedores | Como administrador, quiero tener una vista de todos mis proveedores con sus datos de contacto. | 2 |
+| 24 | US-01.04 | Editar Perfil de Usuario | Como usuario, quiero poder cambiar mi nombre y contraseña en mi perfil. | 2 |
+| 25 | US-05.05 | Dashboard Principal con KPIs | Como administrador, quiero ver un dashboard con indicadores clave al iniciar sesión. | 8 |
+| 26 | US-02.07 | Alerta de Caducidad Próxima | Como almacenero, quiero recibir alertas sobre insumos que están por vencer. | 5 |
+| 27 | US-04.05 | Ver Historial de Compras | Como administrador, quiero ver un historial de todas las órdenes de compra realizadas a un proveedor. | 3 |
+| 28 | US-05.06 | Reporte de Mermas | Como dueño, quiero un reporte que me muestre las mermas por insumo en un período. | 5 |
+
 
 # Capítulo IV: Product Design
 
