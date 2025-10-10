@@ -482,95 +482,908 @@ En nuestro proyecto, los segmentos han sido definidos a partir de criterios como
 
 ## 2.1. Competidores
 
+Dentro del mercado peruano existen múltiples opciones digitales para solucionar el problema de la gestión de inventarios, que compiten directa o indirectamente con nuestra propuesta. Entre los principales competidores identificados se encuentran:
+
+**Nubefact:** Plataforma peruana conocida por su servicio de facturación electrónica, que incluye herramientas para la administración de inventarios y ventas. Aunque cumple con las normativas de SUNAT y ofrece integración con sistemas POS, su principal beneficio no es la gestión de inventarios, lo que limita el nivel de personalización para las empresas que lo adquieren.
+
+**Siigo Perú:** Antes conocido como Contasis, es un sistema contable y administrativo que incorpora funciones como control de inventarios, compras y ventas. Tiene una amplia trayectoria en el mercado peruano y brinda soporte técnico local. Sin embargo, está más orientado a la contabilidad que a la gestión gastronómica, con interfaces menos intuitivas para usuarios sin experiencia tecnológica.
+
+**Factura Perú:** Solución peruana orientada a la facturación electrónica e inventarios para negocios pequeños. Sus principales beneficios son los costos accesibles, el cumplimiento legal con SUNAT y la facilidad de uso para empresas en crecimiento. No obstante, presenta limitaciones en funciones avanzadas enfocadas en gastronomía, como gestión de recetas, control de insumos perecibles o reportes especializados.
+
+Finalmente, es importante mencionar que algunos negocios en Perú aún recurren a herramientas indirectas como Excel o Google Sheets para llevar el control de sus inventarios de manera manual.
+
 ## 2.1.1. Análisis competitivo
+
+| Categoría | Su Startup | Nubefact | Siigo Perú | Factura Perú |
+|-----------|------------|-----------|------------|--------------|
+| **Perfil - Overview** | Aplicación web especializada en gestión de inventarios para el sector gastronómico. | Plataforma peruana centrada en facturación electrónica, con módulo básico de inventarios. | Sistema contable y administrativo con funciones de inventario, compras y ventas. | Solución peruana de facturación electrónica con módulo de inventarios para negocios pequeños. |
+| **Ventaja Competitiva** | Especialización gastronómica: recetas, control de insumos perecibles, alertas automáticas. | Cumplimiento con SUNAT y alta adaptación en los negocios peruanos. | Amplia trayectoria, soporte contable y administrativo. | Costos accesibles y facilidad de uso para microempresas. |
+| **Perfil de Marketing - Mercado objetivo** | Restaurantes, cevicherías, cafeterías y emprendimientos gastronómicos. | Empresas de todos los rubros que requieren facturación electrónica. | PYMEs que buscan un sistema administrativo y contable. | Negocios pequeños: bodegas, tiendas, etc. |
+| **Perfil de Marketing - Estrategias** | Marketing digital, alianzas con gremios gastronómicos, referidos. | Posicionamiento como líder en facturación electrónica en Perú. | Presencia corporativa y convenios contables. | Promoción de precios bajos y cumplimiento legal. |
+| **Perfil de Producto - Productos & Servicios** | Inventario en tiempo real, recetas, proveedores, reportes, alertas automáticas. | Facturación electrónica + inventarios básicos. | Contabilidad, inventarios, compras y ventas. | Facturación e inventarios simples. |
+| **Perfil de Producto - Precios & Costos** | Planes escalables y accesibles a pymes gastronómicas. | Suscripciones orientadas a facturación. | Costos más altos, orientados a contabilidad integral. | Costos bajos para pequeños negocios. |
+| **Perfil de Producto - Canales** | 100% web responsive. Disponible en dispositivos móviles. | Web | Web y aplicaciones conectadas. | Web (principalmente escritorio). |
+| **SWOT - Fortalezas** | Especialización en gastronomía, interfaz intuitiva, reportes claros. | Cumplimiento legal con SUNAT, gran base de clientes. | Trayectoria, soporte técnico local. | Precio accesible, fácil de implementar. |
+| **SWOT - Debilidades** | Nueva en el mercado, menos reconocimiento. | Módulo de inventarios poco desarrollado. | Complejidad de uso, enfoque contable más que operativo. | Funciones limitadas en gastronomía. |
+| **SWOT - Oportunidades** | Crecimiento del sector gastronómico, digitalización de pymes. | Ampliar funciones hacia sectores especializados. | Integrar más módulos sectoriales. | Expandirse en microempresas. |
+| **SWOT - Amenazas** | Resistencia al cambio tecnológico, competencia consolidada. | Aparición de softwares especializados en gastronomía. | Competidores más simples y accesibles. | Migración de usuarios a plataformas más completas. |
+
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
 
+Estrategias: 
+
+*   Resaltar la especialización gastronómica frente a competidores generales de facturación e inventarios.
+    
+*   Ofrecer precios accesibles y escalables, que se adapten al tamaño y crecimiento del negocio gastronómico.
+    
+*   Garantizar seguridad y confiabilidad, con roles de usuario, respaldos automáticos y protección de datos.
+    
+*   Aprovechar la digitalización acelerada del sector gastronómico en Perú, impulsada por la necesidad de eficiencia y control.
+    
+*   Mantener la innovación constante, incorporando funcionalidades específicas como gestión de recetas, alertas de insumos perecibles y reportes de rentabilidad.
+    
+*   Promover una experiencia de usuario intuitiva y accesible, diseñada específicamente para negocios gastronómicos, lo que facilita la adopción rápida del sistema sin necesidad de conocimientos técnicos avanzados.
+    
+
+Tácticas:
+
+*   Campañas de marketing digital enfocadas en redes sociales y asociaciones con gremios gastronómicos, destacando la facilidad de uso y el ahorro en pérdidas de insumos.
+    
+*   Demostración gratuitas (free trials) para mostrar beneficios inmediatos del sistema frente a la competencia.
+    
+*   Capacitación y soporte cercano, ayudando a superar la resistencia al cambio tecnológico que afecta a muchos negocios pequeños.
+    
+*   Desarrollo de tutoriales y guías interactivas, para que cualquier usuario (sin conocimientos contables) pueda manejar el sistema sin dificultad.
+    
+*   Reportes personalizables en PDF/Excel, resaltando cómo ayudan a la toma de decisiones y la reducción de costos.
+    
+*   Monitoreo constante de competidores para adaptar mejoras rápidamente y aprovechar sus debilidades.
+    
+
+Estrategia freemium o plan básico económico, que atraiga a microempresas que de otro modo optaron por soluciones limitadas como Excel.
+
 ## 2.2. Entrevistas
+
+El objetivo de las entrevistas es recolectar información cualitativa de propietarios, administradores y personal de negocios gastronómicos para conocer sus características demográficas y de contexto, identificar hábitos de gestión de inventarios y tecnología, explorar necesidades, frustraciones y expectativas con respecto a un sistema digital de gestión y construir arquetipos de usuario que guíen el diseño del producto.
 
 ### 2.2.1. Diseño de entrevistas
 
+**Para restobares y restaurantes:**
+
+Preguntas principales:
+
+1.  ¿Cuál es el nombre de su negocio, en qué distrito se ubica y cuántos años lleva operando?
+    
+2.  ¿Qué métodos utilizan actualmente para controlar el inventario (manual, Excel, sistema)?
+    
+3.  ¿Qué problemas han enfrentado en el control de insumos y productos (quiebres, exceso, desperdicio)?
+    
+4.  ¿Cómo realizan actualmente la reposición de insumos perecibles?
+    
+5.  ¿Cómo gestionan la relación con proveedores y recetas?
+    
+6.  ¿Qué tipo de reportes o información necesitan para tomar decisiones de compra?
+    
+7.  ¿Qué factores los motivarían a implementar un sistema digital de inventarios?
+    
+
+      Preguntas complementarias:
+
+1.  ¿Podría contarme un poco sobre usted?
+    
+2.  ¿Qué dispositivos usan más en la gestión del negocio (computadora, tablet, celular)?.
+    
+3.  ¿Qué canales digitales utilizan con más frecuencia (WhatsApp, correo, redes sociales)?
+    
+4.  Cuando toma decisiones importantes, ¿las consulta con alguien más (familia, socios, colegas)?
+    
+5.  ¿Qué objetivos tienen a corto plazo (por ejemplo: reducir pérdidas, abrir nuevas sedes)?
+    
+6.  En su día a día, ¿qué es lo que más le frustra en la gestión del negocio?
+    
+7.  ¿Cómo empezó en el rubro gastronómico?
+    
+
+**Para cafeterías y bares:**
+
+1.  ¿Cuál es el nombre de su negocio, en qué distrito está y cuántos años lleva operando?
+    
+2.  ¿Cuáles son los productos de mayor rotación en su cafetería o bar?
+    
+3.  ¿Cómo controlan actualmente la reposición de insumos perecibles?
+    
+4.  ¿Han tenido pérdidas económicas por caducidad o falta de control de inventario?
+    
+5.  ¿Qué tan relevantes serían para ustedes las alertas automáticas de stock bajo?
+    
+6.  ¿Qué beneficios esperan de un sistema especializado en gastronomía?
+    
+7.  ¿Qué limitaciones han encontrado con los métodos que usan actualmente (Excel, manual)?
+    
+
+Preguntas complementarias: 
+
+1.  ¿Podría contarme un poco sobre usted? (edad, ocupación, lugar de residencia).
+    
+2.  ¿Qué dispositivos suelen usar durante la operación (celular en turno, PC en oficina)?
+    
+3.  ¿Qué tan familiarizado está con herramientas digitales (Excel, apps, POS)?
+    
+4.  ¿Qué personas, marcas o colegas suelen influir cuando deciden implementar nuevas herramientas en el negocio?
+    
+5.  ¿Qué objetivos buscan alcanzar (optimizar compras, reducir desperdicios, mejorar márgenes)?
+    
+6.  ¿Qué experiencias previas han tenido con software de inventarios u otros sistemas? ¿Qué les gustó o no?
+    
+
+**Para emprendimientos gastronómicos:**
+
+Preguntas principales:
+
+1.  ¿Cuál es el nombre de su negocio, en qué distrito se ubica y cuánto tiempo lleva operando?
+    
+2.  ¿Qué los motivó a iniciar este emprendimiento gastronómico?
+    
+3.  ¿Cómo gestionan actualmente sus inventarios y proveedores?
+    
+4.  ¿Qué funciones consideran esenciales en un sistema que los acompañe desde el inicio?
+    
+5.  ¿Qué factores los harían confiar en un software (precio, facilidad de uso, soporte, recomendación)?
+    
+6.  ¿Qué tan importante es para ustedes recibir reportes sobre costos y rentabilidad?
+    
+7.  ¿Qué objetivos tienen a corto y mediano plazo con el negocio (ej. crecer, formalizarse, digitalizar procesos)?
+    
+
+Preguntas complementarias: 
+
+1.  Para conocerte un poco más, ¿cuál es tu edad, ocupación y dónde resides?
+    
+2.  ¿Qué experiencia previa has tenido en gastronomía o en otros rubros?
+    
+3.  ¿Qué dispositivos prefieres para trabajar (celular, tablet, PC)?
+    
+4.  ¿Qué personas, marcas o referentes suelen considerar antes de decidir sobre nuevas herramientas digitales?
+    
+5.  Si pudieras diseñar la herramienta ideal para tu negocio, ¿cómo sería?
+
 ### 2.2.2. Registro de entrevistas
 
+
+Segmento objetivo: Restaurantes y Restobares
+
+Entrevista 1
+
+![Entrevista](assets/restaurante1.png)
+
+**Entrevistado:** Luciano De La Torre  
+**Edad:** 25 años  
+**Distrito:** Pueblo Libre  
+**Negocio:** Sazón Familiar  
+**Minuto de inicio:**  00:00
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)   
+
+**Resumen**  
+El entrevistado es un joven de 25 años que administra *Sazón Familiar* en Pueblo Libre, un restaurante familiar con 12 años en el rubro. Actualmente gestiona inventarios manualmente y en Excel, lo que ocasiona quiebres de stock, sobrecompras y desperdicio. La reposición de perecibles se hace diariamente y los proveedores se contactan por WhatsApp o teléfono.  
+
+Menciona que las recetas no están completamente estandarizadas, lo que genera variaciones en costos. Su mayor frustración es la falta de control real del inventario. Considera que un sistema digital debería ser sencillo, dar alertas automáticas, organizar proveedores y calcular costos por plato. Su objetivo es modernizar el negocio familiar, optimizar la cocina y abrir un segundo local a mediano plazo.  
+
+---
+
+Entrevista 2
+
+![Entrevista](assets/restaurante2.png)
+
+**Entrevistado:** Juan José López  
+**Edad:** 28 años   
+**Negocio:** La Esquina Limeña  
+**Distrito:** Barranco – Lima  
+**Minuto de inicio:**  03:18
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
+**Resumen**  
+El entrevistado administra un restobar en Barranco con 3 años de operación. Controla inventarios en Excel, pero depende de encargados y se generan errores. Los problemas principales son el desperdicio por sobrecompra y quiebres de insumos en alta demanda.  
+
+La reposición se hace dos veces por semana vía WhatsApp o llamadas, y en emergencias en el mercado. Las recetas están dispersas en cuadernos y correos, sin conexión al inventario. Señala que necesita reportes con consumo promedio, stock mínimo y costos.  
+
+Un sistema lo motivaría si es accesible desde celular, fácil de usar, con alertas y costo razonable. Su frustración es la falta de información en tiempo real y su objetivo es reducir pérdidas antes de expandirse.  
+
+---
+
+Entrevista 3
+
+![Entrevista](assets/restaurante3.png)
+
+**Entrevistado:** Patricio Rodríguez Amador  
+**Edad:** 27 años  
+**Distrito:** Comas  
+**Negocio:** Apolo Restobar  
+**Tiempo de operación:** 3 años  
+**Minuto de inicio:**  05:46
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
+**Resumen**  
+Patricio Rodríguez, dueño de *Apolo Restobar* en Comas, lleva 3 años operando. Usa un sistema recomendado por un amigo, pero limitado y sin soporte. Su principal problema es el desperdicio de insumos por falta de reportes claros.  
+
+La reposición de perecibles se maneja con proveedores sin agenda fija. No tiene gestión formal de recetas. Le interesa contar con reportes comparativos de insumos usados vs. desperdiciados y valora el soporte técnico.  
+
+Usa computadora y celular, se comunica principalmente por WhatsApp. Su objetivo es reducir pérdidas y mejorar la organización interna.  
+
+---
+
+**Segmento objetivo: Cafeterías y Bares**
+
+
+Entrevista 1
+
+![Entrevista](assets/cafeteria1.png)
+
+**Entrevistada:** Alejandra Martínez  
+**Edad:** 25 años  
+**Distrito:** Surco  
+**Negocio:** Dulce Aroma  
+**Tiempo de operación:** 2 años  
+**Minuto de inicio:** 07:50
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
+**Resumen**  
+La dueña de *Dulce Aroma*, en Surco, lleva 2 años de operación. Sus productos más vendidos son cafés (capuccino, latte), sándwiches y postres caseros. Maneja el inventario manualmente, con compras casi diarias de perecibles, lo que causa pérdidas por caducidad.  
+Un sistema con alertas de stock bajo le sería útil para anticiparse. Espera que un software especializado organice inventarios, calcule costos por receta y genere reportes. Usa celular y computadora, maneja Excel, apps y POS. Se guía por colegas y redes sociales. Sus objetivos son reducir desperdicios, mejorar márgenes y abrir una segunda sede.  
+
+Entrevista 2
+
+![Entrevista](assets/cafeteria2.png)
+
+
+**Entrevistado:** Leonardo Solís  
+**Edad:** 34 años  
+**Distrito:** Miraflores  
+**Negocio:** Café Aroma  
+**Tiempo de operación:** 5 años  
+**Minuto de inicio:**  13:07
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
+**Resumen**  
+El dueño de *Café Aroma*, en Miraflores, lleva 5 años de operación. Los productos de mayor rotación son cafés, postres artesanales y cervezas artesanales. Maneja inventarios manualmente, lo que genera pérdidas por caducidad.  
+
+Considera esencial un sistema con alertas automáticas, control en tiempo real y reportes de costos. Critica Excel por tedioso y poco confiable. Se dedica de lleno al negocio tras dejar marketing. Usa celular y PC, y suele guiarse por colegas y asociaciones. Sus objetivos son optimizar compras, reducir desperdicios y abrir un segundo local.  
+
+Entrevista 3
+
+![Entrevista](assets/cafeteria3.png)
+
+
+**Entrevistado:** Gonzalo Flores Rojas  
+**Distrito:** Barrios Altos  
+**Negocio:** Tinco  
+**Tiempo de operación:** 10 meses  
+**Minuto de inicio:**  17:56
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
+**Resumen**  
+Gonzalo Flores es dueño de *Tinco*, con 10 meses en Barrios Altos. Sus productos más rotados son insumos para kekes y tortas. No tiene proveedores fijos y compra según necesidad, lo que le genera pérdidas por caducidad.  
+Considera muy valiosas las alertas de inventario, sobre todo que avisen vencimientos próximos. Usa Excel, pero lo ve limitado porque no anticipa problemas ni genera reportes. Ve en un sistema digital la oportunidad de mejorar el orden y control para crecer de manera sostenible.  
+
+---
+
+**Segmento objetivo: Emprendimientos Gastronómicos**
+
+Entrevista 1
+
+![Entrevista](assets/emprendedor1.png)
+
+
+**Entrevistada:** Luciana Aguilar  
+**Edad:** 17 años  
+**Distrito:** Ate (distribución en La Molina y Surco)  
+**Negocio:** Laguntis Verigen (repostería)  
+**Tiempo de operación:** 3 años  
+**Minuto de inicio:**  19:57
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
+**Resumen**  
+Luciana Aguilar, de 17 años, creó *Laguntis Verigen*, un emprendimiento de repostería con 3 años de operación. Empezó como un hobby, con apoyo de su madre, quien maneja inventarios. Ella se encarga de la preparación y promoción en Instagram.  
+Considera clave contar con reportes de costos y pérdidas para decidir qué productos priorizar. Busca un software sencillo, accesible y que automatice procesos. Usa el celular para promocionar y gestionar pedidos. Se inspira en referentes como Alessandra Penny.  
+Aunque valora el negocio, no busca expandirse, ya que lo considera complementario a su interés en las finanzas. Su herramienta ideal sería una página web para organizar mejor pedidos y comunicación.  
+
+Entrevista 2
+
+![Entrevista](assets/emprendedor2.png)
+
+
+**Entrevistado:** Juan Alberto Rosales  
+**Edad:** 28 años  
+**Distrito:** San Isidro 
+**Negocio:** Sabor Criollo  
+**Tiempo de operación:** 8 meses  
+**Minuto de inicio:**  31:15
+**URL del video en Microsoft Stream:**   [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)   
+
+**Resumen**  
+Juan Rosales abrió *Sabor Criollo* hace 8 meses en San Isidro tras iniciar ventas durante la pandemia. Hoy controla inventarios con cuadernos y Excel, contactando proveedores por WhatsApp o llamadas.  
+
+Busca un sistema que ofrezca control en tiempo real, alertas, cálculo de costos y organización de proveedores. Destaca que debe ser accesible, fácil y con soporte. Reportes de costos serían claves para crecer. Sus metas son reducir pérdidas, digitalizar procesos y abrir un segundo local.  
+
+Tiene 28 años, vive en SJL y antes trabajaba en ventas. Usa celular en el día a día y PC para cuentas. Suele guiarse por colegas y reseñas online. Su app ideal sería sencilla, intuitiva y móvil, con alertas y reportes claros.  
+
+Entrevista 3
+
+![Entrevista](assets/emprendedor3.png)
+
+
+**Entrevistado:** Andrés Cieza de León  
+**Edad:** 31 años  
+**Distrito:** San Juan de Lurigancho  
+**Negocio:** Hamburguesería (nombre no especificado)  
+**Tiempo de operación:** 2 años  
+**Minuto de inicio:**  34:57
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
+**Resumen**  
+Andrés Cieza de León es dueño de una hamburguesería en SJL con 2 años de operación. Emprendió porque en su zona había pocas opciones y de baja calidad.  
+
+Actualmente maneja inventarios en Excel, pero considera vital tener reportes y gráficos accesibles. Para él, la facilidad de uso es lo más importante en un software, ya que no quiere perder tiempo en procesos complicados.  
+
+Señaló que la información clara y visual es fundamental para tomar decisiones y que busca expandirse en el mundo digital para hacer crecer su negocio.  
+
+
 ### 2.2.3. Análisis de entrevistas
+
+Segmento: Restaurantes y Restobares (3 entrevistas)
+
+- **Método de gestión de inventario:**  
+  El 100% maneja inventarios manualmente o en Excel. Solo 1 de 3 (33%) ha probado un sistema digital, pero lo considera limitado y sin soporte.
+
+- **Problemas frecuentes:**  
+  100% mencionó quiebres de stock y sobrecompras.  
+  67% indicó pérdidas por desperdicio de insumos y falta de información en tiempo real.
+
+- **Reposición de insumos:**  
+  100% se abastece vía WhatsApp o llamadas.  
+  67% realiza compras frecuentes (diarias o dos veces por semana).
+
+- **Necesidades en un sistema digital:**  
+  100% pidió alertas automáticas y reportes de costos/consumo.  
+  67% quiere organización de proveedores.  
+  33% valoró contar con soporte técnico confiable.
+
+- **Objetivos:**  
+  100% busca reducir pérdidas y organizar mejor la gestión.  
+  67% tiene como meta abrir un segundo local a mediano plazo.
+
+ Segmento: Cafeterías y Bares (3 entrevistas)
+
+- **Método de gestión de inventario:**  
+  El 100% controla insumos manualmente (cuaderno o Excel). Ninguno usa un sistema especializado.
+
+- **Problemas frecuentes:**  
+  100% reportó pérdidas por caducidad de perecibles (lácteos y frutas).  
+  67% considera Excel tedioso y poco confiable.  
+  33% no trabaja con proveedores fijos.
+
+- **Necesidades en un sistema digital:**  
+  100% priorizó alertas automáticas de stock bajo.  
+  100% quiere reportes en tiempo real.  
+  67% pidió cálculo de costos por receta.
+
+- **Perfil tecnológico:**  
+  100% usa celular y computadora.  
+  Todos manejan Excel, apps y POS, aunque reconocen limitaciones.  
+  67% se guía por colegas o redes sociales antes de probar nuevas herramientas.
+
+- **Objetivos:**  
+  100% busca reducir desperdicios y mejorar márgenes.  
+  67% expresó interés en abrir una segunda sede.
+
+Segmento: Emprendimientos Gastronómicos (3 entrevistas)
+
+- **Método de gestión de inventario:**  
+  El 100% usa Excel o control manual. Ninguno cuenta con sistemas especializados.
+
+- **Motivación para emprender:**  
+  67% inició por pasión por la gastronomía.  
+  33% lo hizo al identificar una oportunidad de mercado en su zona.
+
+- **Problemas frecuentes:**  
+  100% reconoció que Excel es limitado (sin reportes ni alertas).  
+  67% mencionó pérdidas o ineficiencia en insumos.  
+  33% pidió mayor visualización gráfica de datos.
+
+- **Necesidades en un sistema digital:**  
+  100% resaltó que sea sencillo y fácil de usar.  
+  67% pidió reportes claros de costos y rentabilidad.  
+  33% enfatizó la importancia de gráficos accesibles.
+
+- **Perfil personal y tecnológico:**  
+  100% usa el celular como dispositivo principal.  
+  67% combina con PC para cuentas y reportes.  
+  67% se apoya en recomendaciones de colegas o referentes.
+
+- **Objetivos:**  
+  100% busca digitalizar procesos.  
+  67% quiere crecer o expandirse (nuevo local o canales digitales).  
+  33% prefiere mantenerlo como hobby.
 
 ### 2.3. Needfinding
 
 ### 2.3.1. User Personas
 
+Estas representaciones semi-ficticias de clientes ideales ayudan a comprender las necesidades, deseos, comportamientos de nuestros segmentos de usuario. A través de las fichas de User Persona, podremos comprender mejor a estos usuarios y orientar el diseño de nuestra plataforma para satisfacer sus necesidades.
+
+Segmento objetivo: Restaurantes y Restobares
+
+
+![User Diego](assets/user3.png)
+
+Segmento objetivo: Cafeterías y Bares
+
+
+![User Maria Alejandra](assets/user2.png)
+
+Segmento objetivo: Emprendimientos gastronómicos
+
+
+![User Javier](assets/user1.png)
+
 ### 2.3.2. User Task Matrix
+## User Task Matrix  
+
+En esta sección se presentan las tareas que realizan los **User Personas** de los tres segmentos objetivo:  
+- **Diego Fernández Valdivia** (Restobares y Restaurantes).  
+- **María Alejandra Pérez Alvarado** (Cafeterías y Bares).  
+- **Javier Ramírez Soto** (Emprendimientos Gastronómicos).  
+
+Las tareas corresponden a actividades necesarias para el funcionamiento de sus negocios, independientemente de la existencia de soluciones digitales.  
+
+### Cuadro de User Task Matrix  
+
+| **Tareas** | **Diego Fernández**<br>(Restobares y Restaurantes)<br>Frecuencia | **Diego Fernández**<br>Importancia | **María Alejandra**<br>(Cafeterías y Bares)<br>Frecuencia | **María Alejandra**<br>Importancia | **Javier Ramírez**<br>(Emprendimientos Gastronómicos)<br>Frecuencia | **Javier Ramírez**<br>Importancia |
+|------------|-------------------------------------------------|-------------------------------|-------------------------------------------------|-------------------------------|---------------------------------------------------|-----------------------------------|
+| Gestionar inventario de insumos | Alta | Alta | Alta | Alta | Alta | Alta |
+| Coordinar pedidos con proveedores | Alta | Alta | Media | Alta | Alta | Alta |
+| Controlar costos y rentabilidad de productos | Alta | Alta | Media | Alta | Alta | Alta |
+| Estandarizar recetas y procesos | Media | Alta | Alta | Alta | Media | Alta |
+| Evitar quiebres de stock | Alta | Alta | Alta | Alta | Alta | Alta |
+| Gestionar la rotación de productos perecibles | Alta | Alta | Alta | Alta | Media | Alta |
+| Proyectar compras según demanda | Media | Alta | Media | Alta | Media | Alta |
+| Monitorear ventas diarias y márgenes | Alta | Alta | Media | Media | Alta | Alta |
+| Organizar la apertura y operación diaria | Alta | Alta | Alta | Alta | Alta | Alta |
+| Planificar crecimiento del negocio | Media | Alta | Baja | Media | Alta | Alta |
+
+### Explicación de las tareas principales  
+
+- **Gestionar inventario de insumos:** Evitar sobrecompras, pérdidas y garantizar disponibilidad de productos críticos.  
+- **Coordinar pedidos con proveedores:** Mantener abastecimiento constante y evitar retrasos.  
+- **Controlar costos y rentabilidad:** Detectar platos o productos más rentables y ajustar la oferta.  
+- **Estandarizar recetas y procesos:** Asegurar consistencia y calidad en el servicio.  
+- **Evitar quiebres de stock:** Prevenir quiebres en horarios pico que afectan ventas y experiencia del cliente.  
+- **Gestionar rotación de perecibles:** Reducir pérdidas por caducidad y asegurar frescura.  
+- **Proyectar compras según demanda:** Anticiparse a temporadas y eventos especiales.  
+- **Monitorear ventas diarias y márgenes:** Dar visibilidad sobre ingresos y costos en tiempo real.  
+- **Organizar operación diaria:** Garantizar orden, eficiencia y consistencia en cada jornada.  
+- **Planificar crecimiento del negocio:** Especialmente crítico en emprendimientos que buscan sostenibilidad y escalabilidad.  
+
 
 ### 2.3.3. User Journey Mapping
 
+En esta parte se muestran los User Journey Maps As-Is de cada User Persona. El objetivo es representar cómo viven actualmente sus procesos, desde la planificación hasta la evaluación, señalando sus acciones, emociones, puntos de contacto y principales problemas. Estos mapas reflejan la situación real sin una solución implementada y ayudan a entender mejor las necesidades de los usuarios, sirviendo como base para proponer mejoras en el futuro.
+
+**Segmento objetivo: Restobares y Restaurantes**
+
+
+![User Diego](assets/journey1.png)
+
+**Segmento objetivo: Cafeterías y Bares**
+
+
+![User Maria Alejandra](assets/journey2.png)
+
+**Segmento objetivo: Emprendimientos Gastronómicos**
+
+
+![User Javier](assets/journey3.png)
+
 ### 2.3.4. Empathy Mapping
+
+**Segmento objetivo: Restaurantes y Restobares**
+
+
+![User Diego](assets/empathy1.png)
+
+**Segmento objetivo: Cafeterías y Bares**
+
+
+![User Maria Alejandra](assets/empathy2.png)
+
+**Segmento objetivo: Emprendimientos gastronómicos**
+
+
+![User Javier](assets/empathy3.png)
 
 ### 2.4. Big Picture Event Storming
 
+En esta sección se presenta el Big Picture Event Storming realizado por el equipo. Esta dinámica colaborativa permitió mapear de manera visual el dominio del negocio gastronómico, identificando los eventos clave, los comandos que los disparan, los actores involucrados, las políticas vigentes, así como los hostpots y las oportunidades de mejora.
+
+![Event Storming](assets/storming.png)
+
 ### 2.5. Ubiquitous Language
+
+**Inventory (Inventario):** Son todos los insumos y productos que el negocio tiene guardados y listos para usarse en la operación diaria.
+
+**Stock Out (Quiebre de Stock):** Cuando un insumo se acaba y ya no se puede preparar una receta o atender un pedido.
+
+**Overstock (Sobrestock):** Tener más insumos de los necesarios, lo que termina generando caducidad, desperdicios o dinero inmovilizado.
+
+**Waste (Desperdicio):** Pérdida de productos por mala gestión, porque se vencieron o se usaron de manera ineficiente.
+
+**Supplier (Proveedor):** Persona o empresa que entrega los insumos o materias primas al negocio.
+
+**Order (Pedido):** Solicitud que hace el negocio a un proveedor para asegurarse de que no falten productos.
+
+**Recipe (Receta):** Lista detallada de ingredientes y cantidades necesarias para preparar un plato o bebida de manera estándar.
+
+**Menu Item (Plato del Menú):** El producto final que aparece en la carta y que llega al cliente.
+
+**Consumption (Consumo):** El uso real de los insumos durante la preparación de platos en la jornada.
+
+**Expiration (Caducidad):** Fecha límite en la que un insumo puede usarse con seguridad antes de que se eche a perder.
+
+**Cost of Goods Sold – COGS (Costo de Ventas):** Es el valor de todos los insumos utilizados para preparar los productos vendidos.
+
+**Profit Margin (Margen de Ganancia):** Lo que queda de diferencia entre el precio de venta de un plato y lo que costó prepararlo.
+
+**Sales Report (Reporte de Ventas):** Resumen de todas las ventas realizadas en un periodo de tiempo.
+
+**User Role (Rol de Usuario):** El tipo de acceso o funciones que tiene cada persona dentro del sistema (administrador, cajero, mozo, cocinero, etc.).
+
+**Purchase Forecast (Proyección de Compras):** Una estimación de los insumos que se van a necesitar en el futuro, calculada a partir del historial de consumo.
+
+**Reorder Point (Punto de Reorden):** El nivel mínimo de inventario a partir del cual se genera automáticamente un nuevo pedido.
+
+**Service Continuity (Continuidad del Servicio):** La capacidad del negocio de operar sin interrupciones y sin quedarse sin insumos.
+
+**Customer Satisfaction (Satisfacción del Cliente):** La percepción positiva de los clientes sobre la calidad del servicio, la atención y la disponibilidad de productos.
+
+**Digital Report (Reporte Digital):** Documento que genera automáticamente el sistema con datos de consumo, costos y ventas.
+
+**Alert Notification (Notificación de Alerta):** Aviso automático que manda el sistema cuando un insumo está a punto de agotarse.
 
 # Capítulo III: Requirements Specification
 
 ## 3.1. User Stories
 
+### Epic Stories
+
+| Epic/User Story ID | Título                     | Descripción                                                                                    | Criterios de Aceptación                                                                                                                      | Relacionado con (Epic ID) |
+| ------------------ | -------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| EP-01              | Onboarding y cuentas       | Permitir registro de empresas por RUC/DNI, creación de sedes y gestión de usuarios/roles.      | - Se puede registrar una empresa con RUC válido.<br>- Crear y asignar roles (admin/operador/repartidor).<br>- Soporta multi-sede por cuenta. | —                         |
+| EP-02              | Gestión de pedidos         | Crear, importar y administrar pedidos (pickup, entrega, etiquetas y SLAs).                     | - Crear pedidos con datos mínimos obligatorios.<br>- Generar etiqueta/QR por pedido.<br>- Definir SLA por tipo de servicio.                  | —                         |
+| EP-03              | Cotizaciones y tarifas     | Calcular tarifas por zona/peso/volumen (DIM) y gestionar listas de precios por cliente.        | - Cotización en < 2s con reglas configurables.<br>- Soporta recargos por zonas y sobrepeso.<br>- Tarifas diferenciadas por cliente.          | —                         |
+| EP-04              | Ruteo y asignación         | Optimizar rutas considerando capacidad, ventanas horarias y reintentos; asignación automática. | - Plan de ruta generado con KPIs (distancia/tiempo).<br>- Asignación automática por zona/capacidad.<br>- Reintentos configurables.           | —                         |
+| EP-05              | Tracking y notificaciones  | Seguimiento en tiempo real con estados, ETA y notificaciones a cliente (email/SMS/WhatsApp).   | - Actualización de estado en tiempo real.<br>- ETA visible para cliente.<br>- Notificaciones configurables por evento.                       | —                         |
+| EP-06              | POD y devoluciones         | Captura de prueba de entrega (firma/foto/GPS) y flujos de devolución/incidencias.              | - Registrar firma/foto con geolocalización.<br>- Motivos de incidencia estándar.<br>- Flujo de devolución con trazabilidad.                  | —                         |
+| EP-07              | Facturación y conciliación | Emisión de comprobantes electrónicos, COD y conciliación de liquidaciones a comercios.         | - Generar factura/boleta electrónica.<br>- Registrar y conciliar COD.<br>- Reportes de liquidación por periodo.                              | —                         |
+| EP-08              | Integraciones y analítica  | Integración con e-commerce/POS y dashboards de KPIs (OTIF, SLA, 1er intento, mermas).          | - Conectores Shopify/Woo/Woo vía API/Webhooks.<br>- Export/Import CSV/Excel.<br>- Dashboard con KPIs y filtros.                              | —                         |
+
+### User Stories
+
+| Epic/User Story ID | Título                 | Descripción                                                                   | Criterios de Aceptación                                                                                                                                 | Relacionado con (Epic ID) |
+| ------------------ | ---------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| US-01.01           | Registro por RUC       | Como admin, quiero registrar mi empresa con RUC para activar LogisPe.         | - Validación de RUC conforme a SUNAT (formato).<br>- Campos requeridos completos impiden continuar si faltan.<br>- Confirmación por email al completar. | EP-01                     |
+| US-01.02           | Gestión de roles       | Como admin, quiero crear roles y permisos para controlar accesos.             | - Roles: admin/operador/repartidor por defecto.<br>- Permisos por módulo (ver/crear/editar/exportar).<br>- Auditoría de cambios de permisos.            | EP-01                     |
+| US-01.03           | Multi-sede             | Como admin, quiero configurar varias sedes/almacenes.                         | - Crear/editar/eliminar sedes con dirección y zona.<br>- Asignar usuarios a sedes.<br>- Filtrar pedidos por sede.                                       | EP-01                     |
+| US-02.01           | Crear pedido           | Como operador, quiero crear pedidos con pickup/entrega y contacto receptor.   | - Campos obligatorios (origen/destino/nombre/teléfono).<br>- Validación de teléfono y dirección.<br>- Estado inicial: “Creado”.                         | EP-02                     |
+| US-02.02           | Etiqueta/QR            | Como operador, quiero generar etiqueta con código de barras/QR por pedido.    | - Etiqueta PDF/PNG descargable.<br>- QR contiene ID único rastreable.<br>- Escaneo abre detalle del pedido.                                             | EP-02                     |
+| US-02.03           | Importación masiva     | Como operador, quiero importar pedidos por CSV/Excel.                         | - Plantilla descargable con validaciones.<br>- Reporte de errores por fila.<br>- Importación ≥ 1,000 filas en < 30s.                                    | EP-02                     |
+| US-03.01           | Cotizador instantáneo  | Como vendedor, quiero cotizar por zona/peso/volumen.                          | - Cálculo en < 2s.<br>- DIM = (L×A×H)/factor configurable.<br>- Tarifa muestra base + recargos.                                                         | EP-03                     |
+| US-03.02           | Tarifas por cliente    | Como admin, quiero listas de precios por cliente/segmento.                    | - Crear escalas por volumen/distancia.<br>- Prioridad: tarifa cliente > general.<br>- Historial de cambios.                                             | EP-03                     |
+| US-03.03           | Recargos por zonas     | Como operador, quiero configurar recargos por zonas alejadas.                 | - Tabla de zonas con recargo fijo/%.<br>- VISUAL: etiqueta de recargo en cotización.<br>- Exportable a CSV.                                             | EP-03                     |
+| US-04.01           | Optimizar ruta         | Como planificador, quiero optimizar rutas por capacidad/ventanas horarias.    | - Ingreso de capacidad (kg/volumen/paradas).<br>- Ventanas horarias respetadas en la solución.<br>- KPI: distancia/tiempo total y ocupación.            | EP-04                     |
+| US-04.02           | Auto-asignación        | Como planificador, quiero asignación automática por zona/capacidad.           | - Reglas por distrito/zona postal.<br>- Validación de capacidad antes de asignar.<br>- Log de asignaciones.                                             | EP-04                     |
+| US-04.03           | Reintentos             | Como operador, quiero programar reintentos y reprogramaciones.                | - Motivos de no entrega estandarizados.<br>- Configurar N reintentos por servicio.<br>- Nueva ETA comunicada al cliente.                                | EP-04                     |
+| US-05.01           | Tracking público       | Como cliente final, quiero un link de tracking con ETA.                       | - URL sin login con estado/ETA.<br>- Mapa con última posición si está en ruta.<br>- Actualiza cada ≤ 60 s.                                              | EP-05                     |
+| US-05.02           | Notificaciones         | Como comercio, quiero notificaciones por email/SMS/WhatsApp.                  | - Eventos: creación, en ruta, intento, entregado, devuelto.<br>- Plantillas editables por idioma/tono.<br>- Registro de envío/entrega de notificación.  | EP-05                     |
+| US-05.03           | ETA dinámico           | Como cliente, quiero ETA recalculado por tráfico/incidencias.                 | - ETA se ajusta ante cambios de ruta.<br>- Se notifica si el cambio supera umbral (p.ej. +10 min).<br>- Se registra histórico de ETAs.                  | EP-05                     |
+| US-06.01           | POD firma/foto         | Como repartidor, quiero capturar firma/foto y GPS al entregar.                | - Subida offline con sincronización posterior.<br>- Geo requerido dentro de radio de destino.<br>- Visible en detalle del pedido y exportable.          | EP-06                     |
+| US-06.02           | Devolución             | Como operador, quiero procesar devoluciones con motivo y reingreso a almacén. | - Motivo de devolución obligatorio.<br>- Estado cambia a “Devuelto” y reasigna inventario si aplica.<br>- Notificación al comercio.                     | EP-06                     |
+| US-06.03           | Incidencias            | Como operador, quiero registrar incidencias con evidencias.                   | - Tipificación estándar (dirección incorrecta, ausente, etc.).<br>- Adjuntar fotos/comentarios.<br>- Afecta KPI de primer intento.                      | EP-06                     |
+| US-07.01           | Factura electrónica    | Como admin, quiero emitir factura/boleta electrónica.                         | - Datos fiscales completos requeridos.<br>- Numeración y serie configurables.<br>- Archivo XML/PDF descargable.                                         | EP-07                     |
+| US-07.02           | Conciliación COD       | Como finanzas, quiero conciliar cobro contra entrega y liquidar al comercio.  | - Registro de monto cobrado por pedido.<br>- Reporte de liquidación por periodo/cliente.<br>- Diferencias marcadas para revisión.                       | EP-07                     |
+| US-07.03           | Notas de crédito       | Como finanzas, quiero emitir notas de crédito por ajustes.                    | - Selección de comprobante origen.<br>- Motivo tipificado.<br>- Actualiza saldos en reportes.                                                           | EP-07                     |
+| US-08.01           | Dashboard KPIs         | Como gerente, quiero ver OTIF, % 1er intento, SLA y mermas.                   | - KPIs con filtros por fecha/cliente/zona.<br>- Exportar PNG/CSV.<br>- Actualización diaria o en tiempo real.                                           | EP-08                     |
+| US-08.02           | Webhooks/API           | Como desarrollador, quiero webhooks para estados y API para pedidos.          | - Endpoints autenticados (token).<br>- Webhooks configurables por evento.<br>- Logs de entrega con reintentos.                                          | EP-08                     |
+| US-08.03           | Integración e-commerce | Como merchant, quiero importar pedidos de Shopify/Woo.                        | - Conexión OAuth o API key.<br>- Mapeo de campos configurable.<br>- Importación automática cada N minutos.                                              | EP-08                     |
+
 ## 3.2. Impact Mapping
 
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3546d09e0ce3821addfa7613d37cd1e07d57eaa3/img/Impact%20map%201.png">
+
 ## 3.3. Product Backlog
+
+| #Orden | User Story ID | Título                 | Descripción (resumen)                                             | Story Points |
+| -----: | ------------- | ---------------------- | ----------------------------------------------------------------- | -----------: |
+|      1 | US-01.01      | Registro por RUC       | Alta de empresa con RUC y activación de cuenta por email.         |            2 |
+|      2 | US-01.02      | Gestión de roles       | Crear/asignar roles y permisos por módulo con auditoría.          |            3 |
+|      3 | US-01.03      | Multi-sede             | Configurar sedes/almacenes y asignar usuarios por sede.           |            3 |
+|      4 | US-02.01      | Crear pedido           | Alta manual de pedidos con validaciones de datos obligatorios.    |            3 |
+|      5 | US-02.02      | Etiqueta/QR            | Generar etiqueta PDF/PNG con código de barras/QR rastreable.      |            2 |
+|      6 | US-02.03      | Importación masiva     | Carga CSV/Excel con plantilla, validaciones y reporte de errores. |            4 |
+|      7 | US-03.01      | Cotizador instantáneo  | Cálculo de tarifa por zona/peso/volumen (DIM) en < 2s.            |            4 |
+|      8 | US-03.02      | Tarifas por cliente    | Listas de precios por cliente/segmento con prioridades.           |            3 |
+|      9 | US-03.03      | Recargos por zonas     | Configurar recargos por zonas alejadas y exportar tabla.          |            2 |
+|     10 | US-04.01      | Optimizar ruta         | Motor de ruteo por capacidad y ventanas horarias con KPIs.        |            5 |
+|     11 | US-04.02      | Auto-asignación        | Asignación automática por zona/capacidad con registro de log.     |            4 |
+|     12 | US-04.03      | Reintentos             | Programar reintentos y reprogramaciones con notificación.         |            3 |
+|     13 | US-05.01      | Tracking público       | Link público con estado, mapa y ETA actualizado.                  |            3 |
+|     14 | US-05.02      | Notificaciones         | Envío de email/SMS/WhatsApp por eventos clave con plantillas.     |            4 |
+|     15 | US-05.03      | ETA dinámico           | Recalcular ETA por tráfico/incidencias y avisar si varía.         |            4 |
+|     16 | US-06.01      | POD firma/foto         | Capturar firma/foto + geolocalización con sincronización offline. |            4 |
+|     17 | US-06.02      | Devolución             | Procesar devoluciones con motivo y reingreso a inventario.        |            3 |
+|     18 | US-06.03      | Incidencias            | Registrar incidencias con tipificación y evidencias.              |            3 |
+|     19 | US-07.01      | Factura electrónica    | Emitir factura/boleta electrónica (XML/PDF) con series.           |            4 |
+|     20 | US-07.02      | Conciliación COD       | Conciliar cobro contra entrega y liquidar a comercios.            |            4 |
+|     21 | US-07.03      | Notas de crédito       | Emitir notas de crédito vinculadas al comprobante origen.         |            3 |
+|     22 | US-08.01      | Dashboard KPIs         | Ver OTIF, SLA, 1er intento y mermas con filtros/export.           |            4 |
+|     23 | US-08.02      | Webhooks/API           | API para pedidos y webhooks por eventos con autenticación.        |            4 |
+|     24 | US-08.03      | Integración e-commerce | Conectar Shopify/Woo; mapeo de campos y autoimportación.          |            4 |
 
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
 
+Las guías de estilo son fundamentales para asegurar una comunicación clara, coherente y profesional en todos los aspectos del proyecto. En esta sección, definiremos las pautas que el equipo utilizará para diseñar la aplicación FinTeka. Estas directrices abarcarán aspectos como la selección de colores, tipografía y la estructura general del diseño.
+
+Para el desarrollo de LogisPE, utilizaremos plataformas como Figma para crear la interfaz web y la página de inicio.  La paleta de colores estará compuesta por tonos blancos y rojos, que transmiten modernidad, confianza y accesibilidad, reflejando el objetivo de la aplicación de conectar a los usuarios con asesores profesionales de manera eficiente y amigable. 
+
+A continuación, se detallan los aspectos clave de este enfoque de diseño.
+
 ### 4.1.1. General Style Guidelines
 
+#### Brading
+
+#### Branding Overview:
+
+LogisPE es una plataforma innovadora dedicada a la gestión de inventarios en empresas pequeñas y medianas del sector gastronómico, con un enfoque inicial en restobares y restaurantes. La solución permite controlar en tiempo real el stock de productos e insumos, generar alertas automáticas cuando los niveles bajan, gestionar proveedores y recetas y crear reportes detallados que facilitan la toma decisiones.
+
+#### Misión:
+
+La misión de LogisPE es brindar a pequeñas y medianas empresas un sistema de gestión de inventario eficiente, accesible y seguro que optimice el control de productos, insumos y proveedores, facilitando la toma de decisiones en tiempo real.
+
+#### Visión:
+
+Nuestra visión es la de convertirse en la aplicación de referencia para la gestión de inventarios en el sector gastronómico y de servicios, reconocida por su confiabilidad, usabilidad y capacidad de adaptación a las necesidades del cliente.
+
+#### Brand name:
+
+El nombre de nuestro producto es LogisPe, que da a entender el apoyo en la logistica a nivel nacional que brindamos en forma de un aplicativo web.
+
+#### Logo:
+
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/8019c2c2143e92d4dc2cf3df187b961bc4f659e6/img/Logo.png" style="width: 50%"/>
+
+#### Colores:
+
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/d2ce0581baefc71e19b27c35feb30d953e33fe81/img/Colores.png"/>
+
+#### Tipografía:
+
+La tipografía organiza el lenguaje visual de las plataformas, garantizando legibilidad y mejorando la experiencia del usuario. Por eso, se eligieron estos tipos de letra:
+
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/085181a7ae5a87ce9ac8350bb00f2a32fa7df4d5/img/Tipografia.png"/>
+
+#### Espaciado:
+
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/b8a51503dcb87c07f8857bd821b06027d8758718/img/Espaciado.png"/>
+
 ### 4.1.2. Web Style Guidelines
+
+#### Elementos Visuales (Imágenes)
+
+La aplicación web incorporará una variedad de imágenes con diferentes propósitos. Estas pueden ir desde íconos funcionales dentro de un menú hasta fotografías como la imagen de perfil del usuario. Cada imagen se seleccionará o diseñará en función de su contexto y objetivo específico dentro de la interfaz.
+
+#### Botones
+
+Los botones serán un elemento clave para facilitar la interacción del usuario con la aplicación. Su diseño seguirá las pautas definidas en el apartado de General Style Guidelines y deberán ser claramente distinguibles del resto de los elementos gráficos. Estarán presentes a lo largo de toda la aplicación, ya sea al final de formularios o como parte de opciones dentro de menús.
+
+#### Formularios
+
+Se integrarán formularios en diversas secciones de la aplicación, como las páginas de inicio de sesión, registro de usuarios, carga de documentos, entre otras. La implementación de estos formularios se adaptará al perfil del usuario, considerando tanto a desarrolladores principiantes como a desarrolladores con mayor experiencia.
 
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
 
+Dominios y entidades: Usuarios (Login, Register, Perfil), Inventario (Productos, Stock disponible, Recetas, Insumos), Proveedores, Órdenes, Analítica (Dashboard/Home).
+
+Estructura jerárquica (top-level → subniveles):
+
+Público: Home (landing), Login, Register.
+
+Privado (app): Home/Dashboard, Stock (/app/stock), Orders (/app/orders), Recipes & Supplies (/app/recipes, /app/supplies), Suppliers (/app/suppliers), Products (/app/products, …/new, …/:id), Profile (/app/profile).
+
+Flujos por tarea: Alta de producto → asignar receta/insumos → actualizar stock; Reabastecimiento (low stock) → orden a proveedor → recepción → stock ↑; Gestión de pedidos → filtrar → detalle → actualizar estado.
+
+Acceso y permisos: rutas públicas vs. privadas; roles (Administrador / Operador / Lectura) para crear/editar/eliminar y ver reportes.
+
 ### 4.2.2. Labeling Systems
+
+Principios: lenguaje claro y consistente; singular para detalle y plural para listados; verbos en botones; evitar jerga.
+
+Menú/navegación: Home, Stock, Orders, Recipes, Supplies, Suppliers, Products, Add Product, Profile, Logout.
+
+Columnas comunes: SKU, Name, Category, Qty/Unit, Cost, Status, Updated, Supplier, Actions.
+
+CTAs: Add Product, New Order, Save, Cancel, Edit, Delete, Export CSV, Restock.
+
+Mensajes del sistema: vacíos (“No results”), validaciones (“SKU is required”), confirmaciones (“Order created”), errores (“Network error, try again”).
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+<.title>LogisPe — Inventory & Orders</title> <br>
+<.meta name="description" content="Controla stock, órdenes, recetas e insumos en un solo lugar."> <br>
+<.link rel="canonical" href="https://example.com/"> <br>
+<.meta property="og:title" content="LogisPe — Inventory & Orders"> <br>
+<.meta property="og:description" content="Dashboard para inventario, órdenes y proveedores."> <br>
+<.meta property="og:image" content="https://example.com/og-cover.jpg"> <br>
+<.meta name="twitter:card" content="summary_large_image">
+
 ### 4.2.4. Searching Systems
 
+Búsqueda en tablas: input con debounce por Nombre/SKU/Proveedor; coincidencia parcial; normalización de mayúsculas/acentos.
+
+Filtros avanzados: chips por Estado (Active/Low stock/Pending/Shipped), Categoría, Rango de fechas (Orders), Proveedor (Stock/Suppliers).
+
+Orden y paginación: orden por columna con indicador; paginación server-side para grandes volúmenes.
+
+Vistas guardadas: Low stock, Pending orders, Recently updated.
+
+Acciones del resultado: exportación (CSV/Excel) y selección múltiple (acciones en lote).
+
+Búsqueda global (opcional): atajo Ctrl/⌘+K para abrir Productos/Órdenes/Proveedores y saltar al detalle.
+
 ### 4.2.5. Navigation Systems
+
+Navegación global: sidebar persistente con módulos; topbar con búsqueda, notificaciones y menú de usuario (Perfil/Logout).
+
+Navegación local: subpestañas o filtros contextuales (Orders: All, Pending, Shipped; Stock: All, Low stock).
+
+Breadcrumbs: p. ej., Suppliers / Acme Co. / Edit para contexto y retorno.
+
+Navegación contextual: enlaces cruzados (desde Low stock → Create purchase order; desde Supplier → View related products).
+
+Detalle/formularios: “Back to list”, confirmación al salir si hay cambios no guardados; autosave opcional.
+
+Paginación y densidad: controles al pie; selector de filas por página y densidad (compacta/normal).
+
+Responsive y accesibilidad: sidebar colapsable en móvil; foco visible; navegación con teclado; roles/ARIA; contraste adecuado.
+
+Estados vacíos/errores: empty states con CTA (“Add Product”) y páginas 404/403 coherentes con el layout.
 
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
 
+#### Home Wireframe
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Home.png"/>
+
+#### About Us Wireframe
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/About%20Us.png"/>
+
+#### Learn More Wireframe
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3318f6cc03d43b461e49812ba0d4a35e36f54dd0/img/Learn%20More%20(1).png"/>
+
+#### Suscribe Wireframe
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Suscribe.png"/>
+
 ### 4.3.2. Landing Page Mock-up.
+
+#### Home Mockup
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/81b84572f012bedd2317112c906194b44749f84d/img/Home-Mock.png"/>
+
+#### About Us Mockup
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/81b84572f012bedd2317112c906194b44749f84d/img/About%20Us-Mock.png"/>
+
+#### Learn More Mockup
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1af882d5cda949db5c95359f0f13c7526159dfcf/img/Learn%20More-Mock%20(1).png"/>
+
+#### Suscribe Mockup
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Suscribe-Mock.png"/>
+
+#### Login Mockup
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1af882d5cda949db5c95359f0f13c7526159dfcf/img/Login.png"/>
+
+#### Register Mockup
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Register.png"/>
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
 
+#### Login & Register
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/83517cef8527291ea7835754ae2cbfac76b5c835/img/Login%26Register-Wireframe.png"/>
+
+#### Home
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/eb97c396e85fb5bc03f3d514a19c6784de33502f/img/Home-Wireframe.png"/>
+
+#### Stock Avaible and Additional
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Stock%20Avaible%20-%20Wireframe.png"/>
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Add%20Product%20-%20Wireframe.png"/>
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Product%20Info%20-%20Wireframe.png"/>
+
+#### Orders
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/10e40a8cf6508dad9eaf616e4e90e8d653fe5eb7/img/Orders1.png">
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/10e40a8cf6508dad9eaf616e4e90e8d653fe5eb7/img/Orders2.png">
+
+#### Recipes and Supplies
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/7108cc69e8ccd3f12486043224314ae266343e77/img/Recipes-wireframes.png">
+
+#### Suppliers
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1a0ff24fd74cc29b94c591844a1b3312b1dc5eee/img/Suppliers1-wireframes.png">
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1a0ff24fd74cc29b94c591844a1b3312b1dc5eee/img/Suppliers2-wireframes.png">
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/dcf6a4c117bbe51a62871c5b6c1d06d8414791ca/img/Wireframe-Wireflow.png">
 
 ### 4.4.3. Web Applications Mock-ups
 
+#### Login & Register
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/49bccf341ee220f79120b36ffbda5ce15cb5b3d0/img/Login-Mockup.png"/>
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/49bccf341ee220f79120b36ffbda5ce15cb5b3d0/img/Register-Mockup.png">
+
+#### Home
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/b7a531a6aaedea58c4a8871e3679a80e23fcad5d/img/Home-Mockup.png"/>
+
+#### Stock Avaible and Additional
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f81bbbf90d270efb4f09661050d01fb835f1ad16/img/Stock1-Mockup.png"/>
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f81bbbf90d270efb4f09661050d01fb835f1ad16/img/Stock2-Mockup.png"/>
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f81bbbf90d270efb4f09661050d01fb835f1ad16/img/Stock3-Mockup.png"/>
+
+#### Orders
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/ca5909c57ab5c2457b49bae1ee27b43aa136ebb3/img/Orders1-Mockup.png">
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/ca5909c57ab5c2457b49bae1ee27b43aa136ebb3/img/Orders2-Mockup.png">
+
+#### Recipes and Supplies
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/70dda5bbf48e565740a972c5d1ff249680e0d4ba/img/Recipes-mockup.png">
+
+#### Suppliers
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/70dda5bbf48e565740a972c5d1ff249680e0d4ba/img/Suppliers1-mockup.png">
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/70dda5bbf48e565740a972c5d1ff249680e0d4ba/img/Suppliers2-mockup.png">
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/dcf6a4c117bbe51a62871c5b6c1d06d8414791ca/img/Mockup-Wireflow.png">
+
 ## 4.5. Web Applications Prototyping
+
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/b7a531a6aaedea58c4a8871e3679a80e23fcad5d/img/Home-Mockup.png"/>
+
+Link del Figma: https://www.figma.com/design/IOMF0hdIHOy89ULFA7dwIh/Untitled?node-id=0-1&t=zsc02RRSwG2QXSx6-1
 
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Design-Level Event Storming
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/ee224d79ad2f1f124403868efac908f8073fad6b/img/Design-Level%20Event%20Storming.png"/>
 
 ### 4.6.2. Software Architecture Context Diagram
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/d4e968a161ade52723abd3653dfdfc4274315f6d/img/diagrama%20de%20contexto.png"/>
 
 ### 4.6.3. Software Architecture Container Diagrams
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/d4e968a161ade52723abd3653dfdfc4274315f6d/img/diagrama%20de%20contenedores.png"/>
 
 ### 4.6.4. Software Architecture Components Diagrams
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/d4e968a161ade52723abd3653dfdfc4274315f6d/img/diagrama%20de%20componentes.png"/>
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/d4e968a161ade52723abd3653dfdfc4274315f6d/img/diagrama%20de%20clases.png"/>
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
+<img src="https://github.com/Aplicaciones-Web-CodeForge/Report/blob/d4e968a161ade52723abd3653dfdfc4274315f6d/img/diagrama%20de%20base%20de%20datos.png"/>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -636,3 +1449,6 @@ en la gastronomía pandémica. Turismo y Patrimonio.
 Gómez, A. V. (2024, mayo 4). Gastronomía en auge: El 63.59% de crecimiento de emprendedores en el Perú marca el camino al éxito. infobae. https://www.infobae.com/peru/2024/05/04/gastronomia-en-auge-el-6359-de-crecimiento-de-emprendedores-en-el-peru-marca-el-camino-al-exito/
 
 # Anexos
+
+#### Link del fIgma con los Wireframes y Mockups:
+https://www.figma.com/design/aLnPkV98dimVgAcqMvuEwF/LogisPE---Open-Source?node-id=18-2&t=g9jsx52P4fw9lbcX-1
