@@ -595,7 +595,7 @@ Debe ser un sistema intuitivo, moderno y fácil de usar, con una interfaz limpia
 
 #### 1.2.2.4. Lean UX Canvas
 
-![Logo UPC](https://i.imgur.com/SZVlLz9.png)
+![Lean UX Canvas](assets/lean_ux_canva.jpg)
 
 ## 1.3. Segmentos objetivo
 
