@@ -27,9 +27,8 @@
 - Rodrigo Fabrizio Aguilar Untiveros
 - Alessandro Ramiro Condori Lozano
 - Mathias Javier Murillo
-- Katherine Maryory Mejia
-- Aliaga Augusto
-- Sebastian Montes Maza
+- Katherine Maryory Mejia Aliaga
+- Augusto Sebastian Montes Maza
 
 <div align="center">
 
