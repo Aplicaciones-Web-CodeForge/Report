@@ -1979,7 +1979,8 @@ A continuación se presenta el Board de Trello para el Sprint 2:
 
 https://trello.com/b/Kc6EuuE3/sprint-2-logispe
 
-`![Sprint Backlog 2](url_de_la_imagen_del_sprint_backlog_2)`
+<img width="857" height="820" alt="image" src="https://github.com/user-attachments/assets/cd5eff14-5365-43c8-8dab-b8b4194eadec" />
+
 
 A continuación, la tabla de control de estado para el Sprint 2:
 
