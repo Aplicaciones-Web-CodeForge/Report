@@ -2002,11 +2002,15 @@ A continuación, la tabla de control de estado para el Sprint 2:
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
-*(Esta sección se completará con las evidencias de commits correspondientes al finalizar el sprint.)*
+![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f23be2e4a69e13a2260b3d9ad4ff7082294b0b21/img/Evidencia-Tp.png)
+
+![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/34a172656f49a48ccbf00f602e193f796c5eaf8b/img/Evidencia-Tp1.png)
+
+![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/34a172656f49a48ccbf00f602e193f796c5eaf8b/img/Evidencia-Tp2.png)
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-*(Esta sección se completará con las capturas de pantalla de las vistas implementadas y el video de demostración al finalizar el sprint.)*
+![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f23be2e4a69e13a2260b3d9ad4ff7082294b0b21/img/Evidencia-Tp.png)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -2014,7 +2018,7 @@ Durante este sprint, el desarrollo del frontend se basó en una **Fake API** uti
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-*(Esta sección se completará con las evidencias del despliegue de la aplicación web en su entorno de pruebas al finalizar el sprint.)*
+![EvidenciaDeploy](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/f23be2e4a69e13a2260b3d9ad4ff7082294b0b21/img/Evidencia-Tp.png)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -2028,8 +2032,7 @@ Durante el Sprint 2, la colaboración se centró en la construcción de las pant
 | Katherine Mejia | Implementó la vista de "Recipes and Supplies" y conectó la vista de "Stock" a la Fake API. |
 | Augusto Sebastian Montes Maza | Se encargó de la documentación técnica de los nuevos componentes y de la corrección de errores y mejoras basadas en el feedback recibido del TB1. |
 
-*(Aquí puedes insertar la captura de pantalla de los analíticos de GitHub para Sprint 2)*
-`![Analíticos de Colaboración Sprint 2](url_de_la_imagen_sprint_2)`
+![EvidenciaCommits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/afd1f9ddc5cee4672d4fb7a648a4bcb5bdaf4d8c/img/CommitsTP.png)
 
 Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
 
