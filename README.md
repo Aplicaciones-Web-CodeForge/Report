@@ -1923,7 +1923,7 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos
             <b>Review Summary</b>
         </td>
         <td>
-            [cite_start]En el Sprint 1 se completó exitosamente la implementación y el despliegue de la primera versión de la Landing Page[cite: 698]. Se validó la propuesta de valor y el diseño visual inicial. El equipo demostró una buena colaboración y dominio de las herramientas de control de versiones.
+            En el Sprint 1 se completó exitosamente la implementación y el despliegue de la primera versión de la Landing Page. Se validó la propuesta de valor y el diseño visual inicial. El equipo demostró una buena colaboración y dominio de las herramientas de control de versiones.
         </td>
     </tr>
     <tr align="left">
@@ -1979,7 +1979,6 @@ A continuación se presenta el Board de Trello para el Sprint 2:
 
 https://trello.com/b/Kc6EuuE3/sprint-2-logispe
 
-*(Aquí puedes insertar la captura de pantalla del Board de Trello para Sprint 2)*
 `![Sprint Backlog 2](url_de_la_imagen_del_sprint_backlog_2)`
 
 A continuación, la tabla de control de estado para el Sprint 2:
