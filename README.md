@@ -1975,15 +1975,6 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos
 
 El objetivo del Sprint 2 fue materializar los diseños de la aplicación web en componentes funcionales. El equipo se enfocó en desarrollar las pantallas principales (Login, Register, Home, Stock, Orders, Recipes, Suppliers), asegurando una correcta gestión del estado y la interacción con una API simulada (Fake API) que proveyó los datos de prueba.
 
-A continuación se presenta el Board de Trello para el Sprint 2:
-
-https://trello.com/b/Kc6EuuE3/sprint-2-logispe
-
-<img width="857" height="820" alt="image" src="https://github.com/user-attachments/assets/cd5eff14-5365-43c8-8dab-b8b4194eadec" />
-
-
-A continuación, la tabla de control de estado para el Sprint 2:
-
 | Sprint # | Sprint 2 | | | | | | |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **User Story** | | | **Work-Item/Task** | | | | |
