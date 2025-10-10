@@ -173,22 +173,46 @@
 
 # Project Report Collaboration Insights
 
-A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
+A continuación, se detalla el proceso de colaboración y gestión de versiones que el equipo ha seguido para la elaboración de este informe y los productos asociados. Todas las contribuciones están centralizadas y son rastreables a través de nuestro repositorio en GitHub.
 
 **URL del Repositorio del Informe:** https://github.com/Aplicaciones-Web-CodeForge/Report
 
-**Entrega N°1: TB1**
-<br>
+---
 
-Se han completado las tareas asignadas para la entrega TB1 en el repositorio de Github de la organización del equipo, accesible mediante el enlace: https://github.com/Aplicaciones-Web-CodeForge/Report
+### **Entrega N°1: TB1**
 
-Para la creación del informe, se realizaron las siguientes actividades:
+Para la primera entrega, el equipo se centró en establecer las bases del proyecto, desde la investigación inicial hasta el diseño conceptual y el despliegue de la primera versión de la Landing Page.
 
-Cada miembro del equipo redactó y generó gráficos en formato Markdown según los puntos asignados, y luego se hicieron commits para registrar el progreso en el repositorio.
+**Proceso de Colaboración:**
 
-Se crearon los artefactos necesarios usando las herramientas recomendadas, y se obtuvieron los enlaces de las imágenes correspondientes a través de la funcionalidad de "Issues" en el repositorio del informe.
+La elaboración del informe y los artefactos se gestionó siguiendo un flujo de trabajo estructurado para garantizar la calidad y la coherencia:
 
-Se llevaron a cabo reuniones periódicas para coordinar el avance de los puntos del informe. Estas reuniones también se utilizaron para comunicar el progreso alcanzado durante el Sprint 1, enfocado en el desarrollo de la Landing Page del proyecto.
+1.  **Planificación y Asignación:** Las tareas, como la redacción de capítulos específicos del informe o la creación de artefactos de UX, se definieron y asignaron a través de nuestro tablero de Trello. Cada miembro del equipo fue responsable de liderar y/o colaborar en diferentes secciones.
+
+2.  **Desarrollo en Ramas (`feature branches`):** Siguiendo el flujo de trabajo **GitFlow**, cada contribución significativa se desarrolló en su propia rama. Por ejemplo, `feature/chapter-2-interviews` o `feature/landing-page-ui`. Esto permitió trabajar en paralelo sin afectar la rama principal de desarrollo.
+
+3.  **Revisión y Fusión (`Pull Requests`):** Una vez completada una tarea, el responsable abría un *Pull Request* (PR) en GitHub. Al menos un miembro del equipo era asignado como revisor para proporcionar feedback, sugerir mejoras y asegurar que los cambios cumplieran con las convenciones del proyecto antes de ser fusionados a la rama `develop`.
+
+4.  **Commits Convencionales:** Todos los commits siguieron la especificación de **Conventional Commits** (ej. `docs(report): add user personas section`). Esto nos permitió mantener un historial de cambios limpio, legible y fácil de auditar.
+
+
+---
+
+### **Entrega N°2: TP1**
+
+Para la segunda entrega, el foco principal fue la materialización de los diseños en la aplicación web, la definición de la arquitectura de software y la incorporación de las mejoras identificadas a partir del feedback recibido.
+
+**Proceso de Colaboración:**
+
+El proceso colaborativo evolucionó para abordar la mayor complejidad técnica de esta fase:
+
+1.  **Gestión del Feedback:** Las observaciones y el feedback del docente sobre la entrega TB1 se registraron como *Issues* en nuestro repositorio de GitHub. Cada *Issue* fue asignado a un responsable, discutido por el equipo y vinculado a los *Pull Requests* que implementaban la solución, asegurando una trazabilidad completa de las mejoras.
+
+2.  **Desarrollo de la Aplicación Web:** La implementación de las pantallas de la aplicación web se dividió por módulos (ej. `feature/stock-management-ui`, `feature/recipes-module`). Los desarrolladores de frontend trabajaron en estas ramas, consumiendo datos simulados mientras se definía la arquitectura del backend.
+
+3.  **Diseño de Arquitectura:** La creación de los diagramas de arquitectura (C4 Model) y el diseño de la base de datos se realizaron de forma colaborativa utilizando herramientas en la nube. Las propuestas se compartieron y discutieron en reuniones de equipo, y los diagramas finales se versionaron y documentaron en el informe.
+
+4.  **Revisión de Código y Coherencia Visual:** Los *Pull Requests* para la aplicación web fueron revisados no solo por su funcionalidad, sino también para garantizar que se adhirieran a los **Style Guidelines** definidos en el Capítulo IV. Esto aseguró una experiencia de usuario consistente en toda la aplicación.
 
 
 ---
@@ -197,7 +221,7 @@ Se llevaron a cabo reuniones periódicas para coordinar el avance de los puntos 
 
 Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
-# Outcomes TB1 – Pilares del Producto y Landing Page  
+# Outcomes TB1 & TP1 – Pilares del Producto y Landing Page  
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
 |---|---|---|
