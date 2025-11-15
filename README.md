@@ -391,6 +391,15 @@ Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efe
     - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+  - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+    - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+    - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
   - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -2092,6 +2101,16 @@ Durante el Sprint 2, la colaboración se centró en la construcción de las pant
 Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
 
 ![Commits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fa894917805872b29efd6ce1c30ff914ea3c9679/img/Commits.png)
+
+## 5.2.3. Sprint 3
+### 5.2.3.1. Sprint Planning 3
+### 5.2.3.2. Aspect Leaders and Collaborators
+### 5.2.3.3. Sprint Backlog 3
+### 5.2.3.4. Development Evidence for Sprint Review
+### 5.2.3.5. Execution Evidence for Sprint Review
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ### 5.3. Validation Interviews
 En esta etapa se validaron las hipótesis del producto mediante entrevistas semiestructuradas aplicadas a usuarios reales del sector gastronómico. El objetivo fue contrastar las necesidades detectadas durante la investigación inicial con percepciones, comportamientos y problemas reales experimentados por administradores, chefs y encargados de compras. Este proceso permitió identificar brechas, validar supuestos críticos y orientar la siguiente fase del diseño e implementación.
