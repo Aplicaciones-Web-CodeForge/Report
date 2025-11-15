@@ -198,8 +198,7 @@
         </td>
     </tr>
 
-</table>
----
+## </table>
 
 # Project Report Collaboration Insights
 
@@ -221,10 +220,9 @@ La elaboración del informe y los artefactos se gestionó siguiendo un flujo de 
 
 2.  **Desarrollo en Ramas (`feature branches`):** Siguiendo el flujo de trabajo **GitFlow**, cada contribución significativa se desarrolló en su propia rama. Por ejemplo, `feature/chapter-2-interviews` o `feature/landing-page-ui`. Esto permitió trabajar en paralelo sin afectar la rama principal de desarrollo.
 
-3.  **Revisión y Fusión (`Pull Requests`):** Una vez completada una tarea, el responsable abría un *Pull Request* (PR) en GitHub. Al menos un miembro del equipo era asignado como revisor para proporcionar feedback, sugerir mejoras y asegurar que los cambios cumplieran con las convenciones del proyecto antes de ser fusionados a la rama `develop`.
+3.  **Revisión y Fusión (`Pull Requests`):** Una vez completada una tarea, el responsable abría un _Pull Request_ (PR) en GitHub. Al menos un miembro del equipo era asignado como revisor para proporcionar feedback, sugerir mejoras y asegurar que los cambios cumplieran con las convenciones del proyecto antes de ser fusionados a la rama `develop`.
 
 4.  **Commits Convencionales:** Todos los commits siguieron la especificación de **Conventional Commits** (ej. `docs(report): add user personas section`). Esto nos permitió mantener un historial de cambios limpio, legible y fácil de auditar.
-
 
 ---
 
@@ -236,16 +234,16 @@ Para la segunda entrega, el foco principal fue la materialización de los diseñ
 
 El proceso colaborativo evolucionó para abordar la mayor complejidad técnica de esta fase:
 
-1.  **Gestión del Feedback:** Las observaciones y el feedback del docente sobre la entrega TB1 se registraron como *Issues* en nuestro repositorio de GitHub. Cada *Issue* fue asignado a un responsable, discutido por el equipo y vinculado a los *Pull Requests* que implementaban la solución, asegurando una trazabilidad completa de las mejoras.
+1.  **Gestión del Feedback:** Las observaciones y el feedback del docente sobre la entrega TB1 se registraron como _Issues_ en nuestro repositorio de GitHub. Cada _Issue_ fue asignado a un responsable, discutido por el equipo y vinculado a los _Pull Requests_ que implementaban la solución, asegurando una trazabilidad completa de las mejoras.
 
 2.  **Desarrollo de la Aplicación Web:** La implementación de las pantallas de la aplicación web se dividió por módulos (ej. `feature/stock-management-ui`, `feature/recipes-module`). Los desarrolladores de frontend trabajaron en estas ramas, consumiendo datos simulados mientras se definía la arquitectura del backend.
 
 3.  **Diseño de Arquitectura:** La creación de los diagramas de arquitectura (C4 Model) y el diseño de la base de datos se realizaron de forma colaborativa utilizando herramientas en la nube. Las propuestas se compartieron y discutieron en reuniones de equipo, y los diagramas finales se versionaron y documentaron en el informe.
 
-4.  **Revisión de Código y Coherencia Visual:** Los *Pull Requests* para la aplicación web fueron revisados no solo por su funcionalidad, sino también para garantizar que se adhirieran a los **Style Guidelines** definidos en el Capítulo IV. Esto aseguró una experiencia de usuario consistente en toda la aplicación.
-
+4.  **Revisión de Código y Coherencia Visual:** Los _Pull Requests_ para la aplicación web fueron revisados no solo por su funcionalidad, sino también para garantizar que se adhirieran a los **Style Guidelines** definidos en el Capítulo IV. Esto aseguró una experiencia de usuario consistente en toda la aplicación.
 
 ---
+
 ### **Entrega N°3: TB2**
 
 Para la tercera entrega, el foco principal fue el desarrollo del backend avanzado, la implementación de la arquitectura basada en Domain-Driven Design (DDD) y la integración técnica con la aplicación web desarrollada en el TP1.
@@ -255,10 +253,10 @@ Para la tercera entrega, el foco principal fue el desarrollo del backend avanzad
 El proceso colaborativo evolucionó nuevamente para enfrentar la mayor complejidad técnica de esta etapa, que implicó decisiones de arquitectura, definición de bounded contexts y construcción de una API escalable y mantenible.
 
 1. **Definición de los Bounded Contexts (DDD):**  
-   El equipo definió de manera colaborativa la separación del dominio en siete *bounded contexts*, acordando los límites funcionales y las reglas de negocio de cada módulo. Este análisis se realizó mediante reuniones técnicas, pizarras colaborativas y revisión grupal de los modelos conceptuales.
+   El equipo definió de manera colaborativa la separación del dominio en siete _bounded contexts_, acordando los límites funcionales y las reglas de negocio de cada módulo. Este análisis se realizó mediante reuniones técnicas, pizarras colaborativas y revisión grupal de los modelos conceptuales.
 
 2. **Arquitectura del Backend y Estructura del Proyecto:**  
-   Se construyó la estructura base del backend siguiendo principios de arquitectura limpia: capas de *controllers*, *services*, *repositories* y *domain models*.  
+   Se construyó la estructura base del backend siguiendo principios de arquitectura limpia: capas de _controllers_, _services_, _repositories_ y _domain models_.  
    El equipo discutió y acordó el uso de patrones como **DTOs**, **Value Objects**, **Aggregates**, así como las convenciones de nombrado y organización para garantizar consistencia en los siete bounded contexts.
 
 3. **Implementación de Endpoints y Casos de Uso:**  
@@ -270,7 +268,7 @@ El proceso colaborativo evolucionó nuevamente para enfrentar la mayor complejid
    Además, se integró la base de datos con el backend mediante repositorios con consultas optimizadas y manejo adecuado de transacciones.
 
 5. **Revisión de Código y Estándares Técnicos:**  
-   Los *Pull Requests* se revisaron no solo por su funcionalidad, sino también para verificar el cumplimiento de estándares definidos en TB2: manejo de excepciones, validaciones, nomenclatura, estructura del proyecto y documentación técnica.  
+   Los _Pull Requests_ se revisaron no solo por su funcionalidad, sino también para verificar el cumplimiento de estándares definidos en TB2: manejo de excepciones, validaciones, nomenclatura, estructura del proyecto y documentación técnica.  
    Cada revisión quedó registrada en GitHub con comentarios detallados que permitieron mantener la calidad y la cohesión arquitectónica.
 
 6. **Integración con el Frontend:**  
@@ -286,12 +284,13 @@ El proceso colaborativo evolucionó nuevamente para enfrentar la mayor complejid
 
 Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
-# Outcomes TB1 & TP1 – Pilares del Producto y Landing Page  
+# Outcomes TB1 & TP1 – Pilares del Producto y Landing Page
 
-| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
-|---|---|---|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | **Rodrigo Fabrizio Aguilar Untiveros**<br>**TB1**: Argumenté y defendí propuestas sobre la estructura de la landing page durante las reuniones de equipo (audiencia técnica). Moderé discusiones para sintetizar las ideas de todos en pilares de producto claros, facilitando un consenso sobre el mensaje a comunicar a nuestros futuros usuarios (audiencia externa).<br>**TP1**: Lideré la presentación del Product Backlog al equipo, explicando oralmente la priorización de User Stories y justificando su valor de negocio. Comuniqué las decisiones de diseño de la arquitectura de software (C4 Model) en términos claros, asegurando que todos los miembros, independientemente de su rol, comprendieran la estructura y el flujo de datos de la solución.<br>**TB2**: Guié las reuniones técnicas de arquitectura del backend, explicando la estructura DDD, los bounded contexts y cómo se integrarían los módulos entre sí. Presenté oralmente la propuesta del backend avanzado, facilitando que todos los integrantes entendieran la interacción entre controladores, servicios, repositorios y la base de datos.<br><br>**Alessandro Ramiro Condori Lozano**<br>**TB1**: Traduje los objetivos técnicos del proyecto a un lenguaje centrado en beneficios para el usuario durante nuestras sesiones de brainstorming. Esta explicación ayudó a que el equipo, como audiencia interna, pudiera visualizar y acordar el discurso comercial que se implementaría en la landing page.<br>**TP1**: Expuse los User Journey Maps al equipo, narrando la experiencia del usuario paso a paso para ilustrar los puntos de dolor y las oportunidades. Esta presentación oral fue clave para que el equipo empatizara con el usuario final y validara los flujos de la aplicación web.<br>**TB2**: Expliqué verbalmente los flujos de comunicación de los endpoints del backend, detallando cómo las peticiones viajan desde el controlador hasta el repositorio. Presenté al equipo las validaciones y reglas de negocio para garantizar una comprensión clara de la lógica implementada.<br><br>**Mathias Javier Murillo**<br>**TB1**: Propuse y justifiqué verbalmente la adaptación del tono de comunicación para dos segmentos de audiencia distintos en la landing page. Expliqué al equipo cómo un mismo pilar del producto debía presentarse de forma diferente para un usuario técnico versus un usuario de negocio, logrando alinear la estrategia de contenido.<br>**TP1**: Presenté los Mockups y prototipos de la aplicación web, guiando al equipo a través de la interfaz y explicando las decisiones de diseño UX/UI. Adapté mi discurso para una audiencia de desarrolladores, enfocándome en la funcionalidad y componentes, y luego para una audiencia de "negocio", resaltando la facilidad de uso y los beneficios.<br>**TB2**: Expliqué oralmente los modelos de dominio del backend, detallando entidades, agregados, value objects y su transformación en tablas. Clarifiqué al equipo cómo se estructurarían los módulos internos y cómo se validarían los datos en cada fase del backend.<br><br>**Katherine Maryory Mejia Aliaga**<br>**TB1**: Expuse verbalmente propuestas para la arquitectura de la información y la jerarquía visual de la landing page. Mi rol fue transformar los conceptos abstractos del equipo en una narrativa oral clara que describía el "viaje" del usuario, permitiendo que todos entendieran cómo se comunicarían visualmente las ideas.<br>**TP1**: Expliqué al equipo los Style Guidelines definidos para el proyecto, comunicando de forma oral las reglas sobre tipografía, colores y espaciado. Mi presentación aseguró que todos tuvieran una comprensión compartida de la identidad visual que se implementaría en la aplicación web.<br>**TB2**: Expliqué de forma oral la estructura de validaciones del backend, el manejo de excepciones y cómo se garantizaría la integridad de los datos. Facilitó la alineación entre frontend y backend comunicando cómo se consumirían los servicios API.<br><br>**Augusto Sebastian Montes Maza**<br>**TB1**: Participé activamente en los debates de planificación, enfocándome en asegurar la coherencia verbal entre los objetivos de negocio y las funcionalidades propuestas. Cuestioné y validé oralmente que nuestro discurso interno fuera lo suficientemente robusto como para sostener el mensaje público en la landing page.<br>**TP1**: Argumenté las decisiones sobre el diseño de la base de datos durante las sesiones técnicas. Simplifiqué conceptos complejos de modelado de datos para que todo el equipo pudiera participar en la validación, asegurando que el diseño fuera escalable y respondiera a las necesidades funcionales.<br>**TB2**: Expliqué oralmente la estructura completa de la base de datos del backend, detallando relaciones, normalización y reglas de integridad. Presenté al equipo cómo se integraría la base de datos con los bounded contexts y cómo cada módulo consumiría los datos. | **Rodrigo Fabrizio Aguilar Untiveros**<br>**TB1**: La habilidad para mediar y sintetizar diferentes puntos de vista oralmente fue crucial para unificar la visión del equipo y asegurar que el mensaje final del producto fuera coherente y potente para nuestra audiencia objetivo.<br>**TP1**: Comunicar oralmente la arquitectura y el backlog demostró que traducir decisiones técnicas complejas a un lenguaje accesible para todo el equipo es fundamental para mantener la alineación y el enfoque durante el desarrollo.<br>**TB2**: Explicar el diseño del backend reforzó la importancia de comunicar arquitecturas complejas de manera simple para evitar malinterpretaciones y asegurar cohesión técnica en el equipo.<br><br>**Alessandro Ramiro Condori Lozano**<br>**TB1**: La traducción de conceptos técnicos a un discurso oral centrado en el usuario demostró ser fundamental para alinear al equipo, permitiendo que la comunicación del producto fuera más empática y efectiva en la landing page.<br>**TP1**: Narrar la experiencia del usuario a través de los Journey Maps consolidó mi entendimiento de que la comunicación oral efectiva es una herramienta poderosa para generar empatía y guiar el diseño de productos centrado en las personas.<br>**TB2**: Explicar los flujos del backend me permitió entender que la claridad técnica en la comunicación oral es clave para asegurar integraciones correctas y evitar retrasos en el desarrollo.<br><br>**Mathias Javier Murillo**<br>**TB1**: La comunicación oral adaptativa fue clave para definir una estrategia de contenido inclusiva, reconociendo que un mensaje efectivo no es universal, sino que debe ajustarse a las necesidades y perspectivas de cada audiencia.<br>**TP1**: Presentar los mismos prototipos a diferentes audiencias me enseñó a modular mi comunicación oral, concluyendo que la efectividad radica en resaltar los aspectos más relevantes para cada grupo, ya sea técnico o estratégico.<br>**TB2**: Explicar verbalmente los modelos y estructuras del backend me enseñó que comunicar conceptos técnicos con claridad evita errores en la implementación y mejora la colaboración entre áreas.<br><br>**Katherine Maryory Mejia Aliaga**<br>**TB1**: La comunicación oral de una estrategia visual fue un puente esencial entre la idea y la ejecución, demostrando que la capacidad de "narrar" una interfaz es vital para que un equipo técnico y creativo trabaje hacia un mismo objetivo comunicacional.<br>**TP1**: La exposición oral de guías de estilo confirmó que establecer y comunicar reglas de diseño de manera clara previene inconsistencias y agiliza el trabajo de desarrollo, asegurando la cohesión visual del producto final.<br>**TB2**: La comunicación oral sobre validaciones, excepciones y reglas de negocio del backend confirmó que explicar estos elementos en detalle permite una implementación más sólida y consistente.<br><br>**Augusto Sebastian Montes Maza**<br>**TB1**: Mantener la coherencia en la comunicación oral interna previno desviaciones conceptuales, concluyendo que un discurso de equipo sólido y bien alineado es la base para una comunicación externa clara y confiable.<br>**TP1**: La capacidad de simplificar y argumentar decisiones técnicas oralmente no solo valida el diseño, sino que también empodera a todo el equipo, permitiendo una toma de decisiones más informada y colaborativa.<br>**TB2**: Comunicar oralmente la estructura de la base de datos y la interacción entre los módulos del backend demostró que la claridad técnica es esencial para garantizar un desarrollo sin ambigüedades. |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Rodrigo Fabrizio Aguilar Untiveros**<br>**TB1**: Redacté la versión inicial de la propuesta de valor y los textos para la sección principal (Hero) de la landing page, utilizando un lenguaje persuasivo y claro dirigido a una audiencia no técnica.<br>**TP1**: Desarrollé y documenté las User Stories principales del proyecto, redactando los Criterios de Aceptación con la estructura Gherkin (Given-When-Then). Este formato técnico y preciso fue diseñado para que el equipo de desarrollo tuviera una guía sin ambigüedades.<br>**TB2**: Documenté por escrito la arquitectura completa del backend, la estructura DDD, los bounded contexts, la definición de entidades y la descripción de endpoints, asegurando una comunicación técnica precisa para desarrollo y QA.<br><br>**Alessandro Ramiro Condori Lozano**<br>**TB1**: Contribuí en la redacción de la sección "Introducción" del informe del proyecto y adapté estos conceptos a mensajes más directos y concisos para la landing page.<br>**TP1**: Redacté el análisis competitivo en el informe del proyecto, utilizando un lenguaje formal y analítico para una audiencia académica. Además, plasmé las conclusiones de este análisis en comentarios escritos dentro de Figma para guiar las decisiones de diseño del UI.<br>**TB2**: Documenté la estructura de carpetas, el estándar de nombrado del backend y los lineamientos técnicos para mantener consistencia. Elaboré documentación escrita sobre el consumo de servicios y expectativas del contrato API.<br><br>**Mathias Javier Murillo**<br>**TB1**: Elaboré y ajusté los textos descriptivos de las características del producto, creando variantes del mensaje escrito para dos perfiles de usuario identificados.<br>**TP1**: Documenté por escrito las especificaciones de varios componentes de la aplicación web en el informe, describiendo su comportamiento y relación con otros elementos. Esta comunicación escrita fue esencial para guiar la implementación técnica posterior.<br>**TB2**: Documenté los modelos del backend, sus relaciones, reglas de negocio y transformaciones de datos, produciendo descripciones claras para asegurar correcta implementación del dominio.<br><br>**Katherine Maryory Mejia Aliaga**<br>**TB1**: Estructuré el contenido del informe en la sección de "Requisitos" para asegurar una lectura lógica y organicé la disposición de los bloques de texto en el wireframe de la landing page.<br>**TP1**: Contribuí a la redacción del capítulo de Arquitectura de la Información del informe. Documenté por escrito las decisiones sobre los sistemas de organización y etiquetado, creando una referencia formal para que el equipo consultara al construir la navegación de la aplicación.<br>**TB2**: Redacté la documentación del manejo de validaciones, excepciones y reglas de negocio aplicadas en los bounded contexts del backend. Escribí guías técnicas sobre la estructura del API y las interacciones frontend-backend.<br><br>**Augusto Sebastian Montes Maza**<br>**TB1**: Realicé la revisión y edición de los textos finales tanto de la landing page como del informe TB1, unificando el tono de voz y asegurando la correcta aplicación de la terminología del proyecto.<br>**TP1**: Fui responsable de documentar el Ubiquitous Language del proyecto en el informe, creando un glosario de términos de negocio. Esta comunicación escrita fue vital para evitar malentendidos y asegurar que todos los miembros del equipo, tanto técnicos como no técnicos, hablaran el mismo "idioma".<br>**TB2**: Documenté la estructura de la base de datos, normalización, entidades del modelo y estándares de desarrollo del backend, asegurando referencias claras para todos los integrantes del equipo. | **Rodrigo Fabrizio Aguilar Untiveros**<br>**TB1**: La redacción orientada a la audiencia me permitió comprender que la comunicación escrita efectiva no se trata solo de informar, sino de conectar y persuadir, adaptando el mensaje al contexto del lector.<br>**TP1**: Redactar Criterios de Aceptación me enseñó que la precisión en la comunicación escrita técnica es fundamental para reducir errores y retrabajo, demostrando que un lenguaje claro y estructurado es una herramienta de productividad.<br>**TB2**: Documentar el backend me enseñó que una arquitectura sólida depende de una comunicación escrita técnica clara, precisa y consistente.<br><br>**Alessandro Ramiro Condori Lozano**<br>**TB1**: La tarea de adaptar un mismo mensaje para un informe técnico y una web comercial me enseñó que la efectividad de la comunicación escrita reside en la capacidad de síntesis y en la selección precisa del lenguaje.<br>**TP1**: Documentar el análisis de competidores por escrito me demostró que la comunicación formal es clave para presentar hallazgos de manera objetiva y profesional, mientras que los comentarios escritos en herramientas de diseño son un canal ágil para la comunicación contextual.<br>**TB2**: Documentar estándares técnicos y estructura del backend me confirmó que la claridad escrita es esencial para mantener escalabilidad y coherencia en el desarrollo.<br><br>**Mathias Javier Murillo**<br>**TB1**: La redacción de contenidos para distintos perfiles de usuario reforzó mi entendimiento de que la comunicación escrita empática es clave; es necesario escribir para que cada audiencia sienta que le hablas directamente.<br>**TP1**: La documentación escrita de especificaciones funcionales me hizo concluir que un registro claro y detallado es indispensable para la escalabilidad del proyecto, sirviendo como una fuente de verdad para el equipo a lo largo del tiempo.<br>**TB2**: Documentar el modelo de dominio del backend me enseñó que escribir con precisión evita errores de interpretación y facilita una implementación más sólida.<br><br>**Katherine Maryory Mejia Aliaga**<br>**TB1**: La organización del contenido demostró que la estructura es un componente silencioso pero poderoso de la comunicación escrita. Un texto bien ordenado guía al lector y refuerza la claridad del mensaje.<br>**TP1**: Documentar por escrito la Arquitectura de la Información me permitió valorar la importancia de formalizar las decisiones de diseño, concluyendo que un documento bien estructurado sirve como pilar para construir experiencias de usuario coherentes.<br>**TB2**: Documentar reglas de negocio y validaciones del backend reforzó que la documentación técnica clara es esencial para evitar inconsistencias entre módulos.<br><br>**Augusto Sebastian Montes Maza**<br>**TB1**: El proceso de edición y unificación de textos me permitió concluir que la consistencia en la comunicación escrita es fundamental para construir una identidad de producto sólida y profesional.<br>**TP1**: Establecer un lenguaje ubicuo por escrito fue una lección clave sobre la importancia de crear una base terminológica común, concluyendo que esta práctica elimina la ambigüedad y fomenta una comunicación más eficiente y precisa en equipos multidisciplinarios.<br>**TB2**: Documentar la estructura técnica del backend me permitió comprender que una documentación clara es vital para asegurar que todo el equipo trabaje con las mismas reglas y estándares. |
+| **Criterio específico**                                                    | **Acciones realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Conclusiones**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**   | **Rodrigo Fabrizio Aguilar Untiveros**<br>**TB1**: Argumenté y defendí propuestas sobre la estructura de la landing page durante las reuniones de equipo (audiencia técnica). Moderé discusiones para sintetizar las ideas de todos en pilares de producto claros, facilitando un consenso sobre el mensaje a comunicar a nuestros futuros usuarios (audiencia externa).<br>**TP1**: Lideré la presentación del Product Backlog al equipo, explicando oralmente la priorización de User Stories y justificando su valor de negocio. Comuniqué las decisiones de diseño de la arquitectura de software (C4 Model) en términos claros, asegurando que todos los miembros, independientemente de su rol, comprendieran la estructura y el flujo de datos de la solución.<br>**TB2**: Guié las reuniones técnicas de arquitectura del backend, explicando la estructura DDD, los bounded contexts y cómo se integrarían los módulos entre sí. Presenté oralmente la propuesta del backend avanzado, facilitando que todos los integrantes entendieran la interacción entre controladores, servicios, repositorios y la base de datos.<br><br>**Alessandro Ramiro Condori Lozano**<br>**TB1**: Traduje los objetivos técnicos del proyecto a un lenguaje centrado en beneficios para el usuario durante nuestras sesiones de brainstorming. Esta explicación ayudó a que el equipo, como audiencia interna, pudiera visualizar y acordar el discurso comercial que se implementaría en la landing page.<br>**TP1**: Expuse los User Journey Maps al equipo, narrando la experiencia del usuario paso a paso para ilustrar los puntos de dolor y las oportunidades. Esta presentación oral fue clave para que el equipo empatizara con el usuario final y validara los flujos de la aplicación web.<br>**TB2**: Expliqué verbalmente los flujos de comunicación de los endpoints del backend, detallando cómo las peticiones viajan desde el controlador hasta el repositorio. Presenté al equipo las validaciones y reglas de negocio para garantizar una comprensión clara de la lógica implementada.<br><br>**Mathias Javier Murillo**<br>**TB1**: Propuse y justifiqué verbalmente la adaptación del tono de comunicación para dos segmentos de audiencia distintos en la landing page. Expliqué al equipo cómo un mismo pilar del producto debía presentarse de forma diferente para un usuario técnico versus un usuario de negocio, logrando alinear la estrategia de contenido.<br>**TP1**: Presenté los Mockups y prototipos de la aplicación web, guiando al equipo a través de la interfaz y explicando las decisiones de diseño UX/UI. Adapté mi discurso para una audiencia de desarrolladores, enfocándome en la funcionalidad y componentes, y luego para una audiencia de "negocio", resaltando la facilidad de uso y los beneficios.<br>**TB2**: Expliqué oralmente los modelos de dominio del backend, detallando entidades, agregados, value objects y su transformación en tablas. Clarifiqué al equipo cómo se estructurarían los módulos internos y cómo se validarían los datos en cada fase del backend.<br><br>**Katherine Maryory Mejia Aliaga**<br>**TB1**: Expuse verbalmente propuestas para la arquitectura de la información y la jerarquía visual de la landing page. Mi rol fue transformar los conceptos abstractos del equipo en una narrativa oral clara que describía el "viaje" del usuario, permitiendo que todos entendieran cómo se comunicarían visualmente las ideas.<br>**TP1**: Expliqué al equipo los Style Guidelines definidos para el proyecto, comunicando de forma oral las reglas sobre tipografía, colores y espaciado. Mi presentación aseguró que todos tuvieran una comprensión compartida de la identidad visual que se implementaría en la aplicación web.<br>**TB2**: Expliqué de forma oral la estructura de validaciones del backend, el manejo de excepciones y cómo se garantizaría la integridad de los datos. Facilitó la alineación entre frontend y backend comunicando cómo se consumirían los servicios API.<br><br>**Augusto Sebastian Montes Maza**<br>**TB1**: Participé activamente en los debates de planificación, enfocándome en asegurar la coherencia verbal entre los objetivos de negocio y las funcionalidades propuestas. Cuestioné y validé oralmente que nuestro discurso interno fuera lo suficientemente robusto como para sostener el mensaje público en la landing page.<br>**TP1**: Argumenté las decisiones sobre el diseño de la base de datos durante las sesiones técnicas. Simplifiqué conceptos complejos de modelado de datos para que todo el equipo pudiera participar en la validación, asegurando que el diseño fuera escalable y respondiera a las necesidades funcionales.<br>**TB2**: Expliqué oralmente la estructura completa de la base de datos del backend, detallando relaciones, normalización y reglas de integridad. Presenté al equipo cómo se integraría la base de datos con los bounded contexts y cómo cada módulo consumiría los datos. | **Rodrigo Fabrizio Aguilar Untiveros**<br>**TB1**: La habilidad para mediar y sintetizar diferentes puntos de vista oralmente fue crucial para unificar la visión del equipo y asegurar que el mensaje final del producto fuera coherente y potente para nuestra audiencia objetivo.<br>**TP1**: Comunicar oralmente la arquitectura y el backlog demostró que traducir decisiones técnicas complejas a un lenguaje accesible para todo el equipo es fundamental para mantener la alineación y el enfoque durante el desarrollo.<br>**TB2**: Explicar el diseño del backend reforzó la importancia de comunicar arquitecturas complejas de manera simple para evitar malinterpretaciones y asegurar cohesión técnica en el equipo.<br><br>**Alessandro Ramiro Condori Lozano**<br>**TB1**: La traducción de conceptos técnicos a un discurso oral centrado en el usuario demostró ser fundamental para alinear al equipo, permitiendo que la comunicación del producto fuera más empática y efectiva en la landing page.<br>**TP1**: Narrar la experiencia del usuario a través de los Journey Maps consolidó mi entendimiento de que la comunicación oral efectiva es una herramienta poderosa para generar empatía y guiar el diseño de productos centrado en las personas.<br>**TB2**: Explicar los flujos del backend me permitió entender que la claridad técnica en la comunicación oral es clave para asegurar integraciones correctas y evitar retrasos en el desarrollo.<br><br>**Mathias Javier Murillo**<br>**TB1**: La comunicación oral adaptativa fue clave para definir una estrategia de contenido inclusiva, reconociendo que un mensaje efectivo no es universal, sino que debe ajustarse a las necesidades y perspectivas de cada audiencia.<br>**TP1**: Presentar los mismos prototipos a diferentes audiencias me enseñó a modular mi comunicación oral, concluyendo que la efectividad radica en resaltar los aspectos más relevantes para cada grupo, ya sea técnico o estratégico.<br>**TB2**: Explicar verbalmente los modelos y estructuras del backend me enseñó que comunicar conceptos técnicos con claridad evita errores en la implementación y mejora la colaboración entre áreas.<br><br>**Katherine Maryory Mejia Aliaga**<br>**TB1**: La comunicación oral de una estrategia visual fue un puente esencial entre la idea y la ejecución, demostrando que la capacidad de "narrar" una interfaz es vital para que un equipo técnico y creativo trabaje hacia un mismo objetivo comunicacional.<br>**TP1**: La exposición oral de guías de estilo confirmó que establecer y comunicar reglas de diseño de manera clara previene inconsistencias y agiliza el trabajo de desarrollo, asegurando la cohesión visual del producto final.<br>**TB2**: La comunicación oral sobre validaciones, excepciones y reglas de negocio del backend confirmó que explicar estos elementos en detalle permite una implementación más sólida y consistente.<br><br>**Augusto Sebastian Montes Maza**<br>**TB1**: Mantener la coherencia en la comunicación oral interna previno desviaciones conceptuales, concluyendo que un discurso de equipo sólido y bien alineado es la base para una comunicación externa clara y confiable.<br>**TP1**: La capacidad de simplificar y argumentar decisiones técnicas oralmente no solo valida el diseño, sino que también empodera a todo el equipo, permitiendo una toma de decisiones más informada y colaborativa.<br>**TB2**: Comunicar oralmente la estructura de la base de datos y la interacción entre los módulos del backend demostró que la claridad técnica es esencial para garantizar un desarrollo sin ambigüedades. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Rodrigo Fabrizio Aguilar Untiveros**<br>**TB1**: Redacté la versión inicial de la propuesta de valor y los textos para la sección principal (Hero) de la landing page, utilizando un lenguaje persuasivo y claro dirigido a una audiencia no técnica.<br>**TP1**: Desarrollé y documenté las User Stories principales del proyecto, redactando los Criterios de Aceptación con la estructura Gherkin (Given-When-Then). Este formato técnico y preciso fue diseñado para que el equipo de desarrollo tuviera una guía sin ambigüedades.<br>**TB2**: Documenté por escrito la arquitectura completa del backend, la estructura DDD, los bounded contexts, la definición de entidades y la descripción de endpoints, asegurando una comunicación técnica precisa para desarrollo y QA.<br><br>**Alessandro Ramiro Condori Lozano**<br>**TB1**: Contribuí en la redacción de la sección "Introducción" del informe del proyecto y adapté estos conceptos a mensajes más directos y concisos para la landing page.<br>**TP1**: Redacté el análisis competitivo en el informe del proyecto, utilizando un lenguaje formal y analítico para una audiencia académica. Además, plasmé las conclusiones de este análisis en comentarios escritos dentro de Figma para guiar las decisiones de diseño del UI.<br>**TB2**: Documenté la estructura de carpetas, el estándar de nombrado del backend y los lineamientos técnicos para mantener consistencia. Elaboré documentación escrita sobre el consumo de servicios y expectativas del contrato API.<br><br>**Mathias Javier Murillo**<br>**TB1**: Elaboré y ajusté los textos descriptivos de las características del producto, creando variantes del mensaje escrito para dos perfiles de usuario identificados.<br>**TP1**: Documenté por escrito las especificaciones de varios componentes de la aplicación web en el informe, describiendo su comportamiento y relación con otros elementos. Esta comunicación escrita fue esencial para guiar la implementación técnica posterior.<br>**TB2**: Documenté los modelos del backend, sus relaciones, reglas de negocio y transformaciones de datos, produciendo descripciones claras para asegurar correcta implementación del dominio.<br><br>**Katherine Maryory Mejia Aliaga**<br>**TB1**: Estructuré el contenido del informe en la sección de "Requisitos" para asegurar una lectura lógica y organicé la disposición de los bloques de texto en el wireframe de la landing page.<br>**TP1**: Contribuí a la redacción del capítulo de Arquitectura de la Información del informe. Documenté por escrito las decisiones sobre los sistemas de organización y etiquetado, creando una referencia formal para que el equipo consultara al construir la navegación de la aplicación.<br>**TB2**: Redacté la documentación del manejo de validaciones, excepciones y reglas de negocio aplicadas en los bounded contexts del backend. Escribí guías técnicas sobre la estructura del API y las interacciones frontend-backend.<br><br>**Augusto Sebastian Montes Maza**<br>**TB1**: Realicé la revisión y edición de los textos finales tanto de la landing page como del informe TB1, unificando el tono de voz y asegurando la correcta aplicación de la terminología del proyecto.<br>**TP1**: Fui responsable de documentar el Ubiquitous Language del proyecto en el informe, creando un glosario de términos de negocio. Esta comunicación escrita fue vital para evitar malentendidos y asegurar que todos los miembros del equipo, tanto técnicos como no técnicos, hablaran el mismo "idioma".<br>**TB2**: Documenté la estructura de la base de datos, normalización, entidades del modelo y estándares de desarrollo del backend, asegurando referencias claras para todos los integrantes del equipo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Rodrigo Fabrizio Aguilar Untiveros**<br>**TB1**: La redacción orientada a la audiencia me permitió comprender que la comunicación escrita efectiva no se trata solo de informar, sino de conectar y persuadir, adaptando el mensaje al contexto del lector.<br>**TP1**: Redactar Criterios de Aceptación me enseñó que la precisión en la comunicación escrita técnica es fundamental para reducir errores y retrabajo, demostrando que un lenguaje claro y estructurado es una herramienta de productividad.<br>**TB2**: Documentar el backend me enseñó que una arquitectura sólida depende de una comunicación escrita técnica clara, precisa y consistente.<br><br>**Alessandro Ramiro Condori Lozano**<br>**TB1**: La tarea de adaptar un mismo mensaje para un informe técnico y una web comercial me enseñó que la efectividad de la comunicación escrita reside en la capacidad de síntesis y en la selección precisa del lenguaje.<br>**TP1**: Documentar el análisis de competidores por escrito me demostró que la comunicación formal es clave para presentar hallazgos de manera objetiva y profesional, mientras que los comentarios escritos en herramientas de diseño son un canal ágil para la comunicación contextual.<br>**TB2**: Documentar estándares técnicos y estructura del backend me confirmó que la claridad escrita es esencial para mantener escalabilidad y coherencia en el desarrollo.<br><br>**Mathias Javier Murillo**<br>**TB1**: La redacción de contenidos para distintos perfiles de usuario reforzó mi entendimiento de que la comunicación escrita empática es clave; es necesario escribir para que cada audiencia sienta que le hablas directamente.<br>**TP1**: La documentación escrita de especificaciones funcionales me hizo concluir que un registro claro y detallado es indispensable para la escalabilidad del proyecto, sirviendo como una fuente de verdad para el equipo a lo largo del tiempo.<br>**TB2**: Documentar el modelo de dominio del backend me enseñó que escribir con precisión evita errores de interpretación y facilita una implementación más sólida.<br><br>**Katherine Maryory Mejia Aliaga**<br>**TB1**: La organización del contenido demostró que la estructura es un componente silencioso pero poderoso de la comunicación escrita. Un texto bien ordenado guía al lector y refuerza la claridad del mensaje.<br>**TP1**: Documentar por escrito la Arquitectura de la Información me permitió valorar la importancia de formalizar las decisiones de diseño, concluyendo que un documento bien estructurado sirve como pilar para construir experiencias de usuario coherentes.<br>**TB2**: Documentar reglas de negocio y validaciones del backend reforzó que la documentación técnica clara es esencial para evitar inconsistencias entre módulos.<br><br>**Augusto Sebastian Montes Maza**<br>**TB1**: El proceso de edición y unificación de textos me permitió concluir que la consistencia en la comunicación escrita es fundamental para construir una identidad de producto sólida y profesional.<br>**TP1**: Establecer un lenguaje ubicuo por escrito fue una lección clave sobre la importancia de crear una base terminológica común, concluyendo que esta práctica elimina la ambigüedad y fomenta una comunicación más eficiente y precisa en equipos multidisciplinarios.<br>**TB2**: Documentar la estructura técnica del backend me permitió comprender que una documentación clara es vital para asegurar que todo el equipo trabaje con las mismas reglas y estándares.                                                                                                                 |
+
 ---
 
 # Contenido
@@ -438,14 +437,13 @@ La propuesta de valor radica en la simplicidad y personalización del sistema. M
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-| Integrantes | Descripción | Conocimientos |
-| :---------- | :---------- | :------------ |
-| <div style="display: flex; align-items: center;">![Integrante1](https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/3e152bc721b8f4af5ed4a09ce9a896e9f78f8340/images/MathiasJM.jpg)&nbsp;&nbsp;<br>**Mathias Javier Murillo**</div> | Estudiante de Ingeniería de Software. Apasionado por las nuevas tecnologías y realizar nuevos proyectos | Conocimientos en SQL, HTML, JS, CSS y Python |
-| <div style="display: flex; align-items: center;">![Integrante2](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/AlessandroCondori.jpg)&nbsp;&nbsp;<br>**Alessandro Condori**</div> | Soy estudiante de la carrera de Ingeniería de Software, puedo aportar mucho al equipo, aplicando mis conocimientos en diversos lenguajes de programación | Java, C++, Python, html, css, javascrip, C# y SQL |
-| <div style="display: flex; align-items: center;">![Integrante3](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/AugustoMontes.png)&nbsp;&nbsp;<br>**Augusto Montes**</div> | Estudiante de la carrera de Ingeniería de Software. Programador amateur, interesado en la creación de aplicaciones, ciberseguridad y videojuegos| C++, C#, SQL, Html, css, javascript, python y java |
-| <div style="display: flex; align-items: center;">![Integrante4](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/KatherineAguilar.jpg)&nbsp;&nbsp;<br>**Katherine Mejia**</div> | Estudiante de 5to ciclo de la carrera de ingeniería de software. Tengo experiencia creando aplicaciones front end que consuman una API y hagan peticiones. | C++, C#, SQL, Html, css, javascript, python y java |
-| <div style="display: flex; align-items: center;">![Integrante5](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/RodrigoAguilar.jpg)&nbsp;&nbsp;<br>**Rodrigo Aguilar**</div> | Estudiante de Ingeniería de Software cursando el 6 ciclo de la carrera de ingeniería de software.  | Tengo experiencia con Javascript, Java, C++. |
-
+| Integrantes                                                                                                                                                                                                                                                                          | Descripción                                                                                                                                                | Conocimientos                                      |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------- |
+| <div style="display: flex; align-items: center;">![Integrante1](https://github.com/AplicacionesOpenSource-Grupo1/upc-pre-202520--1asi0729-7369-MatchPoint-report/blob/3e152bc721b8f4af5ed4a09ce9a896e9f78f8340/images/MathiasJM.jpg)&nbsp;&nbsp;<br>**Mathias Javier Murillo**</div> | Estudiante de Ingeniería de Software. Apasionado por las nuevas tecnologías y realizar nuevos proyectos                                                    | Conocimientos en SQL, HTML, JS, CSS y Python       |
+| <div style="display: flex; align-items: center;">![Integrante2](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/AlessandroCondori.jpg)&nbsp;&nbsp;<br>**Alessandro Condori**</div>                                            | Soy estudiante de la carrera de Ingeniería de Software, puedo aportar mucho al equipo, aplicando mis conocimientos en diversos lenguajes de programación   | Java, C++, Python, html, css, javascrip, C# y SQL  |
+| <div style="display: flex; align-items: center;">![Integrante3](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/AugustoMontes.png)&nbsp;&nbsp;<br>**Augusto Montes**</div>                                                    | Estudiante de la carrera de Ingeniería de Software. Programador amateur, interesado en la creación de aplicaciones, ciberseguridad y videojuegos           | C++, C#, SQL, Html, css, javascript, python y java |
+| <div style="display: flex; align-items: center;">![Integrante4](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/KatherineAguilar.jpg)&nbsp;&nbsp;<br>**Katherine Mejia**</div>                                                | Estudiante de 5to ciclo de la carrera de ingeniería de software. Tengo experiencia creando aplicaciones front end que consuman una API y hagan peticiones. | C++, C#, SQL, Html, css, javascript, python y java |
+| <div style="display: flex; align-items: center;">![Integrante5](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/42133cd9906da8423954d70d98db4aaa98811d5c/img/RodrigoAguilar.jpg)&nbsp;&nbsp;<br>**Rodrigo Aguilar**</div>                                                  | Estudiante de Ingeniería de Software cursando el 6 ciclo de la carrera de ingeniería de software.                                                          | Tengo experiencia con Javascript, Java, C++.       |
 
 ## 1.2 Solution Profile
 
@@ -714,52 +712,39 @@ Finalmente, es importante mencionar que algunos negocios en Perú aún recurren 
 
 ## 2.1.1. Análisis competitivo
 
-| Categoría | Su Startup | Nubefact | Siigo Perú | Factura Perú |
-|-----------|------------|-----------|------------|--------------|
-| **Perfil - Overview** | Aplicación web especializada en gestión de inventarios para el sector gastronómico. | Plataforma peruana centrada en facturación electrónica, con módulo básico de inventarios. | Sistema contable y administrativo con funciones de inventario, compras y ventas. | Solución peruana de facturación electrónica con módulo de inventarios para negocios pequeños. |
-| **Ventaja Competitiva** | Especialización gastronómica: recetas, control de insumos perecibles, alertas automáticas. | Cumplimiento con SUNAT y alta adaptación en los negocios peruanos. | Amplia trayectoria, soporte contable y administrativo. | Costos accesibles y facilidad de uso para microempresas. |
-| **Perfil de Marketing - Mercado objetivo** | Restaurantes, cevicherías, cafeterías y emprendimientos gastronómicos. | Empresas de todos los rubros que requieren facturación electrónica. | PYMEs que buscan un sistema administrativo y contable. | Negocios pequeños: bodegas, tiendas, etc. |
-| **Perfil de Marketing - Estrategias** | Marketing digital, alianzas con gremios gastronómicos, referidos. | Posicionamiento como líder en facturación electrónica en Perú. | Presencia corporativa y convenios contables. | Promoción de precios bajos y cumplimiento legal. |
-| **Perfil de Producto - Productos & Servicios** | Inventario en tiempo real, recetas, proveedores, reportes, alertas automáticas. | Facturación electrónica + inventarios básicos. | Contabilidad, inventarios, compras y ventas. | Facturación e inventarios simples. |
-| **Perfil de Producto - Precios & Costos** | Planes escalables y accesibles a pymes gastronómicas. | Suscripciones orientadas a facturación. | Costos más altos, orientados a contabilidad integral. | Costos bajos para pequeños negocios. |
-| **Perfil de Producto - Canales** | 100% web responsive. Disponible en dispositivos móviles. | Web | Web y aplicaciones conectadas. | Web (principalmente escritorio). |
-| **SWOT - Fortalezas** | Especialización en gastronomía, interfaz intuitiva, reportes claros. | Cumplimiento legal con SUNAT, gran base de clientes. | Trayectoria, soporte técnico local. | Precio accesible, fácil de implementar. |
-| **SWOT - Debilidades** | Nueva en el mercado, menos reconocimiento. | Módulo de inventarios poco desarrollado. | Complejidad de uso, enfoque contable más que operativo. | Funciones limitadas en gastronomía. |
-| **SWOT - Oportunidades** | Crecimiento del sector gastronómico, digitalización de pymes. | Ampliar funciones hacia sectores especializados. | Integrar más módulos sectoriales. | Expandirse en microempresas. |
-| **SWOT - Amenazas** | Resistencia al cambio tecnológico, competencia consolidada. | Aparición de softwares especializados en gastronomía. | Competidores más simples y accesibles. | Migración de usuarios a plataformas más completas. |
-
+| Categoría                                      | Su Startup                                                                                 | Nubefact                                                                                  | Siigo Perú                                                                       | Factura Perú                                                                                  |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Perfil - Overview**                          | Aplicación web especializada en gestión de inventarios para el sector gastronómico.        | Plataforma peruana centrada en facturación electrónica, con módulo básico de inventarios. | Sistema contable y administrativo con funciones de inventario, compras y ventas. | Solución peruana de facturación electrónica con módulo de inventarios para negocios pequeños. |
+| **Ventaja Competitiva**                        | Especialización gastronómica: recetas, control de insumos perecibles, alertas automáticas. | Cumplimiento con SUNAT y alta adaptación en los negocios peruanos.                        | Amplia trayectoria, soporte contable y administrativo.                           | Costos accesibles y facilidad de uso para microempresas.                                      |
+| **Perfil de Marketing - Mercado objetivo**     | Restaurantes, cevicherías, cafeterías y emprendimientos gastronómicos.                     | Empresas de todos los rubros que requieren facturación electrónica.                       | PYMEs que buscan un sistema administrativo y contable.                           | Negocios pequeños: bodegas, tiendas, etc.                                                     |
+| **Perfil de Marketing - Estrategias**          | Marketing digital, alianzas con gremios gastronómicos, referidos.                          | Posicionamiento como líder en facturación electrónica en Perú.                            | Presencia corporativa y convenios contables.                                     | Promoción de precios bajos y cumplimiento legal.                                              |
+| **Perfil de Producto - Productos & Servicios** | Inventario en tiempo real, recetas, proveedores, reportes, alertas automáticas.            | Facturación electrónica + inventarios básicos.                                            | Contabilidad, inventarios, compras y ventas.                                     | Facturación e inventarios simples.                                                            |
+| **Perfil de Producto - Precios & Costos**      | Planes escalables y accesibles a pymes gastronómicas.                                      | Suscripciones orientadas a facturación.                                                   | Costos más altos, orientados a contabilidad integral.                            | Costos bajos para pequeños negocios.                                                          |
+| **Perfil de Producto - Canales**               | 100% web responsive. Disponible en dispositivos móviles.                                   | Web                                                                                       | Web y aplicaciones conectadas.                                                   | Web (principalmente escritorio).                                                              |
+| **SWOT - Fortalezas**                          | Especialización en gastronomía, interfaz intuitiva, reportes claros.                       | Cumplimiento legal con SUNAT, gran base de clientes.                                      | Trayectoria, soporte técnico local.                                              | Precio accesible, fácil de implementar.                                                       |
+| **SWOT - Debilidades**                         | Nueva en el mercado, menos reconocimiento.                                                 | Módulo de inventarios poco desarrollado.                                                  | Complejidad de uso, enfoque contable más que operativo.                          | Funciones limitadas en gastronomía.                                                           |
+| **SWOT - Oportunidades**                       | Crecimiento del sector gastronómico, digitalización de pymes.                              | Ampliar funciones hacia sectores especializados.                                          | Integrar más módulos sectoriales.                                                | Expandirse en microempresas.                                                                  |
+| **SWOT - Amenazas**                            | Resistencia al cambio tecnológico, competencia consolidada.                                | Aparición de softwares especializados en gastronomía.                                     | Competidores más simples y accesibles.                                           | Migración de usuarios a plataformas más completas.                                            |
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
 
-Estrategias: 
+Estrategias:
 
-*   Resaltar la especialización gastronómica frente a competidores generales de facturación e inventarios.
-    
-*   Ofrecer precios accesibles y escalables, que se adapten al tamaño y crecimiento del negocio gastronómico.
-    
-*   Garantizar seguridad y confiabilidad, con roles de usuario, respaldos automáticos y protección de datos.
-    
-*   Aprovechar la digitalización acelerada del sector gastronómico en Perú, impulsada por la necesidad de eficiencia y control.
-    
-*   Mantener la innovación constante, incorporando funcionalidades específicas como gestión de recetas, alertas de insumos perecibles y reportes de rentabilidad.
-    
-*   Promover una experiencia de usuario intuitiva y accesible, diseñada específicamente para negocios gastronómicos, lo que facilita la adopción rápida del sistema sin necesidad de conocimientos técnicos avanzados.
-    
+- Resaltar la especialización gastronómica frente a competidores generales de facturación e inventarios.
+- Ofrecer precios accesibles y escalables, que se adapten al tamaño y crecimiento del negocio gastronómico.
+- Garantizar seguridad y confiabilidad, con roles de usuario, respaldos automáticos y protección de datos.
+- Aprovechar la digitalización acelerada del sector gastronómico en Perú, impulsada por la necesidad de eficiencia y control.
+- Mantener la innovación constante, incorporando funcionalidades específicas como gestión de recetas, alertas de insumos perecibles y reportes de rentabilidad.
+- Promover una experiencia de usuario intuitiva y accesible, diseñada específicamente para negocios gastronómicos, lo que facilita la adopción rápida del sistema sin necesidad de conocimientos técnicos avanzados.
 
 Tácticas:
 
-*   Campañas de marketing digital enfocadas en redes sociales y asociaciones con gremios gastronómicos, destacando la facilidad de uso y el ahorro en pérdidas de insumos.
-    
-*   Demostración gratuitas (free trials) para mostrar beneficios inmediatos del sistema frente a la competencia.
-    
-*   Capacitación y soporte cercano, ayudando a superar la resistencia al cambio tecnológico que afecta a muchos negocios pequeños.
-    
-*   Desarrollo de tutoriales y guías interactivas, para que cualquier usuario (sin conocimientos contables) pueda manejar el sistema sin dificultad.
-    
-*   Reportes personalizables en PDF/Excel, resaltando cómo ayudan a la toma de decisiones y la reducción de costos.
-    
-*   Monitoreo constante de competidores para adaptar mejoras rápidamente y aprovechar sus debilidades.
-    
+- Campañas de marketing digital enfocadas en redes sociales y asociaciones con gremios gastronómicos, destacando la facilidad de uso y el ahorro en pérdidas de insumos.
+- Demostración gratuitas (free trials) para mostrar beneficios inmediatos del sistema frente a la competencia.
+- Capacitación y soporte cercano, ayudando a superar la resistencia al cambio tecnológico que afecta a muchos negocios pequeños.
+- Desarrollo de tutoriales y guías interactivas, para que cualquier usuario (sin conocimientos contables) pueda manejar el sistema sin dificultad.
+- Reportes personalizables en PDF/Excel, resaltando cómo ayudan a la toma de decisiones y la reducción de costos.
+- Monitoreo constante de competidores para adaptar mejoras rápidamente y aprovechar sus debilidades.
 
 Estrategia freemium o plan básico económico, que atraiga a microempresas que de otro modo optaron por soluciones limitadas como Excel.
 
@@ -774,102 +759,63 @@ El objetivo de las entrevistas es recolectar información cualitativa de propiet
 Preguntas principales:
 
 1.  ¿Cuál es el nombre de su negocio, en qué distrito se ubica y cuántos años lleva operando?
-    
 2.  ¿Qué métodos utilizan actualmente para controlar el inventario (manual, Excel, sistema)?
-    
 3.  ¿Qué problemas han enfrentado en el control de insumos y productos (quiebres, exceso, desperdicio)?
-    
 4.  ¿Cómo realizan actualmente la reposición de insumos perecibles?
-    
 5.  ¿Cómo gestionan la relación con proveedores y recetas?
-    
 6.  ¿Qué tipo de reportes o información necesitan para tomar decisiones de compra?
-    
 7.  ¿Qué factores los motivarían a implementar un sistema digital de inventarios?
-    
 
-      Preguntas complementarias:
+Preguntas complementarias:
 
 1.  ¿Podría contarme un poco sobre usted?
-    
 2.  ¿Qué dispositivos usan más en la gestión del negocio (computadora, tablet, celular)?.
-    
 3.  ¿Qué canales digitales utilizan con más frecuencia (WhatsApp, correo, redes sociales)?
-    
 4.  Cuando toma decisiones importantes, ¿las consulta con alguien más (familia, socios, colegas)?
-    
 5.  ¿Qué objetivos tienen a corto plazo (por ejemplo: reducir pérdidas, abrir nuevas sedes)?
-    
 6.  En su día a día, ¿qué es lo que más le frustra en la gestión del negocio?
-    
 7.  ¿Cómo empezó en el rubro gastronómico?
-    
 
 **Para cafeterías y bares:**
 
 1.  ¿Cuál es el nombre de su negocio, en qué distrito está y cuántos años lleva operando?
-    
 2.  ¿Cuáles son los productos de mayor rotación en su cafetería o bar?
-    
 3.  ¿Cómo controlan actualmente la reposición de insumos perecibles?
-    
 4.  ¿Han tenido pérdidas económicas por caducidad o falta de control de inventario?
-    
 5.  ¿Qué tan relevantes serían para ustedes las alertas automáticas de stock bajo?
-    
 6.  ¿Qué beneficios esperan de un sistema especializado en gastronomía?
-    
 7.  ¿Qué limitaciones han encontrado con los métodos que usan actualmente (Excel, manual)?
-    
 
-Preguntas complementarias: 
+Preguntas complementarias:
 
 1.  ¿Podría contarme un poco sobre usted? (edad, ocupación, lugar de residencia).
-    
 2.  ¿Qué dispositivos suelen usar durante la operación (celular en turno, PC en oficina)?
-    
 3.  ¿Qué tan familiarizado está con herramientas digitales (Excel, apps, POS)?
-    
 4.  ¿Qué personas, marcas o colegas suelen influir cuando deciden implementar nuevas herramientas en el negocio?
-    
 5.  ¿Qué objetivos buscan alcanzar (optimizar compras, reducir desperdicios, mejorar márgenes)?
-    
 6.  ¿Qué experiencias previas han tenido con software de inventarios u otros sistemas? ¿Qué les gustó o no?
-    
 
 **Para emprendimientos gastronómicos:**
 
 Preguntas principales:
 
 1.  ¿Cuál es el nombre de su negocio, en qué distrito se ubica y cuánto tiempo lleva operando?
-    
 2.  ¿Qué los motivó a iniciar este emprendimiento gastronómico?
-    
 3.  ¿Cómo gestionan actualmente sus inventarios y proveedores?
-    
 4.  ¿Qué funciones consideran esenciales en un sistema que los acompañe desde el inicio?
-    
 5.  ¿Qué factores los harían confiar en un software (precio, facilidad de uso, soporte, recomendación)?
-    
 6.  ¿Qué tan importante es para ustedes recibir reportes sobre costos y rentabilidad?
-    
 7.  ¿Qué objetivos tienen a corto y mediano plazo con el negocio (ej. crecer, formalizarse, digitalizar procesos)?
-    
 
-Preguntas complementarias: 
+Preguntas complementarias:
 
 1.  Para conocerte un poco más, ¿cuál es tu edad, ocupación y dónde resides?
-    
 2.  ¿Qué experiencia previa has tenido en gastronomía o en otros rubros?
-    
 3.  ¿Qué dispositivos prefieres para trabajar (celular, tablet, PC)?
-    
 4.  ¿Qué personas, marcas o referentes suelen considerar antes de decidir sobre nuevas herramientas digitales?
-    
 5.  Si pudieras diseñar la herramienta ideal para tu negocio, ¿cómo sería?
 
 ### 2.2.2. Registro de entrevistas
-
 
 Segmento objetivo: Restaurantes y Restobares
 
@@ -881,13 +827,13 @@ Entrevista 1
 **Edad:** 25 años  
 **Distrito:** Pueblo Libre  
 **Negocio:** Sazón Familiar  
-**Minuto de inicio:**  00:00
-**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)   
+**Minuto de inicio:** 00:00
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen**  
-El entrevistado es un joven de 25 años que administra *Sazón Familiar* en Pueblo Libre, un restaurante familiar con 12 años en el rubro. Actualmente gestiona inventarios manualmente y en Excel, lo que ocasiona quiebres de stock, sobrecompras y desperdicio. La reposición de perecibles se hace diariamente y los proveedores se contactan por WhatsApp o teléfono.  
+El entrevistado es un joven de 25 años que administra _Sazón Familiar_ en Pueblo Libre, un restaurante familiar con 12 años en el rubro. Actualmente gestiona inventarios manualmente y en Excel, lo que ocasiona quiebres de stock, sobrecompras y desperdicio. La reposición de perecibles se hace diariamente y los proveedores se contactan por WhatsApp o teléfono.
 
-Menciona que las recetas no están completamente estandarizadas, lo que genera variaciones en costos. Su mayor frustración es la falta de control real del inventario. Considera que un sistema digital debería ser sencillo, dar alertas automáticas, organizar proveedores y calcular costos por plato. Su objetivo es modernizar el negocio familiar, optimizar la cocina y abrir un segundo local a mediano plazo.  
+Menciona que las recetas no están completamente estandarizadas, lo que genera variaciones en costos. Su mayor frustración es la falta de control real del inventario. Considera que un sistema digital debería ser sencillo, dar alertas automáticas, organizar proveedores y calcular costos por plato. Su objetivo es modernizar el negocio familiar, optimizar la cocina y abrir un segundo local a mediano plazo.
 
 ---
 
@@ -896,18 +842,18 @@ Entrevista 2
 ![Entrevista](assets/restaurante2.png)
 
 **Entrevistado:** Juan José López  
-**Edad:** 28 años   
+**Edad:** 28 años  
 **Negocio:** La Esquina Limeña  
 **Distrito:** Barranco – Lima  
-**Minuto de inicio:**  03:18
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+**Minuto de inicio:** 03:18
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen**  
-El entrevistado administra un restobar en Barranco con 3 años de operación. Controla inventarios en Excel, pero depende de encargados y se generan errores. Los problemas principales son el desperdicio por sobrecompra y quiebres de insumos en alta demanda.  
+El entrevistado administra un restobar en Barranco con 3 años de operación. Controla inventarios en Excel, pero depende de encargados y se generan errores. Los problemas principales son el desperdicio por sobrecompra y quiebres de insumos en alta demanda.
 
-La reposición se hace dos veces por semana vía WhatsApp o llamadas, y en emergencias en el mercado. Las recetas están dispersas en cuadernos y correos, sin conexión al inventario. Señala que necesita reportes con consumo promedio, stock mínimo y costos.  
+La reposición se hace dos veces por semana vía WhatsApp o llamadas, y en emergencias en el mercado. Las recetas están dispersas en cuadernos y correos, sin conexión al inventario. Señala que necesita reportes con consumo promedio, stock mínimo y costos.
 
-Un sistema lo motivaría si es accesible desde celular, fácil de usar, con alertas y costo razonable. Su frustración es la falta de información en tiempo real y su objetivo es reducir pérdidas antes de expandirse.  
+Un sistema lo motivaría si es accesible desde celular, fácil de usar, con alertas y costo razonable. Su frustración es la falta de información en tiempo real y su objetivo es reducir pérdidas antes de expandirse.
 
 ---
 
@@ -920,20 +866,19 @@ Entrevista 3
 **Distrito:** Comas  
 **Negocio:** Apolo Restobar  
 **Tiempo de operación:** 3 años  
-**Minuto de inicio:**  05:46
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+**Minuto de inicio:** 05:46
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen**  
-Patricio Rodríguez, dueño de *Apolo Restobar* en Comas, lleva 3 años operando. Usa un sistema recomendado por un amigo, pero limitado y sin soporte. Su principal problema es el desperdicio de insumos por falta de reportes claros.  
+Patricio Rodríguez, dueño de _Apolo Restobar_ en Comas, lleva 3 años operando. Usa un sistema recomendado por un amigo, pero limitado y sin soporte. Su principal problema es el desperdicio de insumos por falta de reportes claros.
 
-La reposición de perecibles se maneja con proveedores sin agenda fija. No tiene gestión formal de recetas. Le interesa contar con reportes comparativos de insumos usados vs. desperdiciados y valora el soporte técnico.  
+La reposición de perecibles se maneja con proveedores sin agenda fija. No tiene gestión formal de recetas. Le interesa contar con reportes comparativos de insumos usados vs. desperdiciados y valora el soporte técnico.
 
-Usa computadora y celular, se comunica principalmente por WhatsApp. Su objetivo es reducir pérdidas y mejorar la organización interna.  
+Usa computadora y celular, se comunica principalmente por WhatsApp. Su objetivo es reducir pérdidas y mejorar la organización interna.
 
 ---
 
 **Segmento objetivo: Cafeterías y Bares**
-
 
 Entrevista 1
 
@@ -945,45 +890,43 @@ Entrevista 1
 **Negocio:** Dulce Aroma  
 **Tiempo de operación:** 2 años  
 **Minuto de inicio:** 07:50
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen**  
-La dueña de *Dulce Aroma*, en Surco, lleva 2 años de operación. Sus productos más vendidos son cafés (capuccino, latte), sándwiches y postres caseros. Maneja el inventario manualmente, con compras casi diarias de perecibles, lo que causa pérdidas por caducidad.  
-Un sistema con alertas de stock bajo le sería útil para anticiparse. Espera que un software especializado organice inventarios, calcule costos por receta y genere reportes. Usa celular y computadora, maneja Excel, apps y POS. Se guía por colegas y redes sociales. Sus objetivos son reducir desperdicios, mejorar márgenes y abrir una segunda sede.  
+La dueña de _Dulce Aroma_, en Surco, lleva 2 años de operación. Sus productos más vendidos son cafés (capuccino, latte), sándwiches y postres caseros. Maneja el inventario manualmente, con compras casi diarias de perecibles, lo que causa pérdidas por caducidad.  
+Un sistema con alertas de stock bajo le sería útil para anticiparse. Espera que un software especializado organice inventarios, calcule costos por receta y genere reportes. Usa celular y computadora, maneja Excel, apps y POS. Se guía por colegas y redes sociales. Sus objetivos son reducir desperdicios, mejorar márgenes y abrir una segunda sede.
 
 Entrevista 2
 
 ![Entrevista](assets/cafeteria2.png)
-
 
 **Entrevistado:** Leonardo Solís  
 **Edad:** 34 años  
 **Distrito:** Miraflores  
 **Negocio:** Café Aroma  
 **Tiempo de operación:** 5 años  
-**Minuto de inicio:**  13:07
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+**Minuto de inicio:** 13:07
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen**  
-El dueño de *Café Aroma*, en Miraflores, lleva 5 años de operación. Los productos de mayor rotación son cafés, postres artesanales y cervezas artesanales. Maneja inventarios manualmente, lo que genera pérdidas por caducidad.  
+El dueño de _Café Aroma_, en Miraflores, lleva 5 años de operación. Los productos de mayor rotación son cafés, postres artesanales y cervezas artesanales. Maneja inventarios manualmente, lo que genera pérdidas por caducidad.
 
-Considera esencial un sistema con alertas automáticas, control en tiempo real y reportes de costos. Critica Excel por tedioso y poco confiable. Se dedica de lleno al negocio tras dejar marketing. Usa celular y PC, y suele guiarse por colegas y asociaciones. Sus objetivos son optimizar compras, reducir desperdicios y abrir un segundo local.  
+Considera esencial un sistema con alertas automáticas, control en tiempo real y reportes de costos. Critica Excel por tedioso y poco confiable. Se dedica de lleno al negocio tras dejar marketing. Usa celular y PC, y suele guiarse por colegas y asociaciones. Sus objetivos son optimizar compras, reducir desperdicios y abrir un segundo local.
 
 Entrevista 3
 
 ![Entrevista](assets/cafeteria3.png)
 
-
 **Entrevistado:** Gonzalo Flores Rojas  
 **Distrito:** Barrios Altos  
 **Negocio:** Tinco  
 **Tiempo de operación:** 10 meses  
-**Minuto de inicio:**  17:56
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+**Minuto de inicio:** 17:56
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen**  
-Gonzalo Flores es dueño de *Tinco*, con 10 meses en Barrios Altos. Sus productos más rotados son insumos para kekes y tortas. No tiene proveedores fijos y compra según necesidad, lo que le genera pérdidas por caducidad.  
-Considera muy valiosas las alertas de inventario, sobre todo que avisen vencimientos próximos. Usa Excel, pero lo ve limitado porque no anticipa problemas ni genera reportes. Ve en un sistema digital la oportunidad de mejorar el orden y control para crecer de manera sostenible.  
+Gonzalo Flores es dueño de _Tinco_, con 10 meses en Barrios Altos. Sus productos más rotados son insumos para kekes y tortas. No tiene proveedores fijos y compra según necesidad, lo que le genera pérdidas por caducidad.  
+Considera muy valiosas las alertas de inventario, sobre todo que avisen vencimientos próximos. Usa Excel, pero lo ve limitado porque no anticipa problemas ni genera reportes. Ve en un sistema digital la oportunidad de mejorar el orden y control para crecer de manera sostenible.
 
 ---
 
@@ -993,60 +936,56 @@ Entrevista 1
 
 ![Entrevista](assets/emprendedor1.png)
 
-
 **Entrevistada:** Luciana Aguilar  
 **Edad:** 17 años  
 **Distrito:** Ate (distribución en La Molina y Surco)  
 **Negocio:** Laguntis Verigen (repostería)  
 **Tiempo de operación:** 3 años  
-**Minuto de inicio:**  19:57
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+**Minuto de inicio:** 19:57
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen**  
-Luciana Aguilar, de 17 años, creó *Laguntis Verigen*, un emprendimiento de repostería con 3 años de operación. Empezó como un hobby, con apoyo de su madre, quien maneja inventarios. Ella se encarga de la preparación y promoción en Instagram.  
+Luciana Aguilar, de 17 años, creó _Laguntis Verigen_, un emprendimiento de repostería con 3 años de operación. Empezó como un hobby, con apoyo de su madre, quien maneja inventarios. Ella se encarga de la preparación y promoción en Instagram.  
 Considera clave contar con reportes de costos y pérdidas para decidir qué productos priorizar. Busca un software sencillo, accesible y que automatice procesos. Usa el celular para promocionar y gestionar pedidos. Se inspira en referentes como Alessandra Penny.  
-Aunque valora el negocio, no busca expandirse, ya que lo considera complementario a su interés en las finanzas. Su herramienta ideal sería una página web para organizar mejor pedidos y comunicación.  
+Aunque valora el negocio, no busca expandirse, ya que lo considera complementario a su interés en las finanzas. Su herramienta ideal sería una página web para organizar mejor pedidos y comunicación.
 
 Entrevista 2
 
 ![Entrevista](assets/emprendedor2.png)
 
-
 **Entrevistado:** Juan Alberto Rosales  
 **Edad:** 28 años  
-**Distrito:** San Isidro 
+**Distrito:** San Isidro
 **Negocio:** Sabor Criollo  
 **Tiempo de operación:** 8 meses  
-**Minuto de inicio:**  31:15
-**URL del video en Microsoft Stream:**   [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)   
+**Minuto de inicio:** 31:15
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen**  
-Juan Rosales abrió *Sabor Criollo* hace 8 meses en San Isidro tras iniciar ventas durante la pandemia. Hoy controla inventarios con cuadernos y Excel, contactando proveedores por WhatsApp o llamadas.  
+Juan Rosales abrió _Sabor Criollo_ hace 8 meses en San Isidro tras iniciar ventas durante la pandemia. Hoy controla inventarios con cuadernos y Excel, contactando proveedores por WhatsApp o llamadas.
 
-Busca un sistema que ofrezca control en tiempo real, alertas, cálculo de costos y organización de proveedores. Destaca que debe ser accesible, fácil y con soporte. Reportes de costos serían claves para crecer. Sus metas son reducir pérdidas, digitalizar procesos y abrir un segundo local.  
+Busca un sistema que ofrezca control en tiempo real, alertas, cálculo de costos y organización de proveedores. Destaca que debe ser accesible, fácil y con soporte. Reportes de costos serían claves para crecer. Sus metas son reducir pérdidas, digitalizar procesos y abrir un segundo local.
 
-Tiene 28 años, vive en SJL y antes trabajaba en ventas. Usa celular en el día a día y PC para cuentas. Suele guiarse por colegas y reseñas online. Su app ideal sería sencilla, intuitiva y móvil, con alertas y reportes claros.  
+Tiene 28 años, vive en SJL y antes trabajaba en ventas. Usa celular en el día a día y PC para cuentas. Suele guiarse por colegas y reseñas online. Su app ideal sería sencilla, intuitiva y móvil, con alertas y reportes claros.
 
 Entrevista 3
 
 ![Entrevista](assets/emprendedor3.png)
-
 
 **Entrevistado:** Andrés Cieza de León  
 **Edad:** 31 años  
 **Distrito:** San Juan de Lurigancho  
 **Negocio:** Hamburguesería (nombre no especificado)  
 **Tiempo de operación:** 2 años  
-**Minuto de inicio:**  34:57
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+**Minuto de inicio:** 34:57
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen**  
-Andrés Cieza de León es dueño de una hamburguesería en SJL con 2 años de operación. Emprendió porque en su zona había pocas opciones y de baja calidad.  
+Andrés Cieza de León es dueño de una hamburguesería en SJL con 2 años de operación. Emprendió porque en su zona había pocas opciones y de baja calidad.
 
-Actualmente maneja inventarios en Excel, pero considera vital tener reportes y gráficos accesibles. Para él, la facilidad de uso es lo más importante en un software, ya que no quiere perder tiempo en procesos complicados.  
+Actualmente maneja inventarios en Excel, pero considera vital tener reportes y gráficos accesibles. Para él, la facilidad de uso es lo más importante en un software, ya que no quiere perder tiempo en procesos complicados.
 
-Señaló que la información clara y visual es fundamental para tomar decisiones y que busca expandirse en el mundo digital para hacer crecer su negocio.  
-
+Señaló que la información clara y visual es fundamental para tomar decisiones y que busca expandirse en el mundo digital para hacer crecer su negocio.
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -1072,7 +1011,7 @@ Segmento: Restaurantes y Restobares (3 entrevistas)
   100% busca reducir pérdidas y organizar mejor la gestión.  
   67% tiene como meta abrir un segundo local a mediano plazo.
 
- Segmento: Cafeterías y Bares (3 entrevistas)
+Segmento: Cafeterías y Bares (3 entrevistas)
 
 - **Método de gestión de inventario:**  
   El 100% controla insumos manualmente (cuaderno o Excel). Ninguno usa un sistema especializado.
@@ -1133,57 +1072,55 @@ Estas representaciones semi-ficticias de clientes ideales ayudan a comprender la
 
 Segmento objetivo: Restaurantes y Restobares
 
-
 ![User Diego](assets/user3.png)
 
 Segmento objetivo: Cafeterías y Bares
-
 
 ![User Maria Alejandra](assets/user2.png)
 
 Segmento objetivo: Emprendimientos gastronómicos
 
-
 ![User Javier](assets/user1.png)
 
 ### 2.3.2. User Task Matrix
-## User Task Matrix  
 
-En esta sección se presentan las tareas que realizan los **User Personas** de los tres segmentos objetivo:  
-- **Diego Fernández Valdivia** (Restobares y Restaurantes).  
-- **María Alejandra Pérez Alvarado** (Cafeterías y Bares).  
-- **Javier Ramírez Soto** (Emprendimientos Gastronómicos).  
+## User Task Matrix
 
-Las tareas corresponden a actividades necesarias para el funcionamiento de sus negocios, independientemente de la existencia de soluciones digitales.  
+En esta sección se presentan las tareas que realizan los **User Personas** de los tres segmentos objetivo:
 
-### Cuadro de User Task Matrix  
+- **Diego Fernández Valdivia** (Restobares y Restaurantes).
+- **María Alejandra Pérez Alvarado** (Cafeterías y Bares).
+- **Javier Ramírez Soto** (Emprendimientos Gastronómicos).
 
-| **Tareas** | **Diego Fernández**<br>(Restobares y Restaurantes)<br>Frecuencia | **Diego Fernández**<br>Importancia | **María Alejandra**<br>(Cafeterías y Bares)<br>Frecuencia | **María Alejandra**<br>Importancia | **Javier Ramírez**<br>(Emprendimientos Gastronómicos)<br>Frecuencia | **Javier Ramírez**<br>Importancia |
-|------------|-------------------------------------------------|-------------------------------|-------------------------------------------------|-------------------------------|---------------------------------------------------|-----------------------------------|
-| Gestionar inventario de insumos | Alta | Alta | Alta | Alta | Alta | Alta |
-| Coordinar pedidos con proveedores | Alta | Alta | Media | Alta | Alta | Alta |
-| Controlar costos y rentabilidad de productos | Alta | Alta | Media | Alta | Alta | Alta |
-| Estandarizar recetas y procesos | Media | Alta | Alta | Alta | Media | Alta |
-| Evitar quiebres de stock | Alta | Alta | Alta | Alta | Alta | Alta |
-| Gestionar la rotación de productos perecibles | Alta | Alta | Alta | Alta | Media | Alta |
-| Proyectar compras según demanda | Media | Alta | Media | Alta | Media | Alta |
-| Monitorear ventas diarias y márgenes | Alta | Alta | Media | Media | Alta | Alta |
-| Organizar la apertura y operación diaria | Alta | Alta | Alta | Alta | Alta | Alta |
-| Planificar crecimiento del negocio | Media | Alta | Baja | Media | Alta | Alta |
+Las tareas corresponden a actividades necesarias para el funcionamiento de sus negocios, independientemente de la existencia de soluciones digitales.
 
-### Explicación de las tareas principales  
+### Cuadro de User Task Matrix
 
-- **Gestionar inventario de insumos:** Evitar sobrecompras, pérdidas y garantizar disponibilidad de productos críticos.  
-- **Coordinar pedidos con proveedores:** Mantener abastecimiento constante y evitar retrasos.  
-- **Controlar costos y rentabilidad:** Detectar platos o productos más rentables y ajustar la oferta.  
-- **Estandarizar recetas y procesos:** Asegurar consistencia y calidad en el servicio.  
-- **Evitar quiebres de stock:** Prevenir quiebres en horarios pico que afectan ventas y experiencia del cliente.  
-- **Gestionar rotación de perecibles:** Reducir pérdidas por caducidad y asegurar frescura.  
-- **Proyectar compras según demanda:** Anticiparse a temporadas y eventos especiales.  
-- **Monitorear ventas diarias y márgenes:** Dar visibilidad sobre ingresos y costos en tiempo real.  
-- **Organizar operación diaria:** Garantizar orden, eficiencia y consistencia en cada jornada.  
-- **Planificar crecimiento del negocio:** Especialmente crítico en emprendimientos que buscan sostenibilidad y escalabilidad.  
+| **Tareas**                                    | **Diego Fernández**<br>(Restobares y Restaurantes)<br>Frecuencia | **Diego Fernández**<br>Importancia | **María Alejandra**<br>(Cafeterías y Bares)<br>Frecuencia | **María Alejandra**<br>Importancia | **Javier Ramírez**<br>(Emprendimientos Gastronómicos)<br>Frecuencia | **Javier Ramírez**<br>Importancia |
+| --------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------- | --------------------------------- |
+| Gestionar inventario de insumos               | Alta                                                             | Alta                               | Alta                                                      | Alta                               | Alta                                                                | Alta                              |
+| Coordinar pedidos con proveedores             | Alta                                                             | Alta                               | Media                                                     | Alta                               | Alta                                                                | Alta                              |
+| Controlar costos y rentabilidad de productos  | Alta                                                             | Alta                               | Media                                                     | Alta                               | Alta                                                                | Alta                              |
+| Estandarizar recetas y procesos               | Media                                                            | Alta                               | Alta                                                      | Alta                               | Media                                                               | Alta                              |
+| Evitar quiebres de stock                      | Alta                                                             | Alta                               | Alta                                                      | Alta                               | Alta                                                                | Alta                              |
+| Gestionar la rotación de productos perecibles | Alta                                                             | Alta                               | Alta                                                      | Alta                               | Media                                                               | Alta                              |
+| Proyectar compras según demanda               | Media                                                            | Alta                               | Media                                                     | Alta                               | Media                                                               | Alta                              |
+| Monitorear ventas diarias y márgenes          | Alta                                                             | Alta                               | Media                                                     | Media                              | Alta                                                                | Alta                              |
+| Organizar la apertura y operación diaria      | Alta                                                             | Alta                               | Alta                                                      | Alta                               | Alta                                                                | Alta                              |
+| Planificar crecimiento del negocio            | Media                                                            | Alta                               | Baja                                                      | Media                              | Alta                                                                | Alta                              |
 
+### Explicación de las tareas principales
+
+- **Gestionar inventario de insumos:** Evitar sobrecompras, pérdidas y garantizar disponibilidad de productos críticos.
+- **Coordinar pedidos con proveedores:** Mantener abastecimiento constante y evitar retrasos.
+- **Controlar costos y rentabilidad:** Detectar platos o productos más rentables y ajustar la oferta.
+- **Estandarizar recetas y procesos:** Asegurar consistencia y calidad en el servicio.
+- **Evitar quiebres de stock:** Prevenir quiebres en horarios pico que afectan ventas y experiencia del cliente.
+- **Gestionar rotación de perecibles:** Reducir pérdidas por caducidad y asegurar frescura.
+- **Proyectar compras según demanda:** Anticiparse a temporadas y eventos especiales.
+- **Monitorear ventas diarias y márgenes:** Dar visibilidad sobre ingresos y costos en tiempo real.
+- **Organizar operación diaria:** Garantizar orden, eficiencia y consistencia en cada jornada.
+- **Planificar crecimiento del negocio:** Especialmente crítico en emprendimientos que buscan sostenibilidad y escalabilidad.
 
 ### 2.3.3. User Journey Mapping
 
@@ -1191,16 +1128,13 @@ En esta parte se muestran los User Journey Maps As-Is de cada User Persona. El o
 
 **Segmento objetivo: Restobares y Restaurantes**
 
-
 ![User Diego](assets/journey1.png)
 
 **Segmento objetivo: Cafeterías y Bares**
 
-
 ![User Maria Alejandra](assets/journey2.png)
 
 **Segmento objetivo: Emprendimientos Gastronómicos**
-
 
 ![User Javier](assets/journey3.png)
 
@@ -1208,16 +1142,13 @@ En esta parte se muestran los User Journey Maps As-Is de cada User Persona. El o
 
 **Segmento objetivo: Restaurantes y Restobares**
 
-
 ![User Diego](assets/empathy1.png)
 
 **Segmento objetivo: Cafeterías y Bares**
 
-
 ![User Maria Alejandra](assets/empathy2.png)
 
 **Segmento objetivo: Emprendimientos gastronómicos**
-
 
 ![User Javier](assets/empathy3.png)
 
@@ -1279,39 +1210,40 @@ Cada historia de usuario incluye Criterios de Aceptación redactados en formato 
 
 ### Epic Stories
 
-| Epic ID | Título | Descripción | Criterios de Aceptación Generales |
-| :--- | :--- | :--- | :--- |
-| EP-01 | Gestión de Autenticación y Cuentas | Proporcionar un sistema seguro para el registro, inicio de sesión y gestión de perfiles de usuario y roles dentro de la empresa. | - El sistema debe permitir el registro de nuevas empresas validando su información fiscal.<br>- Se deben poder crear y asignar roles con diferentes niveles de permiso (ej. Administrador, Cocinero).<br>- Un usuario debe poder iniciar y cerrar sesión de forma segura y gestionar su perfil. |
-| EP-02 | Administración del Inventario | Permitir a los usuarios registrar, visualizar, auditar y gestionar todos los insumos y productos del inventario en tiempo real. | - Se deben poder crear, editar, buscar y eliminar productos e insumos.<br>- El stock debe actualizarse automáticamente con las ventas, compras y mermas.<br>- El sistema debe mostrar el estado del inventario (disponible, bajo, agotado) y un historial de movimientos. |
-| EP-03 | Gestión de Recetas y Costos | Facilitar la creación y administración de recetas, vinculando los insumos del inventario para calcular costos, estandarizar la producción y gestionar la rentabilidad. | - Se deben poder crear recetas asociando insumos y cantidades exactas.<br>- El costo de cada plato debe calcularse automáticamente basado en el costo de los insumos.<br>- Al registrar una venta de un plato, el stock de los insumos de la receta debe descontarse automáticamente. |
-| EP-04 | Gestión de Proveedores y Compras | Centralizar la información de los proveedores y agilizar el proceso de creación, seguimiento y registro de órdenes de compra para reabastecer el inventario. | - Se debe poder registrar, editar y gestionar una lista de proveedores con sus datos de contacto y productos.<br>- El sistema debe permitir generar y enviar órdenes de compra a los proveedores.<br>- El estado de las órdenes de compra debe ser rastreable (pendiente, recibido, cancelado). |
-| EP-05 | Generación de Alertas y Reportes | Proveer notificaciones automáticas y reportes analíticos para optimizar la toma de decisiones, prevenir problemas operativos y analizar el rendimiento del negocio. | - El sistema debe generar alertas personalizables de stock bajo y fechas de caducidad próximas.<br>- Se deben poder generar reportes detallados de consumo, ventas, costos y mermas.<br>- Los reportes deben ser visuales (gráficos) y exportables a formatos comunes (CSV/PDF). |
-| EP-06 | Presentación y Captación (Landing Page) | Ofrecer un sitio web informativo y persuasivo que presente la propuesta de valor de LogisPe, sus características y planes, y guíe a los potenciales clientes al registro. | - La página debe describir claramente los beneficios y características de la solución.<br>- Debe contener llamados a la acción (CTA) claros y visibles para registrarse o solicitar una demo.<br>- Debe ser visualmente atractiva, profesional y completamente adaptable a dispositivos móviles. |
+| Epic ID | Título                                  | Descripción                                                                                                                                                               | Criterios de Aceptación Generales                                                                                                                                                                                                                                                                |
+| :------ | :-------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| EP-01   | Gestión de Autenticación y Cuentas      | Proporcionar un sistema seguro para el registro, inicio de sesión y gestión de perfiles de usuario y roles dentro de la empresa.                                          | - El sistema debe permitir el registro de nuevas empresas validando su información fiscal.<br>- Se deben poder crear y asignar roles con diferentes niveles de permiso (ej. Administrador, Cocinero).<br>- Un usuario debe poder iniciar y cerrar sesión de forma segura y gestionar su perfil.  |
+| EP-02   | Administración del Inventario           | Permitir a los usuarios registrar, visualizar, auditar y gestionar todos los insumos y productos del inventario en tiempo real.                                           | - Se deben poder crear, editar, buscar y eliminar productos e insumos.<br>- El stock debe actualizarse automáticamente con las ventas, compras y mermas.<br>- El sistema debe mostrar el estado del inventario (disponible, bajo, agotado) y un historial de movimientos.                        |
+| EP-03   | Gestión de Recetas y Costos             | Facilitar la creación y administración de recetas, vinculando los insumos del inventario para calcular costos, estandarizar la producción y gestionar la rentabilidad.    | - Se deben poder crear recetas asociando insumos y cantidades exactas.<br>- El costo de cada plato debe calcularse automáticamente basado en el costo de los insumos.<br>- Al registrar una venta de un plato, el stock de los insumos de la receta debe descontarse automáticamente.            |
+| EP-04   | Gestión de Proveedores y Compras        | Centralizar la información de los proveedores y agilizar el proceso de creación, seguimiento y registro de órdenes de compra para reabastecer el inventario.              | - Se debe poder registrar, editar y gestionar una lista de proveedores con sus datos de contacto y productos.<br>- El sistema debe permitir generar y enviar órdenes de compra a los proveedores.<br>- El estado de las órdenes de compra debe ser rastreable (pendiente, recibido, cancelado).  |
+| EP-05   | Generación de Alertas y Reportes        | Proveer notificaciones automáticas y reportes analíticos para optimizar la toma de decisiones, prevenir problemas operativos y analizar el rendimiento del negocio.       | - El sistema debe generar alertas personalizables de stock bajo y fechas de caducidad próximas.<br>- Se deben poder generar reportes detallados de consumo, ventas, costos y mermas.<br>- Los reportes deben ser visuales (gráficos) y exportables a formatos comunes (CSV/PDF).                 |
+| EP-06   | Presentación y Captación (Landing Page) | Ofrecer un sitio web informativo y persuasivo que presente la propuesta de valor de LogisPe, sus características y planes, y guíe a los potenciales clientes al registro. | - La página debe describir claramente los beneficios y características de la solución.<br>- Debe contener llamados a la acción (CTA) claros y visibles para registrarse o solicitar una demo.<br>- Debe ser visualmente atractiva, profesional y completamente adaptable a dispositivos móviles. |
 
 ### User Stories
 
-| User Story ID | Título | Descripción | Criterios de Aceptación (Gherkin) | Relacionado con (Epic ID) |
-| :--- | :--- | :--- | :--- | :--- |
+| User Story ID                             | Título                        | Descripción                                                                                                                                                                           | Criterios de Aceptación (Gherkin)                                                                                                                                                                                                                                                                        | Relacionado con (Epic ID) |
+| :---------------------------------------- | :---------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------ |
 | **_User Stories para la Aplicación Web_** |
-| US-01.01 | Registro de Nueva Empresa | Como **administrador de un restaurante**, quiero registrar mi negocio en la plataforma para empezar a gestionar mi inventario de forma digital. | **Dado** que soy un nuevo usuario y no tengo una cuenta,<br>**Cuando** completo el formulario de registro con datos válidos (RUC, nombre del negocio, email, contraseña),<br>**Entonces** el sistema crea mi cuenta, me asigna el rol de administrador y me envía un correo de bienvenida. | EP-01 |
-| US-01.02 | Inicio de Sesión Seguro | Como **usuario registrado**, quiero iniciar sesión con mi correo y contraseña para acceder al dashboard de mi negocio de forma segura. | **Dado** que tengo una cuenta activa y estoy en la página de login,<br>**Cuando** ingreso mis credenciales correctas,<br>**Entonces** soy redirigido al panel principal de la aplicación. | EP-01 |
-| US-01.03 | Gestión de Roles de Usuario | Como **administrador**, quiero asignar roles (ej. Cocinero, Almacenero) a los miembros de mi equipo para controlar su acceso a diferentes módulos y proteger la información sensible. | **Dado** que estoy en la sección de "Administración de Usuarios",<br>**Cuando** selecciono un usuario existente y le asigno el rol "Cocinero",<br>**Entonces** ese usuario solo podrá ver y utilizar los módulos de "Recetas" e "Inventario", pero no "Reportes Financieros". | EP-01 |
-| US-02.01 | Añadir Nuevo Insumo | Como **administrador**, quiero añadir un nuevo insumo a mi inventario con su nombre, unidad de medida, proveedor y stock inicial para tener un control preciso. | **Dado** que estoy en la vista de "Inventario",<br>**Cuando** hago clic en "Añadir Insumo" y lleno el formulario (ej. "Harina Preparada", "Kg", "Proveedor A", 50),<br>**Entonces** el insumo aparece en mi lista de inventario con el stock y proveedor indicados. | EP-02 |
-| US-02.02 | Actualizar Stock Manualmente | Como **almacenero**, quiero poder ajustar manualmente la cantidad de un insumo para corregir discrepancias después de un conteo físico. | **Dado** que el sistema muestra 20 Kg de "Azúcar" pero el conteo físico es de 18 Kg,<br>**Cuando** selecciono "Ajustar Stock", ingreso la nueva cantidad (18) y un motivo (ej. "Merma"),<br>**Entonces** el stock del insumo se actualiza a 18 Kg y se registra un movimiento en el historial. | EP-02 |
-| US-02.03 | Búsqueda y Filtro de Insumos | Como **cocinero**, quiero buscar y filtrar insumos por nombre o categoría para encontrar rápidamente lo que necesito para mis preparaciones. | **Dado** que estoy en la pantalla de "Inventario" con más de 100 insumos,<br>**Cuando** escribo "Leche" en la barra de búsqueda y selecciono el filtro "Lácteos",<br>**Entonces** la lista se reduce para mostrar solo las leches de la categoría "Lácteos". | EP-02 |
-| US-03.01 | Crear una Receta | Como **administrador**, quiero crear una receta para un plato del menú, especificando los insumos y las cantidades necesarias para estandarizar la producción y controlar costos. | **Dado** que tengo insumos registrados en el inventario,<br>**Cuando** creo una nueva receta (ej. "Lomo Saltado") y asocio los insumos (ej. 200g de Lomo, 100g de Cebolla),<br>**Entonces** la receta queda guardada y el costo del plato se calcula automáticamente. | EP-03 |
-| US-04.01 | Registrar un Proveedor | Como **administrador**, quiero registrar los datos de mis proveedores (nombre, contacto, RUC) para tener un directorio centralizado y agilizar las compras. | **Dado** que estoy en el módulo de "Proveedores",<br>**Cuando** completo el formulario con la información de un nuevo proveedor,<br>**Entonces** el proveedor se añade a mi lista de contactos y puedo asociarle insumos. | EP-04 |
-| US-04.02 | Generar Orden de Compra | Como **administrador**, quiero generar una orden de compra para un proveedor específico, seleccionando los insumos y cantidades que necesito reponer. | **Dado** que he recibido una alerta de stock bajo para "Aceite",<br>**Cuando** voy a "Órdenes de Compra", selecciono "Proveedor B" y añado 10 litros de "Aceite",<br>**Entonces** se genera una orden de compra en estado "Pendiente" y puedo enviarla al proveedor. | EP-04 |
-| US-05.01 | Alerta de Stock Bajo | Como **administrador**, quiero recibir una notificación cuando el stock de un insumo llegue a un nivel mínimo predefinido para poder reabastecer a tiempo y evitar quiebres de stock. | **Dado** que el punto de reorden para "Tomates" es de 5 Kg,<br>**Cuando** el stock actual baja a 4.5 Kg debido a una venta,<br>**Entonces** recibo una alerta visual en el dashboard y un correo electrónico notificándome. | EP-05 |
-| US-05.02 | Generar Reporte de Consumo | Como **dueño del negocio**, quiero generar un reporte de consumo de insumos por rango de fechas para analizar cuáles son los más utilizados y planificar mejor mis compras. | **Dado** que he registrado ventas durante la última semana,<br>**Cuando** voy a "Reportes", selecciono "Consumo de Insumos" y el rango de fechas,<br>**Entonces** el sistema me muestra un gráfico y una tabla con los insumos más consumidos, y me permite exportarlo a CSV. | EP-05 |
-| **_Technical Stories_** |
-| TS-02.01 | Obtener Insumos de Inventario | Como **developer**, quiero un endpoint `GET /api/inventory/supplies` para obtener la lista completa de insumos de un negocio, con opción de paginación. | **Dado** que realizo una petición GET autenticada a `/api/inventory/supplies?page=1&limit=20`,<br>**Cuando** la petición es válida,<br>**Entonces** la API debe devolver un objeto JSON con un array de 20 insumos, información de paginación y un código de estado 200 (OK). | EP-02 |
-| TS-03.01 | Crear Nueva Receta (API) | Como **developer**, quiero un endpoint `POST /api/recipes` para que la aplicación web pueda crear una nueva receta enviando sus datos en formato JSON. | **Dado** que envío una petición POST a `/api/recipes` con un cuerpo JSON válido (nombre, array de insumos con cantidades),<br>**Cuando** los datos son procesados correctamente,<br>**Entonces** la API debe devolver el objeto de la nueva receta creada con su ID y un código de estado 201 (Created). | EP-03 |
-| TS-05.01 | Endpoint de Reporte de Ventas | Como **developer**, quiero un endpoint `GET /api/reports/sales` que acepte parámetros de fecha para generar datos de ventas. | **Dado** que realizo una petición GET autenticada a `/api/reports/sales?startDate=2025-09-01&endDate=2025-09-30`,<br>**Cuando** la petición es válida,<br>**Entonces** la API debe devolver un JSON con el resumen de ventas de ese período y un código de estado 200 (OK). | EP-05 |
-| **_User Stories para Landing Page_** |
-| LS-06.01 | Ver Propuesta de Valor | Como **visitante y dueño de un restaurante**, quiero entender rápidamente los beneficios principales de LogisPe en la página de inicio para decidir si es la solución que necesito. | **Dado** que ingreso a la página de inicio de LogisPe,<br>**Cuando** observo la sección principal (Hero),<br>**Entonces** puedo leer un titular claro y un subtítulo que resumen la propuesta de valor en menos de 15 segundos. | EP-06 |
-| LS-06.02 | Explorar Características | Como **visitante interesado**, quiero navegar a una sección de "Características" para conocer en detalle qué funcionalidades ofrece el sistema. | **Dado** que estoy en la página de inicio,<br>**Cuando** hago clic en el enlace "Características" del menú de navegación,<br>**Entonces** la página se desplaza suavemente hasta la sección que detalla las funcionalidades con texto e imágenes. | EP-06 |
-| LS-06.03 | Iniciar Proceso de Registro | Como **visitante convencido**, quiero encontrar fácilmente un botón de "Registrarse" o "Empezar ahora" para crear mi cuenta sin demoras. | **Dado** que estoy en cualquier sección de la landing page,<br>**Cuando** decido que quiero registrarme,<br>**Entonces** puedo ver un botón de llamado a la acción (CTA) claramente visible en la barra de navegación y en el pie de página que me lleva al formulario de registro. | EP-06 |
+| US-01.01                                  | Registro de Nueva Empresa     | Como **administrador de un restaurante**, quiero registrar mi negocio en la plataforma para empezar a gestionar mi inventario de forma digital.                                       | **Dado** que soy un nuevo usuario y no tengo una cuenta,<br>**Cuando** completo el formulario de registro con datos válidos (RUC, nombre del negocio, email, contraseña),<br>**Entonces** el sistema crea mi cuenta, me asigna el rol de administrador y me envía un correo de bienvenida.               | EP-01                     |
+| US-01.02                                  | Inicio de Sesión Seguro       | Como **usuario registrado**, quiero iniciar sesión con mi correo y contraseña para acceder al dashboard de mi negocio de forma segura.                                                | **Dado** que tengo una cuenta activa y estoy en la página de login,<br>**Cuando** ingreso mis credenciales correctas,<br>**Entonces** soy redirigido al panel principal de la aplicación.                                                                                                                | EP-01                     |
+| US-01.03                                  | Gestión de Roles de Usuario   | Como **administrador**, quiero asignar roles (ej. Cocinero, Almacenero) a los miembros de mi equipo para controlar su acceso a diferentes módulos y proteger la información sensible. | **Dado** que estoy en la sección de "Administración de Usuarios",<br>**Cuando** selecciono un usuario existente y le asigno el rol "Cocinero",<br>**Entonces** ese usuario solo podrá ver y utilizar los módulos de "Recetas" e "Inventario", pero no "Reportes Financieros".                            | EP-01                     |
+| US-02.01                                  | Añadir Nuevo Insumo           | Como **administrador**, quiero añadir un nuevo insumo a mi inventario con su nombre, unidad de medida, proveedor y stock inicial para tener un control preciso.                       | **Dado** que estoy en la vista de "Inventario",<br>**Cuando** hago clic en "Añadir Insumo" y lleno el formulario (ej. "Harina Preparada", "Kg", "Proveedor A", 50),<br>**Entonces** el insumo aparece en mi lista de inventario con el stock y proveedor indicados.                                      | EP-02                     |
+| US-02.02                                  | Actualizar Stock Manualmente  | Como **almacenero**, quiero poder ajustar manualmente la cantidad de un insumo para corregir discrepancias después de un conteo físico.                                               | **Dado** que el sistema muestra 20 Kg de "Azúcar" pero el conteo físico es de 18 Kg,<br>**Cuando** selecciono "Ajustar Stock", ingreso la nueva cantidad (18) y un motivo (ej. "Merma"),<br>**Entonces** el stock del insumo se actualiza a 18 Kg y se registra un movimiento en el historial.           | EP-02                     |
+| US-02.03                                  | Búsqueda y Filtro de Insumos  | Como **cocinero**, quiero buscar y filtrar insumos por nombre o categoría para encontrar rápidamente lo que necesito para mis preparaciones.                                          | **Dado** que estoy en la pantalla de "Inventario" con más de 100 insumos,<br>**Cuando** escribo "Leche" en la barra de búsqueda y selecciono el filtro "Lácteos",<br>**Entonces** la lista se reduce para mostrar solo las leches de la categoría "Lácteos".                                             | EP-02                     |
+| US-03.01                                  | Crear una Receta              | Como **administrador**, quiero crear una receta para un plato del menú, especificando los insumos y las cantidades necesarias para estandarizar la producción y controlar costos.     | **Dado** que tengo insumos registrados en el inventario,<br>**Cuando** creo una nueva receta (ej. "Lomo Saltado") y asocio los insumos (ej. 200g de Lomo, 100g de Cebolla),<br>**Entonces** la receta queda guardada y el costo del plato se calcula automáticamente.                                    | EP-03                     |
+| US-04.01                                  | Registrar un Proveedor        | Como **administrador**, quiero registrar los datos de mis proveedores (nombre, contacto, RUC) para tener un directorio centralizado y agilizar las compras.                           | **Dado** que estoy en el módulo de "Proveedores",<br>**Cuando** completo el formulario con la información de un nuevo proveedor,<br>**Entonces** el proveedor se añade a mi lista de contactos y puedo asociarle insumos.                                                                                | EP-04                     |
+| US-04.02                                  | Generar Orden de Compra       | Como **administrador**, quiero generar una orden de compra para un proveedor específico, seleccionando los insumos y cantidades que necesito reponer.                                 | **Dado** que he recibido una alerta de stock bajo para "Aceite",<br>**Cuando** voy a "Órdenes de Compra", selecciono "Proveedor B" y añado 10 litros de "Aceite",<br>**Entonces** se genera una orden de compra en estado "Pendiente" y puedo enviarla al proveedor.                                     | EP-04                     |
+| US-05.01                                  | Alerta de Stock Bajo          | Como **administrador**, quiero recibir una notificación cuando el stock de un insumo llegue a un nivel mínimo predefinido para poder reabastecer a tiempo y evitar quiebres de stock. | **Dado** que el punto de reorden para "Tomates" es de 5 Kg,<br>**Cuando** el stock actual baja a 4.5 Kg debido a una venta,<br>**Entonces** recibo una alerta visual en el dashboard y un correo electrónico notificándome.                                                                              | EP-05                     |
+| US-05.02                                  | Generar Reporte de Consumo    | Como **dueño del negocio**, quiero generar un reporte de consumo de insumos por rango de fechas para analizar cuáles son los más utilizados y planificar mejor mis compras.           | **Dado** que he registrado ventas durante la última semana,<br>**Cuando** voy a "Reportes", selecciono "Consumo de Insumos" y el rango de fechas,<br>**Entonces** el sistema me muestra un gráfico y una tabla con los insumos más consumidos, y me permite exportarlo a CSV.                            | EP-05                     |
+| **_Technical Stories_**                   |
+| TS-02.01                                  | Obtener Insumos de Inventario | Como **developer**, quiero un endpoint `GET /api/inventory/supplies` para obtener la lista completa de insumos de un negocio, con opción de paginación.                               | **Dado** que realizo una petición GET autenticada a `/api/inventory/supplies?page=1&limit=20`,<br>**Cuando** la petición es válida,<br>**Entonces** la API debe devolver un objeto JSON con un array de 20 insumos, información de paginación y un código de estado 200 (OK).                            | EP-02                     |
+| TS-03.01                                  | Crear Nueva Receta (API)      | Como **developer**, quiero un endpoint `POST /api/recipes` para que la aplicación web pueda crear una nueva receta enviando sus datos en formato JSON.                                | **Dado** que envío una petición POST a `/api/recipes` con un cuerpo JSON válido (nombre, array de insumos con cantidades),<br>**Cuando** los datos son procesados correctamente,<br>**Entonces** la API debe devolver el objeto de la nueva receta creada con su ID y un código de estado 201 (Created). | EP-03                     |
+| TS-05.01                                  | Endpoint de Reporte de Ventas | Como **developer**, quiero un endpoint `GET /api/reports/sales` que acepte parámetros de fecha para generar datos de ventas.                                                          | **Dado** que realizo una petición GET autenticada a `/api/reports/sales?startDate=2025-09-01&endDate=2025-09-30`,<br>**Cuando** la petición es válida,<br>**Entonces** la API debe devolver un JSON con el resumen de ventas de ese período y un código de estado 200 (OK).                              | EP-05                     |
+| **_User Stories para Landing Page_**      |
+| LS-06.01                                  | Ver Propuesta de Valor        | Como **visitante y dueño de un restaurante**, quiero entender rápidamente los beneficios principales de LogisPe en la página de inicio para decidir si es la solución que necesito.   | **Dado** que ingreso a la página de inicio de LogisPe,<br>**Cuando** observo la sección principal (Hero),<br>**Entonces** puedo leer un titular claro y un subtítulo que resumen la propuesta de valor en menos de 15 segundos.                                                                          | EP-06                     |
+| LS-06.02                                  | Explorar Características      | Como **visitante interesado**, quiero navegar a una sección de "Características" para conocer en detalle qué funcionalidades ofrece el sistema.                                       | **Dado** que estoy en la página de inicio,<br>**Cuando** hago clic en el enlace "Características" del menú de navegación,<br>**Entonces** la página se desplaza suavemente hasta la sección que detalla las funcionalidades con texto e imágenes.                                                        | EP-06                     |
+| LS-06.03                                  | Iniciar Proceso de Registro   | Como **visitante convencido**, quiero encontrar fácilmente un botón de "Registrarse" o "Empezar ahora" para crear mi cuenta sin demoras.                                              | **Dado** que estoy en cualquier sección de la landing page,<br>**Cuando** decido que quiero registrarme,<br>**Entonces** puedo ver un botón de llamado a la acción (CTA) claramente visible en la barra de navegación y en el pie de página que me lleva al formulario de registro.                      | EP-06                     |
+
 ## 3.2. Impact Mapping
 
 ![ImpactMapping](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3546d09e0ce3821addfa7613d37cd1e07d57eaa3/img/Impact%20map%201.png)
@@ -1320,39 +1252,38 @@ Cada historia de usuario incluye Criterios de Aceptación redactados en formato 
 
 El **Product Backlog** es una lista ordenada y priorizada de todo el trabajo pendiente para el proyecto "LogisPe". Las Historias de Usuario se han estimado utilizando **Story Points** (siguiendo la secuencia 1, 2, 3, 5, 8) y se han organizado en función del **valor que aportan al negocio** y al usuario final. La priorización busca entregar las funcionalidades más críticas y de mayor impacto en las primeras iteraciones. Se han incluido las historias de la **Landing Page** al inicio, ya que son cruciales para la captación de clientes, seguidas por las funcionalidades centrales de la aplicación que resuelven los problemas más urgentes identificados en la fase de investigación.
 
-***
+---
 
-| #Orden | User Story ID | Título | Descripción (resumen) | Story Points |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | LS-06.01 | Ver Propuesta de Valor | Como visitante, quiero entender los beneficios de LogisPe en la página de inicio. | 2 |
-| 2 | US-02.02 | Visualizar Stock en Tiempo Real | Como cocinero, quiero ver la lista de insumos con su cantidad disponible. | 5 |
-| 3 | US-02.01 | Añadir Nuevo Insumo | Como administrador, quiero añadir un nuevo insumo a mi inventario con su stock inicial. | 3 |
-| 4 | US-03.01 | Crear una Receta | Como administrador, quiero crear una receta especificando insumos y cantidades. | 5 |
-| 5 | US-05.01 | Alerta de Stock Bajo | Como administrador, quiero recibir una notificación cuando el stock de un insumo esté bajo. | 3 |
-| 6 | US-05.02 | Generar Reporte de Consumo | Como dueño, quiero generar un reporte de consumo de insumos por rango de fechas. | 5 |
-| 7 | US-02.03 | Búsqueda y Filtro de Insumos | Como cocinero, quiero buscar y filtrar insumos por nombre o categoría. | 3 |
-| 8 | LS-06.02 | Explorar Características | Como visitante, quiero navegar a una sección de "Características" en la Landing Page. | 1 |
-| 9 | US-01.01 | Registro de Nueva Empresa | Como administrador, quiero registrar mi negocio en la plataforma. | 3 |
-| 10 | LS-06.03 | Iniciar Proceso de Registro | Como visitante, quiero encontrar fácilmente un botón para registrarme. | 1 |
-| 11 | US-04.01 | Registrar un Proveedor | Como administrador, quiero registrar los datos de mis proveedores. | 2 |
-| 12 | US-01.02 | Inicio de Sesión Seguro | Como usuario registrado, quiero iniciar sesión con mi correo y contraseña. | 2 |
-| 13 | US-04.02 | Generar Orden de Compra | Como administrador, quiero generar una orden de compra para un proveedor. | 3 |
-| 14 | US-02.04 | Registrar Merma o Desperdicio | Como almacenero, quiero registrar la pérdida de un insumo para mantener el stock exacto. | 3 |
-| 15 | US-03.02 | Calcular Costo de Receta | Como administrador, quiero que el sistema calcule el costo de una receta automáticamente. | 3 |
-| 16 | US-02.05 | Ver Historial de Movimientos | Como administrador, quiero ver el historial de movimientos de un insumo (compras, ventas, mermas). | 5 |
-| 17 | US-05.03 | Reporte de Rentabilidad por Plato | Como dueño, quiero un reporte que muestre la rentabilidad de cada plato del menú. | 8 |
-| 18 | US-04.03 | Registrar Recepción de Compra | Como almacenero, quiero marcar una orden de compra como "Recibida" para que el stock se actualice. | 3 |
-| 19 | US-02.06 | Asignar Categorías a Insumos | Como administrador, quiero poder crear y asignar categorías a mis insumos (ej. Lácteos, Carnes). | 2 |
-| 20 | US-01.03 | Gestión de Roles de Usuario | Como administrador, quiero asignar roles (Cocinero, Almacenero) a los miembros de mi equipo. | 3 |
-| 21 | US-05.04 | Exportar Reportes a PDF/CSV | Como administrador, quiero exportar cualquier reporte en formato PDF o CSV. | 3 |
-| 22 | US-03.03 | Editar una Receta Existente | Como administrador, quiero poder editar los ingredientes o cantidades de una receta ya creada. | 2 |
-| 23 | US-04.04 | Directorio de Proveedores | Como administrador, quiero tener una vista de todos mis proveedores con sus datos de contacto. | 2 |
-| 24 | US-01.04 | Editar Perfil de Usuario | Como usuario, quiero poder cambiar mi nombre y contraseña en mi perfil. | 2 |
-| 25 | US-05.05 | Dashboard Principal con KPIs | Como administrador, quiero ver un dashboard con indicadores clave al iniciar sesión. | 8 |
-| 26 | US-02.07 | Alerta de Caducidad Próxima | Como almacenero, quiero recibir alertas sobre insumos que están por vencer. | 5 |
-| 27 | US-04.05 | Ver Historial de Compras | Como administrador, quiero ver un historial de todas las órdenes de compra realizadas a un proveedor. | 3 |
-| 28 | US-05.06 | Reporte de Mermas | Como dueño, quiero un reporte que me muestre las mermas por insumo en un período. | 5 |
-
+| #Orden | User Story ID | Título                            | Descripción (resumen)                                                                                 | Story Points |
+| :----- | :------------ | :-------------------------------- | :---------------------------------------------------------------------------------------------------- | :----------- |
+| 1      | LS-06.01      | Ver Propuesta de Valor            | Como visitante, quiero entender los beneficios de LogisPe en la página de inicio.                     | 2            |
+| 2      | US-02.02      | Visualizar Stock en Tiempo Real   | Como cocinero, quiero ver la lista de insumos con su cantidad disponible.                             | 5            |
+| 3      | US-02.01      | Añadir Nuevo Insumo               | Como administrador, quiero añadir un nuevo insumo a mi inventario con su stock inicial.               | 3            |
+| 4      | US-03.01      | Crear una Receta                  | Como administrador, quiero crear una receta especificando insumos y cantidades.                       | 5            |
+| 5      | US-05.01      | Alerta de Stock Bajo              | Como administrador, quiero recibir una notificación cuando el stock de un insumo esté bajo.           | 3            |
+| 6      | US-05.02      | Generar Reporte de Consumo        | Como dueño, quiero generar un reporte de consumo de insumos por rango de fechas.                      | 5            |
+| 7      | US-02.03      | Búsqueda y Filtro de Insumos      | Como cocinero, quiero buscar y filtrar insumos por nombre o categoría.                                | 3            |
+| 8      | LS-06.02      | Explorar Características          | Como visitante, quiero navegar a una sección de "Características" en la Landing Page.                 | 1            |
+| 9      | US-01.01      | Registro de Nueva Empresa         | Como administrador, quiero registrar mi negocio en la plataforma.                                     | 3            |
+| 10     | LS-06.03      | Iniciar Proceso de Registro       | Como visitante, quiero encontrar fácilmente un botón para registrarme.                                | 1            |
+| 11     | US-04.01      | Registrar un Proveedor            | Como administrador, quiero registrar los datos de mis proveedores.                                    | 2            |
+| 12     | US-01.02      | Inicio de Sesión Seguro           | Como usuario registrado, quiero iniciar sesión con mi correo y contraseña.                            | 2            |
+| 13     | US-04.02      | Generar Orden de Compra           | Como administrador, quiero generar una orden de compra para un proveedor.                             | 3            |
+| 14     | US-02.04      | Registrar Merma o Desperdicio     | Como almacenero, quiero registrar la pérdida de un insumo para mantener el stock exacto.              | 3            |
+| 15     | US-03.02      | Calcular Costo de Receta          | Como administrador, quiero que el sistema calcule el costo de una receta automáticamente.             | 3            |
+| 16     | US-02.05      | Ver Historial de Movimientos      | Como administrador, quiero ver el historial de movimientos de un insumo (compras, ventas, mermas).    | 5            |
+| 17     | US-05.03      | Reporte de Rentabilidad por Plato | Como dueño, quiero un reporte que muestre la rentabilidad de cada plato del menú.                     | 8            |
+| 18     | US-04.03      | Registrar Recepción de Compra     | Como almacenero, quiero marcar una orden de compra como "Recibida" para que el stock se actualice.    | 3            |
+| 19     | US-02.06      | Asignar Categorías a Insumos      | Como administrador, quiero poder crear y asignar categorías a mis insumos (ej. Lácteos, Carnes).      | 2            |
+| 20     | US-01.03      | Gestión de Roles de Usuario       | Como administrador, quiero asignar roles (Cocinero, Almacenero) a los miembros de mi equipo.          | 3            |
+| 21     | US-05.04      | Exportar Reportes a PDF/CSV       | Como administrador, quiero exportar cualquier reporte en formato PDF o CSV.                           | 3            |
+| 22     | US-03.03      | Editar una Receta Existente       | Como administrador, quiero poder editar los ingredientes o cantidades de una receta ya creada.        | 2            |
+| 23     | US-04.04      | Directorio de Proveedores         | Como administrador, quiero tener una vista de todos mis proveedores con sus datos de contacto.        | 2            |
+| 24     | US-01.04      | Editar Perfil de Usuario          | Como usuario, quiero poder cambiar mi nombre y contraseña en mi perfil.                               | 2            |
+| 25     | US-05.05      | Dashboard Principal con KPIs      | Como administrador, quiero ver un dashboard con indicadores clave al iniciar sesión.                  | 8            |
+| 26     | US-02.07      | Alerta de Caducidad Próxima       | Como almacenero, quiero recibir alertas sobre insumos que están por vencer.                           | 5            |
+| 27     | US-04.05      | Ver Historial de Compras          | Como administrador, quiero ver un historial de todas las órdenes de compra realizadas a un proveedor. | 3            |
+| 28     | US-05.06      | Reporte de Mermas                 | Como dueño, quiero un reporte que me muestre las mermas por insumo en un período.                     | 5            |
 
 # Capítulo IV: Product Design
 
@@ -1360,7 +1291,7 @@ El **Product Backlog** es una lista ordenada y priorizada de todo el trabajo pen
 
 Las guías de estilo son fundamentales para asegurar una comunicación clara, coherente y profesional en todos los aspectos del proyecto. En esta sección, definiremos las pautas que el equipo utilizará para diseñar la aplicación FinTeka. Estas directrices abarcarán aspectos como la selección de colores, tipografía y la estructura general del diseño.
 
-Para el desarrollo de LogisPE, utilizaremos plataformas como Figma para crear la interfaz web y la página de inicio.  La paleta de colores estará compuesta por tonos blancos y rojos, que transmiten modernidad, confianza y accesibilidad, reflejando el objetivo de la aplicación de conectar a los usuarios con asesores profesionales de manera eficiente y amigable. 
+Para el desarrollo de LogisPE, utilizaremos plataformas como Figma para crear la interfaz web y la página de inicio. La paleta de colores estará compuesta por tonos blancos y rojos, que transmiten modernidad, confianza y accesibilidad, reflejando el objetivo de la aplicación de conectar a los usuarios con asesores profesionales de manera eficiente y amigable.
 
 A continuación, se detallan los aspectos clave de este enfoque de diseño.
 
@@ -1386,7 +1317,7 @@ El nombre de nuestro producto es LogisPe, que da a entender el apoyo en la logis
 
 #### Logo:
 
-![Logo](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/8019c2c2143e92d4dc2cf3df187b961bc4f659e6/img/Logo.png) 
+![Logo](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/8019c2c2143e92d4dc2cf3df187b961bc4f659e6/img/Logo.png)
 
 #### Colores:
 
@@ -1491,35 +1422,45 @@ Estados vacíos/errores: empty states con CTA (“Add Product”) y páginas 404
 ### 4.3.1. Landing Page Wireframe
 
 #### Home Wireframe
+
 ![HomeWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Home.png)
 
 #### About Us Wireframe
+
 ![AboutWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/About%20Us.png)
 
 #### Learn More Wireframe
-![LearnWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3318f6cc03d43b461e49812ba0d4a35e36f54dd0/img/Learn%20More%20(1).png)
+
+![LearnWire](<https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3318f6cc03d43b461e49812ba0d4a35e36f54dd0/img/Learn%20More%20(1).png>)
 
 #### Suscribe Wireframe
+
 ![SuscribeWire](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1df5990c649a1b943b4887bb3cc0602ef80233a2/img/Suscribe.png)
 
 ### 4.3.2. Landing Page Mock-up.
 
 #### Home Mockup
+
 ![HomeMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/81b84572f012bedd2317112c906194b44749f84d/img/Home-Mock.png)
 
 #### About Us Mockup
+
 ![AboutMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/81b84572f012bedd2317112c906194b44749f84d/img/About%20Us-Mock.png)
 
 #### Learn More Mockup
-![LearnMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1af882d5cda949db5c95359f0f13c7526159dfcf/img/Learn%20More-Mock%20(1).png)
+
+![LearnMock](<https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1af882d5cda949db5c95359f0f13c7526159dfcf/img/Learn%20More-Mock%20(1).png>)
 
 #### Suscribe Mockup
+
 ![SuscribeMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Suscribe-Mock.png)
 
 #### Login Mockup
+
 ![LoginMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/1af882d5cda949db5c95359f0f13c7526159dfcf/img/Login.png)
 
 #### Register Mockup
+
 ![RegisterMock](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fc4a24d36073a8a6abfd9bf86a2dce9bd6500d08/img/Register.png)
 
 ## 4.4. Web Applications UX/UI Design
@@ -1527,24 +1468,30 @@ Estados vacíos/errores: empty states con CTA (“Add Product”) y páginas 404
 ### 4.4.1. Web Applications Wireframes
 
 #### Login & Register
+
 ![Login & Register](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/83517cef8527291ea7835754ae2cbfac76b5c835/img/Login%26Register-Wireframe.png)
 
 #### Home
+
 ![Home](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/eb97c396e85fb5bc03f3d514a19c6784de33502f/img/Home-Wireframe.png)
 
 #### Stock Available and Additional
+
 ![Stock Available](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Stock%20Avaible%20-%20Wireframe.png)  
 ![Add Product](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Add%20Product%20-%20Wireframe.png)  
 ![Product Info](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/7713b639bbb5707dc606739e29b82dd32f45e4d0/img/Product%20Info%20-%20Wireframe.png)
 
 #### Orders
+
 ![Orders 1](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/10e40a8cf6508dad9eaf616e4e90e8d653fe5eb7/img/Orders1.png)  
 ![Orders 2](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/10e40a8cf6508dad9eaf616e4e90e8d653fe5eb7/img/Orders2.png)
 
 #### Recipes and Supplies
+
 ![Recipes and Supplies](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/7108cc69e8ccd3f12486043224314ae266343e77/img/Recipes-wireframes.png)
 
 #### Suppliers
+
 ![Suppliers 1](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/1a0ff24fd74cc29b94c591844a1b3312b1dc5eee/img/Suppliers1-wireframes.png)  
 ![Suppliers 2](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/1a0ff24fd74cc29b94c591844a1b3312b1dc5eee/img/Suppliers2-wireframes.png)
 
@@ -1555,28 +1502,33 @@ Estados vacíos/errores: empty states con CTA (“Add Product”) y páginas 404
 ### 4.4.3. Web Applications Mock-ups
 
 #### Login & Register
+
 ![Login Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/49bccf341ee220f79120b36ffbda5ce15cb5b3d0/img/Login-Mockup.png)  
 ![Register Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/49bccf341ee220f79120b36ffbda5ce15cb5b3d0/img/Register-Mockup.png)
 
 #### Home
+
 ![Home Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b7a531a6aaedea58c4a8871e3679a80e23fcad5d/img/Home-Mockup.png)
 
 #### Stock Available and Additional
+
 ![Stock 1 Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/f81bbbf90d270efb4f09661050d01fb835f1ad16/img/Stock1-Mockup.png)  
 ![Stock 2 Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/f81bbbf90d270efb4f09661050d01fb835f1ad16/img/Stock2-Mockup.png)  
 ![Stock 3 Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/f81bbbf90d270efb4f09661050d01fb835f1ad16/img/Stock3-Mockup.png)
 
 #### Orders
+
 ![Orders 1 Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/ca5909c57ab5c2457b49bae1ee27b43aa136ebb3/img/Orders1-Mockup.png)  
 ![Orders 2 Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/ca5909c57ab5c2457b49bae1ee27b43aa136ebb3/img/Orders2-Mockup.png)
 
 #### Recipes and Supplies
+
 ![Recipes Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/70dda5bbf48e565740a972c5d1ff249680e0d4ba/img/Recipes-mockup.png)
 
 #### Suppliers
+
 ![Suppliers 1 Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/70dda5bbf48e565740a972c5d1ff249680e0d4ba/img/Suppliers1-mockup.png)  
 ![Suppliers 2 Mockup](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/70dda5bbf48e565740a972c5d1ff249680e0d4ba/img/Suppliers2-mockup.png)
-
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
@@ -1591,25 +1543,31 @@ Link del Figma: https://www.figma.com/design/IOMF0hdIHOy89ULFA7dwIh/Untitled?nod
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Design-Level Event Storming
+
 ![Design-Level Event Storming](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/ee224d79ad2f1f124403868efac908f8073fad6b/img/Design-Level%20Event%20Storming.png)
 
 ### 4.6.2. Software Architecture Context Diagram
+
 ![Software Architecture Context Diagram](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b089bb5d189b011a15d1cf1fd5d447d9c308a36e/img/Software%20Architecture%20Context%20Diagram.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
+
 ![Software Architecture Container Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b089bb5d189b011a15d1cf1fd5d447d9c308a36e/img/Software%20Architecture%20Container%20Diagrams.png)
 
 ### 4.6.4. Software Architecture Components Diagrams
+
 ![Software Architecture Components Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/b089bb5d189b011a15d1cf1fd5d447d9c308a36e/img/Software%20Architecture%20Components%20Diagrams.png)
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
+
 ![Class Diagrams](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/6ef347df67480f72d3638405cbda9034cdcc5039/img/Diagrama%20de%20Clases.png)
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
+
 ![Database Diagram](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/6ef347df67480f72d3638405cbda9034cdcc5039/img/Diagrama%20de%20Base%20de%20Datos.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -1657,6 +1615,7 @@ El proyecto sigue las convenciones del modelo GitFlow como flujo de trabajo para
 ### 5.1.3. Source Code Style Guide & Conventions
 
 #### **HTML5**
+
 El Lenguaje de Marcado de Hipertexto (HTML) constituye la base para estructurar el contenido en páginas web. Por convención, el archivo principal de un sitio suele llamarse `index.html`. Algunas buenas prácticas al trabajar con HTML son:
 
 - Usar etiquetas en minúsculas para mantener uniformidad y facilitar la lectura.
@@ -1670,6 +1629,7 @@ El Lenguaje de Marcado de Hipertexto (HTML) constituye la base para estructurar 
 - Incluir siempre la metaetiqueta `<meta name="viewport">` para asegurar una correcta visualización en dispositivos móviles.
 
 #### **CSS (Cascading Style Sheets)**
+
 CSS permite dar estilo y personalizar el diseño visual de los sitios web. Algunas convenciones importantes a seguir al escribir CSS son:
 
 - Usar una nomenclatura coherente para nombres de clases, identificadores y selectores, facilitando la colaboración y el mantenimiento.
@@ -1683,6 +1643,7 @@ CSS permite dar estilo y personalizar el diseño visual de los sitios web. Algun
 - Validar el código CSS usando herramientas como el validador de W3C para identificar errores.
 
 #### **JavaScript**
+
 JavaScript se usa para incorporar interactividad y comportamiento dinámico en las páginas web. Para mantener un código eficiente y comprensible, se recomienda lo siguiente:
 
 - Mantener una nomenclatura consistente en variables, funciones y objetos.
@@ -1694,6 +1655,7 @@ JavaScript se usa para incorporar interactividad y comportamiento dinámico en l
 - Realizar pruebas cruzadas en varios navegadores y dispositivos para asegurar la correcta funcionalidad del código.
 
 #### **Gherkin**
+
 Gherkin es un lenguaje de texto estructurado utilizado para definir pruebas de comportamiento de forma legible por cualquier miembro del equipo. Algunas pautas clave incluyen:
 
 - Redactar los escenarios de forma clara y sencilla, pensando en la comprensión de todos los roles del equipo.
@@ -1846,35 +1808,35 @@ https://trello.com/invite/b/68cf9b5efdc693c0847bd189/ATTI824e909b5beee840ebf67f0
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body |  Commited on (Date) |
-| ---------- | ------ | --------- | --------- | ------------------- | ------------------- |
-|Landing Page|main| 23b653a | Initial commit  | create the README.md  | 16/09/2025 |
-|            |main| ac6322f | Create index.html  | create the index.html  | 17/09/2025 |
-|            |main| e557e41 | feat: added Section Home | added content in the section Home  | 17/09/2025 |
-|            |main| 3dab5df | feat: added assets carpet | create the assets carpet  | 17/09/2025 |
-|            |main| 80d023b | feat: added css carpet | create the css carpet  | 17/09/2025 |
-|            |main| 5b06e21 | feat: added javascript carpet | create the javascript carpet  | 17/09/2025 |
-|            |main| 0a8a575 | feat: added i18n.js file | create the i18n.js file | 17/09/2025 |
-|            |main| 6b71c13 | feat: added scripts | added content in the scripts section | 17/09/2025 |
+| Repository   | Branch | Commit Id | Commit Message                | Commit Message Body                  | Commited on (Date) |
+| ------------ | ------ | --------- | ----------------------------- | ------------------------------------ | ------------------ |
+| Landing Page | main   | 23b653a   | Initial commit                | create the README.md                 | 16/09/2025         |
+|              | main   | ac6322f   | Create index.html             | create the index.html                | 17/09/2025         |
+|              | main   | e557e41   | feat: added Section Home      | added content in the section Home    | 17/09/2025         |
+|              | main   | 3dab5df   | feat: added assets carpet     | create the assets carpet             | 17/09/2025         |
+|              | main   | 80d023b   | feat: added css carpet        | create the css carpet                | 17/09/2025         |
+|              | main   | 5b06e21   | feat: added javascript carpet | create the javascript carpet         | 17/09/2025         |
+|              | main   | 0a8a575   | feat: added i18n.js file      | create the i18n.js file              | 17/09/2025         |
+|              | main   | 6b71c13   | feat: added scripts           | added content in the scripts section | 17/09/2025         |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 Durante el primer sprint, se lograron varios hitos importantes en el desarrollo de la landing page para LogisPe. A continuación, se presenta un resumen de los logros alcanzados:
 
-* Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
+- Establecimiento de Repositorios: Se crearon y configuraron repositorios en GitHub para gestionar el código y las pruebas.
 
 ![Evidence1](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia1-LogisPe.png)
 
-* Implementación del Landing Page: Se diseñó y desarrolló la página de inicio de LogisPe, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
-  
-  ![Evidence2](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png)    
-  
-* Imágenes del Landing Page:
-   
-  * Inicio:
-  
+- Implementación del Landing Page: Se diseñó y desarrolló la página de inicio de LogisPe, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
+
+  ![Evidence2](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png)
+
+- Imágenes del Landing Page:
+
+  - Inicio:
+
     ![Evidence3](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png)
-    
+
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para LogisPe.
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
@@ -1889,26 +1851,27 @@ Durante este Sprint, se realizaron las siguientes actividades en relación con e
 
 Durante este Sprint, se llevaron a cabo las siguientes actividades clave relacionadas con el despliegue:
 
-1. Creación de Repositorios y Configuración en GitHub:  
-   * Se crearon repositorios en GitHub para gestionar el código fuente y el seguimiento de cambios. Estos repositorios incluyeron la Landing Page y otros componentes del proyecto.  
-   * Se configuraron los repositorios para permitir el despliegue de la Landing Page.
-     
-2. Configuración del Proceso de Despliegue:  
-   * GitHub Pages: Se configuró GitHub Pages para el despliegue de la Landing Page. Este servicio proporciona una manera sencilla de alojar el sitio web directamente desde un repositorio de GitHub.
+1. Creación de Repositorios y Configuración en GitHub:
+   - Se crearon repositorios en GitHub para gestionar el código fuente y el seguimiento de cambios. Estos repositorios incluyeron la Landing Page y otros componentes del proyecto.
+   - Se configuraron los repositorios para permitir el despliegue de la Landing Page.
+2. Configuración del Proceso de Despliegue:
+   - GitHub Pages: Se configuró GitHub Pages para el despliegue de la Landing Page. Este servicio proporciona una manera sencilla de alojar el sitio web directamente desde un repositorio de GitHub.
 
 ##### Proceso de Despliegue
 
 A continuación se detallan los pasos realizados durante el Sprint para el despliegue:
 
-1. Despliegue en GitHub Pages:  
-   * Se subió el código de la Landing Page al repositorio en GitHub.  
-   * Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.
+1. Despliegue en GitHub Pages:
+
+   - Se subió el código de la Landing Page al repositorio en GitHub.
+   - Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.
 
 2. ![Evidence4](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia1-LogisPe.png)
 
-3. Verificación del Despliegue:  
-   * Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.  
-   * Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
+3. Verificación del Despliegue:
+
+   - Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.
+   - Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
 
 4. ![Evidence5](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/3147c381e69b44457571b18d11fd9eb420501e0d/img/Evidencia2-LogisPe.png)
 
@@ -1918,15 +1881,15 @@ El proceso de despliegue durante este Sprint ha permitido establecer una base s�
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos en el diseño y programación en la implementación de la Landing Page de LogisPe. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.  
+Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos en el diseño y programación en la implementación de la Landing Page de LogisPe. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
 
-| Author           | Task completed                                     |
-|------------------|----------------------------------------------------|
-| Mathias Javier    | create landing page design with HTML, CSS and JS  |
-| Rodrigo Aguilar   | desing landing page wireframes                    |
-| Alessandro Condori| desing landing page mockups                       |
-| Katherine Mejia   | deploy landing page with Github Pages             |
-| Augusto Montes    | support to deploy and fix errors with landing page|
+| Author             | Task completed                                     |
+| ------------------ | -------------------------------------------------- |
+| Mathias Javier     | create landing page design with HTML, CSS and JS   |
+| Rodrigo Aguilar    | desing landing page wireframes                     |
+| Alessandro Condori | desing landing page mockups                        |
+| Katherine Mejia    | deploy landing page with Github Pages              |
+| Augusto Montes     | support to deploy and fix errors with landing page |
 
 ### 5.2.2. Sprint 2
 
@@ -2037,32 +2000,32 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa por 2 alumnos
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
 | Team Member (Last Name, First Name) | Github Username | Desarrollo Frontend de Vistas (Vue.js) Leader (L), Collaborator (C) | Configuración de Fake API (JSON Server) Leader (L), Collaborator (C) | Documentación y Corrección de Feedback Leader (L), Collaborator (C) |
-|---|---|---|---|---|
-| Mathias Javier Murillo | K1ngHulk | (L) | (L) | (C) |
-| Rodrigo Fabrizio Aguilar Untiveros | Rodri2712 | (C) | (C) | (C) |
-| Alessandro Ramiro Condori Lozano | AlessandroRCL | (C) | (L) | (C) |
-| Katherine Maryory Mejia Aliaga | KathMJ | (C) | (C) | (C) |
-| Augusto Sebastian Montes Maza | asmmaza | (C) | (C) | (L) |
+| ----------------------------------- | --------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Mathias Javier Murillo              | K1ngHulk        | (L)                                                                 | (L)                                                                  | (C)                                                                 |
+| Rodrigo Fabrizio Aguilar Untiveros  | Rodri2712       | (C)                                                                 | (C)                                                                  | (C)                                                                 |
+| Alessandro Ramiro Condori Lozano    | AlessandroRCL   | (C)                                                                 | (L)                                                                  | (C)                                                                 |
+| Katherine Maryory Mejia Aliaga      | KathMJ          | (C)                                                                 | (C)                                                                  | (C)                                                                 |
+| Augusto Sebastian Montes Maza       | asmmaza         | (C)                                                                 | (C)                                                                  | (L)                                                                 |
 
 #### 5.2.2.3. Sprint Backlog 2
 
 El objetivo del Sprint 2 fue materializar los diseños de la aplicación web en componentes funcionales. El equipo se enfocó en desarrollar las pantallas principales (Login, Register, Home, Stock, Orders, Recipes, Suppliers), asegurando una correcta gestión del estado y la interacción con una API simulada (Fake API) que proveyó los datos de prueba.
 
-| Sprint # | Sprint 2 | | | | | | |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **User Story** | | | **Work-Item/Task** | | | | |
-| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
-| US-01.01 | Registro de Nueva Empresa | TSK-01 | Maquetar la vista de Registro (Register) | Crear el componente con los campos de formulario requeridos (RUC, email, etc.). | 6 | Aguilar R. | Done |
-| US-01.02 | Inicio de Sesión Seguro | TSK-02 | Maquetar la vista de Inicio de Sesión (Login) | Crear el componente con los campos de email y contraseña. | 5 | Aguilar R. | Done |
-| N/A | Configuración de Fake API | TSK-03 | Definir y configurar los endpoints en JSON Server | Crear los archivos JSON con datos de prueba para usuarios, insumos, órdenes, etc. | 8 | Condori A. | Done |
-| | | TSK-04 | Implementar la lógica de autenticación simulada | Crear la lógica en el frontend para simular el login/register contra la Fake API. | 6 | Murillo M. | Done |
-| US-02.02 | Visualizar Stock en Tiempo Real | TSK-05 | Maquetar la vista "Stock Available" | Desarrollar la tabla principal que listará los insumos del inventario. | 8 | Murillo M. | Done |
-| | | TSK-06 | Conectar la vista "Stock Available" a la Fake API | Consumir el endpoint de insumos y renderizar los datos en la tabla. | 5 | Mejia K. | Done |
-| N/A | Maquetación Vistas Adicionales | TSK-07 | Desarrollar la vista "Orders" | Crear la interfaz para visualizar el listado de órdenes de compra. | 7 | Aguilar R. | Done |
-| | | TSK-08 | Desarrollar la vista "Recipes and Supplies" | Implementar la UI para listar y crear nuevas recetas. | 8 | Mejia K. | Done |
-| | | TSK-09 | Desarrollar la vista "Suppliers" | Crear la interfaz para visualizar el directorio de proveedores. | 6 | Condori A. | Done |
-| N/A | Documentación y Bugs | TSK-10 | Documentar el uso de los nuevos componentes | Actualizar el informe y el `README` con la descripción de las vistas creadas. | 5 | Montes A. | Done |
-| | | TSK-11 | Corregir errores de feedback de TB1 | Aplicar las correcciones observadas en el diseño y la estructura del informe. | 6 | Montes A. | Done |
+| Sprint #       | Sprint 2                        |        |                                                   |                                                                                   |                        |                 |            |
+| :------------- | :------------------------------ | :----- | :------------------------------------------------ | :-------------------------------------------------------------------------------- | :--------------------- | :-------------- | :--------- |
+| **User Story** |                                 |        | **Work-Item/Task**                                |                                                                                   |                        |                 |            |
+| **Id**         | **Title**                       | **Id** | **Title**                                         | **Description**                                                                   | **Estimation (Hours)** | **Assigned To** | **Status** |
+| US-01.01       | Registro de Nueva Empresa       | TSK-01 | Maquetar la vista de Registro (Register)          | Crear el componente con los campos de formulario requeridos (RUC, email, etc.).   | 6                      | Aguilar R.      | Done       |
+| US-01.02       | Inicio de Sesión Seguro         | TSK-02 | Maquetar la vista de Inicio de Sesión (Login)     | Crear el componente con los campos de email y contraseña.                         | 5                      | Aguilar R.      | Done       |
+| N/A            | Configuración de Fake API       | TSK-03 | Definir y configurar los endpoints en JSON Server | Crear los archivos JSON con datos de prueba para usuarios, insumos, órdenes, etc. | 8                      | Condori A.      | Done       |
+|                |                                 | TSK-04 | Implementar la lógica de autenticación simulada   | Crear la lógica en el frontend para simular el login/register contra la Fake API. | 6                      | Murillo M.      | Done       |
+| US-02.02       | Visualizar Stock en Tiempo Real | TSK-05 | Maquetar la vista "Stock Available"               | Desarrollar la tabla principal que listará los insumos del inventario.            | 8                      | Murillo M.      | Done       |
+|                |                                 | TSK-06 | Conectar la vista "Stock Available" a la Fake API | Consumir el endpoint de insumos y renderizar los datos en la tabla.               | 5                      | Mejia K.        | Done       |
+| N/A            | Maquetación Vistas Adicionales  | TSK-07 | Desarrollar la vista "Orders"                     | Crear la interfaz para visualizar el listado de órdenes de compra.                | 7                      | Aguilar R.      | Done       |
+|                |                                 | TSK-08 | Desarrollar la vista "Recipes and Supplies"       | Implementar la UI para listar y crear nuevas recetas.                             | 8                      | Mejia K.        | Done       |
+|                |                                 | TSK-09 | Desarrollar la vista "Suppliers"                  | Crear la interfaz para visualizar el directorio de proveedores.                   | 6                      | Condori A.      | Done       |
+| N/A            | Documentación y Bugs            | TSK-10 | Documentar el uso de los nuevos componentes       | Actualizar el informe y el `README` con la descripción de las vistas creadas.     | 5                      | Montes A.       | Done       |
+|                |                                 | TSK-11 | Corregir errores de feedback de TB1               | Aplicar las correcciones observadas en el diseño y la estructura del informe.     | 6                      | Montes A.       | Done       |
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -2088,12 +2051,12 @@ Durante este sprint, el desarrollo del frontend se basó en una **Fake API** uti
 
 Durante el Sprint 2, la colaboración se centró en la construcción de las pantallas principales de la aplicación web. El equipo trabajó de manera coordinada para transformar los diseños en componentes de software funcionales, utilizando una API simulada para desacoplar el trabajo.
 
-| Author | Task completed |
-|---|---|
-| Mathias Javier Murillo | Lideró el desarrollo frontend, implementó la vista "Stock Available" y la lógica de autenticación simulada. |
-| Rodrigo Aguilar | Desarrolló las vistas de "Login", "Register" y "Orders", asegurando su correcta funcionalidad. |
-| Alessandro Condori | Lideró la configuración de la Fake API con JSON Server, definiendo los datos de prueba. También desarrolló la vista "Suppliers". |
-| Katherine Mejia | Implementó la vista de "Recipes and Supplies" y conectó la vista de "Stock" a la Fake API. |
+| Author                        | Task completed                                                                                                                                    |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mathias Javier Murillo        | Lideró el desarrollo frontend, implementó la vista "Stock Available" y la lógica de autenticación simulada.                                       |
+| Rodrigo Aguilar               | Desarrolló las vistas de "Login", "Register" y "Orders", asegurando su correcta funcionalidad.                                                    |
+| Alessandro Condori            | Lideró la configuración de la Fake API con JSON Server, definiendo los datos de prueba. También desarrolló la vista "Suppliers".                  |
+| Katherine Mejia               | Implementó la vista de "Recipes and Supplies" y conectó la vista de "Stock" a la Fake API.                                                        |
 | Augusto Sebastian Montes Maza | Se encargó de la documentación técnica de los nuevos componentes y de la corrección de errores y mejoras basadas en el feedback recibido del TB1. |
 
 ![EvidenciaCommits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/afd1f9ddc5cee4672d4fb7a648a4bcb5bdaf4d8c/img/CommitsTP.png)
@@ -2103,16 +2066,106 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landin
 ![Commits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fa894917805872b29efd6ce1c30ff914ea3c9679/img/Commits.png)
 
 ## 5.2.3. Sprint 3
+
 ### 5.2.3.1. Sprint Planning 3
+
+<table align="center" border="1" width="90%" style="text-align:center;">
+
+<tr align="left">
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+</tr>
+
+<tr align="left">
+    <td><b>Date</b></td>
+    <td>15/11/2025</td>
+</tr>
+
+<tr align="left">
+    <td><b>Time</b></td>
+    <td>20:30</td>
+</tr>
+
+<tr align="left">
+    <td><b>Location</b></td>
+    <td>Modalidad Online - Vía Discord</td>
+</tr>
+
+<tr align="left">
+    <td><b>Prepared By</b></td>
+    <td>Equipo de LogisPe</td>
+</tr>
+
+<tr align="left">
+    <td><b>Attendees (to planning meeting)</b></td>
+    <td>
+        - Javier Murillo, Mathias<br>
+        - Aguilar Untiveros, Rodrigo Fabrizio<br>
+        - Condori Lozano, Alessandro Ramiro<br>
+        - Mejia Aliaga, Katherine Maryory<br>
+        - Montes Maza, Augusto Sebastián<br>
+    </td>
+</tr>
+
+<tr align="left">
+    <td><b>Sprint n - 1<br>Review Summary</b></td>
+    <td>
+        Durante el Sprint 2 se completó la construcción del prototipo funcional del frontend de LogisPe utilizando Vue.js, 
+        incluyendo vistas esenciales como Login, Register, Home, Stock, Orders, Recipes y Suppliers, todas conectadas a una Fake API. 
+        Este avance permitió validar los flujos principales de navegación y confirmar que la arquitectura del frontend 
+        es escalable y coherente con las necesidades del proyecto. El equipo mantuvo un ritmo estable y cumplió el total 
+        de puntos planificados.
+    </td>
+</tr>
+
+<tr align="left">
+    <td><b>Sprint n - 1<br>Retrospective Summary</b></td>
+    <td>
+        En la retrospectiva del Sprint 2 se resaltó la eficiencia del equipo trabajando en paralelo gracias a la Fake API. 
+        Sin embargo, se identificó como área de mejora la necesidad de estandarizar la estructura del backend real 
+        para evitar bloqueos futuros y asegurar una integración fluida. Se acordó que el Sprint 3 estaría dedicado a 
+        formalizar el backend, documentarlo y preparar la base para la conexión real con el frontend.
+    </td>
+</tr>
+
+<tr align="left">
+    <td><b>Sprint 3 Goal</b></td>
+    <td>
+        El objetivo del Sprint 3 es implementar la arquitectura completa del backend de LogisPe, incluyendo los módulos 
+        Inventory, Suppliers y Stores, siguiendo un enfoque por bounded contexts. Se desarrollarán los controladores, 
+        servicios, repositorios, entidades, documentación Swagger y la base para integrar este backend con el frontend 
+        en sprints posteriores. Este objetivo se considerará cumplido cuando el backend funcione correctamente, exponga 
+        endpoints estables, tenga documentación clara y esté desplegado en un entorno de pruebas.
+    </td>
+</tr>
+
+<tr align="left">
+    <td><b>Sprint 3 Velocity</b></td>
+    <td>24</td>
+</tr>
+
+<tr align="left">
+    <td><b>Sum of Story Points</b></td>
+    <td>24</td>
+</tr>
+
+</table>
+
 ### 5.2.3.2. Aspect Leaders and Collaborators
+
 ### 5.2.3.3. Sprint Backlog 3
+
 ### 5.2.3.4. Development Evidence for Sprint Review
+
 ### 5.2.3.5. Execution Evidence for Sprint Review
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ### 5.3. Validation Interviews
+
 En esta etapa se validaron las hipótesis del producto mediante entrevistas semiestructuradas aplicadas a usuarios reales del sector gastronómico. El objetivo fue contrastar las necesidades detectadas durante la investigación inicial con percepciones, comportamientos y problemas reales experimentados por administradores, chefs y encargados de compras. Este proceso permitió identificar brechas, validar supuestos críticos y orientar la siguiente fase del diseño e implementación.
 
 Las entrevistas se realizaron siguiendo los lineamientos del marco Lean UX: validar suposiciones temprano, iterar rápido y obtener evidencia directa del usuario. Se emplearon técnicas de análisis cualitativo para identificar patrones asociados a necesidades, frustraciones y oportunidades de mejora dentro del flujo actual de gestión de inventarios.
@@ -2124,103 +2177,63 @@ Las entrevistas se realizaron siguiendo los lineamientos del marco Lean UX: vali
 Preguntas principales:
 
 1.  ¿Cuál es el nombre de su negocio, en qué distrito se ubica y cuántos años lleva operando?
-    
 2.  ¿Qué métodos utilizan actualmente para controlar el inventario (manual, Excel, sistema)?
-    
 3.  ¿Qué problemas han enfrentado en el control de insumos y productos (quiebres, exceso, desperdicio)?
-    
 4.  ¿Cómo realizan actualmente la reposición de insumos perecibles?
-    
 5.  ¿Cómo gestionan la relación con proveedores y recetas?
-    
 6.  ¿Qué tipo de reportes o información necesitan para tomar decisiones de compra?
-    
 7.  ¿Qué factores los motivarían a implementar un sistema digital de inventarios?
-    
 
-      Preguntas complementarias:
+Preguntas complementarias:
 
 1.  ¿Podría contarme un poco sobre usted?
-    
 2.  ¿Qué dispositivos usan más en la gestión del negocio (computadora, tablet, celular)?.
-    
 3.  ¿Qué canales digitales utilizan con más frecuencia (WhatsApp, correo, redes sociales)?
-    
 4.  Cuando toma decisiones importantes, ¿las consulta con alguien más (familia, socios, colegas)?
-    
 5.  ¿Qué objetivos tienen a corto plazo (por ejemplo: reducir pérdidas, abrir nuevas sedes)?
-    
 6.  En su día a día, ¿qué es lo que más le frustra en la gestión del negocio?
-    
 7.  ¿Cómo empezó en el rubro gastronómico?
-    
 
 **Para cafeterías y bares:**
 
 1.  ¿Cuál es el nombre de su negocio, en qué distrito está y cuántos años lleva operando?
-    
 2.  ¿Cuáles son los productos de mayor rotación en su cafetería o bar?
-    
 3.  ¿Cómo controlan actualmente la reposición de insumos perecibles?
-    
 4.  ¿Han tenido pérdidas económicas por caducidad o falta de control de inventario?
-    
 5.  ¿Qué tan relevantes serían para ustedes las alertas automáticas de stock bajo?
-    
 6.  ¿Qué beneficios esperan de un sistema especializado en gastronomía?
-    
 7.  ¿Qué limitaciones han encontrado con los métodos que usan actualmente (Excel, manual)?
-    
 
-Preguntas complementarias: 
+Preguntas complementarias:
 
 1.  ¿Podría contarme un poco sobre usted? (edad, ocupación, lugar de residencia).
-    
 2.  ¿Qué dispositivos suelen usar durante la operación (celular en turno, PC en oficina)?
-    
 3.  ¿Qué tan familiarizado está con herramientas digitales (Excel, apps, POS)?
-    
 4.  ¿Qué personas, marcas o colegas suelen influir cuando deciden implementar nuevas herramientas en el negocio?
-    
 5.  ¿Qué objetivos buscan alcanzar (optimizar compras, reducir desperdicios, mejorar márgenes)?
-    
 6.  ¿Qué experiencias previas han tenido con software de inventarios u otros sistemas? ¿Qué les gustó o no?
-    
 
 **Para emprendimientos gastronómicos:**
 
 Preguntas principales:
 
 1.  ¿Cuál es el nombre de su negocio, en qué distrito se ubica y cuánto tiempo lleva operando?
-    
 2.  ¿Qué los motivó a iniciar este emprendimiento gastronómico?
-    
 3.  ¿Cómo gestionan actualmente sus inventarios y proveedores?
-    
 4.  ¿Qué funciones consideran esenciales en un sistema que los acompañe desde el inicio?
-    
 5.  ¿Qué factores los harían confiar en un software (precio, facilidad de uso, soporte, recomendación)?
-    
 6.  ¿Qué tan importante es para ustedes recibir reportes sobre costos y rentabilidad?
-    
 7.  ¿Qué objetivos tienen a corto y mediano plazo con el negocio (ej. crecer, formalizarse, digitalizar procesos)?
-    
 
-Preguntas complementarias: 
+Preguntas complementarias:
 
 1.  Para conocerte un poco más, ¿cuál es tu edad, ocupación y dónde resides?
-    
 2.  ¿Qué experiencia previa has tenido en gastronomía o en otros rubros?
-    
 3.  ¿Qué dispositivos prefieres para trabajar (celular, tablet, PC)?
-    
 4.  ¿Qué personas, marcas o referentes suelen considerar antes de decidir sobre nuevas herramientas digitales?
-    
 5.  Si pudieras diseñar la herramienta ideal para tu negocio, ¿cómo sería?
 
-
 ### 5.3.2. Registro de entrevistas
-
 
 Segmento objetivo: Restaurantes y Restobares
 
@@ -2232,13 +2245,13 @@ Entrevista 1
 **Edad:** 25 años  
 **Distrito:** Pueblo Libre  
 **Negocio:** Sazón Familiar  
-**Minuto de inicio:**  00:00
-**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)   
+**Minuto de inicio:** 00:00
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen**  
-El entrevistado es un joven de 25 años que administra *Sazón Familiar* en Pueblo Libre, un restaurante familiar con 12 años en el rubro. Actualmente gestiona inventarios manualmente y en Excel, lo que ocasiona quiebres de stock, sobrecompras y desperdicio. La reposición de perecibles se hace diariamente y los proveedores se contactan por WhatsApp o teléfono.  
+El entrevistado es un joven de 25 años que administra _Sazón Familiar_ en Pueblo Libre, un restaurante familiar con 12 años en el rubro. Actualmente gestiona inventarios manualmente y en Excel, lo que ocasiona quiebres de stock, sobrecompras y desperdicio. La reposición de perecibles se hace diariamente y los proveedores se contactan por WhatsApp o teléfono.
 
-Menciona que las recetas no están completamente estandarizadas, lo que genera variaciones en costos. Su mayor frustración es la falta de control real del inventario. Considera que un sistema digital debería ser sencillo, dar alertas automáticas, organizar proveedores y calcular costos por plato. Su objetivo es modernizar el negocio familiar, optimizar la cocina y abrir un segundo local a mediano plazo.  
+Menciona que las recetas no están completamente estandarizadas, lo que genera variaciones en costos. Su mayor frustración es la falta de control real del inventario. Considera que un sistema digital debería ser sencillo, dar alertas automáticas, organizar proveedores y calcular costos por plato. Su objetivo es modernizar el negocio familiar, optimizar la cocina y abrir un segundo local a mediano plazo.
 
 ---
 
@@ -2247,18 +2260,18 @@ Entrevista 2
 ![Entrevista](assets/restaurante2.png)
 
 **Entrevistado:** Juan José López  
-**Edad:** 28 años   
+**Edad:** 28 años  
 **Negocio:** La Esquina Limeña  
 **Distrito:** Barranco – Lima  
-**Minuto de inicio:**  03:18
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+**Minuto de inicio:** 03:18
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen**  
-El entrevistado administra un restobar en Barranco con 3 años de operación. Controla inventarios en Excel, pero depende de encargados y se generan errores. Los problemas principales son el desperdicio por sobrecompra y quiebres de insumos en alta demanda.  
+El entrevistado administra un restobar en Barranco con 3 años de operación. Controla inventarios en Excel, pero depende de encargados y se generan errores. Los problemas principales son el desperdicio por sobrecompra y quiebres de insumos en alta demanda.
 
-La reposición se hace dos veces por semana vía WhatsApp o llamadas, y en emergencias en el mercado. Las recetas están dispersas en cuadernos y correos, sin conexión al inventario. Señala que necesita reportes con consumo promedio, stock mínimo y costos.  
+La reposición se hace dos veces por semana vía WhatsApp o llamadas, y en emergencias en el mercado. Las recetas están dispersas en cuadernos y correos, sin conexión al inventario. Señala que necesita reportes con consumo promedio, stock mínimo y costos.
 
-Un sistema lo motivaría si es accesible desde celular, fácil de usar, con alertas y costo razonable. Su frustración es la falta de información en tiempo real y su objetivo es reducir pérdidas antes de expandirse.  
+Un sistema lo motivaría si es accesible desde celular, fácil de usar, con alertas y costo razonable. Su frustración es la falta de información en tiempo real y su objetivo es reducir pérdidas antes de expandirse.
 
 ---
 
@@ -2271,20 +2284,19 @@ Entrevista 3
 **Distrito:** Comas  
 **Negocio:** Apolo Restobar  
 **Tiempo de operación:** 3 años  
-**Minuto de inicio:**  05:46
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+**Minuto de inicio:** 05:46
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen**  
-Patricio Rodríguez, dueño de *Apolo Restobar* en Comas, lleva 3 años operando. Usa un sistema recomendado por un amigo, pero limitado y sin soporte. Su principal problema es el desperdicio de insumos por falta de reportes claros.  
+Patricio Rodríguez, dueño de _Apolo Restobar_ en Comas, lleva 3 años operando. Usa un sistema recomendado por un amigo, pero limitado y sin soporte. Su principal problema es el desperdicio de insumos por falta de reportes claros.
 
-La reposición de perecibles se maneja con proveedores sin agenda fija. No tiene gestión formal de recetas. Le interesa contar con reportes comparativos de insumos usados vs. desperdiciados y valora el soporte técnico.  
+La reposición de perecibles se maneja con proveedores sin agenda fija. No tiene gestión formal de recetas. Le interesa contar con reportes comparativos de insumos usados vs. desperdiciados y valora el soporte técnico.
 
-Usa computadora y celular, se comunica principalmente por WhatsApp. Su objetivo es reducir pérdidas y mejorar la organización interna.  
+Usa computadora y celular, se comunica principalmente por WhatsApp. Su objetivo es reducir pérdidas y mejorar la organización interna.
 
 ---
 
 **Segmento objetivo: Cafeterías y Bares**
-
 
 Entrevista 1
 
@@ -2296,45 +2308,43 @@ Entrevista 1
 **Negocio:** Dulce Aroma  
 **Tiempo de operación:** 2 años  
 **Minuto de inicio:** 07:50
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen**  
-La dueña de *Dulce Aroma*, en Surco, lleva 2 años de operación. Sus productos más vendidos son cafés (capuccino, latte), sándwiches y postres caseros. Maneja el inventario manualmente, con compras casi diarias de perecibles, lo que causa pérdidas por caducidad.  
-Un sistema con alertas de stock bajo le sería útil para anticiparse. Espera que un software especializado organice inventarios, calcule costos por receta y genere reportes. Usa celular y computadora, maneja Excel, apps y POS. Se guía por colegas y redes sociales. Sus objetivos son reducir desperdicios, mejorar márgenes y abrir una segunda sede.  
+La dueña de _Dulce Aroma_, en Surco, lleva 2 años de operación. Sus productos más vendidos son cafés (capuccino, latte), sándwiches y postres caseros. Maneja el inventario manualmente, con compras casi diarias de perecibles, lo que causa pérdidas por caducidad.  
+Un sistema con alertas de stock bajo le sería útil para anticiparse. Espera que un software especializado organice inventarios, calcule costos por receta y genere reportes. Usa celular y computadora, maneja Excel, apps y POS. Se guía por colegas y redes sociales. Sus objetivos son reducir desperdicios, mejorar márgenes y abrir una segunda sede.
 
 Entrevista 2
 
 ![Entrevista](assets/cafeteria2.png)
-
 
 **Entrevistado:** Leonardo Solís  
 **Edad:** 34 años  
 **Distrito:** Miraflores  
 **Negocio:** Café Aroma  
 **Tiempo de operación:** 5 años  
-**Minuto de inicio:**  13:07
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+**Minuto de inicio:** 13:07
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen**  
-El dueño de *Café Aroma*, en Miraflores, lleva 5 años de operación. Los productos de mayor rotación son cafés, postres artesanales y cervezas artesanales. Maneja inventarios manualmente, lo que genera pérdidas por caducidad.  
+El dueño de _Café Aroma_, en Miraflores, lleva 5 años de operación. Los productos de mayor rotación son cafés, postres artesanales y cervezas artesanales. Maneja inventarios manualmente, lo que genera pérdidas por caducidad.
 
-Considera esencial un sistema con alertas automáticas, control en tiempo real y reportes de costos. Critica Excel por tedioso y poco confiable. Se dedica de lleno al negocio tras dejar marketing. Usa celular y PC, y suele guiarse por colegas y asociaciones. Sus objetivos son optimizar compras, reducir desperdicios y abrir un segundo local.  
+Considera esencial un sistema con alertas automáticas, control en tiempo real y reportes de costos. Critica Excel por tedioso y poco confiable. Se dedica de lleno al negocio tras dejar marketing. Usa celular y PC, y suele guiarse por colegas y asociaciones. Sus objetivos son optimizar compras, reducir desperdicios y abrir un segundo local.
 
 Entrevista 3
 
 ![Entrevista](assets/cafeteria3.png)
 
-
 **Entrevistado:** Gonzalo Flores Rojas  
 **Distrito:** Barrios Altos  
 **Negocio:** Tinco  
 **Tiempo de operación:** 10 meses  
-**Minuto de inicio:**  17:56
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+**Minuto de inicio:** 17:56
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen**  
-Gonzalo Flores es dueño de *Tinco*, con 10 meses en Barrios Altos. Sus productos más rotados son insumos para kekes y tortas. No tiene proveedores fijos y compra según necesidad, lo que le genera pérdidas por caducidad.  
-Considera muy valiosas las alertas de inventario, sobre todo que avisen vencimientos próximos. Usa Excel, pero lo ve limitado porque no anticipa problemas ni genera reportes. Ve en un sistema digital la oportunidad de mejorar el orden y control para crecer de manera sostenible.  
+Gonzalo Flores es dueño de _Tinco_, con 10 meses en Barrios Altos. Sus productos más rotados son insumos para kekes y tortas. No tiene proveedores fijos y compra según necesidad, lo que le genera pérdidas por caducidad.  
+Considera muy valiosas las alertas de inventario, sobre todo que avisen vencimientos próximos. Usa Excel, pero lo ve limitado porque no anticipa problemas ni genera reportes. Ve en un sistema digital la oportunidad de mejorar el orden y control para crecer de manera sostenible.
 
 ---
 
@@ -2344,65 +2354,64 @@ Entrevista 1
 
 ![Entrevista](assets/emprendedor1.png)
 
-
 **Entrevistada:** Luciana Aguilar  
 **Edad:** 17 años  
 **Distrito:** Ate (distribución en La Molina y Surco)  
 **Negocio:** Laguntis Verigen (repostería)  
 **Tiempo de operación:** 3 años  
-**Minuto de inicio:**  19:57
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+**Minuto de inicio:** 19:57
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen**  
-Luciana Aguilar, de 17 años, creó *Laguntis Verigen*, un emprendimiento de repostería con 3 años de operación. Empezó como un hobby, con apoyo de su madre, quien maneja inventarios. Ella se encarga de la preparación y promoción en Instagram.  
+Luciana Aguilar, de 17 años, creó _Laguntis Verigen_, un emprendimiento de repostería con 3 años de operación. Empezó como un hobby, con apoyo de su madre, quien maneja inventarios. Ella se encarga de la preparación y promoción en Instagram.  
 Considera clave contar con reportes de costos y pérdidas para decidir qué productos priorizar. Busca un software sencillo, accesible y que automatice procesos. Usa el celular para promocionar y gestionar pedidos. Se inspira en referentes como Alessandra Penny.  
-Aunque valora el negocio, no busca expandirse, ya que lo considera complementario a su interés en las finanzas. Su herramienta ideal sería una página web para organizar mejor pedidos y comunicación.  
+Aunque valora el negocio, no busca expandirse, ya que lo considera complementario a su interés en las finanzas. Su herramienta ideal sería una página web para organizar mejor pedidos y comunicación.
 
 Entrevista 2
 
 ![Entrevista](assets/emprendedor2.png)
 
-
 **Entrevistado:** Juan Alberto Rosales  
 **Edad:** 28 años  
-**Distrito:** San Isidro 
+**Distrito:** San Isidro
 **Negocio:** Sabor Criollo  
 **Tiempo de operación:** 8 meses  
-**Minuto de inicio:**  31:15
-**URL del video en Microsoft Stream:**   [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)   
+**Minuto de inicio:** 31:15
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen**  
-Juan Rosales abrió *Sabor Criollo* hace 8 meses en San Isidro tras iniciar ventas durante la pandemia. Hoy controla inventarios con cuadernos y Excel, contactando proveedores por WhatsApp o llamadas.  
+Juan Rosales abrió _Sabor Criollo_ hace 8 meses en San Isidro tras iniciar ventas durante la pandemia. Hoy controla inventarios con cuadernos y Excel, contactando proveedores por WhatsApp o llamadas.
 
-Busca un sistema que ofrezca control en tiempo real, alertas, cálculo de costos y organización de proveedores. Destaca que debe ser accesible, fácil y con soporte. Reportes de costos serían claves para crecer. Sus metas son reducir pérdidas, digitalizar procesos y abrir un segundo local.  
+Busca un sistema que ofrezca control en tiempo real, alertas, cálculo de costos y organización de proveedores. Destaca que debe ser accesible, fácil y con soporte. Reportes de costos serían claves para crecer. Sus metas son reducir pérdidas, digitalizar procesos y abrir un segundo local.
 
-Tiene 28 años, vive en SJL y antes trabajaba en ventas. Usa celular en el día a día y PC para cuentas. Suele guiarse por colegas y reseñas online. Su app ideal sería sencilla, intuitiva y móvil, con alertas y reportes claros.  
+Tiene 28 años, vive en SJL y antes trabajaba en ventas. Usa celular en el día a día y PC para cuentas. Suele guiarse por colegas y reseñas online. Su app ideal sería sencilla, intuitiva y móvil, con alertas y reportes claros.
 
 Entrevista 3
 
 ![Entrevista](assets/emprendedor3.png)
-
 
 **Entrevistado:** Andrés Cieza de León  
 **Edad:** 31 años  
 **Distrito:** San Juan de Lurigancho  
 **Negocio:** Hamburguesería (nombre no especificado)  
 **Tiempo de operación:** 2 años  
-**Minuto de inicio:**  34:57
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+**Minuto de inicio:** 34:57
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen**  
-Andrés Cieza de León es dueño de una hamburguesería en SJL con 2 años de operación. Emprendió porque en su zona había pocas opciones y de baja calidad.  
+Andrés Cieza de León es dueño de una hamburguesería en SJL con 2 años de operación. Emprendió porque en su zona había pocas opciones y de baja calidad.
 
-Actualmente maneja inventarios en Excel, pero considera vital tener reportes y gráficos accesibles. Para él, la facilidad de uso es lo más importante en un software, ya que no quiere perder tiempo en procesos complicados.  
+Actualmente maneja inventarios en Excel, pero considera vital tener reportes y gráficos accesibles. Para él, la facilidad de uso es lo más importante en un software, ya que no quiere perder tiempo en procesos complicados.
 
 Señaló que la información clara y visual es fundamental para tomar decisiones y que busca expandirse en el mundo digital para hacer crecer su negocio.
 
 ### 5.3.3. Evaluaciones según heurísticas
+
 Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando usabilidad, arquitectura de información e inclusive design.  
 Se utiliza el formato del Anexo D: “Evaluación de User Experience según Heurísticas”.
 
-## UX Heuristics & Principles Evaluation  
+## UX Heuristics & Principles Evaluation
+
 **Usability – Inclusive Design – Information Architecture**
 
 **CARRERA:** Ingeniería de Software  
@@ -2410,21 +2419,22 @@ Se utiliza el formato del Anexo D: “Evaluación de User Experience según Heur
 **SECCIÓN:** 7468  
 **PROFESORES:** Todos  
 **AUDITOR:** Equipo LogisPE  
-**CLIENTES:** Participantes de los segmentos gastronómicos entrevistados  
+**CLIENTES:** Participantes de los segmentos gastronómicos entrevistados
 
 **SITE o APP A EVALUAR:**  
 Landing Page + Aplicaciones Web LogisPE
 
 ### TAREAS A EVALUAR
-1. Registro de usuario  
-2. Ingreso al sistema  
-3. Registro de insumos  
-4. Registro de proveedores  
-5. Visualización de stock  
-6. Actualización de inventario  
-7. Visualización de recetas y costos  
-8. Alertas de inventario bajo  
-9. Generación de reportes  
+
+1. Registro de usuario
+2. Ingreso al sistema
+3. Registro de insumos
+4. Registro de proveedores
+5. Visualización de stock
+6. Actualización de inventario
+7. Visualización de recetas y costos
+8. Alertas de inventario bajo
+9. Generación de reportes
 
 ---
 
@@ -2480,25 +2490,25 @@ El despliegue exitoso de la landing page representa un primer paso fundamental p
 
 # Bibliografía
 
-- Crockford, D. (2008). *JavaScript: The good parts*. O’Reilly Media. [https://www.oreilly.com/library/view/javascript-the-good/9780596517748/](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
+- Crockford, D. (2008). _JavaScript: The good parts_. O’Reilly Media. [https://www.oreilly.com/library/view/javascript-the-good/9780596517748/](https://www.oreilly.com/library/view/javascript-the-good/9780596517748/)
 
-- Duckett, J. (2011). *HTML and CSS: Design and build websites*. Wiley. [https://www.wiley.com/en-us/HTML+and+CSS%3A+Design+and+Build+Websites-p-9781118008188](https://www.wiley.com/en-us/HTML+and+CSS%3A+Design+and+Build+Websites-p-9781118008188)
+- Duckett, J. (2011). _HTML and CSS: Design and build websites_. Wiley. [https://www.wiley.com/en-us/HTML+and+CSS%3A+Design+and+Build+Websites-p-9781118008188](https://www.wiley.com/en-us/HTML+and+CSS%3A+Design+and+Build+Websites-p-9781118008188)
 
-- Flanagan, D. (2020). *JavaScript: The definitive guide* (7th ed.). O’Reilly Media. [https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
+- Flanagan, D. (2020). _JavaScript: The definitive guide_ (7th ed.). O’Reilly Media. [https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
 
-- Freeman, E., & Robson, E. (2014). *Head first JavaScript programming*. O’Reilly Media. [https://www.oreilly.com/library/view/head-first-javascript/9781449343989/](https://www.oreilly.com/library/view/head-first-javascript/9781449343989/)
+- Freeman, E., & Robson, E. (2014). _Head first JavaScript programming_. O’Reilly Media. [https://www.oreilly.com/library/view/head-first-javascript/9781449343989/](https://www.oreilly.com/library/view/head-first-javascript/9781449343989/)
 
-- Keith, J. (2010). *HTML5 for web designers*. A Book Apart. [https://abookapart.com/products/html5-for-web-designers](https://abookapart.com/products/html5-for-web-designers)
+- Keith, J. (2010). _HTML5 for web designers_. A Book Apart. [https://abookapart.com/products/html5-for-web-designers](https://abookapart.com/products/html5-for-web-designers)
 
-- Meyer, E. A. (2006). *CSS: The definitive guide* (3rd ed.). O’Reilly Media. [https://www.oreilly.com/library/view/css-the-definitive/0596527330/](https://www.oreilly.com/library/view/css-the-definitive/0596527330/)
+- Meyer, E. A. (2006). _CSS: The definitive guide_ (3rd ed.). O’Reilly Media. [https://www.oreilly.com/library/view/css-the-definitive/0596527330/](https://www.oreilly.com/library/view/css-the-definitive/0596527330/)
 
-- Mozilla Developer Network. (2025). *MDN Web Docs: HTML, CSS, and JavaScript*. Mozilla Foundation. [https://developer.mozilla.org/](https://developer.mozilla.org/)
+- Mozilla Developer Network. (2025). _MDN Web Docs: HTML, CSS, and JavaScript_. Mozilla Foundation. [https://developer.mozilla.org/](https://developer.mozilla.org/)
 
-- Pilgrim, M. (2010). *HTML5: Up and running*. O’Reilly Media. [https://www.oreilly.com/library/view/html5-up-and/9781449393908/](https://www.oreilly.com/library/view/html5-up-and/9781449393908/)
+- Pilgrim, M. (2010). _HTML5: Up and running_. O’Reilly Media. [https://www.oreilly.com/library/view/html5-up-and/9781449393908/](https://www.oreilly.com/library/view/html5-up-and/9781449393908/)
 
-- Resig, J., & Bibeault, B. (2013). *Secrets of the JavaScript Ninja* (2nd ed.). Manning Publications. [https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition)
+- Resig, J., & Bibeault, B. (2013). _Secrets of the JavaScript Ninja_ (2nd ed.). Manning Publications. [https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition)
 
-- Robbins, J. N. (2018). *Learning web design: A beginner’s guide to HTML, CSS, JavaScript, and web graphics* (5th ed.). O’Reilly Media. [https://www.oreilly.com/library/view/learning-web-design/9781491960196/](https://www.oreilly.com/library/view/learning-web-design/9781491960196/)
+- Robbins, J. N. (2018). _Learning web design: A beginner’s guide to HTML, CSS, JavaScript, and web graphics_ (5th ed.). O’Reilly Media. [https://www.oreilly.com/library/view/learning-web-design/9781491960196/](https://www.oreilly.com/library/view/learning-web-design/9781491960196/)
 
 # Anexos
 
