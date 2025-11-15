@@ -167,8 +167,38 @@
         <td colspan="10">Montes A.</td>
         <td colspan="5">Mejora de contenido: Redacción de explicaciones para diagramas técnicos.</td>
     </tr>
-</table>
+    <tr>
+        <td colspan="3">3.0.0</td>
+        <td colspan="3">05/10/2025</td>
+        <td colspan="10">Equipo LogisPe</td>
+        <td colspan="5">
+            Hito de Desarrollo: Implementación del backend avanzado basado en Domain-Driven Design (DDD),
+            definición de los 7 bounded contexts, creación de controladores, servicios, repositorios,
+            integración con base de datos, documentación técnica y pruebas iniciales de API.
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3">3.1.0</td>
+        <td colspan="3">07/10/2025</td>
+        <td colspan="10">Equipo LogisPe</td>
+        <td colspan="5">
+            Integración del frontend (TP1) con el backend (TB2). Consumo de endpoints, validación de contratos API,
+            corrección de inconsistencias entre módulos, pruebas de flujo completo, ajustes en la estructura
+            de datos y estandarización de respuestas para asegurar compatibilidad total.
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3">3.2.0</td>
+        <td colspan="3">10/10/2025</td>
+        <td colspan="10">Equipo LogisPe</td>
+        <td colspan="5">
+            Hito Final: Pruebas funcionales y de integración, resolución de errores críticos, optimización del backend,
+            documentación final del proyecto, preparación del ambiente de despliegue y entrega consolidada
+            del sistema completo (frontend + backend).
+        </td>
+    </tr>
 
+</table>
 ---
 
 # Project Report Collaboration Insights
@@ -214,6 +244,41 @@ El proceso colaborativo evolucionó para abordar la mayor complejidad técnica d
 
 4.  **Revisión de Código y Coherencia Visual:** Los *Pull Requests* para la aplicación web fueron revisados no solo por su funcionalidad, sino también para garantizar que se adhirieran a los **Style Guidelines** definidos en el Capítulo IV. Esto aseguró una experiencia de usuario consistente en toda la aplicación.
 
+
+---
+### **Entrega N°3: TB2**
+
+Para la tercera entrega, el foco principal fue el desarrollo del backend avanzado, la implementación de la arquitectura basada en Domain-Driven Design (DDD) y la integración técnica con la aplicación web desarrollada en el TP1.
+
+**Proceso de Colaboración:**
+
+El proceso colaborativo evolucionó nuevamente para enfrentar la mayor complejidad técnica de esta etapa, que implicó decisiones de arquitectura, definición de bounded contexts y construcción de una API escalable y mantenible.
+
+1. **Definición de los Bounded Contexts (DDD):**  
+   El equipo definió de manera colaborativa la separación del dominio en siete *bounded contexts*, acordando los límites funcionales y las reglas de negocio de cada módulo. Este análisis se realizó mediante reuniones técnicas, pizarras colaborativas y revisión grupal de los modelos conceptuales.
+
+2. **Arquitectura del Backend y Estructura del Proyecto:**  
+   Se construyó la estructura base del backend siguiendo principios de arquitectura limpia: capas de *controllers*, *services*, *repositories* y *domain models*.  
+   El equipo discutió y acordó el uso de patrones como **DTOs**, **Value Objects**, **Aggregates**, así como las convenciones de nombrado y organización para garantizar consistencia en los siete bounded contexts.
+
+3. **Implementación de Endpoints y Casos de Uso:**  
+   Cada integrante asumió módulos específicos del backend, desarrollando controladores y casos de uso independientes, pero bajo las reglas globales del dominio.  
+   Las funciones principales (creación, consulta, actualización y validación) se implementaron siguiendo lineamientos comunes y asegurando que cada servicio respetara su bounded context.
+
+4. **Diseño e Integración de la Base de Datos:**  
+   El equipo trabajó en conjunto para finalizar el modelo relacional, asegurando que las entidades reflejaran fielmente el dominio definido en DDD. Se documentaron relaciones, claves primarias, restricciones y normalización.  
+   Además, se integró la base de datos con el backend mediante repositorios con consultas optimizadas y manejo adecuado de transacciones.
+
+5. **Revisión de Código y Estándares Técnicos:**  
+   Los *Pull Requests* se revisaron no solo por su funcionalidad, sino también para verificar el cumplimiento de estándares definidos en TB2: manejo de excepciones, validaciones, nomenclatura, estructura del proyecto y documentación técnica.  
+   Cada revisión quedó registrada en GitHub con comentarios detallados que permitieron mantener la calidad y la cohesión arquitectónica.
+
+6. **Integración con el Frontend:**  
+   A medida que los módulos del backend estaban listos, se realizaron pruebas de consumo desde el frontend del TP1 utilizando herramientas como Postman y fetch/axios.  
+   Se validó la coherencia entre contratos API, tipos de datos, rutas y respuestas, asegurando que el frontend pudiera integrarse sin fricciones con la API.
+
+7. **Documentación Técnica del Backend:**  
+   Finalmente, el equipo elaboró documentación detallada de la arquitectura, los endpoints, la estructura interna de módulos, casos de uso, reglas de negocio y modelos de datos. Esta documentación se añadió al informe y al repositorio, garantizando trazabilidad y claridad para futuras iteraciones.
 
 ---
 
