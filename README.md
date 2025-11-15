@@ -169,7 +169,7 @@
     </tr>
     <tr>
         <td colspan="3">3.0.0</td>
-        <td colspan="3">05/10/2025</td>
+        <td colspan="3">10/10/2025</td>
         <td colspan="10">Equipo LogisPe</td>
         <td colspan="5">
             Hito de Desarrollo: Implementación del backend avanzado basado en Domain-Driven Design (DDD),
@@ -179,7 +179,7 @@
     </tr>
     <tr>
         <td colspan="3">3.1.0</td>
-        <td colspan="3">07/10/2025</td>
+        <td colspan="3">12/10/2025</td>
         <td colspan="10">Equipo LogisPe</td>
         <td colspan="5">
             Integración del frontend (TP1) con el backend (TB2). Consumo de endpoints, validación de contratos API,
@@ -189,7 +189,7 @@
     </tr>
     <tr>
         <td colspan="3">3.2.0</td>
-        <td colspan="3">10/10/2025</td>
+        <td colspan="3">13/10/2025</td>
         <td colspan="10">Equipo LogisPe</td>
         <td colspan="5">
             Hito Final: Pruebas funcionales y de integración, resolución de errores críticos, optimización del backend,
