@@ -2104,13 +2104,36 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landin
 
 ## 5.2.3. Sprint 3
 ### 5.2.3.1. Sprint Planning 3
+
+<!-- Cuadro del Sprint 3, igual que se realizo en los anteriores Sprints -->
+
 ### 5.2.3.2. Aspect Leaders and Collaborators
+
+<!-- Igual, un cuadro igual al anterior, con las diferentes tareas realizadas, los miembros del equipo asignados y si son Leader (L) o Collaborator (C) -->
+
 ### 5.2.3.3. Sprint Backlog 3
+
+<!-- Cuadro del Sprint Backlog 3, listando las historias de usuario realizadas en este sprint, con id, titulo, descripción, tiempo estimado dee realización, quien la realizo y el status -->
+
 ### 5.2.3.4. Development Evidence for Sprint Review
+
+<!-- Cuadro con el registro de los commits realizados en cada repositorio, considerando la rama (branch), commit ID, commit message, Commit on (fecha) -->
+
 ### 5.2.3.5. Execution Evidence for Sprint Review
+
+<!-- Captura de pantalla de el FrontEnd desplegado, de igual forma del swagger del backend -->
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+<!-- Cuadro de documentación de las rutas de los servicios (backend), por ejemplo: /profile En esta ruta se muestra el perfil -->
+
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+<!-- Capturas de pantalla de los productos ademas de los enlaces directos a los diferentes productos desplegados -->
+
 ### 5.2.3.8. Team Collaboration Insights during Sprint
+
+<!-- Captura de pantalla de los commits realizados (grafico de barras de los commits) en cada repositorio -->
 
 ### 5.3. Validation Interviews
 En esta etapa se validaron las hipótesis del producto mediante entrevistas semiestructuradas aplicadas a usuarios reales del sector gastronómico. El objetivo fue contrastar las necesidades detectadas durante la investigación inicial con percepciones, comportamientos y problemas reales experimentados por administradores, chefs y encargados de compras. Este proceso permitió identificar brechas, validar supuestos críticos y orientar la siguiente fase del diseño e implementación.
