@@ -41,164 +41,64 @@
 # Registro de Versiones del Informe
 
 <table>
-    <tr>
-        <th colspan="3">Version</th>
-        <th colspan="3">Fecha</th>
-        <th colspan="10">Autores</th>
-        <th colspan="5">Descripción de Modificaciones</th>
-    </tr>
-    <tr>
-        <td colspan="3">0.1.0</td>
-        <td colspan="3">07/09/2025</td>
-        <td colspan="10">Equipo LogisPe</td>
-        <td colspan="5">Creación del repositorio del informe en GitHub y estructura inicial.</td>
-    </tr>
-    <tr>
-        <td colspan="3">0.2.0</td>
-        <td colspan="3">09/09/2025</td>
-        <td colspan="10">Murillo M., Aguilar R.</td>
-        <td colspan="5">Redacción inicial del Capítulo I (Startup Profile y perfiles).</td>
-    </tr>
-    <tr>
-        <td colspan="3">0.2.1</td>
-        <td colspan="3">10/09/2025</td>
-        <td colspan="10">Montes A.</td>
-        <td colspan="5">Mejora de contenido: Revisión y corrección de estilo del Startup Profile.</td>
-    </tr>
-    <tr>
-        <td colspan="3">0.3.0</td>
-        <td colspan="3">11/09/2025</td>
-        <td colspan="10">Condori A., Montes A., Mejia K.</td>
-        <td colspan="5">Expansión del Capítulo I (Solution Profile y Lean UX Problem Statements).</td>
-    </tr>
-    <tr>
-        <td colspan="3">0.4.0</td>
-        <td colspan="3">13/09/2025</td>
-        <td colspan="10">Aguilar R., Condori A.</td>
-        <td colspan="5">Desarrollo inicial del Capítulo II (Análisis de Competidores).</td>
-    </tr>
-    <tr>
-        <td colspan="3">0.5.0</td>
-        <td colspan="3">15/09/2025</td>
-        <td colspan="10">Mejia K., Montes A.</td>
-        <td colspan="5">Incorporación de la sección de Entrevistas y diseño de preguntas.</td>
-    </tr>
-    <tr>
-        <td colspan="3">0.6.0</td>
-        <td colspan="3">17/09/2025</td>
-        <td colspan="10">Murillo M., Aguilar R., Condori A.</td>
-        <td colspan="5">Adición del registro y análisis de todas las entrevistas.</td>
-    </tr>
-    <tr>
-        <td colspan="3">1.0.0</td>
-        <td colspan="3">19/09/2025</td>
-        <td colspan="10">Equipo LogisPe</td>
-        <td colspan="5">Hito de Investigación: Creación de User Personas, Task Matrix y Journey Maps.</td>
-    </tr>
-    <tr>
-        <td colspan="3">1.1.0</td>
-        <td colspan="3">20/09/2025</td>
-        <td colspan="10">Montes A.</td>
-        <td colspan="5">Mejora de componente pasado: Refinamiento de "Antecedentes y problemática".</td>
-    </tr>
-    <tr>
-        <td colspan="3">1.2.0</td>
-        <td colspan="3">22/09/2025</td>
-        <td colspan="10">Mejia K., Murillo M.</td>
-        <td colspan="5">Incorporación del Big Picture Event Storming y Ubiquitous Language.</td>
-    </tr>
-    <tr>
-        <td colspan="3">1.3.0</td>
-        <td colspan="3">23/09/2025</td>
-        <td colspan="10">Aguilar R., Condori A., Montes A.</td>
-        <td colspan="5">Desarrollo del Capítulo III: Redacción de Epics y User Stories.</td>
-    </tr>
-    <tr>
-        <td colspan="3">1.3.1</td>
-        <td colspan="3">24/09/2025</td>
-        <td colspan="10">Montes A., Mejia K.</td>
-        <td colspan="5">Mejora de contenido: Revisión de User Stories y Criterios de Aceptación.</td>
-    </tr>
-    <tr>
-        <td colspan="3">1.4.0</td>
-        <td colspan="3">25/09/2025</td>
-        <td colspan="10">Murillo M., Aguilar R.</td>
-        <td colspan="5">Creación del Impact Mapping y estructuración del Product Backlog.</td>
-    </tr>
-    <tr>
-        <td colspan="3">1.4.1</td>
-        <td colspan="3">26/09/2025</td>
-        <td colspan="10">Condori A., Montes A.</td>
-        <td colspan="5">Corrección por feedback: Repriorización del Product Backlog.</td>
-    </tr>
-    <tr>
-        <td colspan="3">2.0.0</td>
-        <td colspan="3">27/09/2025</td>
-        <td colspan="10">Equipo LogisPe</td>
-        <td colspan="5">Hito de Diseño: Inicio del Capítulo IV (Style Guidelines y Arquitectura de Info).</td>
-    </tr>
-    <tr>
-        <td colspan="3">2.1.0</td>
-        <td colspan="3">28/09/2025</td>
-        <td colspan="10">Aguilar R., Condori A.</td>
-        <td colspan="5">Diseño y adición de los Wireframes de baja fidelidad (Landing Page y App).</td>
-    </tr>
-    <tr>
-        <td colspan="3">2.1.1</td>
-        <td colspan="3">29/09/2025</td>
-        <td colspan="10">Murillo M., Mejia K.</td>
-        <td colspan="5">Corrección por feedback: Ajuste de Wireframes para mejorar usabilidad.</td>
-    </tr>
-    <tr>
-        <td colspan="3">2.2.0</td>
-        <td colspan="3">30/09/2025</td>
-        <td colspan="10">Condori A., Aguilar R.</td>
-        <td colspan="5">Creación de los Mockups de alta fidelidad para la Landing Page y App.</td>
-    </tr>
-    <tr>
-        <td colspan="3">2.3.0</td>
-        <td colspan="3">01/10/2025</td>
-        <td colspan="10">Murillo M., Mejia K., Aguilar R.</td>
-        <td colspan="5">Desarrollo de los diagramas de arquitectura (C4 Model) y base de datos.</td>
-    </tr>
-    <tr>
-        <td colspan="3">2.3.1</td>
-        <td colspan="3">02/10/2025</td>
-        <td colspan="10">Montes A.</td>
-        <td colspan="5">Mejora de contenido: Redacción de explicaciones para diagramas técnicos.</td>
-    </tr>
-    <tr>
-        <td colspan="3">3.0.0</td>
-        <td colspan="3">10/10/2025</td>
-        <td colspan="10">Equipo LogisPe</td>
-        <td colspan="5">
-            Hito de Desarrollo: Implementación del backend avanzado basado en Domain-Driven Design (DDD),
-            definición de los 7 bounded contexts, creación de controladores, servicios, repositorios,
-            integración con base de datos, documentación técnica y pruebas iniciales de API.
-        </td>
-    </tr>
-    <tr>
-        <td colspan="3">3.1.0</td>
-        <td colspan="3">12/10/2025</td>
-        <td colspan="10">Equipo LogisPe</td>
-        <td colspan="5">
-            Integración del frontend (TP1) con el backend (TB2). Consumo de endpoints, validación de contratos API,
-            corrección de inconsistencias entre módulos, pruebas de flujo completo, ajustes en la estructura
-            de datos y estandarización de respuestas para asegurar compatibilidad total.
-        </td>
-    </tr>
-    <tr>
-        <td colspan="3">3.2.0</td>
-        <td colspan="3">13/10/2025</td>
-        <td colspan="10">Equipo LogisPe</td>
-        <td colspan="5">
-            Hito Final: Pruebas funcionales y de integración, resolución de errores críticos, optimización del backend,
-            documentación final del proyecto, preparación del ambiente de despliegue y entrega consolidada
-            del sistema completo (frontend + backend).
-        </td>
-    </tr>
-
-</table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 15%" />
+<col style="width: 16%" />
+<col style="width: 57%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Versión</th>
+<th>Fecha</th>
+<th>Autor</th>
+<th>Descripción de modificación</th>
+</tr>
+<tr class="odd">
+<th>TB1</th>
+<th>21/09/2025</th>
+<th><p>Aguilar Untiveros, Rodrigo Fabrizio</p>
+<p>Condori Lozano, Alessandro Ramiro</p>
+<p>Murillo, Mathias Javier</p>
+<p>Mejia Aliaga, Katherine Maryory</p>
+<p>Montes Maza, Augusto Sebastian</p></th>
+<th><p>Se realizaron los Capítulos I: Introducción, Capítulo II:
+Requirements Elicitation &amp; Analysis, Capítulo</p>
+<p>III: Requirements Specification y Capítulo IV: Product
+Design</p></th>
+</tr>
+<tr class="header">
+<th>TP</th>
+<th>10/10/2025</th>
+<th><p>Aguilar Untiveros, Rodrigo Fabrizio</p>
+<p>Condori Lozano, Alessandro Ramiro</p>
+<p>Murillo, Mathias Javier</p>
+<p>Mejia Aliaga, Katherine Maryory</p>
+<p>Montes Maza, Augusto Sebastian</p></th>
+<th><p>Se realizaron los puntos del Capítulo V: Sprint 2, Sprint
+Planning 2, Sprint Backlog 2, Development</p>
+<p>Evidence for Sprint Review, Testing Suite Evidence for Sprint Review,
+Execution Evidence for Sprint</p>
+<p>Review, Services Documentation Evidence for Sprint Review, Software
+Deployment Evidence for</p>
+<p>Sprint Review y Team Collaboration Insights during Sprint</p></th>
+</tr>
+<tr class="odd">
+<th>TB2</th>
+<th>16/11/2025</th>
+<th><p>Aguilar Untiveros, Rodrigo Fabrizio</p>
+<p>Condori Lozano, Alessandro Ramiro</p>
+<p>Murillo, Mathias Javier</p>
+<p>Mejia Aliaga, Katherine Maryory</p>
+<p>Montes Maza, Augusto Sebastian</p></th>
+<th>Se realizaron los puntos del Capítulo V: Sprint 3, Sprint Planning
+3, Sprint Backlog 3, Development Evidence for Sprint Review, Testing
+Suite Evidence for Sprint Review, Execution Evidence for Sprint Review,
+Services Documentation Evidence for Sprint Review, Software Deployment
+Evidence for Sprint Review, Team Collaboration Insights during Sprint,
+Diseño de Entrevistas, Registro de Entrevistas, Evaluaciones según
+heurísticas, Video About-the-Product, Video About-the-Team</th>
+</tr>
 ---
 
 # Project Report Collaboration Insights
