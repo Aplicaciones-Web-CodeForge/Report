@@ -2238,6 +2238,10 @@ La documentación incluye esquemas de datos, ejemplos de request y response, có
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+- Link de la Landing Page desplegada: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page/
+- Link del Frontend desplegado: https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
+- Link del Backend desplegado: https://upc-pre-202520-1asi0729-7468-logispe.onrender.com/docs/#/
+
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 3, la colaboración se centró en la construcción completa del backend, siguiendo una estructura por bounded contexts. El equipo trabajó de manera coordinada para desarrollar los módulos Inventory, Suppliers y Stores, documentar todos los endpoints con Swagger y preparar el despliegue del backend en un entorno de pruebas. La comunicación continua permitió revisar pull requests, resolver inconsistencias y asegurar estándares comunes entre todos los módulos.
