@@ -2103,9 +2103,89 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landin
 ![Commits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fa894917805872b29efd6ce1c30ff914ea3c9679/img/Commits.png)
 
 ## 5.2.3. Sprint 3
+
 ### 5.2.3.1. Sprint Planning 3
 
-<!-- Cuadro del Sprint 3, igual que se realizo en los anteriores Sprints -->
+<table align="center" border="1" width="90%" style="text-align:center;">
+
+<tr align="left">
+    <td colspan="2"><b>Sprint Planning Background</b></td>
+</tr>
+
+<tr align="left">
+    <td><b>Date</b></td>
+    <td>15/11/2025</td>
+</tr>
+
+<tr align="left">
+    <td><b>Time</b></td>
+    <td>20:30</td>
+</tr>
+
+<tr align="left">
+    <td><b>Location</b></td>
+    <td>Modalidad Online - Vía Discord</td>
+</tr>
+
+<tr align="left">
+    <td><b>Prepared By</b></td>
+    <td>Equipo de LogisPe</td>
+</tr>
+
+<tr align="left">
+    <td><b>Attendees (to planning meeting)</b></td>
+    <td>
+        - Javier Murillo, Mathias<br>
+        - Aguilar Untiveros, Rodrigo Fabrizio<br>
+        - Condori Lozano, Alessandro Ramiro<br>
+        - Mejia Aliaga, Katherine Maryory<br>
+        - Montes Maza, Augusto Sebastián<br>
+    </td>
+</tr>
+
+<tr align="left">
+    <td><b>Sprint n - 1<br>Review Summary</b></td>
+    <td>
+        Durante el Sprint 2 se completó la construcción del prototipo funcional del frontend de LogisPe utilizando Vue.js, 
+        incluyendo vistas esenciales como Login, Register, Home, Stock, Orders, Recipes y Suppliers, todas conectadas a una Fake API. 
+        Este avance permitió validar los flujos principales de navegación y confirmar que la arquitectura del frontend 
+        es escalable y coherente con las necesidades del proyecto. El equipo mantuvo un ritmo estable y cumplió el total 
+        de puntos planificados.
+    </td>
+</tr>
+
+<tr align="left">
+    <td><b>Sprint n - 1<br>Retrospective Summary</b></td>
+    <td>
+        En la retrospectiva del Sprint 2 se resaltó la eficiencia del equipo trabajando en paralelo gracias a la Fake API. 
+        Sin embargo, se identificó como área de mejora la necesidad de estandarizar la estructura del backend real 
+        para evitar bloqueos futuros y asegurar una integración fluida. Se acordó que el Sprint 3 estaría dedicado a 
+        formalizar el backend, documentarlo y preparar la base para la conexión real con el frontend.
+    </td>
+</tr>
+
+<tr align="left">
+    <td><b>Sprint 3 Goal</b></td>
+    <td>
+        El objetivo del Sprint 3 es implementar la arquitectura completa del backend de LogisPe, incluyendo los módulos 
+        Inventory, Suppliers y Stores, siguiendo un enfoque por bounded contexts. Se desarrollarán los controladores, 
+        servicios, repositorios, entidades, documentación Swagger y la base para integrar este backend con el frontend 
+        en sprints posteriores. Este objetivo se considerará cumplido cuando el backend funcione correctamente, exponga 
+        endpoints estables, tenga documentación clara y esté desplegado en un entorno de pruebas.
+    </td>
+</tr>
+
+<tr align="left">
+    <td><b>Sprint 3 Velocity</b></td>
+    <td>24</td>
+</tr>
+
+<tr align="left">
+    <td><b>Sum of Story Points</b></td>
+    <td>24</td>
+</tr>
+
+</table>
 
 ### 5.2.3.2. Aspect Leaders and Collaborators
 
