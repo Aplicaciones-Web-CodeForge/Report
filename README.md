@@ -2119,8 +2119,6 @@ Las entrevistas se realizaron siguiendo los lineamientos del marco Lean UX: vali
 
 ### 5.3.1. Diseño de entrevistas
 
-# 6.3.1 Diseño de Entrevistas — LogisPe
-
 ## Preguntas Generales
 1. ¿Cuál es tu nombre?
 2. ¿Qué edad tienes?
