@@ -205,7 +205,8 @@
 
 A continuación, se detalla el proceso de colaboración y gestión de versiones que el equipo ha seguido para la elaboración de este informe y los productos asociados. Todas las contribuciones están centralizadas y son rastreables a través de nuestro repositorio en GitHub.
 
-**URL del Repositorio del Informe:** https://github.com/Aplicaciones-Web-CodeForge/Report
+- **URL del Repositorio del Informe:** https://github.com/Aplicaciones-Web-CodeForge/Report
+- **URL del Repositorio del Frontend desplegado:** https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
 
 ---
 
@@ -2460,7 +2461,7 @@ El despliegue exitoso de la landing page representa un primer paso fundamental p
 
 # Anexos
 
-Link del repositorio del Informe: https://github.com/Aplicaciones-Web-CodeForge/Report <br>
-Link del repositorio de la Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page <br>
-Link de la Landing Page desplegada por GitHub Pages: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page/
-Link del Frontend desplegado: https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
+- Link del repositorio del Informe: https://github.com/Aplicaciones-Web-CodeForge/Report <br>
+- Link del repositorio de la Landing Page: https://github.com/Aplicaciones-Web-CodeForge/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page <br>
+- Link de la Landing Page desplegada por GitHub Pages: https://aplicaciones-web-codeforge.github.io/upc-pre-202520--1asi0729-7468-LogisPe-Landing-Page/
+- Link del Frontend desplegado: https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
