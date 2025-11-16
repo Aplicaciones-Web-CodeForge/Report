@@ -2119,284 +2119,76 @@ Las entrevistas se realizaron siguiendo los lineamientos del marco Lean UX: vali
 
 ### 5.3.1. Diseño de entrevistas
 
-**Para restobares y restaurantes:**
+# 6.3.1 Diseño de Entrevistas — LogisPe
 
-Preguntas principales:
+## Preguntas Generales
+1. ¿Cuál es tu nombre?
+2. ¿Qué edad tienes?
+3. ¿Dónde te encuentras actualmente?
+4. ¿A qué te dedicas dentro del negocio?
+5. ¿Cuántos años de experiencia tienes en el rubro gastronómico?
+6. ¿Cuántas personas trabajan en tu negocio?
+7. ¿Cómo describirías un día típico de operación en tu negocio?
 
-1.  ¿Cuál es el nombre de su negocio, en qué distrito se ubica y cuántos años lleva operando?
-    
-2.  ¿Qué métodos utilizan actualmente para controlar el inventario (manual, Excel, sistema)?
-    
-3.  ¿Qué problemas han enfrentado en el control de insumos y productos (quiebres, exceso, desperdicio)?
-    
-4.  ¿Cómo realizan actualmente la reposición de insumos perecibles?
-    
-5.  ¿Cómo gestionan la relación con proveedores y recetas?
-    
-6.  ¿Qué tipo de reportes o información necesitan para tomar decisiones de compra?
-    
-7.  ¿Qué factores los motivarían a implementar un sistema digital de inventarios?
-    
+---
 
-      Preguntas complementarias:
+# Segmento: Dueños de Restobares y Restaurantes
 
-1.  ¿Podría contarme un poco sobre usted?
-    
-2.  ¿Qué dispositivos usan más en la gestión del negocio (computadora, tablet, celular)?.
-    
-3.  ¿Qué canales digitales utilizan con más frecuencia (WhatsApp, correo, redes sociales)?
-    
-4.  Cuando toma decisiones importantes, ¿las consulta con alguien más (familia, socios, colegas)?
-    
-5.  ¿Qué objetivos tienen a corto plazo (por ejemplo: reducir pérdidas, abrir nuevas sedes)?
-    
-6.  En su día a día, ¿qué es lo que más le frustra en la gestión del negocio?
-    
-7.  ¿Cómo empezó en el rubro gastronómico?
-    
+## Sobre soluciones actuales
+1. ¿Qué herramientas utilizas hoy? (Excel, cuadernos, software, notas, WhatsApp, etc.)
+2. ¿Qué es lo que más te molesta de tu método actual?
+3. Si ya usas un software, ¿qué limitaciones encuentras y por qué?
 
-**Para cafeterías y bares:**
+## Sobre LogisPe y sus funcionalidades
+4. ¿Qué tan útil sería para ti un sistema que te avise cuando un insumo está por agotarse?
+5. ¿Qué opinas de tener reportes diarios/semanales de costos e inventario?
+6. ¿Te interesa vincular recetas directamente al inventario para controlar el consumo real?
+7. ¿Cuánta importancia le das a un historial de compras y proveedores con seguimiento automático?
 
-1.  ¿Cuál es el nombre de su negocio, en qué distrito está y cuántos años lleva operando?
-    
-2.  ¿Cuáles son los productos de mayor rotación en su cafetería o bar?
-    
-3.  ¿Cómo controlan actualmente la reposición de insumos perecibles?
-    
-4.  ¿Han tenido pérdidas económicas por caducidad o falta de control de inventario?
-    
-5.  ¿Qué tan relevantes serían para ustedes las alertas automáticas de stock bajo?
-    
-6.  ¿Qué beneficios esperan de un sistema especializado en gastronomía?
-    
-7.  ¿Qué limitaciones han encontrado con los métodos que usan actualmente (Excel, manual)?
-    
+## Sobre expectativas
+8. ¿Qué característica sería imprescindible para que realmente uses un sistema como este?
+9. ¿Qué información te gustaría ver en un dashboard diario?
+10. ¿Qué no debería tener un sistema de inventario para no volverse complejo o estorboso?
+11. ¿Cómo medirías si la herramienta está funcionando para tu negocio?
 
-Preguntas complementarias: 
+---
 
-1.  ¿Podría contarme un poco sobre usted? (edad, ocupación, lugar de residencia).
-    
-2.  ¿Qué dispositivos suelen usar durante la operación (celular en turno, PC en oficina)?
-    
-3.  ¿Qué tan familiarizado está con herramientas digitales (Excel, apps, POS)?
-    
-4.  ¿Qué personas, marcas o colegas suelen influir cuando deciden implementar nuevas herramientas en el negocio?
-    
-5.  ¿Qué objetivos buscan alcanzar (optimizar compras, reducir desperdicios, mejorar márgenes)?
-    
-6.  ¿Qué experiencias previas han tenido con software de inventarios u otros sistemas? ¿Qué les gustó o no?
-    
+# Segmento: Dueños de Cafeterías y Bares
 
-**Para emprendimientos gastronómicos:**
+## Sobre posibles soluciones
+11. ¿Qué opinas de tener alertas automáticas por niveles bajos de stock?
+12. ¿Te ayudaría un sistema que calcule automáticamente el costo por bebida/receta?
+13. ¿Te interesaría almacenar el historial de mantenimientos o equipos de preparación? (máquinas de café, molinos, etc.)
 
-Preguntas principales:
+## Expectativas y valor
+14. ¿Qué esperas ver en un reporte semanal para tomar decisiones?
+15. ¿Qué haría que un sistema como LogisPe realmente valga la pena para ti?
+16. ¿Qué función crees que no usarías nunca?
+17. ¿Qué características agregarías pensando en tu operación específica?
 
-1.  ¿Cuál es el nombre de su negocio, en qué distrito se ubica y cuánto tiempo lleva operando?
-    
-2.  ¿Qué los motivó a iniciar este emprendimiento gastronómico?
-    
-3.  ¿Cómo gestionan actualmente sus inventarios y proveedores?
-    
-4.  ¿Qué funciones consideran esenciales en un sistema que los acompañe desde el inicio?
-    
-5.  ¿Qué factores los harían confiar en un software (precio, facilidad de uso, soporte, recomendación)?
-    
-6.  ¿Qué tan importante es para ustedes recibir reportes sobre costos y rentabilidad?
-    
-7.  ¿Qué objetivos tienen a corto y mediano plazo con el negocio (ej. crecer, formalizarse, digitalizar procesos)?
-    
+---
 
-Preguntas complementarias: 
+# Segmento: Dueños de Emprendimientos Gastronómicos (food trucks, dark kitchens, pequeños negocios)
 
-1.  Para conocerte un poco más, ¿cuál es tu edad, ocupación y dónde resides?
-    
-2.  ¿Qué experiencia previa has tenido en gastronomía o en otros rubros?
-    
-3.  ¿Qué dispositivos prefieres para trabajar (celular, tablet, PC)?
-    
-4.  ¿Qué personas, marcas o referentes suelen considerar antes de decidir sobre nuevas herramientas digitales?
-    
-5.  Si pudieras diseñar la herramienta ideal para tu negocio, ¿cómo sería?
+## Sobre necesidades
+1. ¿Qué necesitas para sentir que tienes control sobre tu inventario?
+2. ¿Qué información te gustaría tener siempre disponible desde tu celular?
+3. ¿Qué tan importante es para ti ver reportes automáticos sin tener que hacer cálculos manuales?
+
+## Sobre soluciones
+4. ¿Qué opinas de un sistema que calcule consumo automático en base a recetas?
+5. ¿Qué tan útil sería recibir alertas por WhatsApp o correo sobre insumos críticos?
+6. ¿Te interesaría llevar un registro de compras para ver cuánto gastas por semana/mes?
+
+## Sobre expectativas
+7. ¿Qué funcionalidad crees que no debería faltar en un sistema para tu tipo de negocio?
+8. ¿Hay algo que un sistema de inventario sencillo siempre hace mal o te complica?
+9. ¿Si tuvieras que pagar por un sistema así, ¿qué valor esperarías recibir a cambio?
 
 
 ### 5.3.2. Registro de entrevistas
 
 
-Segmento objetivo: Restaurantes y Restobares
-
-Entrevista 1
-
-![Entrevista](assets/restaurante1.png)
-
-**Entrevistado:** Luciano De La Torre  
-**Edad:** 25 años  
-**Distrito:** Pueblo Libre  
-**Negocio:** Sazón Familiar  
-**Minuto de inicio:**  00:00
-**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)   
-
-**Resumen**  
-El entrevistado es un joven de 25 años que administra *Sazón Familiar* en Pueblo Libre, un restaurante familiar con 12 años en el rubro. Actualmente gestiona inventarios manualmente y en Excel, lo que ocasiona quiebres de stock, sobrecompras y desperdicio. La reposición de perecibles se hace diariamente y los proveedores se contactan por WhatsApp o teléfono.  
-
-Menciona que las recetas no están completamente estandarizadas, lo que genera variaciones en costos. Su mayor frustración es la falta de control real del inventario. Considera que un sistema digital debería ser sencillo, dar alertas automáticas, organizar proveedores y calcular costos por plato. Su objetivo es modernizar el negocio familiar, optimizar la cocina y abrir un segundo local a mediano plazo.  
-
----
-
-Entrevista 2
-
-![Entrevista](assets/restaurante2.png)
-
-**Entrevistado:** Juan José López  
-**Edad:** 28 años   
-**Negocio:** La Esquina Limeña  
-**Distrito:** Barranco – Lima  
-**Minuto de inicio:**  03:18
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
-
-**Resumen**  
-El entrevistado administra un restobar en Barranco con 3 años de operación. Controla inventarios en Excel, pero depende de encargados y se generan errores. Los problemas principales son el desperdicio por sobrecompra y quiebres de insumos en alta demanda.  
-
-La reposición se hace dos veces por semana vía WhatsApp o llamadas, y en emergencias en el mercado. Las recetas están dispersas en cuadernos y correos, sin conexión al inventario. Señala que necesita reportes con consumo promedio, stock mínimo y costos.  
-
-Un sistema lo motivaría si es accesible desde celular, fácil de usar, con alertas y costo razonable. Su frustración es la falta de información en tiempo real y su objetivo es reducir pérdidas antes de expandirse.  
-
----
-
-Entrevista 3
-
-![Entrevista](assets/restaurante3.png)
-
-**Entrevistado:** Patricio Rodríguez Amador  
-**Edad:** 27 años  
-**Distrito:** Comas  
-**Negocio:** Apolo Restobar  
-**Tiempo de operación:** 3 años  
-**Minuto de inicio:**  05:46
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
-
-**Resumen**  
-Patricio Rodríguez, dueño de *Apolo Restobar* en Comas, lleva 3 años operando. Usa un sistema recomendado por un amigo, pero limitado y sin soporte. Su principal problema es el desperdicio de insumos por falta de reportes claros.  
-
-La reposición de perecibles se maneja con proveedores sin agenda fija. No tiene gestión formal de recetas. Le interesa contar con reportes comparativos de insumos usados vs. desperdiciados y valora el soporte técnico.  
-
-Usa computadora y celular, se comunica principalmente por WhatsApp. Su objetivo es reducir pérdidas y mejorar la organización interna.  
-
----
-
-**Segmento objetivo: Cafeterías y Bares**
-
-
-Entrevista 1
-
-![Entrevista](assets/cafeteria1.png)
-
-**Entrevistada:** Alejandra Martínez  
-**Edad:** 25 años  
-**Distrito:** Surco  
-**Negocio:** Dulce Aroma  
-**Tiempo de operación:** 2 años  
-**Minuto de inicio:** 07:50
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
-
-**Resumen**  
-La dueña de *Dulce Aroma*, en Surco, lleva 2 años de operación. Sus productos más vendidos son cafés (capuccino, latte), sándwiches y postres caseros. Maneja el inventario manualmente, con compras casi diarias de perecibles, lo que causa pérdidas por caducidad.  
-Un sistema con alertas de stock bajo le sería útil para anticiparse. Espera que un software especializado organice inventarios, calcule costos por receta y genere reportes. Usa celular y computadora, maneja Excel, apps y POS. Se guía por colegas y redes sociales. Sus objetivos son reducir desperdicios, mejorar márgenes y abrir una segunda sede.  
-
-Entrevista 2
-
-![Entrevista](assets/cafeteria2.png)
-
-
-**Entrevistado:** Leonardo Solís  
-**Edad:** 34 años  
-**Distrito:** Miraflores  
-**Negocio:** Café Aroma  
-**Tiempo de operación:** 5 años  
-**Minuto de inicio:**  13:07
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
-
-**Resumen**  
-El dueño de *Café Aroma*, en Miraflores, lleva 5 años de operación. Los productos de mayor rotación son cafés, postres artesanales y cervezas artesanales. Maneja inventarios manualmente, lo que genera pérdidas por caducidad.  
-
-Considera esencial un sistema con alertas automáticas, control en tiempo real y reportes de costos. Critica Excel por tedioso y poco confiable. Se dedica de lleno al negocio tras dejar marketing. Usa celular y PC, y suele guiarse por colegas y asociaciones. Sus objetivos son optimizar compras, reducir desperdicios y abrir un segundo local.  
-
-Entrevista 3
-
-![Entrevista](assets/cafeteria3.png)
-
-
-**Entrevistado:** Gonzalo Flores Rojas  
-**Distrito:** Barrios Altos  
-**Negocio:** Tinco  
-**Tiempo de operación:** 10 meses  
-**Minuto de inicio:**  17:56
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
-
-**Resumen**  
-Gonzalo Flores es dueño de *Tinco*, con 10 meses en Barrios Altos. Sus productos más rotados son insumos para kekes y tortas. No tiene proveedores fijos y compra según necesidad, lo que le genera pérdidas por caducidad.  
-Considera muy valiosas las alertas de inventario, sobre todo que avisen vencimientos próximos. Usa Excel, pero lo ve limitado porque no anticipa problemas ni genera reportes. Ve en un sistema digital la oportunidad de mejorar el orden y control para crecer de manera sostenible.  
-
----
-
-**Segmento objetivo: Emprendimientos Gastronómicos**
-
-Entrevista 1
-
-![Entrevista](assets/emprendedor1.png)
-
-
-**Entrevistada:** Luciana Aguilar  
-**Edad:** 17 años  
-**Distrito:** Ate (distribución en La Molina y Surco)  
-**Negocio:** Laguntis Verigen (repostería)  
-**Tiempo de operación:** 3 años  
-**Minuto de inicio:**  19:57
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
-
-**Resumen**  
-Luciana Aguilar, de 17 años, creó *Laguntis Verigen*, un emprendimiento de repostería con 3 años de operación. Empezó como un hobby, con apoyo de su madre, quien maneja inventarios. Ella se encarga de la preparación y promoción en Instagram.  
-Considera clave contar con reportes de costos y pérdidas para decidir qué productos priorizar. Busca un software sencillo, accesible y que automatice procesos. Usa el celular para promocionar y gestionar pedidos. Se inspira en referentes como Alessandra Penny.  
-Aunque valora el negocio, no busca expandirse, ya que lo considera complementario a su interés en las finanzas. Su herramienta ideal sería una página web para organizar mejor pedidos y comunicación.  
-
-Entrevista 2
-
-![Entrevista](assets/emprendedor2.png)
-
-
-**Entrevistado:** Juan Alberto Rosales  
-**Edad:** 28 años  
-**Distrito:** San Isidro 
-**Negocio:** Sabor Criollo  
-**Tiempo de operación:** 8 meses  
-**Minuto de inicio:**  31:15
-**URL del video en Microsoft Stream:**   [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)   
-
-**Resumen**  
-Juan Rosales abrió *Sabor Criollo* hace 8 meses en San Isidro tras iniciar ventas durante la pandemia. Hoy controla inventarios con cuadernos y Excel, contactando proveedores por WhatsApp o llamadas.  
-
-Busca un sistema que ofrezca control en tiempo real, alertas, cálculo de costos y organización de proveedores. Destaca que debe ser accesible, fácil y con soporte. Reportes de costos serían claves para crecer. Sus metas son reducir pérdidas, digitalizar procesos y abrir un segundo local.  
-
-Tiene 28 años, vive en SJL y antes trabajaba en ventas. Usa celular en el día a día y PC para cuentas. Suele guiarse por colegas y reseñas online. Su app ideal sería sencilla, intuitiva y móvil, con alertas y reportes claros.  
-
-Entrevista 3
-
-![Entrevista](assets/emprendedor3.png)
-
-
-**Entrevistado:** Andrés Cieza de León  
-**Edad:** 31 años  
-**Distrito:** San Juan de Lurigancho  
-**Negocio:** Hamburguesería (nombre no especificado)  
-**Tiempo de operación:** 2 años  
-**Minuto de inicio:**  34:57
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a118_upc_edu_pe/ESg13gM5GtlNmoyLYxTu9AEB2dEAnd_uByYu-Nh3B4dRuQ?e=zcQfTL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
-
-**Resumen**  
-Andrés Cieza de León es dueño de una hamburguesería en SJL con 2 años de operación. Emprendió porque en su zona había pocas opciones y de baja calidad.  
-
-Actualmente maneja inventarios en Excel, pero considera vital tener reportes y gráficos accesibles. Para él, la facilidad de uso es lo más importante en un software, ya que no quiere perder tiempo en procesos complicados.  
-
-Señaló que la información clara y visual es fundamental para tomar decisiones y que busca expandirse en el mundo digital para hacer crecer su negocio.
 
 ### 5.3.3. Evaluaciones según heurísticas
 Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando usabilidad, arquitectura de información e inclusive design.  
