@@ -2349,7 +2349,7 @@ Entrevista 1
 **Negocio:** Laguntis Verigen (repostería)  
 **Tiempo de operación:** 3 años  
 **Minuto de inicio:**  00:00
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://1drv.ms/v/c/131b5cdffd607f3f/EdKGgTzfb1FEnut8wfRwhigBzKQ1tgTNx6KbJ5RvC2Wc9A?e=IkFBMV)   
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://1drv.ms/v/c/131b5cdffd607f3f/EebVci5kyhRLj3gP5PDd3SkBS1h7_zMlej_f6vxU-zZkAw?e=TACIwX)   
 
 **Resumen**  
 Luciana Aguilar, de 17 años, creó *Laguntis Verigen*, un emprendimiento de repostería con 3 años de operación. Empezó como un hobby, con apoyo de su madre, quien maneja inventarios. Ella se encarga de la preparación y promoción en Instagram.  
