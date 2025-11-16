@@ -2190,7 +2190,13 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landin
 ### 5.2.3.2. Aspect Leaders and Collaborators
 
 <!-- Igual, un cuadro igual al anterior, con las diferentes tareas realizadas, los miembros del equipo asignados y si son Leader (L) o Collaborator (C) -->
-
+| Team Member (Last Name, First Name) | Github Username | Desarrollo Backend Avanzado (DDD) Leader (L), Collaborator (C) | Integración Frontend–Backend Sprint 3 Leader (L), Collaborator (C) | Entrevistas de Validación y Análisis Leader (L), Collaborator (C) |
+| ----------------------------------- | --------------- | ------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- |
+| Mathias Javier Murillo              | K1ngHulk        | (L)                                                     | (L)                                                            | (L)                                                |
+| Rodrigo Fabrizio Aguilar Untiveros  | Rodri2712       | (C)                                                     | (C)                                                            | (C)                                                |
+| Alessandro Ramiro Condori Lozano    | AlessandroRCL   | (C)                                                     | (C)                                                            | (C)                                                |
+| Katherine Maryory Mejia Aliaga      | KathMJ          | (C)                                                     | (C)                                                            | (C)                                                |
+| Augusto Sebastian Montes Maza       | asmmaza         | (C)                                                     | (C)                                                            | (C)                                                |
 ### 5.2.3.3. Sprint Backlog 3
 
 <!-- Cuadro del Sprint Backlog 3, listando las historias de usuario realizadas en este sprint, con id, titulo, descripción, tiempo estimado dee realización, quien la realizo y el status -->
