@@ -206,7 +206,7 @@
 A continuación, se detalla el proceso de colaboración y gestión de versiones que el equipo ha seguido para la elaboración de este informe y los productos asociados. Todas las contribuciones están centralizadas y son rastreables a través de nuestro repositorio en GitHub.
 
 - **URL del Repositorio del Informe:** https://github.com/Aplicaciones-Web-CodeForge/Report
-- **URL del Repositorio del Frontend desplegado:** https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
+- **URL del Frontend desplegado:** https://upc-pre-202520-1asi0729-7468-logis.vercel.app/home
 
 ---
 
