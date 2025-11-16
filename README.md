@@ -2253,6 +2253,22 @@ Durante el Sprint 3, la colaboración se centró en la construcción completa de
 | Katherine Mejia | Implementó controladores, validaciones y documentación Swagger para múltiples módulos. |
 | Augusto Sebastian Montes Maza | Documentó la arquitectura DDD, refinó casos de uso y realizó validaciones técnicas internas. |
 
+![EvidenciaCommits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/afd1f9ddc5cee4672d4fb7a648a4bcb5bdaf4d8c/img/CommitsTP.png)
+
+Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landing Page:
+
+![Commits](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/fa894917805872b29efd6ce1c30ff914ea3c9679/img/Commits.png)
+
+
+Captura de Analíticos de Colaboración en GitHub en el repositorio del Backend:
+
+![Commits Backend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/d239a8d7ee916ddff9846d69481a2597d386e644/img/commits/commits%20Backend.PNG)
+
+
+Captura de Analíticos de Colaboración en GitHub en el repositorio del Frontend:
+
+![Commits Frontend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/d239a8d7ee916ddff9846d69481a2597d386e644/img/commits/commits%20Frontend.PNG)
+
 <!-- Captura de pantalla de los commits realizados (grafico de barras de los commits) en cada repositorio -->
 
 ### 5.3. Validation Interviews
