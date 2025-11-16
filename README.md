@@ -2227,7 +2227,7 @@ El objetivo del Sprint 3 fue implementar la arquitectura completa del backend de
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
-<!-- Captura de pantalla de el FrontEnd desplegado, de igual forma del swagger del backend -->
+![EvidenciaSwagger](https://github.com/Aplicaciones-Web-CodeForge/Report/blob/327dc3bb1466da1e80ddc1c34e9d5007d6cc114b/img/Swagger.png)
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
