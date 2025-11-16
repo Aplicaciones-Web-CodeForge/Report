@@ -2328,8 +2328,24 @@ Las entrevistas se realizaron siguiendo los lineamientos del marco Lean UX: vali
 
 
 ### 5.3.2. Registro de entrevistas
+# Segmento: Dueños de Cafeterías y Bares
+Entrevista 1
+
+![Entrevista](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/master/img/tb2%20entrevistas/cafeteria%20-%20Laguntis%20Verigen.PNG)
 
 
+**Entrevistada:** Luciana Aguilar  
+**Edad:** 17 años  
+**Distrito:** Ate (distribución en La Molina y Surco)  
+**Negocio:** Laguntis Verigen (repostería)  
+**Tiempo de operación:** 3 años  
+**Minuto de inicio:**  00:00
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://1drv.ms/v/c/131b5cdffd607f3f/EdKGgTzfb1FEnut8wfRwhigBzKQ1tgTNx6KbJ5RvC2Wc9A?e=IkFBMV)   
+
+**Resumen**  
+Luciana Aguilar, de 17 años, creó *Laguntis Verigen*, un emprendimiento de repostería con 3 años de operación. Empezó como un hobby, con apoyo de su madre, quien maneja inventarios. Ella se encarga de la preparación y promoción en Instagram.  
+Considera clave contar con reportes de costos y pérdidas para decidir qué productos priorizar. Busca un software sencillo, accesible y que automatice procesos. Usa el celular para promocionar y gestionar pedidos. Se inspira en referentes como Alessandra Penny.  
+Aunque valora el negocio, no busca expandirse, ya que lo considera complementario a su interés en las finanzas. Su herramienta ideal sería una página web para organizar mejor pedidos y comunicación.
 
 ### 5.3.3. Evaluaciones según heurísticas
 Esta sección contiene el proceso de evaluación de las sesiones de validación basado en heurísticas, considerando usabilidad, arquitectura de información e inclusive design.  
