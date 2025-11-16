@@ -2221,8 +2221,6 @@ El objetivo del Sprint 3 fue implementar la arquitectura completa del backend de
 | US-03.06 | Validaciones y Entrevistas Técnicas | TSK-14 | Ajustar backend según feedback del equipo | Resolver bugs, mejorar estructura y normalización. | 4 | Montes A. | Done |
 | | | TSK-15 | Realizar entrevistas de validación técnica | Validar arquitectura, endpoints y casos de uso con el equipo. | 3 | Aguilar R. | Done |
 
-<!-- Cuadro del Sprint Backlog 3, listando las historias de usuario realizadas en este sprint, con id, titulo, descripción, tiempo estimado dee realización, quien la realizo y el status -->
-
 ### 5.2.3.4. Development Evidence for Sprint Review
 
 <!-- Cuadro con el registro de los commits realizados en cada repositorio, considerando la rama (branch), commit ID, commit message, Commit on (fecha) -->
@@ -2235,11 +2233,8 @@ El objetivo del Sprint 3 fue implementar la arquitectura completa del backend de
 
 Durante este sprint, el desarrollo del backend se centró en la implementación de la arquitectura basada en **Domain-Driven Design (DDD)** y la creación de la **API real** de LogisPe. Toda la estructura de endpoints para los módulos Inventory, Suppliers y Stores fue documentada mediante **Swagger/OpenAPI**, permitiendo visualizar, probar y validar cada recurso del sistema.  
 La documentación incluye esquemas de datos, ejemplos de request y response, códigos de estado y reglas de validación. Además, se generó documentación interna en el repositorio describiendo los bounded contexts, casos de uso, repositorios y flujo de manejo de errores. Esta documentación sienta las bases para la integración real con el frontend en sprints posteriores.
-<!-- Cuadro de documentación de las rutas de los servicios (backend), por ejemplo: /profile En esta ruta se muestra el perfil -->
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
-
-<!-- Capturas de pantalla de los productos ademas de los enlaces directos a los diferentes productos desplegados -->
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -2268,8 +2263,6 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio del Backend:
 Captura de Analíticos de Colaboración en GitHub en el repositorio del Frontend:
 
 ![Commits Frontend](https://raw.githubusercontent.com/Aplicaciones-Web-CodeForge/Report/d239a8d7ee916ddff9846d69481a2597d386e644/img/commits/commits%20Frontend.PNG)
-
-<!-- Captura de pantalla de los commits realizados (grafico de barras de los commits) en cada repositorio -->
 
 ### 5.3. Validation Interviews
 En esta etapa se validaron las hipótesis del producto mediante entrevistas semiestructuradas aplicadas a usuarios reales del sector gastronómico. El objetivo fue contrastar las necesidades detectadas durante la investigación inicial con percepciones, comportamientos y problemas reales experimentados por administradores, chefs y encargados de compras. Este proceso permitió identificar brechas, validar supuestos críticos y orientar la siguiente fase del diseño e implementación.
