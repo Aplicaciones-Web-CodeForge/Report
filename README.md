@@ -2199,6 +2199,28 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landin
 | Augusto Sebastian Montes Maza       | asmmaza         | (C)                                                     | (C)                                                            | (C)                                                |
 ### 5.2.3.3. Sprint Backlog 3
 
+El objetivo del Sprint 3 fue implementar la arquitectura completa del backend de LogisPe, incluyendo los módulos Inventory, Suppliers y Stores, siguiendo un enfoque de bounded contexts. Además, se documentaron los endpoints con Swagger y se preparó el entorno de despliegue para dejar listo el backend para su integración con el frontend en siguientes iteraciones.
+
+| Sprint # | Sprint 3 | | | | | | |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **User Story** | | | **Work-Item/Task** | | | | |
+| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+| US-03.01 | Implementar Módulo Inventory (DDD) | TSK-01 | Crear entidades y Value Objects del módulo Inventory | Implementar entidades Item, Category y StockMovement siguiendo DDD. | 8 | Murillo M. | Done |
+| | | TSK-02 | Implementar servicios del módulo Inventory | Crear lógica de dominio para registrar insumos, actualizar stock y registrar movimientos. | 6 | Aguilar R. | Done |
+| | | TSK-03 | Crear controladores REST del módulo Inventory | Implementar endpoints CRUD para Items, Categories y Stock Movements. | 5 | Mejia K. | Done |
+| US-03.02 | Implementar Módulo Suppliers (DDD) | TSK-04 | Implementar entidades y repositorios de Suppliers | Crear entidades Supplier, ContactInfo y repositorios asociados. | 7 | Condori A. | Done |
+| | | TSK-05 | Implementar servicios del módulo Suppliers | Lógica de registro, actualización y búsqueda de proveedores. | 5 | Montes A. | Done |
+| | | TSK-06 | Crear controladores REST para Suppliers | Definir endpoints CRUD con validaciones. | 5 | Mejia K. | Done |
+| US-03.03 | Implementar Módulo Stores (DDD) | TSK-07 | Crear entidades Store y Warehouse | Implementar estructura de datos para gestionar múltiples almacenes. | 6 | Murillo M. | Done |
+| | | TSK-08 | Implementar servicios del módulo Stores | Lógica para creación de tiendas, asignación de inventario y rutas. | 6 | Aguilar R. | Done |
+| | | TSK-09 | Controladores REST de Stores | Definir endpoints y validaciones específicas del módulo. | 5 | Condori A. | Done |
+| US-03.04 | Documentación Técnica del Backend | TSK-10 | Documentar arquitectura DDD | Redacción de estructura del backend, bounded contexts y flujos. | 4 | Montes A. | Done |
+| | | TSK-11 | Implementar Swagger para API | Generar documentación interactiva de todos los endpoints. | 3 | Mejia K. | Done |
+| US-03.05 | Preparar Despliegue del Backend | TSK-12 | Configurar entorno Docker para backend | Crear Dockerfile y docker-compose para entorno de pruebas. | 5 | Aguilar R. | Done |
+| | | TSK-13 | Deploy en servidor de pruebas | Desplegar backend en Render/Fly.io y validar funcionamiento. | 4 | Murillo M. | Done |
+| US-03.06 | Validaciones y Entrevistas Técnicas | TSK-14 | Ajustar backend según feedback del equipo | Resolver bugs, mejorar estructura y normalización. | 4 | Montes A. | Done |
+| | | TSK-15 | Realizar entrevistas de validación técnica | Validar arquitectura, endpoints y casos de uso con el equipo. | 3 | Aguilar R. | Done |
+
 <!-- Cuadro del Sprint Backlog 3, listando las historias de usuario realizadas en este sprint, con id, titulo, descripción, tiempo estimado dee realización, quien la realizo y el status -->
 
 ### 5.2.3.4. Development Evidence for Sprint Review
@@ -2211,6 +2233,8 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landin
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+Durante este sprint, el desarrollo del backend se centró en la implementación de la arquitectura basada en **Domain-Driven Design (DDD)** y la creación de la **API real** de LogisPe. Toda la estructura de endpoints para los módulos Inventory, Suppliers y Stores fue documentada mediante **Swagger/OpenAPI**, permitiendo visualizar, probar y validar cada recurso del sistema.  
+La documentación incluye esquemas de datos, ejemplos de request y response, códigos de estado y reglas de validación. Además, se generó documentación interna en el repositorio describiendo los bounded contexts, casos de uso, repositorios y flujo de manejo de errores. Esta documentación sienta las bases para la integración real con el frontend en sprints posteriores.
 <!-- Cuadro de documentación de las rutas de los servicios (backend), por ejemplo: /profile En esta ruta se muestra el perfil -->
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
@@ -2218,6 +2242,16 @@ Captura de Analíticos de Colaboración en GitHub en el repositorio de la Landin
 <!-- Capturas de pantalla de los productos ademas de los enlaces directos a los diferentes productos desplegados -->
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 3, la colaboración se centró en la construcción completa del backend, siguiendo una estructura por bounded contexts. El equipo trabajó de manera coordinada para desarrollar los módulos Inventory, Suppliers y Stores, documentar todos los endpoints con Swagger y preparar el despliegue del backend en un entorno de pruebas. La comunicación continua permitió revisar pull requests, resolver inconsistencias y asegurar estándares comunes entre todos los módulos.
+
+| Author | Task completed |
+|---|---|
+| Mathias Javier Murillo | Implementó entidades, controladores y despliegue de prueba del módulo Inventory. |
+| Rodrigo Aguilar | Implementó servicios clave en los módulos Inventory y Stores, y configuró Docker y despliegue. |
+| Alessandro Condori | Implementó entidades, repositorios y endpoints del módulo Suppliers. |
+| Katherine Mejia | Implementó controladores, validaciones y documentación Swagger para múltiples módulos. |
+| Augusto Sebastian Montes Maza | Documentó la arquitectura DDD, refinó casos de uso y realizó validaciones técnicas internas. |
 
 <!-- Captura de pantalla de los commits realizados (grafico de barras de los commits) en cada repositorio -->
 
