@@ -2272,7 +2272,9 @@ El objetivo del Sprint 3 fue implementar la arquitectura completa del backend de
 
 ### 5.2.3.4. Development Evidence for Sprint Review
 
-<!-- Cuadro con el registro de los commits realizados en cada repositorio, considerando la rama (branch), commit ID, commit message, Commit on (fecha) -->
+![commits](assets/captura1.png)
+![commits](assets/captura2.png)
+![commits](assets/captura3.png)
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
