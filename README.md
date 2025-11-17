@@ -616,19 +616,161 @@ Finalmente, es importante mencionar que algunos negocios en Perú aún recurren 
 
 ## 2.1.1. Análisis competitivo
 
-| Categoría | Su Startup | Nubefact | Siigo Perú | Factura Perú |
-|-----------|------------|-----------|------------|--------------|
-| **Perfil - Overview** | Aplicación web especializada en gestión de inventarios para el sector gastronómico. | Plataforma peruana centrada en facturación electrónica, con módulo básico de inventarios. | Sistema contable y administrativo con funciones de inventario, compras y ventas. | Solución peruana de facturación electrónica con módulo de inventarios para negocios pequeños. |
-| **Ventaja Competitiva** | Especialización gastronómica: recetas, control de insumos perecibles, alertas automáticas. | Cumplimiento con SUNAT y alta adaptación en los negocios peruanos. | Amplia trayectoria, soporte contable y administrativo. | Costos accesibles y facilidad de uso para microempresas. |
-| **Perfil de Marketing - Mercado objetivo** | Restaurantes, cevicherías, cafeterías y emprendimientos gastronómicos. | Empresas de todos los rubros que requieren facturación electrónica. | PYMEs que buscan un sistema administrativo y contable. | Negocios pequeños: bodegas, tiendas, etc. |
-| **Perfil de Marketing - Estrategias** | Marketing digital, alianzas con gremios gastronómicos, referidos. | Posicionamiento como líder en facturación electrónica en Perú. | Presencia corporativa y convenios contables. | Promoción de precios bajos y cumplimiento legal. |
-| **Perfil de Producto - Productos & Servicios** | Inventario en tiempo real, recetas, proveedores, reportes, alertas automáticas. | Facturación electrónica + inventarios básicos. | Contabilidad, inventarios, compras y ventas. | Facturación e inventarios simples. |
-| **Perfil de Producto - Precios & Costos** | Planes escalables y accesibles a pymes gastronómicas. | Suscripciones orientadas a facturación. | Costos más altos, orientados a contabilidad integral. | Costos bajos para pequeños negocios. |
-| **Perfil de Producto - Canales** | 100% web responsive. Disponible en dispositivos móviles. | Web | Web y aplicaciones conectadas. | Web (principalmente escritorio). |
-| **SWOT - Fortalezas** | Especialización en gastronomía, interfaz intuitiva, reportes claros. | Cumplimiento legal con SUNAT, gran base de clientes. | Trayectoria, soporte técnico local. | Precio accesible, fácil de implementar. |
-| **SWOT - Debilidades** | Nueva en el mercado, menos reconocimiento. | Módulo de inventarios poco desarrollado. | Complejidad de uso, enfoque contable más que operativo. | Funciones limitadas en gastronomía. |
-| **SWOT - Oportunidades** | Crecimiento del sector gastronómico, digitalización de pymes. | Ampliar funciones hacia sectores especializados. | Integrar más módulos sectoriales. | Expandirse en microempresas. |
-| **SWOT - Amenazas** | Resistencia al cambio tecnológico, competencia consolidada. | Aparición de softwares especializados en gastronomía. | Competidores más simples y accesibles. | Migración de usuarios a plataformas más completas. |
+<table style="width:100%;">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 15%" />
+<col style="width: 18%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+</colgroup>
+
+<thead>
+<tr class="header">
+    <th colspan="6"><strong>Competitive Analysis Landscape</strong></th>
+</tr>
+
+<tr class="odd">
+    <th rowspan="2">
+        <p>¿Por qué llevar a cabo este análisis?</p>
+    </th>
+    <th colspan="5">
+        Analizar la competencia directa en soluciones de facturación e inventarios en Perú, identificando fortalezas, debilidades, oportunidades y amenazas para posicionar nuestra startup gastronómica.
+    </th>
+</tr>
+
+<tr class="header">
+    <th colspan="2">
+        <p>(En la cabecera colocar por</p>
+        <p>cada competidor nombre y</p>
+        <p>logo)</p>
+    </th>
+    <th>Su Startup</th>
+    <th>Nubefact</th>
+    <th>Siigo Perú</th>
+    <th>Factura Perú</th>
+</tr>
+
+<!-- PERFIL -->
+<tr class="header">
+    <th rowspan="2">Perfil</th>
+    <th>Overview</th>
+    <th>Aplicación web especializada en gestión de inventarios para el sector gastronómico.</th>
+    <th>Plataforma peruana centrada en facturación electrónica, con módulo básico de inventarios.</th>
+    <th>Sistema contable y administrativo con funciones de inventario, compras y ventas.</th>
+    <th>Solución peruana de facturación electrónica con módulo de inventarios para negocios pequeños.</th>
+</tr>
+
+<tr class="odd">
+    <th>
+        <p>Ventaja competitiva</p>
+        <p>¿Qué valor</p>
+        <p>ofrece a los</p>
+        <p>clientes?</p>
+    </th>
+    <th>Especialización gastronómica: recetas, control de insumos perecibles, alertas automáticas.</th>
+    <th>Cumplimiento con SUNAT y alta adopción en negocios peruanos.</th>
+    <th>Amplia trayectoria, soporte contable y administrativo.</th>
+    <th>Costos accesibles y facilidad de uso para microempresas.</th>
+</tr>
+
+<!-- PERFIL DE MARKETING -->
+<tr class="header">
+    <th rowspan="2">Perfil de Marketing</th>
+    <th>Mercado objetivo</th>
+    <th>Restaurantes, cevicherías, cafeterías y emprendimientos gastronómicos.</th>
+    <th>Empresas de todos los rubros que requieren facturación electrónica.</th>
+    <th>PYMEs que buscan un sistema administrativo y contable.</th>
+    <th>Negocios pequeños: bodegas, tiendas, etc.</th>
+</tr>
+
+<tr class="odd">
+    <th>
+        <p>Estrategias de</p>
+        <p>marketing</p>
+    </th>
+    <th>Marketing digital, alianzas con gremios gastronómicos, referidos.</th>
+    <th>Posicionamiento como líder en facturación electrónica en Perú.</th>
+    <th>Presencia corporativa y convenios contables.</th>
+    <th>Promoción de precios bajos y cumplimiento legal.</th>
+</tr>
+
+<!-- PERFIL DE PRODUCTO -->
+<tr class="header">
+    <th rowspan="3">Perfil de Producto</th>
+    <th>
+        <p>Productos &amp;</p>
+        <p>Servicios</p>
+    </th>
+    <th>Inventario en tiempo real, recetas, proveedores, reportes y alertas automáticas.</th>
+    <th>Facturación electrónica + inventarios básicos.</th>
+    <th>Contabilidad, inventarios, compras y ventas.</th>
+    <th>Facturación e inventarios simples.</th>
+</tr>
+
+<tr class="odd">
+    <th>Precios &amp; Costos</th>
+    <th>Planes escalables y accesibles para pymes gastronómicas.</th>
+    <th>Suscripciones orientadas a facturación.</th>
+    <th>Costos más altos, orientados a contabilidad integral.</th>
+    <th>Costos bajos para pequeños negocios.</th>
+</tr>
+
+<tr class="header">
+    <th>
+        <p>Canales de</p>
+        <p>distribución</p>
+        <p>(Web y/o Móvil)</p>
+    </th>
+    <th>100% web responsive. Disponible en móviles.</th>
+    <th>Web.</th>
+    <th>Web y aplicaciones conectadas.</th>
+    <th>Web (principalmente escritorio).</th>
+</tr>
+
+<!-- SWOT -->
+<tr class="odd">
+    <th rowspan="5">Análisis SWOT</th>
+    <th colspan="5"></th>
+</tr>
+
+<tr class="header">
+    <th>Fortalezas</th>
+    <th>Especialización en gastronomía, interfaz intuitiva, reportes claros.</th>
+    <th>Cumplimiento legal con SUNAT y gran base de clientes.</th>
+    <th>Trayectoria, soporte técnico local.</th>
+    <th>Precio accesible y fácil implementación.</th>
+</tr>
+
+<tr class="odd">
+    <th>Debilidades</th>
+    <th>Nueva en el mercado, menos reconocimiento.</th>
+    <th>Módulo de inventarios poco desarrollado.</th>
+    <th>Complejidad de uso y enfoque contable.</th>
+    <th>Funciones limitadas en gastronomía.</th>
+</tr>
+
+<tr class="header">
+    <th>Oportunidades</th>
+    <th>Crecimiento del sector gastronómico y digitalización de pymes.</th>
+    <th>Ampliar funciones hacia sectores especializados.</th>
+    <th>Integrar más módulos sectoriales.</th>
+    <th>Expandirse en microempresas.</th>
+</tr>
+
+<tr class="odd">
+    <th>Amenazas</th>
+    <th>Resistencia al cambio tecnológico y competencia consolidada.</th>
+    <th>Aparición de softwares especializados en gastronomía.</th>
+    <th>Competidores más simples y accesibles.</th>
+    <th>Migración a plataformas más completas.</th>
+</tr>
+
+</thead>
+<tbody>
+</tbody>
+</table>
 
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
