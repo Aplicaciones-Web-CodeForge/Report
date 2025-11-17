@@ -2483,6 +2483,11 @@ Los usuarios solicitaron tutoriales breves y accesibles desde la interfaz.
 
 ### 5.4. Video About-the-Product
 
+[Video About-the-Product (OneDrive)](https://1drv.ms/v/c/131b5cdffd607f3f/EbqGzFdPKfpGqhDEeP7Pr9kBBhsPyNmuRxbg_ncvzXJChA?e=gysMM4)
+
+[Video About-the-Product (YouTube)](https://youtu.be/BdOGV9lqrGM)
+
+
 ## Conclusiones y recomendaciones
 
 El Sprint 1 permitió establecer las bases del proyecto mediante el diseño, desarrollo y despliegue de la landing page. Durante este proceso, el equipo consolidó los pilares del producto, alineando los objetivos visuales y funcionales con la propuesta de valor. Asimismo, se logró implementar una estructura clara y adaptable, aplicando buenas prácticas de HTML, CSS y JavaScript para garantizar una experiencia de usuario eficiente.
