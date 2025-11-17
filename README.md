@@ -24,11 +24,11 @@
 
 **Integrantes**:
 
-- Rodrigo Fabrizio Aguilar Untiveros
-- Alessandro Ramiro Condori Lozano
-- Mathias Javier Murillo
-- Katherine Maryory Mejia Aliaga
-- Augusto Sebastian Montes Maza
+- Aguilar Untiveros, Rodrigo Fabrizio - u202318309
+- Condori Lozano, Alessandro Ramiro - u20211a118
+- Murillo, Mathias Javier - u202022211
+- Mejia Aliaga, Katherine Maryory - u20221a118
+- Montes Maza, Augusto Sebastian - u202218645
 
 <div align="center">
 
