@@ -2397,7 +2397,31 @@ Entrevista 1
 **Negocio:** Laguntis Verigen (repostería)  
 **Tiempo de operación:** 3 años  
 **Minuto de inicio:**  00:00
-**URL del video en Microsoft Stream:**  [Ver entrevista](https://1drv.ms/v/c/131b5cdffd607f3f/EebVci5kyhRLj3gP5PDd3SkBS1h7_zMlej_f6vxU-zZkAw?e=TACIwX)   
+**URL del video en Microsoft Stream:**  [Ver entrevista](https://1drv.ms/v/c/131b5cdffd607f3f/EebVci5kyhRLj3gP5PDd3SkBS1h7_zMlej_f6vxU-zZkAw?e=TACIwX)  
+
+# Segmento: Dueños de Emprendimientos Gastronómicos (food trucks, dark kitchens, pequeños negocios)
+
+Entrevista 2
+
+**Entrevistado:** Juan Viera  
+**Edad:** 24 años  
+**Distrito:** Miraflores  
+**Negocio:** Propietario de un restaurante  
+**Tiempo de operación:** 4 años  
+**Minuto de inicio:** 00:00
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218645_upc_edu_pe/IQB0kbaaDdYhTLwmwDIoQRMNARAlSDScit2i1az_Dy1iULQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pp9uip)
+
+# Segmento: Dueños de Restobares y Restaurantes
+
+Entrevista 3
+
+**Entrevistado:** Sergio Aguirre  
+**Edad:** 24 años  
+**Distrito:** Miraflores  
+**Negocio:** Dueño y Gerente de cadena de bares  
+**Tiempo de operación:** 2 años  
+**Minuto de inicio:** 0:00
+**URL del video en Microsoft Stream:** [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218645_upc_edu_pe/IQBEi8vIWPkoSq8HNxp466ACAVxJNhv-FLJx2-fo08H8Quw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FXSlvr)
 
 **Resumen**  
 Luciana Aguilar, de 17 años, creó *Laguntis Verigen*, un emprendimiento de repostería con 3 años de operación. Empezó como un hobby, con apoyo de su madre, quien maneja inventarios. Ella se encarga de la preparación y promoción en Instagram.  
