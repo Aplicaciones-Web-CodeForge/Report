@@ -314,7 +314,7 @@ El proceso colaborativo evolucionó nuevamente para enfrentar la mayor complejid
 
 # Student Outcome
 
-Objetivo general, ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un rango de audiencias.
+Objetivo general, ABET – EAC - Student Outcome 5: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
 # Outcomes TB1 & TP1 – Pilares del Producto y Landing Page  
 
